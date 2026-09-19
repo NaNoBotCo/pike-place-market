@@ -148,7 +148,8 @@ tbody tr:hover{background:rgba(255,255,255,.04)}
 td.n,th.n{text-align:right;font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap}
 
 /* ---- directory ---- */
-.yahoo{list-style:none;margin:0 0 2em;padding:0;columns:2;column-gap:clamp(20px,3vw,44px)}
+.yahoo{list-style:none;margin:0 0 2em;padding:0;columns:1;column-gap:clamp(20px,3vw,44px)}
+@media (min-width:560px){.yahoo{columns:2}}
 @media (min-width:900px){.yahoo{columns:3}}
 .yahoo li{break-inside:avoid;padding:5px 0;font-size:clamp(15px,1.5vw,17px)}
 .yahoo b{font-weight:600}

@@ -327,7 +327,8 @@ tbody tr:hover{background:rgba(255,255,255,.04)}
 td.n,th.n{text-align:right;font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap}
 
 /* ---- directory ---- */
-.yahoo{list-style:none;margin:0 0 2em;padding:0;columns:2;column-gap:clamp(20px,3vw,44px)}
+.yahoo{list-style:none;margin:0 0 2em;padding:0;columns:1;column-gap:clamp(20px,3vw,44px)}
+@media (min-width:560px){.yahoo{columns:2}}
 @media (min-width:900px){.yahoo{columns:3}}
 .yahoo li{break-inside:avoid;padding:5px 0;font-size:clamp(15px,1.5vw,17px)}
 .yahoo b{font-weight:600}
@@ -475,11 +476,19 @@ map.on('load',function(){
   /* MapLibre needs a glyph server to draw text in a symbol layer, and this map has no
      server of any kind. Building names are HTML markers instead; everything else opens
      in a popup on a tap. */
-  blds.features.filter(function(f){return f.properties.inside&&f.properties.name})
-   .forEach(function(f){
+  var marks=blds.features.filter(function(f){return f.properties.inside&&f.properties.name})
+   .map(function(f){
     var el=document.createElement('span');el.className='bmark';el.textContent=f.properties.name;
     new maplibregl.Marker({element:el}).setLngLat(centreOf(f.geometry)).addTo(map);
+    return {el:el,area:f.properties.area_m2||0};
    });
+  /* Twenty-two names in twelve acres collide at low zoom. The small footprints drop
+     out first and come back as the reader goes in. */
+  function thin(){
+   var z=map.getZoom(),floor=z>=17.4?0:(z>=16.6?600:1600);
+   marks.forEach(function(m){m.el.style.display=m.area>=floor?'':'none'});
+  }
+  map.on('zoom',thin);thin();
 
   /* the district fills the frame, whatever the window is */
   var bb=fence.features[0].properties.bbox;
