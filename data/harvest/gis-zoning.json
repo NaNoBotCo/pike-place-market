@@ -1,0 +1,5212 @@
+{
+ "source": "City of Seattle Open Data — Current_Land_Use_Zoning_Detail_2",
+ "licence": "City of Seattle Open Data — open / public domain",
+ "url": "https://services.arcgis.com/ZOyb2t4B0UYuYNYH/arcgis/rest/services/Current_Land_Use_Zoning_Detail_2/FeatureServer/0",
+ "query": "envelope (47.6055, -122.346, 47.613, -122.338)",
+ "note": "what the code allows on each block",
+ "fetched": "2026-09-19T16:06:33Z",
+ "count": 25,
+ "rows": [
+  {
+   "type": "Feature",
+   "id": 1593,
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.339687069447,
+       47.6084641651203
+      ],
+      [
+       -122.340801264543,
+       47.607998418418
+      ],
+      [
+       -122.341450841207,
+       47.6087127944638
+      ],
+      [
+       -122.342189535945,
+       47.6084041033088
+      ],
+      [
+       -122.342234944707,
+       47.6084495810636
+      ],
+      [
+       -122.342703948099,
+       47.6089618072765
+      ],
+      [
+       -122.342767976815,
+       47.6090317326575
+      ],
+      [
+       -122.342722639184,
+       47.6090603463579
+      ],
+      [
+       -122.342801926148,
+       47.6091471373847
+      ],
+      [
+       -122.342875491724,
+       47.6092276627891
+      ],
+      [
+       -122.343014640986,
+       47.6093700300988
+      ],
+      [
+       -122.343072819925,
+       47.6094117132028
+      ],
+      [
+       -122.343134365968,
+       47.6094590732477
+      ],
+      [
+       -122.34322462091,
+       47.6095220744638
+      ],
+      [
+       -122.343358359523,
+       47.6096042361687
+      ],
+      [
+       -122.343541500442,
+       47.6097126213652
+      ],
+      [
+       -122.343710742191,
+       47.6098317446897
+      ],
+      [
+       -122.343879980504,
+       47.6099508657123
+      ],
+      [
+       -122.343930734024,
+       47.609986589084
+      ],
+      [
+       -122.344077198061,
+       47.6100732174576
+      ],
+      [
+       -122.344199190036,
+       47.6101453719431
+      ],
+      [
+       -122.344260279073,
+       47.6101815033575
+      ],
+      [
+       -122.344446057122,
+       47.6102876613247
+      ],
+      [
+       -122.343931737719,
+       47.6106853342269
+      ],
+      [
+       -122.343468528235,
+       47.6104121173022
+      ],
+      [
+       -122.342612495365,
+       47.6110682246785
+      ],
+      [
+       -122.341897172011,
+       47.6106451670733
+      ],
+      [
+       -122.341429278293,
+       47.6103686031194
+      ],
+      [
+       -122.33985002604,
+       47.6086423211636
+      ],
+      [
+       -122.339687069447,
+       47.6084641651203
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 1593,
+    "ZONEID": 4178,
+    "ZONING": "PMM-85",
+    "CONTRACT": " ",
+    "ORDINANCE": " ",
+    "EFFECTIVE": null,
+    "HISTORIC": "PP",
+    "PEDESTRIAN": " ",
+    "SHORELINE": " ",
+    "OVERLAY": "DF",
+    "LIGHTRAIL": " ",
+    "MHA": "N",
+    "IZ": "N",
+    "MHA_VALUE": null,
+    "MIO_NAME": null,
+    "CLASS_DESC": "Downtown",
+    "CATEGORY_DESC": "Downtown",
+    "ZONELUT": "PMM",
+    "ZONELUT_DESC": "Pike Market Mixed",
+    "DETAIL_DESC": "Pike Market",
+    "ZONING_DESC": "Pike Market Mixed-85",
+    "BASE_ZONE": "PMM-85",
+    "ZONING_PREV": null,
+    "CONTRACT_PREV": null,
+    "ORDINANCE_PREV": null,
+    "EFFECTIVE_PREV": 767775600000,
+    "HISTORIC_PREV": null,
+    "PEDESTRIAN_PREV": null,
+    "SHORELINE_PREV": null,
+    "OVERLAY_PREV": null,
+    "LIGHTRAIL_PREV": null,
+    "PUBLIC_DESCRIPTION": "is in a zone Downtown where both commercial and residential development is generally allowed.",
+    "CHAPTER": "Chapter 23.49",
+    "CHAPTER_LINK": "https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT23LAUSCO_SUBTITLE_IIILAUSRE_CH23.49DOZO",
+    "ZONINGHISTORY": "PMM-85; PMM-85,05/01/1994",
+    "_pt": [
+     -122.341978,
+     47.609558
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 1757,
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.344343742107,
+       47.6115037244307
+      ],
+      [
+       -122.344771984861,
+       47.6111727699112
+      ],
+      [
+       -122.344822288435,
+       47.611133906857
+      ],
+      [
+       -122.34544909575,
+       47.6106487629538
+      ],
+      [
+       -122.345538473077,
+       47.6107201512135
+      ],
+      [
+       -122.346036468381,
+       47.6111172463203
+      ],
+      [
+       -122.346114329563,
+       47.6111793325844
+      ],
+      [
+       -122.346200364738,
+       47.6112484574476
+      ],
+      [
+       -122.346282622423,
+       47.6113156466383
+      ],
+      [
+       -122.34635301187,
+       47.6113722578504
+      ],
+      [
+       -122.346413299373,
+       47.6114169921626
+      ],
+      [
+       -122.346503650124,
+       47.6114737155074
+      ],
+      [
+       -122.346687679709,
+       47.6115854660224
+      ],
+      [
+       -122.346891896904,
+       47.6116812849612
+      ],
+      [
+       -122.347047386976,
+       47.6117226888346
+      ],
+      [
+       -122.347220016373,
+       47.6117638630712
+      ],
+      [
+       -122.348073575973,
+       47.6119447082786
+      ],
+      [
+       -122.348232009152,
+       47.61204552927
+      ],
+      [
+       -122.349532500951,
+       47.6128147651412
+      ],
+      [
+       -122.350465547731,
+       47.6133669628881
+      ],
+      [
+       -122.349606084337,
+       47.614031218436
+      ],
+      [
+       -122.349179247945,
+       47.6143610781349
+      ],
+      [
+       -122.348239405449,
+       47.6138148159962
+      ],
+      [
+       -122.346943622679,
+       47.6130420644652
+      ],
+      [
+       -122.345642179829,
+       47.612274529074
+      ],
+      [
+       -122.344343742107,
+       47.6115037244307
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 1757,
+    "ZONEID": 3680,
+    "ZONING": "DMR/C 95/75",
+    "CONTRACT": " ",
+    "ORDINANCE": "125291",
+    "EFFECTIVE": 1494745200000,
+    "HISTORIC": " ",
+    "PEDESTRIAN": " ",
+    "SHORELINE": " ",
+    "OVERLAY": "DF",
+    "LIGHTRAIL": " ",
+    "MHA": "Y",
+    "IZ": "Y",
+    "MHA_VALUE": null,
+    "MIO_NAME": null,
+    "CLASS_DESC": "Downtown",
+    "CATEGORY_DESC": "Downtown",
+    "ZONELUT": "DMR",
+    "ZONELUT_DESC": "Downtown Mixed Residential/Commercial",
+    "DETAIL_DESC": "Downtown Mixed",
+    "ZONING_DESC": "Downtown Mixed Residential/Commercial 95/75",
+    "BASE_ZONE": "DMR/C 95/75",
+    "ZONING_PREV": "DMR/C 85/65",
+    "CONTRACT_PREV": " ",
+    "ORDINANCE_PREV": null,
+    "EFFECTIVE_PREV": null,
+    "HISTORIC_PREV": " ",
+    "PEDESTRIAN_PREV": " ",
+    "SHORELINE_PREV": " ",
+    "OVERLAY_PREV": "DF",
+    "LIGHTRAIL_PREV": " ",
+    "PUBLIC_DESCRIPTION": "is in a zone Downtown where both commercial and residential development is generally allowed.",
+    "CHAPTER": "Chapter 23.49",
+    "CHAPTER_LINK": "https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT23LAUSCO_SUBTITLE_IIILAUSRE_CH23.49DOZO",
+    "ZONINGHISTORY": "DMR/C 95/75,ORD125291,05/14/2017; DMR/C 85/65",
+    "_pt": [
+     -122.347483,
+     47.612554
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 1760,
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.334665620525,
+       47.6096854796428
+      ],
+      [
+       -122.335573952189,
+       47.6106778802658
+      ],
+      [
+       -122.33668337595,
+       47.6102140372959
+      ],
+      [
+       -122.33725038777,
+       47.6099767592681
+      ],
+      [
+       -122.337793033722,
+       47.6097496715836
+      ],
+      [
+       -122.33824727604,
+       47.6102462179154
+      ],
+      [
+       -122.337139509713,
+       47.6107127851836
+      ],
+      [
+       -122.337591981588,
+       47.611207372417
+      ],
+      [
+       -122.338701509637,
+       47.6107429507828
+      ],
+      [
+       -122.339545257107,
+       47.6116652067268
+      ],
+      [
+       -122.339276421694,
+       47.6118731280961
+      ],
+      [
+       -122.338521116399,
+       47.6121906188147
+      ],
+      [
+       -122.337391807304,
+       47.6126643724781
+      ],
+      [
+       -122.337308173916,
+       47.612699486211
+      ],
+      [
+       -122.33628183774,
+       47.6131301257895
+      ],
+      [
+       -122.335373136671,
+       47.6121364590244
+      ],
+      [
+       -122.334463770901,
+       47.6111423976041
+      ],
+      [
+       -122.334103299478,
+       47.6107482006415
+      ],
+      [
+       -122.33360476277,
+       47.610203166859
+      ],
+      [
+       -122.33355620848,
+       47.6101498702346
+      ],
+      [
+       -122.333602661951,
+       47.6101303035778
+      ],
+      [
+       -122.334665620525,
+       47.6096854796428
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 1760,
+    "ZONEID": 3685,
+    "ZONING": "DRC 85-170",
+    "CONTRACT": " ",
+    "ORDINANCE": "125291",
+    "EFFECTIVE": 1494745200000,
+    "HISTORIC": " ",
+    "PEDESTRIAN": " ",
+    "SHORELINE": " ",
+    "OVERLAY": "DF",
+    "LIGHTRAIL": " ",
+    "MHA": "Y",
+    "IZ": "Y",
+    "MHA_VALUE": null,
+    "MIO_NAME": null,
+    "CLASS_DESC": "Downtown",
+    "CATEGORY_DESC": "Downtown",
+    "ZONELUT": "DRC",
+    "ZONELUT_DESC": "Downtown Retail Core",
+    "DETAIL_DESC": "Downtown Retail Core",
+    "ZONING_DESC": "Downtown Retail Core 85-170",
+    "BASE_ZONE": "DRC 85-170",
+    "ZONING_PREV": "DRC 85-150",
+    "CONTRACT_PREV": " ",
+    "ORDINANCE_PREV": null,
+    "EFFECTIVE_PREV": null,
+    "HISTORIC_PREV": " ",
+    "PEDESTRIAN_PREV": " ",
+    "SHORELINE_PREV": " ",
+    "OVERLAY_PREV": "DF",
+    "LIGHTRAIL_PREV": " ",
+    "PUBLIC_DESCRIPTION": "is in a zone Downtown where both commercial and residential development is generally allowed.",
+    "CHAPTER": "Chapter 23.49",
+    "CHAPTER_LINK": "https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT23LAUSCO_SUBTITLE_IIILAUSRE_CH23.49DOZO",
+    "ZONINGHISTORY": "DRC 85-170,ORD125291,05/14/2017; DRC 85-150",
+    "_pt": [
+     -122.336585,
+     47.611336
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 1763,
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.341354003639,
+       47.6173629272034
+      ],
+      [
+       -122.342640499112,
+       47.6163656086692
+      ],
+      [
+       -122.340042420192,
+       47.6148291024316
+      ],
+      [
+       -122.340473679182,
+       47.6144955753965
+      ],
+      [
+       -122.339173570196,
+       47.6137270689249
+      ],
+      [
+       -122.340032897739,
+       47.6130625945186
+      ],
+      [
+       -122.34089858776,
+       47.6123932852116
+      ],
+      [
+       -122.341319254434,
+       47.6120680966011
+      ],
+      [
+       -122.34002274498,
+       47.6112959853836
+      ],
+      [
+       -122.340438730978,
+       47.6109560043527
+      ],
+      [
+       -122.34016911435,
+       47.6106680576762
+      ],
+      [
+       -122.339812457135,
+       47.610278321677
+      ],
+      [
+       -122.338903695697,
+       47.6092851426857
+      ],
+      [
+       -122.337995359043,
+       47.6082921653543
+      ],
+      [
+       -122.338542238557,
+       47.6080635549533
+      ],
+      [
+       -122.3376454517,
+       47.6070655515132
+      ],
+      [
+       -122.336988811755,
+       47.6063539512601
+      ],
+      [
+       -122.336338392636,
+       47.6056395845001
+      ],
+      [
+       -122.335684375017,
+       47.6049269682174
+      ],
+      [
+       -122.336238433053,
+       47.6046950454572
+      ],
+      [
+       -122.336897132684,
+       47.6054028943483
+      ],
+      [
+       -122.337480068256,
+       47.6051673921245
+      ],
+      [
+       -122.338125957266,
+       47.6058778793517
+      ],
+      [
+       -122.337547088064,
+       47.6061205857647
+      ],
+      [
+       -122.338536387449,
+       47.6071863632729
+      ],
+      [
+       -122.339078574073,
+       47.6069594814373
+      ],
+      [
+       -122.339671841502,
+       47.6075913449246
+      ],
+      [
+       -122.339105334864,
+       47.6078281604538
+      ],
+      [
+       -122.339687069447,
+       47.6084641651203
+      ],
+      [
+       -122.339132000635,
+       47.6086965739741
+      ],
+      [
+       -122.339466381134,
+       47.6090497828816
+      ],
+      [
+       -122.340364817738,
+       47.610047296127
+      ],
+      [
+       -122.340929392299,
+       47.6106601913017
+      ],
+      [
+       -122.342182450998,
+       47.6114007404989
+      ],
+      [
+       -122.342612495365,
+       47.6110682246785
+      ],
+      [
+       -122.343912113965,
+       47.6118372878566
+      ],
+      [
+       -122.343052604015,
+       47.6125019016144
+      ],
+      [
+       -122.342620787921,
+       47.6128358140893
+      ],
+      [
+       -122.341763172129,
+       47.6134988215556
+      ],
+      [
+       -122.343059801652,
+       47.6142714465731
+      ],
+      [
+       -122.342634087942,
+       47.6146003986329
+      ],
+      [
+       -122.341774897509,
+       47.6152649836005
+      ],
+      [
+       -122.343074954016,
+       47.6160329390858
+      ],
+      [
+       -122.34437533009,
+       47.6168022328552
+      ],
+      [
+       -122.344987053536,
+       47.6171636630188
+      ],
+      [
+       -122.345311848261,
+       47.617355779603
+      ],
+      [
+       -122.344998889737,
+       47.6175980436427
+      ],
+      [
+       -122.344699830047,
+       47.61782956407
+      ],
+      [
+       -122.344451899605,
+       47.6180216911737
+      ],
+      [
+       -122.344125675201,
+       47.6178288161452
+      ],
+      [
+       -122.34351515131,
+       47.6174676391781
+      ],
+      [
+       -122.342654496888,
+       47.6181327543958
+      ],
+      [
+       -122.341354003639,
+       47.6173629272034
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 1763,
+    "ZONEID": 3689,
+    "ZONING": "DMC 240/290-440",
+    "CONTRACT": " ",
+    "ORDINANCE": "125291",
+    "EFFECTIVE": 1494745200000,
+    "HISTORIC": " ",
+    "PEDESTRIAN": " ",
+    "SHORELINE": " ",
+    "OVERLAY": "DF",
+    "LIGHTRAIL": " ",
+    "MHA": "Y",
+    "IZ": "Y",
+    "MHA_VALUE": null,
+    "MIO_NAME": null,
+    "CLASS_DESC": "Downtown",
+    "CATEGORY_DESC": "Downtown",
+    "ZONELUT": "DMC",
+    "ZONELUT_DESC": "Downtown Mixed Commercial",
+    "DETAIL_DESC": "Downtown Mixed",
+    "ZONING_DESC": "Downtown Mixed Commercial 240/290-440",
+    "BASE_ZONE": "DMC 240/290-440",
+    "ZONING_PREV": "DMC 240/290-400",
+    "CONTRACT_PREV": " ",
+    "ORDINANCE_PREV": 122054,
+    "EFFECTIVE_PREV": 1147417200000,
+    "HISTORIC_PREV": " ",
+    "PEDESTRIAN_PREV": " ",
+    "SHORELINE_PREV": " ",
+    "OVERLAY_PREV": "DF",
+    "LIGHTRAIL_PREV": " ",
+    "PUBLIC_DESCRIPTION": "is in a zone Downtown where both commercial and residential development is generally allowed.",
+    "CHAPTER": "Chapter 23.49",
+    "CHAPTER_LINK": "https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT23LAUSCO_SUBTITLE_IIILAUSRE_CH23.49DOZO",
+    "ZONINGHISTORY": "DMC 240/290-440,ORD125291,05/14/2017; DMC 240/290-400,ORD122054,05/12/2006",
+    "_pt": [
+     -122.340996,
+     47.612443
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 1769,
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.33573579933,
+       47.6163853919015
+      ],
+      [
+       -122.334436321679,
+       47.6156164793564
+      ],
+      [
+       -122.333153441993,
+       47.6148470627568
+      ],
+      [
+       -122.333210193597,
+       47.6147956891024
+      ],
+      [
+       -122.332050796038,
+       47.6135340742133
+      ],
+      [
+       -122.333160270274,
+       47.6130638269652
+      ],
+      [
+       -122.332244085435,
+       47.6120705729977
+      ],
+      [
+       -122.333353808401,
+       47.6116063499274
+      ],
+      [
+       -122.332563667016,
+       47.6107420856231
+      ],
+      [
+       -122.332446722497,
+       47.6106141543764
+      ],
+      [
+       -122.33355620848,
+       47.6101498702346
+      ],
+      [
+       -122.33360476277,
+       47.610203166859
+      ],
+      [
+       -122.334103299478,
+       47.6107482006415
+      ],
+      [
+       -122.334463770901,
+       47.6111423976041
+      ],
+      [
+       -122.335373136671,
+       47.6121364590244
+      ],
+      [
+       -122.33628183774,
+       47.6131301257895
+      ],
+      [
+       -122.337308173916,
+       47.612699486211
+      ],
+      [
+       -122.337391807304,
+       47.6126643724781
+      ],
+      [
+       -122.338521116399,
+       47.6121906188147
+      ],
+      [
+       -122.339276421694,
+       47.6118731280961
+      ],
+      [
+       -122.339545257107,
+       47.6116652067268
+      ],
+      [
+       -122.339592758748,
+       47.6116284826809
+      ],
+      [
+       -122.34089858776,
+       47.6123932852116
+      ],
+      [
+       -122.340032897739,
+       47.6130625945186
+      ],
+      [
+       -122.339173570196,
+       47.6137270689249
+      ],
+      [
+       -122.340473679182,
+       47.6144955753965
+      ],
+      [
+       -122.340042420192,
+       47.6148291024316
+      ],
+      [
+       -122.339614349083,
+       47.6151601574956
+      ],
+      [
+       -122.338753234383,
+       47.6158254548594
+      ],
+      [
+       -122.338324948602,
+       47.6161570797827
+      ],
+      [
+       -122.338058729534,
+       47.6163632119031
+      ],
+      [
+       -122.338083033315,
+       47.6164816487692
+      ],
+      [
+       -122.33789486593,
+       47.6164901180518
+      ],
+      [
+       -122.336595222112,
+       47.615721201013
+      ],
+      [
+       -122.33573579933,
+       47.6163853919015
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 1769,
+    "ZONEID": 3698,
+    "ZONING": "DOC2 500/300-550",
+    "CONTRACT": " ",
+    "ORDINANCE": "125291",
+    "EFFECTIVE": 1494745200000,
+    "HISTORIC": " ",
+    "PEDESTRIAN": " ",
+    "SHORELINE": " ",
+    "OVERLAY": "DF",
+    "LIGHTRAIL": " ",
+    "MHA": "Y",
+    "IZ": "Y",
+    "MHA_VALUE": null,
+    "MIO_NAME": null,
+    "CLASS_DESC": "Downtown",
+    "CATEGORY_DESC": "Downtown",
+    "ZONELUT": "DOC2",
+    "ZONELUT_DESC": "Downtown Office Core 2",
+    "DETAIL_DESC": "Downtown Office Core",
+    "ZONING_DESC": "Downtown Office Core 2 500/300-550",
+    "BASE_ZONE": "DOC2 500/300-550",
+    "ZONING_PREV": "DOC2 500/300-500",
+    "CONTRACT_PREV": " ",
+    "ORDINANCE_PREV": 122054,
+    "EFFECTIVE_PREV": 1147417200000,
+    "HISTORIC_PREV": " ",
+    "PEDESTRIAN_PREV": " ",
+    "SHORELINE_PREV": " ",
+    "OVERLAY_PREV": "DF",
+    "LIGHTRAIL_PREV": " ",
+    "PUBLIC_DESCRIPTION": "is in a zone Downtown where both commercial and residential development is generally allowed.",
+    "CHAPTER": "Chapter 23.49",
+    "CHAPTER_LINK": "https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT23LAUSCO_SUBTITLE_IIILAUSRE_CH23.49DOZO",
+    "ZONINGHISTORY": "DOC2 500/300-550,ORD125291,05/14/2017; DOC2 500/300-500,ORD122054,05/12/2006",
+    "_pt": [
+     -122.336186,
+     47.613708
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 1770,
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.339592758748,
+       47.6116284826809
+      ],
+      [
+       -122.34002274498,
+       47.6112959853836
+      ],
+      [
+       -122.341319254434,
+       47.6120680966011
+      ],
+      [
+       -122.34089858776,
+       47.6123932852116
+      ],
+      [
+       -122.339592758748,
+       47.6116284826809
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 1770,
+    "ZONEID": 3699,
+    "ZONING": "DMC 240/290-440",
+    "CONTRACT": " ",
+    "ORDINANCE": "125291",
+    "EFFECTIVE": 1494745200000,
+    "HISTORIC": " ",
+    "PEDESTRIAN": " ",
+    "SHORELINE": " ",
+    "OVERLAY": "DF",
+    "LIGHTRAIL": " ",
+    "MHA": "Y",
+    "IZ": "Y",
+    "MHA_VALUE": null,
+    "MIO_NAME": null,
+    "CLASS_DESC": "Downtown",
+    "CATEGORY_DESC": "Downtown",
+    "ZONELUT": "DMC",
+    "ZONELUT_DESC": "Downtown Mixed Commercial",
+    "DETAIL_DESC": "Downtown Mixed",
+    "ZONING_DESC": "Downtown Mixed Commercial 240/290-440",
+    "BASE_ZONE": "DMC 240/290-440",
+    "ZONING_PREV": "DMC 240/290-400",
+    "CONTRACT_PREV": " ",
+    "ORDINANCE_PREV": 122054,
+    "EFFECTIVE_PREV": 1147417200000,
+    "HISTORIC_PREV": " ",
+    "PEDESTRIAN_PREV": " ",
+    "SHORELINE_PREV": " ",
+    "OVERLAY_PREV": "DF",
+    "LIGHTRAIL_PREV": " ",
+    "PUBLIC_DESCRIPTION": "is in a zone Downtown where both commercial and residential development is generally allowed.",
+    "CHAPTER": "Chapter 23.49",
+    "CHAPTER_LINK": "https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT23LAUSCO_SUBTITLE_IIILAUSRE_CH23.49DOZO",
+    "ZONINGHISTORY": "DMC 240/290-440,ORD125291,05/14/2017; DMC 240/290-400,ORD122054,05/12/2006",
+    "_pt": [
+     -122.340447,
+     47.611842
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 1772,
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.339256610291,
+       47.6105098911131
+      ],
+      [
+       -122.339812457135,
+       47.610278321677
+      ],
+      [
+       -122.34016911435,
+       47.6106680576762
+      ],
+      [
+       -122.340438730978,
+       47.6109560043527
+      ],
+      [
+       -122.34002274498,
+       47.6112959853836
+      ],
+      [
+       -122.339918576942,
+       47.6112345655535
+      ],
+      [
+       -122.339256610291,
+       47.6105098911131
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 1772,
+    "ZONEID": 3701,
+    "ZONING": "DMC 240/290-440",
+    "CONTRACT": " ",
+    "ORDINANCE": "125291",
+    "EFFECTIVE": 1494745200000,
+    "HISTORIC": " ",
+    "PEDESTRIAN": " ",
+    "SHORELINE": " ",
+    "OVERLAY": "DF",
+    "LIGHTRAIL": " ",
+    "MHA": "Y",
+    "IZ": "Y",
+    "MHA_VALUE": null,
+    "MIO_NAME": null,
+    "CLASS_DESC": "Downtown",
+    "CATEGORY_DESC": "Downtown",
+    "ZONELUT": "DMC",
+    "ZONELUT_DESC": "Downtown Mixed Commercial",
+    "DETAIL_DESC": "Downtown Mixed",
+    "ZONING_DESC": "Downtown Mixed Commercial 240/290-440",
+    "BASE_ZONE": "DMC 240/290-440",
+    "ZONING_PREV": "DMC 240/290-400",
+    "CONTRACT_PREV": " ",
+    "ORDINANCE_PREV": 122054,
+    "EFFECTIVE_PREV": 1147417200000,
+    "HISTORIC_PREV": " ",
+    "PEDESTRIAN_PREV": " ",
+    "SHORELINE_PREV": " ",
+    "OVERLAY_PREV": "DF",
+    "LIGHTRAIL_PREV": " ",
+    "PUBLIC_DESCRIPTION": "is in a zone Downtown where both commercial and residential development is generally allowed.",
+    "CHAPTER": "Chapter 23.49",
+    "CHAPTER_LINK": "https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT23LAUSCO_SUBTITLE_IIILAUSRE_CH23.49DOZO",
+    "ZONINGHISTORY": "DMC 240/290-440,ORD125291,05/14/2017; DMC 240/290-400,ORD122054,05/12/2006",
+    "_pt": [
+     -122.339913,
+     47.610787
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 1773,
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.330809013303,
+       47.6079601302796
+      ],
+      [
+       -122.33075992906,
+       47.6078846008863
+      ],
+      [
+       -122.330703388991,
+       47.6078015639182
+      ],
+      [
+       -122.330644713845,
+       47.6077192078382
+      ],
+      [
+       -122.330583920937,
+       47.6076375569838
+      ],
+      [
+       -122.330521030716,
+       47.6075566363529
+      ],
+      [
+       -122.330422783386,
+       47.6074374119794
+      ],
+      [
+       -122.330372656128,
+       47.6073778705277
+      ],
+      [
+       -122.330228608374,
+       47.6072093726421
+      ],
+      [
+       -122.328987168261,
+       47.6057602036473
+      ],
+      [
+       -122.328795265716,
+       47.6055361824229
+      ],
+      [
+       -122.327117604945,
+       47.603577630533
+      ],
+      [
+       -122.328030857042,
+       47.6031954496785
+      ],
+      [
+       -122.328535133165,
+       47.6029846321594
+      ],
+      [
+       -122.328802740618,
+       47.6032774658388
+      ],
+      [
+       -122.329187043258,
+       47.6036975157158
+      ],
+      [
+       -122.330235370393,
+       47.6032586313058
+      ],
+      [
+       -122.330308752254,
+       47.6032450909852
+      ],
+      [
+       -122.330952062737,
+       47.6039484401039
+      ],
+      [
+       -122.332062246335,
+       47.6034838893321
+      ],
+      [
+       -122.332714379368,
+       47.604197121086
+      ],
+      [
+       -122.333423107126,
+       47.6039007396917
+      ],
+      [
+       -122.333824565208,
+       47.6037328484782
+      ],
+      [
+       -122.334477235099,
+       47.6044464649228
+      ],
+      [
+       -122.335129274144,
+       47.6051593210458
+      ],
+      [
+       -122.335684375017,
+       47.6049269682174
+      ],
+      [
+       -122.336338392636,
+       47.6056395845001
+      ],
+      [
+       -122.336988811755,
+       47.6063539512601
+      ],
+      [
+       -122.3376454517,
+       47.6070655515132
+      ],
+      [
+       -122.338542238557,
+       47.6080635549533
+      ],
+      [
+       -122.337995359043,
+       47.6082921653543
+      ],
+      [
+       -122.337440087791,
+       47.6085241522981
+      ],
+      [
+       -122.336884603386,
+       47.6087562235172
+      ],
+      [
+       -122.335775246139,
+       47.6092211077904
+      ],
+      [
+       -122.333602661951,
+       47.6101303035778
+      ],
+      [
+       -122.33355620848,
+       47.6101498702346
+      ],
+      [
+       -122.332446722497,
+       47.6106141543764
+      ],
+      [
+       -122.331336481109,
+       47.6110782962878
+      ],
+      [
+       -122.331269180912,
+       47.6111064454614
+      ],
+      [
+       -122.331373032601,
+       47.6107280747676
+      ],
+      [
+       -122.331387466377,
+       47.610651738141
+      ],
+      [
+       -122.331402269668,
+       47.6105608718077
+      ],
+      [
+       -122.331414725391,
+       47.6104698433413
+      ],
+      [
+       -122.331424828179,
+       47.6103786822955
+      ],
+      [
+       -122.33143257572,
+       47.6102874160777
+      ],
+      [
+       -122.331437964644,
+       47.6101960714073
+      ],
+      [
+       -122.331440995832,
+       47.610104678457
+      ],
+      [
+       -122.331441666909,
+       47.610013262529
+      ],
+      [
+       -122.331439976663,
+       47.6099218531214
+      ],
+      [
+       -122.331435926931,
+       47.6098304775864
+      ],
+      [
+       -122.331429519551,
+       47.6097391632759
+      ],
+      [
+       -122.331420755363,
+       47.6096479389587
+      ],
+      [
+       -122.331409637243,
+       47.6095568319728
+      ],
+      [
+       -122.331396168067,
+       47.609465869656
+      ],
+      [
+       -122.331380352825,
+       47.6093750807221
+      ],
+      [
+       -122.331362196447,
+       47.6092844917796
+      ],
+      [
+       -122.331341703925,
+       47.6091941315421
+      ],
+      [
+       -122.331318881246,
+       47.6091040273057
+      ],
+      [
+       -122.331293736453,
+       47.6090142056375
+      ],
+      [
+       -122.331266275553,
+       47.6089246945354
+      ],
+      [
+       -122.331252723463,
+       47.6088840964157
+      ],
+      [
+       -122.33121318646,
+       47.608770926266
+      ],
+      [
+       -122.331187605516,
+       47.6087033713977
+      ],
+      [
+       -122.331170093459,
+       47.6086582977932
+      ],
+      [
+       -122.331133464299,
+       47.6085703007329
+      ],
+      [
+       -122.331094567644,
+       47.6084827504707
+      ],
+      [
+       -122.33105341772,
+       47.6083956720877
+      ],
+      [
+       -122.3310100257,
+       47.6083090928107
+      ],
+      [
+       -122.330964405831,
+       47.608223038422
+      ],
+      [
+       -122.330916571401,
+       47.6081375375244
+      ],
+      [
+       -122.330852915231,
+       47.6080306176322
+      ],
+      [
+       -122.330809013303,
+       47.6079601302796
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 1773,
+    "ZONEID": 3702,
+    "ZONING": "DOC1 U/450-U",
+    "CONTRACT": " ",
+    "ORDINANCE": "125291",
+    "EFFECTIVE": 1494745200000,
+    "HISTORIC": " ",
+    "PEDESTRIAN": " ",
+    "SHORELINE": " ",
+    "OVERLAY": "DF",
+    "LIGHTRAIL": " ",
+    "MHA": "Y",
+    "IZ": "Y",
+    "MHA_VALUE": null,
+    "MIO_NAME": null,
+    "CLASS_DESC": "Downtown",
+    "CATEGORY_DESC": "Downtown",
+    "ZONELUT": "DOC1",
+    "ZONELUT_DESC": "Downtown Office Core 1",
+    "DETAIL_DESC": "Downtown Office Core",
+    "ZONING_DESC": "Downtown Office Core 1 U/450-U",
+    "BASE_ZONE": "DOC1 U/450-U",
+    "ZONING_PREV": "DOC1 U/450/U",
+    "CONTRACT_PREV": " ",
+    "ORDINANCE_PREV": 122054,
+    "EFFECTIVE_PREV": 1147417200000,
+    "HISTORIC_PREV": " ",
+    "PEDESTRIAN_PREV": " ",
+    "SHORELINE_PREV": " ",
+    "OVERLAY_PREV": "DF",
+    "LIGHTRAIL_PREV": " ",
+    "PUBLIC_DESCRIPTION": "is in a zone Downtown where both commercial and residential development is generally allowed.",
+    "CHAPTER": "Chapter 23.49",
+    "CHAPTER_LINK": "https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT23LAUSCO_SUBTITLE_IIILAUSRE_CH23.49DOZO",
+    "ZONINGHISTORY": "DOC1 U/450-U,ORD125291,05/14/2017; DOC1 U/450/U,ORD122054,05/12/2006",
+    "_pt": [
+     -122.332902,
+     47.606684
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 1774,
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.337440087791,
+       47.6085241522981
+      ],
+      [
+       -122.337995359043,
+       47.6082921653543
+      ],
+      [
+       -122.338903695697,
+       47.6092851426857
+      ],
+      [
+       -122.339812457135,
+       47.610278321677
+      ],
+      [
+       -122.339256610291,
+       47.6105098911131
+      ],
+      [
+       -122.337440087791,
+       47.6085241522981
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 1774,
+    "ZONEID": 3703,
+    "ZONING": "DMC 240/290-440",
+    "CONTRACT": " ",
+    "ORDINANCE": "125291",
+    "EFFECTIVE": 1494745200000,
+    "HISTORIC": " ",
+    "PEDESTRIAN": " ",
+    "SHORELINE": " ",
+    "OVERLAY": "DF",
+    "LIGHTRAIL": " ",
+    "MHA": "Y",
+    "IZ": "Y",
+    "MHA_VALUE": null,
+    "MIO_NAME": null,
+    "CLASS_DESC": "Downtown",
+    "CATEGORY_DESC": "Downtown",
+    "ZONELUT": "DMC",
+    "ZONELUT_DESC": "Downtown Mixed Commercial",
+    "DETAIL_DESC": "Downtown Mixed",
+    "ZONING_DESC": "Downtown Mixed Commercial 240/290-440",
+    "BASE_ZONE": "DMC 240/290-440",
+    "ZONING_PREV": "DMC 240/290-400",
+    "CONTRACT_PREV": " ",
+    "ORDINANCE_PREV": 122054,
+    "EFFECTIVE_PREV": 1147417200000,
+    "HISTORIC_PREV": " ",
+    "PEDESTRIAN_PREV": " ",
+    "SHORELINE_PREV": " ",
+    "OVERLAY_PREV": "DF",
+    "LIGHTRAIL_PREV": " ",
+    "PUBLIC_DESCRIPTION": "is in a zone Downtown where both commercial and residential development is generally allowed.",
+    "CHAPTER": "Chapter 23.49",
+    "CHAPTER_LINK": "https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT23LAUSCO_SUBTITLE_IIILAUSRE_CH23.49DOZO",
+    "ZONINGHISTORY": "DMC 240/290-440,ORD125291,05/14/2017; DMC 240/290-400,ORD122054,05/12/2006",
+    "_pt": [
+     -122.338621,
+     47.609399
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 1775,
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.338125957266,
+       47.6058778793517
+      ],
+      [
+       -122.338765194249,
+       47.6065969476222
+      ],
+      [
+       -122.339078574073,
+       47.6069594814373
+      ],
+      [
+       -122.338536387449,
+       47.6071863632729
+      ],
+      [
+       -122.337547088064,
+       47.6061205857647
+      ],
+      [
+       -122.338125957266,
+       47.6058778793517
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 1775,
+    "ZONEID": 3704,
+    "ZONING": "DMC 240/290-440",
+    "CONTRACT": "CF291518",
+    "ORDINANCE": "125291",
+    "EFFECTIVE": 1494745200000,
+    "HISTORIC": " ",
+    "PEDESTRIAN": " ",
+    "SHORELINE": " ",
+    "OVERLAY": "DF",
+    "LIGHTRAIL": " ",
+    "MHA": "Y",
+    "IZ": "Y",
+    "MHA_VALUE": null,
+    "MIO_NAME": null,
+    "CLASS_DESC": "Downtown",
+    "CATEGORY_DESC": "Downtown",
+    "ZONELUT": "DMC",
+    "ZONELUT_DESC": "Downtown Mixed Commercial",
+    "DETAIL_DESC": "Downtown Mixed",
+    "ZONING_DESC": "Downtown Mixed Commercial 240/290-440",
+    "BASE_ZONE": "DMC 240/290-440",
+    "ZONING_PREV": "DMC 240/290-400",
+    "CONTRACT_PREV": "CF291518",
+    "ORDINANCE_PREV": 122054,
+    "EFFECTIVE_PREV": 1147417200000,
+    "HISTORIC_PREV": " ",
+    "PEDESTRIAN_PREV": " ",
+    "SHORELINE_PREV": " ",
+    "OVERLAY_PREV": "DF",
+    "LIGHTRAIL_PREV": " ",
+    "PUBLIC_DESCRIPTION": "is in a zone Downtown where both commercial and residential development is generally allowed.",
+    "CHAPTER": "Chapter 23.49",
+    "CHAPTER_LINK": "https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT23LAUSCO_SUBTITLE_IIILAUSRE_CH23.49DOZO",
+    "ZONINGHISTORY": "DMC 240/290-440,ORD125291,CF291518,05/14/2017; DMC 240/290-400,ORD122054,CF291518,05/12/2006",
+    "_pt": [
+     -122.338354,
+     47.606544
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 2051,
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.341763172129,
+       47.6134988215556
+      ],
+      [
+       -122.342620787921,
+       47.6128358140893
+      ],
+      [
+       -122.344908639917,
+       47.6141896212657
+      ],
+      [
+       -122.345219013067,
+       47.6143756693915
+      ],
+      [
+       -122.346523107081,
+       47.6151415379838
+      ],
+      [
+       -122.347456739796,
+       47.6156943304179
+      ],
+      [
+       -122.347028517238,
+       47.6160259676462
+      ],
+      [
+       -122.346599316655,
+       47.6163585020631
+      ],
+      [
+       -122.345666893195,
+       47.6158035427201
+      ],
+      [
+       -122.344944440434,
+       47.6153762569666
+      ],
+      [
+       -122.343059801652,
+       47.6142714465731
+      ],
+      [
+       -122.341763172129,
+       47.6134988215556
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 2051,
+    "ZONEID": 3739,
+    "ZONING": "DMR/R 145/65",
+    "CONTRACT": " ",
+    "ORDINANCE": "125291",
+    "EFFECTIVE": 1494745200000,
+    "HISTORIC": " ",
+    "PEDESTRIAN": " ",
+    "SHORELINE": " ",
+    "OVERLAY": "DF",
+    "LIGHTRAIL": " ",
+    "MHA": "Y",
+    "IZ": "Y",
+    "MHA_VALUE": null,
+    "MIO_NAME": null,
+    "CLASS_DESC": "Downtown",
+    "CATEGORY_DESC": "Downtown",
+    "ZONELUT": "DMR",
+    "ZONELUT_DESC": "Downtown Mixed Residential/Residential",
+    "DETAIL_DESC": "Downtown Mixed",
+    "ZONING_DESC": "Downtown Mixed Residential/Residential 145/65",
+    "BASE_ZONE": "DMR/R 145/65",
+    "ZONING_PREV": "DMR/R 125/65",
+    "CONTRACT_PREV": " ",
+    "ORDINANCE_PREV": null,
+    "EFFECTIVE_PREV": null,
+    "HISTORIC_PREV": " ",
+    "PEDESTRIAN_PREV": " ",
+    "SHORELINE_PREV": " ",
+    "OVERLAY_PREV": "DF",
+    "LIGHTRAIL_PREV": " ",
+    "PUBLIC_DESCRIPTION": "is in a zone Downtown where both commercial and residential development is generally allowed.",
+    "CHAPTER": "Chapter 23.49",
+    "CHAPTER_LINK": "https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT23LAUSCO_SUBTITLE_IIILAUSRE_CH23.49DOZO",
+    "ZONINGHISTORY": "DMR/R 145/65,ORD125291,05/14/2017; DMR/R 125/65",
+    "_pt": [
+     -122.344605,
+     47.614595
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 2087,
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.342620787921,
+       47.6128358140893
+      ],
+      [
+       -122.343052604015,
+       47.6125019016144
+      ],
+      [
+       -122.343912113965,
+       47.6118372878566
+      ],
+      [
+       -122.344343742107,
+       47.6115037244307
+      ],
+      [
+       -122.345642179829,
+       47.612274529074
+      ],
+      [
+       -122.346943622679,
+       47.6130420644652
+      ],
+      [
+       -122.348239405449,
+       47.6138148159962
+      ],
+      [
+       -122.349179247945,
+       47.6143610781349
+      ],
+      [
+       -122.348325822324,
+       47.6150212819902
+      ],
+      [
+       -122.347887135633,
+       47.6153610045559
+      ],
+      [
+       -122.347456739796,
+       47.6156943304179
+      ],
+      [
+       -122.346523107081,
+       47.6151415379838
+      ],
+      [
+       -122.345219013067,
+       47.6143756693915
+      ],
+      [
+       -122.344908639917,
+       47.6141896212657
+      ],
+      [
+       -122.342620787921,
+       47.6128358140893
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 2087,
+    "ZONEID": 3684,
+    "ZONING": "DMR/R 95/65",
+    "CONTRACT": " ",
+    "ORDINANCE": "125291",
+    "EFFECTIVE": 1494745200000,
+    "HISTORIC": " ",
+    "PEDESTRIAN": " ",
+    "SHORELINE": " ",
+    "OVERLAY": "DF",
+    "LIGHTRAIL": " ",
+    "MHA": "Y",
+    "IZ": "Y",
+    "MHA_VALUE": null,
+    "MIO_NAME": null,
+    "CLASS_DESC": "Downtown",
+    "CATEGORY_DESC": "Downtown",
+    "ZONELUT": "DMR",
+    "ZONELUT_DESC": "Downtown Mixed Residential/Residential",
+    "DETAIL_DESC": "Downtown Mixed",
+    "ZONING_DESC": "Downtown Mixed Residential/Residential 95/65",
+    "BASE_ZONE": "DMR/R 95/65",
+    "ZONING_PREV": "DMR/R 85/65",
+    "CONTRACT_PREV": " ",
+    "ORDINANCE_PREV": null,
+    "EFFECTIVE_PREV": null,
+    "HISTORIC_PREV": " ",
+    "PEDESTRIAN_PREV": " ",
+    "SHORELINE_PREV": " ",
+    "OVERLAY_PREV": "DF",
+    "LIGHTRAIL_PREV": " ",
+    "PUBLIC_DESCRIPTION": "is in a zone Downtown where both commercial and residential development is generally allowed.",
+    "CHAPTER": "Chapter 23.49",
+    "CHAPTER_LINK": "https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT23LAUSCO_SUBTITLE_IIILAUSRE_CH23.49DOZO",
+    "ZONINGHISTORY": "DMR/R 95/65,ORD125291,05/14/2017; DMR/R 85/65",
+    "_pt": [
+     -122.345897,
+     47.613599
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 2121,
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.339687069447,
+       47.6084641651203
+      ],
+      [
+       -122.33985002604,
+       47.6086423211636
+      ],
+      [
+       -122.341429278293,
+       47.6103686031194
+      ],
+      [
+       -122.341897172011,
+       47.6106451670733
+      ],
+      [
+       -122.342612495365,
+       47.6110682246785
+      ],
+      [
+       -122.342182450998,
+       47.6114007404989
+      ],
+      [
+       -122.340929392299,
+       47.6106601913017
+      ],
+      [
+       -122.340364817738,
+       47.610047296127
+      ],
+      [
+       -122.339466381134,
+       47.6090497828816
+      ],
+      [
+       -122.339132000635,
+       47.6086965739741
+      ],
+      [
+       -122.339687069447,
+       47.6084641651203
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 2121,
+    "ZONEID": 3671,
+    "ZONING": "DMC-145",
+    "CONTRACT": " ",
+    "ORDINANCE": "125291",
+    "EFFECTIVE": 1494745200000,
+    "HISTORIC": " ",
+    "PEDESTRIAN": " ",
+    "SHORELINE": " ",
+    "OVERLAY": "DF",
+    "LIGHTRAIL": " ",
+    "MHA": "Y",
+    "IZ": "Y",
+    "MHA_VALUE": null,
+    "MIO_NAME": null,
+    "CLASS_DESC": "Downtown",
+    "CATEGORY_DESC": "Downtown",
+    "ZONELUT": "DMC",
+    "ZONELUT_DESC": "Downtown Mixed Commercial",
+    "DETAIL_DESC": "Downtown Mixed",
+    "ZONING_DESC": "Downtown Mixed Commercial-145",
+    "BASE_ZONE": "DMC-145",
+    "ZONING_PREV": "DMC-125",
+    "CONTRACT_PREV": " ",
+    "ORDINANCE_PREV": null,
+    "EFFECTIVE_PREV": null,
+    "HISTORIC_PREV": " ",
+    "PEDESTRIAN_PREV": " ",
+    "SHORELINE_PREV": " ",
+    "OVERLAY_PREV": "DF",
+    "LIGHTRAIL_PREV": " ",
+    "PUBLIC_DESCRIPTION": "is in a zone Downtown where both commercial and residential development is generally allowed.",
+    "CHAPTER": "Chapter 23.49",
+    "CHAPTER_LINK": "https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT23LAUSCO_SUBTITLE_IIILAUSRE_CH23.49DOZO",
+    "ZONINGHISTORY": "DMC-145,ORD125291,05/14/2017; DMC-125",
+    "_pt": [
+     -122.340773,
+     47.609979
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 2124,
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.339078574073,
+       47.6069594814373
+      ],
+      [
+       -122.339638430162,
+       47.6067252009774
+      ],
+      [
+       -122.338659093268,
+       47.6056567634793
+      ],
+      [
+       -122.338125957266,
+       47.6058778793517
+      ],
+      [
+       -122.337480068256,
+       47.6051673921245
+      ],
+      [
+       -122.33682794584,
+       47.6044482192116
+      ],
+      [
+       -122.336176020469,
+       47.6037354574618
+      ],
+      [
+       -122.33567430699,
+       47.6031869598378
+      ],
+      [
+       -122.335530251092,
+       47.6030192422382
+      ],
+      [
+       -122.336044007391,
+       47.6028043671843
+      ],
+      [
+       -122.336572991531,
+       47.6025830629082
+      ],
+      [
+       -122.33660746434,
+       47.6025686406096
+      ],
+      [
+       -122.336729438575,
+       47.6027022690017
+      ],
+      [
+       -122.3368113544,
+       47.6027939092087
+      ],
+      [
+       -122.33706838534,
+       47.6030741766745
+      ],
+      [
+       -122.337200066339,
+       47.603218367078
+      ],
+      [
+       -122.337457551375,
+       47.60349890218
+      ],
+      [
+       -122.33751859628,
+       47.6035537279047
+      ],
+      [
+       -122.33756865663,
+       47.603590041554
+      ],
+      [
+       -122.337585300115,
+       47.6036006954954
+      ],
+      [
+       -122.337630017709,
+       47.6036280420806
+      ],
+      [
+       -122.337660220101,
+       47.6036867277449
+      ],
+      [
+       -122.337666361603,
+       47.6036999127986
+      ],
+      [
+       -122.337684898515,
+       47.6037323689989
+      ],
+      [
+       -122.337706441242,
+       47.6037639641639
+      ],
+      [
+       -122.337730903075,
+       47.6037945709805
+      ],
+      [
+       -122.337756514873,
+       47.6038223751206
+      ],
+      [
+       -122.337764327403,
+       47.6038303169279
+      ],
+      [
+       -122.33787950049,
+       47.6039547015943
+      ],
+      [
+       -122.337885047871,
+       47.6039666120211
+      ],
+      [
+       -122.337922038899,
+       47.6040281771203
+      ],
+      [
+       -122.337960788049,
+       47.6040772073012
+      ],
+      [
+       -122.337962700076,
+       47.6040793679048
+      ],
+      [
+       -122.338065148145,
+       47.6041921158929
+      ],
+      [
+       -122.338086377234,
+       47.6042154699685
+      ],
+      [
+       -122.338174095172,
+       47.6043120107865
+      ],
+      [
+       -122.338267703218,
+       47.6044140289077
+      ],
+      [
+       -122.338289077115,
+       47.604437323472
+      ],
+      [
+       -122.338401411161,
+       47.6045606375104
+      ],
+      [
+       -122.33851184939,
+       47.6046824062503
+      ],
+      [
+       -122.338514502225,
+       47.6046853095413
+      ],
+      [
+       -122.338639275239,
+       47.6048209816871
+      ],
+      [
+       -122.338747083705,
+       47.6049392794389
+      ],
+      [
+       -122.338858798252,
+       47.6050613033339
+      ],
+      [
+       -122.339015951369,
+       47.6052319497591
+      ],
+      [
+       -122.339091011579,
+       47.6053137324379
+      ],
+      [
+       -122.339267973106,
+       47.6055073293585
+      ],
+      [
+       -122.339425047057,
+       47.6056797733076
+      ],
+      [
+       -122.339541708535,
+       47.6058059568631
+      ],
+      [
+       -122.339654911478,
+       47.6059306116072
+      ],
+      [
+       -122.339656163594,
+       47.6059319863068
+      ],
+      [
+       -122.339832352946,
+       47.6061247222005
+      ],
+      [
+       -122.339921776677,
+       47.6062226669456
+      ],
+      [
+       -122.340067805441,
+       47.6063817949062
+      ],
+      [
+       -122.340151736188,
+       47.6064732531468
+      ],
+      [
+       -122.34027594868,
+       47.6066095950799
+      ],
+      [
+       -122.340588578619,
+       47.6069505278999
+      ],
+      [
+       -122.340593420528,
+       47.6069556806957
+      ],
+      [
+       -122.340731555473,
+       47.6070991493015
+      ],
+      [
+       -122.340754589741,
+       47.607121708948
+      ],
+      [
+       -122.340756862253,
+       47.607124051452
+      ],
+      [
+       -122.339671841502,
+       47.6075913449246
+      ],
+      [
+       -122.339078574073,
+       47.6069594814373
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 2124,
+    "ZONEID": 3672,
+    "ZONING": "DMC-170",
+    "CONTRACT": " ",
+    "ORDINANCE": "125291",
+    "EFFECTIVE": 1494745200000,
+    "HISTORIC": " ",
+    "PEDESTRIAN": " ",
+    "SHORELINE": " ",
+    "OVERLAY": "DF",
+    "LIGHTRAIL": " ",
+    "MHA": "Y",
+    "IZ": "Y",
+    "MHA_VALUE": null,
+    "MIO_NAME": null,
+    "CLASS_DESC": "Downtown",
+    "CATEGORY_DESC": "Downtown",
+    "ZONELUT": "DMC",
+    "ZONELUT_DESC": "Downtown Mixed Commercial",
+    "DETAIL_DESC": "Downtown Mixed",
+    "ZONING_DESC": "Downtown Mixed Commercial-170",
+    "BASE_ZONE": "DMC-170",
+    "ZONING_PREV": "DMC-160",
+    "CONTRACT_PREV": " ",
+    "ORDINANCE_PREV": null,
+    "EFFECTIVE_PREV": null,
+    "HISTORIC_PREV": " ",
+    "PEDESTRIAN_PREV": " ",
+    "SHORELINE_PREV": " ",
+    "OVERLAY_PREV": "DF",
+    "LIGHTRAIL_PREV": " ",
+    "PUBLIC_DESCRIPTION": "is in a zone Downtown where both commercial and residential development is generally allowed.",
+    "CHAPTER": "Chapter 23.49",
+    "CHAPTER_LINK": "https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT23LAUSCO_SUBTITLE_IIILAUSRE_CH23.49DOZO",
+    "ZONINGHISTORY": "DMC-170,ORD125291,05/14/2017; DMC-160",
+    "_pt": [
+     -122.338046,
+     47.604917
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 2126,
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.33660746434,
+       47.6025686406096
+      ],
+      [
+       -122.336641936114,
+       47.602554219016
+      ],
+      [
+       -122.336979874335,
+       47.6024128374414
+      ],
+      [
+       -122.337627914158,
+       47.6031273060308
+      ],
+      [
+       -122.337684668996,
+       47.6031604024937
+      ],
+      [
+       -122.338192656995,
+       47.6036824100919
+      ],
+      [
+       -122.338318895874,
+       47.6038243077578
+      ],
+      [
+       -122.338971377116,
+       47.6045377466159
+      ],
+      [
+       -122.339624120914,
+       47.6052509208654
+      ],
+      [
+       -122.340276892415,
+       47.6059644660746
+      ],
+      [
+       -122.340647492888,
+       47.6063791947554
+      ],
+      [
+       -122.340717406304,
+       47.6064459757078
+      ],
+      [
+       -122.341185847527,
+       47.6069579997089
+      ],
+      [
+       -122.340893907321,
+       47.6070784947296
+      ],
+      [
+       -122.340756862253,
+       47.607124051452
+      ],
+      [
+       -122.340754589741,
+       47.607121708948
+      ],
+      [
+       -122.340731555473,
+       47.6070991493015
+      ],
+      [
+       -122.340593420528,
+       47.6069556806957
+      ],
+      [
+       -122.340588578619,
+       47.6069505278999
+      ],
+      [
+       -122.34027594868,
+       47.6066095950799
+      ],
+      [
+       -122.340151736188,
+       47.6064732531468
+      ],
+      [
+       -122.340067805441,
+       47.6063817949062
+      ],
+      [
+       -122.339921776677,
+       47.6062226669456
+      ],
+      [
+       -122.339832352946,
+       47.6061247222005
+      ],
+      [
+       -122.339656163594,
+       47.6059319863068
+      ],
+      [
+       -122.339654911478,
+       47.6059306116072
+      ],
+      [
+       -122.339541708535,
+       47.6058059568631
+      ],
+      [
+       -122.339425047057,
+       47.6056797733076
+      ],
+      [
+       -122.339267973106,
+       47.6055073293585
+      ],
+      [
+       -122.339091011579,
+       47.6053137324379
+      ],
+      [
+       -122.339015951369,
+       47.6052319497591
+      ],
+      [
+       -122.338858798252,
+       47.6050613033339
+      ],
+      [
+       -122.338747083705,
+       47.6049392794389
+      ],
+      [
+       -122.338639275239,
+       47.6048209816871
+      ],
+      [
+       -122.338514502225,
+       47.6046853095413
+      ],
+      [
+       -122.33851184939,
+       47.6046824062503
+      ],
+      [
+       -122.338401411161,
+       47.6045606375104
+      ],
+      [
+       -122.338289077115,
+       47.604437323472
+      ],
+      [
+       -122.338267703218,
+       47.6044140289077
+      ],
+      [
+       -122.338174095172,
+       47.6043120107865
+      ],
+      [
+       -122.338086377234,
+       47.6042154699685
+      ],
+      [
+       -122.338065148145,
+       47.6041921158929
+      ],
+      [
+       -122.337962700076,
+       47.6040793679048
+      ],
+      [
+       -122.337960788049,
+       47.6040772073012
+      ],
+      [
+       -122.337922038899,
+       47.6040281771203
+      ],
+      [
+       -122.337885047871,
+       47.6039666120211
+      ],
+      [
+       -122.33787950049,
+       47.6039547015943
+      ],
+      [
+       -122.337764327403,
+       47.6038303169279
+      ],
+      [
+       -122.337756514873,
+       47.6038223751206
+      ],
+      [
+       -122.337730903075,
+       47.6037945709805
+      ],
+      [
+       -122.337706441242,
+       47.6037639641639
+      ],
+      [
+       -122.337684898515,
+       47.6037323689989
+      ],
+      [
+       -122.337666361603,
+       47.6036999127986
+      ],
+      [
+       -122.337660220101,
+       47.6036867277449
+      ],
+      [
+       -122.337630017709,
+       47.6036280420806
+      ],
+      [
+       -122.337585300115,
+       47.6036006954954
+      ],
+      [
+       -122.33756865663,
+       47.603590041554
+      ],
+      [
+       -122.33751859628,
+       47.6035537279047
+      ],
+      [
+       -122.337457551375,
+       47.60349890218
+      ],
+      [
+       -122.337200066339,
+       47.603218367078
+      ],
+      [
+       -122.33706838534,
+       47.6030741766745
+      ],
+      [
+       -122.3368113544,
+       47.6027939092087
+      ],
+      [
+       -122.336729438575,
+       47.6027022690017
+      ],
+      [
+       -122.33660746434,
+       47.6025686406096
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 2126,
+    "ZONEID": 3673,
+    "ZONING": "DMC-170",
+    "CONTRACT": " ",
+    "ORDINANCE": "125291",
+    "EFFECTIVE": 1494745200000,
+    "HISTORIC": " ",
+    "PEDESTRIAN": " ",
+    "SHORELINE": "UH",
+    "OVERLAY": "DF",
+    "LIGHTRAIL": " ",
+    "MHA": "Y",
+    "IZ": "Y",
+    "MHA_VALUE": null,
+    "MIO_NAME": null,
+    "CLASS_DESC": "Downtown",
+    "CATEGORY_DESC": "Downtown",
+    "ZONELUT": "DMC",
+    "ZONELUT_DESC": "Downtown Mixed Commercial",
+    "DETAIL_DESC": "Downtown Mixed",
+    "ZONING_DESC": "Downtown Mixed Commercial-170",
+    "BASE_ZONE": "DMC-170",
+    "ZONING_PREV": "DMC-160",
+    "CONTRACT_PREV": " ",
+    "ORDINANCE_PREV": null,
+    "EFFECTIVE_PREV": null,
+    "HISTORIC_PREV": " ",
+    "PEDESTRIAN_PREV": " ",
+    "SHORELINE_PREV": "UH",
+    "OVERLAY_PREV": "DF",
+    "LIGHTRAIL_PREV": " ",
+    "PUBLIC_DESCRIPTION": "is in a zone Downtown where both commercial and residential development is generally allowed.",
+    "CHAPTER": "Chapter 23.49",
+    "CHAPTER_LINK": "https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT23LAUSCO_SUBTITLE_IIILAUSRE_CH23.49DOZO",
+    "ZONINGHISTORY": "DMC-170,ORD125291,05/14/2017; DMC-160",
+    "_pt": [
+     -122.338961,
+     47.604831
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 2128,
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.338125957266,
+       47.6058778793517
+      ],
+      [
+       -122.338659093268,
+       47.6056567634793
+      ],
+      [
+       -122.339638430162,
+       47.6067252009774
+      ],
+      [
+       -122.339078574073,
+       47.6069594814373
+      ],
+      [
+       -122.338765194249,
+       47.6065969476222
+      ],
+      [
+       -122.338125957266,
+       47.6058778793517
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 2128,
+    "ZONEID": 3674,
+    "ZONING": "DMC-170",
+    "CONTRACT": "CF291852",
+    "ORDINANCE": "125291",
+    "EFFECTIVE": 1494745200000,
+    "HISTORIC": " ",
+    "PEDESTRIAN": " ",
+    "SHORELINE": " ",
+    "OVERLAY": "DF",
+    "LIGHTRAIL": " ",
+    "MHA": "Y",
+    "IZ": "Y",
+    "MHA_VALUE": null,
+    "MIO_NAME": null,
+    "CLASS_DESC": "Downtown",
+    "CATEGORY_DESC": "Downtown",
+    "ZONELUT": "DMC",
+    "ZONELUT_DESC": "Downtown Mixed Commercial",
+    "DETAIL_DESC": "Downtown Mixed",
+    "ZONING_DESC": "Downtown Mixed Commercial-170",
+    "BASE_ZONE": "DMC-170",
+    "ZONING_PREV": "DMC-160",
+    "CONTRACT_PREV": "CF291852",
+    "ORDINANCE_PREV": 111623,
+    "EFFECTIVE_PREV": 451206000000,
+    "HISTORIC_PREV": " ",
+    "PEDESTRIAN_PREV": " ",
+    "SHORELINE_PREV": " ",
+    "OVERLAY_PREV": "DF",
+    "LIGHTRAIL_PREV": " ",
+    "PUBLIC_DESCRIPTION": "is in a zone Downtown where both commercial and residential development is generally allowed.",
+    "CHAPTER": "Chapter 23.49",
+    "CHAPTER_LINK": "https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT23LAUSCO_SUBTITLE_IIILAUSRE_CH23.49DOZO",
+    "ZONINGHISTORY": "DMC-170,ORD125291,CF291852,05/14/2017; DMC-160,ORD111623,CF291852,04/19/1984",
+    "_pt": [
+     -122.338836,
+     47.606291
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 2142,
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.340381568592,
+       47.6056543032169
+      ],
+      [
+       -122.338787280915,
+       47.6039116613558
+      ],
+      [
+       -122.33901149244,
+       47.6039087378745
+      ],
+      [
+       -122.339703094321,
+       47.6038989499221
+      ],
+      [
+       -122.341132857424,
+       47.6038787015497
+      ],
+      [
+       -122.341582832495,
+       47.6045203915967
+      ],
+      [
+       -122.342548772564,
+       47.60589299879
+      ],
+      [
+       -122.342570983239,
+       47.6059187530717
+      ],
+      [
+       -122.342616535808,
+       47.6059944465643
+      ],
+      [
+       -122.343293037629,
+       47.6069590836187
+      ],
+      [
+       -122.343824725338,
+       47.6072633883813
+      ],
+      [
+       -122.343881617778,
+       47.6072882727591
+      ],
+      [
+       -122.343986091973,
+       47.6073535168406
+      ],
+      [
+       -122.344122190639,
+       47.6074325997676
+      ],
+      [
+       -122.344227523552,
+       47.6075009798067
+      ],
+      [
+       -122.3435953589,
+       47.607527734329
+      ],
+      [
+       -122.342315777919,
+       47.6075522140451
+      ],
+      [
+       -122.342107715125,
+       47.6074209592297
+      ],
+      [
+       -122.341966436377,
+       47.6073253497755
+      ],
+      [
+       -122.341699111455,
+       47.6071244190253
+      ],
+      [
+       -122.341448166687,
+       47.6069066896537
+      ],
+      [
+       -122.341338493047,
+       47.6068004969089
+      ],
+      [
+       -122.340440404767,
+       47.6058228665584
+      ],
+      [
+       -122.340381568592,
+       47.6056543032169
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 2142,
+    "ZONEID": 4091,
+    "ZONING": "DH1/45",
+    "CONTRACT": " ",
+    "ORDINANCE": " ",
+    "EFFECTIVE": null,
+    "HISTORIC": " ",
+    "PEDESTRIAN": " ",
+    "SHORELINE": "UH",
+    "OVERLAY": "HF",
+    "LIGHTRAIL": " ",
+    "MHA": "N",
+    "IZ": "N",
+    "MHA_VALUE": null,
+    "MIO_NAME": null,
+    "CLASS_DESC": "Downtown",
+    "CATEGORY_DESC": "Downtown",
+    "ZONELUT": "DH1",
+    "ZONELUT_DESC": "Downtown Harborfront 1",
+    "DETAIL_DESC": "Downtown Harborfront",
+    "ZONING_DESC": "Downtown Harborfront 1/45",
+    "BASE_ZONE": "DH1/45",
+    "ZONING_PREV": null,
+    "CONTRACT_PREV": null,
+    "ORDINANCE_PREV": null,
+    "EFFECTIVE_PREV": 767775600000,
+    "HISTORIC_PREV": null,
+    "PEDESTRIAN_PREV": null,
+    "SHORELINE_PREV": null,
+    "OVERLAY_PREV": null,
+    "LIGHTRAIL_PREV": null,
+    "PUBLIC_DESCRIPTION": "is in a zone Downtown where both commercial and residential development is generally allowed.",
+    "CHAPTER": "Chapter 23.49",
+    "CHAPTER_LINK": "https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT23LAUSCO_SUBTITLE_IIILAUSRE_CH23.49DOZO",
+    "ZONINGHISTORY": "DH1/45; DH1/45,05/01/1994",
+    "_pt": [
+     -122.341376,
+     47.605639
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 2145,
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.342262479061,
+       47.6081843474474
+      ],
+      [
+       -122.342408675737,
+       47.6082826816215
+      ],
+      [
+       -122.34247166451,
+       47.6083199413685
+      ],
+      [
+       -122.342517433403,
+       47.6083470152583
+      ],
+      [
+       -122.342581628415,
+       47.6083849882799
+      ],
+      [
+       -122.342750938076,
+       47.6084851009629
+      ],
+      [
+       -122.342933829282,
+       47.6085933598196
+      ],
+      [
+       -122.343043675017,
+       47.6086583362677
+      ],
+      [
+       -122.343168040139,
+       47.6087318452704
+      ],
+      [
+       -122.343295267237,
+       47.608807316036
+      ],
+      [
+       -122.343298224317,
+       47.6088090618695
+      ],
+      [
+       -122.343411754782,
+       47.6088757523908
+      ],
+      [
+       -122.34353507166,
+       47.6089487294972
+      ],
+      [
+       -122.343580851811,
+       47.6089757951027
+      ],
+      [
+       -122.343636963141,
+       47.6090089695704
+      ],
+      [
+       -122.343775509555,
+       47.6090913231754
+      ],
+      [
+       -122.344059379343,
+       47.609259444086
+      ],
+      [
+       -122.344266114017,
+       47.6093816403369
+      ],
+      [
+       -122.344383875421,
+       47.6094511742236
+      ],
+      [
+       -122.344510455957,
+       47.6095261335165
+      ],
+      [
+       -122.344630140875,
+       47.6095969690109
+      ],
+      [
+       -122.344752957069,
+       47.6096695647137
+      ],
+      [
+       -122.344799518474,
+       47.6096973593304
+      ],
+      [
+       -122.344803472966,
+       47.6096997046853
+      ],
+      [
+       -122.344984010396,
+       47.6098060745799
+      ],
+      [
+       -122.345116930096,
+       47.6098846153248
+      ],
+      [
+       -122.34523527303,
+       47.6099543638559
+      ],
+      [
+       -122.345350766201,
+       47.6100226598819
+      ],
+      [
+       -122.345518772347,
+       47.6101225177587
+      ],
+      [
+       -122.345674511999,
+       47.6102146379056
+      ],
+      [
+       -122.345814196024,
+       47.6102968364084
+      ],
+      [
+       -122.345864608853,
+       47.6103267091472
+      ],
+      [
+       -122.345824754183,
+       47.6103577698286
+      ],
+      [
+       -122.345719183356,
+       47.6104400469158
+      ],
+      [
+       -122.345631151247,
+       47.6105081548529
+      ],
+      [
+       -122.345543108796,
+       47.6105762719816
+      ],
+      [
+       -122.345503569114,
+       47.6106068615578
+      ],
+      [
+       -122.34544909575,
+       47.6106487629538
+      ],
+      [
+       -122.345372715054,
+       47.6105888087815
+      ],
+      [
+       -122.345319371186,
+       47.6105472668345
+      ],
+      [
+       -122.345274038008,
+       47.6105119065517
+      ],
+      [
+       -122.345227791247,
+       47.6104766833388
+      ],
+      [
+       -122.345140279802,
+       47.6104135012008
+      ],
+      [
+       -122.345049666684,
+       47.6103518118521
+      ],
+      [
+       -122.344968160034,
+       47.610299111452
+      ],
+      [
+       -122.344888193423,
+       47.610249857502
+      ],
+      [
+       -122.344795898422,
+       47.6101957503751
+      ],
+      [
+       -122.344736236608,
+       47.6101613811499
+      ],
+      [
+       -122.344664177659,
+       47.6101190071833
+      ],
+      [
+       -122.344298824967,
+       47.6099041573616
+      ],
+      [
+       -122.344099791472,
+       47.6097874359378
+      ],
+      [
+       -122.343507821486,
+       47.6094392161698
+      ],
+      [
+       -122.343417484986,
+       47.6093827472613
+      ],
+      [
+       -122.343355918393,
+       47.6093396569393
+      ],
+      [
+       -122.343292685307,
+       47.609291431426
+      ],
+      [
+       -122.343253741001,
+       47.6092593437476
+      ],
+      [
+       -122.343198502046,
+       47.6092103017222
+      ],
+      [
+       -122.343145391348,
+       47.609158512754
+      ],
+      [
+       -122.342362138329,
+       47.6083319731817
+      ],
+      [
+       -122.342262479061,
+       47.6081843474474
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 2145,
+    "ZONEID": 4093,
+    "ZONING": "DH2/55",
+    "CONTRACT": " ",
+    "ORDINANCE": " ",
+    "EFFECTIVE": null,
+    "HISTORIC": " ",
+    "PEDESTRIAN": " ",
+    "SHORELINE": " ",
+    "OVERLAY": "DF",
+    "LIGHTRAIL": " ",
+    "MHA": "N",
+    "IZ": "Y",
+    "MHA_VALUE": null,
+    "MIO_NAME": null,
+    "CLASS_DESC": "Downtown",
+    "CATEGORY_DESC": "Downtown",
+    "ZONELUT": "DH2",
+    "ZONELUT_DESC": "Downtown Harborfront 2",
+    "DETAIL_DESC": "Downtown Harborfront",
+    "ZONING_DESC": "Downtown Harborfront 2/55",
+    "BASE_ZONE": "DH2/55",
+    "ZONING_PREV": null,
+    "CONTRACT_PREV": null,
+    "ORDINANCE_PREV": null,
+    "EFFECTIVE_PREV": 767775600000,
+    "HISTORIC_PREV": null,
+    "PEDESTRIAN_PREV": null,
+    "SHORELINE_PREV": null,
+    "OVERLAY_PREV": null,
+    "LIGHTRAIL_PREV": null,
+    "PUBLIC_DESCRIPTION": "is in a zone Downtown where both commercial and residential development is generally allowed.",
+    "CHAPTER": "Chapter 23.49",
+    "CHAPTER_LINK": "https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT23LAUSCO_SUBTITLE_IIILAUSRE_CH23.49DOZO",
+    "ZONINGHISTORY": "DH2/55; DH2/55,05/01/1994",
+    "_pt": [
+     -122.344231,
+     47.60959
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 2148,
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.34214796319,
+       47.6077009897319
+      ],
+      [
+       -122.342215046642,
+       47.6076567290695
+      ],
+      [
+       -122.342438545908,
+       47.6078073965427
+      ],
+      [
+       -122.342594158596,
+       47.6078994353867
+      ],
+      [
+       -122.342671226988,
+       47.6079450201823
+      ],
+      [
+       -122.343649525361,
+       47.6085236385337
+      ],
+      [
+       -122.343797468492,
+       47.6086111383592
+      ],
+      [
+       -122.344766528762,
+       47.6091844256889
+      ],
+      [
+       -122.344927031829,
+       47.6092793320724
+      ],
+      [
+       -122.346227142009,
+       47.610048356558
+      ],
+      [
+       -122.345904705378,
+       47.6102957926472
+      ],
+      [
+       -122.345864501117,
+       47.6103266452973
+      ],
+      [
+       -122.345814196024,
+       47.6102968364084
+      ],
+      [
+       -122.345674511999,
+       47.6102146379056
+      ],
+      [
+       -122.345518772347,
+       47.6101225177587
+      ],
+      [
+       -122.345350766201,
+       47.6100226598819
+      ],
+      [
+       -122.34523527303,
+       47.6099543638559
+      ],
+      [
+       -122.345116930096,
+       47.6098846153248
+      ],
+      [
+       -122.344984010396,
+       47.6098060745799
+      ],
+      [
+       -122.344803472966,
+       47.6096997046853
+      ],
+      [
+       -122.344799518474,
+       47.6096973593304
+      ],
+      [
+       -122.344752957069,
+       47.6096695647137
+      ],
+      [
+       -122.344630140875,
+       47.6095969690109
+      ],
+      [
+       -122.344510455957,
+       47.6095261335165
+      ],
+      [
+       -122.344383875421,
+       47.6094511742236
+      ],
+      [
+       -122.344266114017,
+       47.6093816403369
+      ],
+      [
+       -122.344059379343,
+       47.609259444086
+      ],
+      [
+       -122.343775509555,
+       47.6090913231754
+      ],
+      [
+       -122.343636963141,
+       47.6090089695704
+      ],
+      [
+       -122.343580851811,
+       47.6089757951027
+      ],
+      [
+       -122.34353507166,
+       47.6089487294972
+      ],
+      [
+       -122.343411754782,
+       47.6088757523908
+      ],
+      [
+       -122.343298224317,
+       47.6088090618695
+      ],
+      [
+       -122.343295267237,
+       47.608807316036
+      ],
+      [
+       -122.343168040139,
+       47.6087318452704
+      ],
+      [
+       -122.343043675017,
+       47.6086583362677
+      ],
+      [
+       -122.342933829282,
+       47.6085933598196
+      ],
+      [
+       -122.342750938076,
+       47.6084851009629
+      ],
+      [
+       -122.342581628415,
+       47.6083849882799
+      ],
+      [
+       -122.342517433403,
+       47.6083470152583
+      ],
+      [
+       -122.34247166451,
+       47.6083199413685
+      ],
+      [
+       -122.342408675737,
+       47.6082826816215
+      ],
+      [
+       -122.342262479061,
+       47.6081843474474
+      ],
+      [
+       -122.342161431067,
+       47.6080096424292
+      ],
+      [
+       -122.34214796319,
+       47.6077009897319
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 2148,
+    "ZONEID": 4094,
+    "ZONING": "DH2/55",
+    "CONTRACT": " ",
+    "ORDINANCE": " ",
+    "EFFECTIVE": null,
+    "HISTORIC": " ",
+    "PEDESTRIAN": " ",
+    "SHORELINE": "UH",
+    "OVERLAY": "DF",
+    "LIGHTRAIL": " ",
+    "MHA": "N",
+    "IZ": "Y",
+    "MHA_VALUE": null,
+    "MIO_NAME": null,
+    "CLASS_DESC": "Downtown",
+    "CATEGORY_DESC": "Downtown",
+    "ZONELUT": "DH2",
+    "ZONELUT_DESC": "Downtown Harborfront 2",
+    "DETAIL_DESC": "Downtown Harborfront",
+    "ZONING_DESC": "Downtown Harborfront 2/55",
+    "BASE_ZONE": "DH2/55",
+    "ZONING_PREV": null,
+    "CONTRACT_PREV": null,
+    "ORDINANCE_PREV": null,
+    "EFFECTIVE_PREV": 767775600000,
+    "HISTORIC_PREV": null,
+    "PEDESTRIAN_PREV": null,
+    "SHORELINE_PREV": null,
+    "OVERLAY_PREV": null,
+    "LIGHTRAIL_PREV": null,
+    "PUBLIC_DESCRIPTION": "is in a zone Downtown where both commercial and residential development is generally allowed.",
+    "CHAPTER": "Chapter 23.49",
+    "CHAPTER_LINK": "https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT23LAUSCO_SUBTITLE_IIILAUSRE_CH23.49DOZO",
+    "ZONINGHISTORY": "DH2/55; DH2/55,05/01/1994",
+    "_pt": [
+     -122.344128,
+     47.609044
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 2150,
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.34544909575,
+       47.6106487629538
+      ],
+      [
+       -122.345503569114,
+       47.6106068615578
+      ],
+      [
+       -122.345543108796,
+       47.6105762719816
+      ],
+      [
+       -122.345631151247,
+       47.6105081548529
+      ],
+      [
+       -122.345719183356,
+       47.6104400469158
+      ],
+      [
+       -122.345824754183,
+       47.6103577698286
+      ],
+      [
+       -122.345864608853,
+       47.6103267091472
+      ],
+      [
+       -122.345975928388,
+       47.6103926733851
+      ],
+      [
+       -122.346101911093,
+       47.6104669404673
+      ],
+      [
+       -122.346199094618,
+       47.6105244239607
+      ],
+      [
+       -122.34621740292,
+       47.610535253912
+      ],
+      [
+       -122.34634284535,
+       47.6106091944902
+      ],
+      [
+       -122.346518262037,
+       47.6107127373566
+      ],
+      [
+       -122.346690589217,
+       47.6108150329603
+      ],
+      [
+       -122.346693582478,
+       47.6108168013919
+      ],
+      [
+       -122.346747225076,
+       47.6108483302356
+      ],
+      [
+       -122.346780343979,
+       47.6108667801075
+      ],
+      [
+       -122.346821891939,
+       47.6108873023466
+      ],
+      [
+       -122.346865281327,
+       47.6109060009616
+      ],
+      [
+       -122.34691033663,
+       47.6109228017715
+      ],
+      [
+       -122.346956877287,
+       47.6109376355767
+      ],
+      [
+       -122.34700471474,
+       47.6109504438133
+      ],
+      [
+       -122.347053658561,
+       47.610961174962
+      ],
+      [
+       -122.347103509187,
+       47.6109697846452
+      ],
+      [
+       -122.347154067359,
+       47.6109762390108
+      ],
+      [
+       -122.347205128854,
+       47.6109805119944
+      ],
+      [
+       -122.347228537121,
+       47.6109817322328
+      ],
+      [
+       -122.347258804492,
+       47.6109830121288
+      ],
+      [
+       -122.347269816916,
+       47.6109835738856
+      ],
+      [
+       -122.347337002309,
+       47.6110203771821
+      ],
+      [
+       -122.347411384873,
+       47.6110631467767
+      ],
+      [
+       -122.347437838131,
+       47.611077720501
+      ],
+      [
+       -122.347479386518,
+       47.6110982425
+      ],
+      [
+       -122.347522775302,
+       47.6111169415797
+      ],
+      [
+       -122.347567830979,
+       47.6111337414277
+      ],
+      [
+       -122.347614372032,
+       47.6111485756656
+      ],
+      [
+       -122.347662210879,
+       47.6111613836119
+      ],
+      [
+       -122.347711153976,
+       47.6111721137899
+      ],
+      [
+       -122.347761004912,
+       47.6111807231851
+      ],
+      [
+       -122.347811564429,
+       47.6111871779463
+      ],
+      [
+       -122.347862626185,
+       47.6111914506349
+      ],
+      [
+       -122.347900200303,
+       47.6111931848477
+      ],
+      [
+       -122.347961338818,
+       47.6111950441115
+      ],
+      [
+       -122.348028062463,
+       47.6111979507243
+      ],
+      [
+       -122.348052337027,
+       47.6111990076404
+      ],
+      [
+       -122.348099467451,
+       47.6112010610217
+      ],
+      [
+       -122.348192377489,
+       47.6112064050089
+      ],
+      [
+       -122.348266547861,
+       47.6112507661136
+      ],
+      [
+       -122.348826635654,
+       47.6115857509111
+      ],
+      [
+       -122.348232009152,
+       47.61204552927
+      ],
+      [
+       -122.348073575973,
+       47.6119447082786
+      ],
+      [
+       -122.347220016373,
+       47.6117638630712
+      ],
+      [
+       -122.347047386976,
+       47.6117226888346
+      ],
+      [
+       -122.346891896904,
+       47.6116812849612
+      ],
+      [
+       -122.346687679709,
+       47.6115854660224
+      ],
+      [
+       -122.346503650124,
+       47.6114737155074
+      ],
+      [
+       -122.346413299373,
+       47.6114169921626
+      ],
+      [
+       -122.34635301187,
+       47.6113722578504
+      ],
+      [
+       -122.346282622423,
+       47.6113156466383
+      ],
+      [
+       -122.346200364738,
+       47.6112484574476
+      ],
+      [
+       -122.346114329563,
+       47.6111793325844
+      ],
+      [
+       -122.346036468381,
+       47.6111172463203
+      ],
+      [
+       -122.345538473077,
+       47.6107201512135
+      ],
+      [
+       -122.34544909575,
+       47.6106487629538
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 2150,
+    "ZONEID": 4095,
+    "ZONING": "DH2/85",
+    "CONTRACT": " ",
+    "ORDINANCE": " ",
+    "EFFECTIVE": null,
+    "HISTORIC": " ",
+    "PEDESTRIAN": " ",
+    "SHORELINE": " ",
+    "OVERLAY": "DF",
+    "LIGHTRAIL": " ",
+    "MHA": "N",
+    "IZ": "Y",
+    "MHA_VALUE": null,
+    "MIO_NAME": null,
+    "CLASS_DESC": "Downtown",
+    "CATEGORY_DESC": "Downtown",
+    "ZONELUT": "DH2",
+    "ZONELUT_DESC": "Downtown Harborfront 2",
+    "DETAIL_DESC": "Downtown Harborfront",
+    "ZONING_DESC": "Downtown Harborfront 2/85",
+    "BASE_ZONE": "DH2/85",
+    "ZONING_PREV": null,
+    "CONTRACT_PREV": null,
+    "ORDINANCE_PREV": null,
+    "EFFECTIVE_PREV": 767775600000,
+    "HISTORIC_PREV": null,
+    "PEDESTRIAN_PREV": null,
+    "SHORELINE_PREV": null,
+    "OVERLAY_PREV": null,
+    "LIGHTRAIL_PREV": null,
+    "PUBLIC_DESCRIPTION": "is in a zone Downtown where both commercial and residential development is generally allowed.",
+    "CHAPTER": "Chapter 23.49",
+    "CHAPTER_LINK": "https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT23LAUSCO_SUBTITLE_IIILAUSRE_CH23.49DOZO",
+    "ZONINGHISTORY": "DH2/85; DH2/85,05/01/1994",
+    "_pt": [
+     -122.347186,
+     47.611292
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 2153,
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.345864540204,
+       47.6103266686443
+      ],
+      [
+       -122.345864501117,
+       47.6103266452973
+      ],
+      [
+       -122.345904705378,
+       47.6102957926472
+      ],
+      [
+       -122.346227142009,
+       47.610048356558
+      ],
+      [
+       -122.347119374727,
+       47.6105758303724
+      ],
+      [
+       -122.347527962547,
+       47.6108174126904
+      ],
+      [
+       -122.348114084601,
+       47.6111606351564
+      ],
+      [
+       -122.348192234007,
+       47.6112063970917
+      ],
+      [
+       -122.348099467451,
+       47.6112010610217
+      ],
+      [
+       -122.348052337027,
+       47.6111990076404
+      ],
+      [
+       -122.348028062463,
+       47.6111979507243
+      ],
+      [
+       -122.347961338818,
+       47.6111950441115
+      ],
+      [
+       -122.347900200303,
+       47.6111931848477
+      ],
+      [
+       -122.347862626185,
+       47.6111914506349
+      ],
+      [
+       -122.347811564429,
+       47.6111871779463
+      ],
+      [
+       -122.347761004912,
+       47.6111807231851
+      ],
+      [
+       -122.347711153976,
+       47.6111721137899
+      ],
+      [
+       -122.347662210879,
+       47.6111613836119
+      ],
+      [
+       -122.347614372032,
+       47.6111485756656
+      ],
+      [
+       -122.347567830979,
+       47.6111337414277
+      ],
+      [
+       -122.347522775302,
+       47.6111169415797
+      ],
+      [
+       -122.347479386518,
+       47.6110982425
+      ],
+      [
+       -122.347437838131,
+       47.611077720501
+      ],
+      [
+       -122.347411384873,
+       47.6110631467767
+      ],
+      [
+       -122.347337002309,
+       47.6110203771821
+      ],
+      [
+       -122.347269816916,
+       47.6109835738856
+      ],
+      [
+       -122.347258804492,
+       47.6109830121288
+      ],
+      [
+       -122.347228537121,
+       47.6109817322328
+      ],
+      [
+       -122.347205128854,
+       47.6109805119944
+      ],
+      [
+       -122.347154067359,
+       47.6109762390108
+      ],
+      [
+       -122.347103509187,
+       47.6109697846452
+      ],
+      [
+       -122.347053658561,
+       47.610961174962
+      ],
+      [
+       -122.34700471474,
+       47.6109504438133
+      ],
+      [
+       -122.346956877287,
+       47.6109376355767
+      ],
+      [
+       -122.34691033663,
+       47.6109228017715
+      ],
+      [
+       -122.346865281327,
+       47.6109060009616
+      ],
+      [
+       -122.346821891939,
+       47.6108873023466
+      ],
+      [
+       -122.346780343979,
+       47.6108667801075
+      ],
+      [
+       -122.346747225076,
+       47.6108483302356
+      ],
+      [
+       -122.346693582478,
+       47.6108168013919
+      ],
+      [
+       -122.346690589217,
+       47.6108150329603
+      ],
+      [
+       -122.346518262037,
+       47.6107127373566
+      ],
+      [
+       -122.34634284535,
+       47.6106091944902
+      ],
+      [
+       -122.34621740292,
+       47.610535253912
+      ],
+      [
+       -122.346199094618,
+       47.6105244239607
+      ],
+      [
+       -122.346101911093,
+       47.6104669404673
+      ],
+      [
+       -122.345975928388,
+       47.6103926733851
+      ],
+      [
+       -122.345864540204,
+       47.6103266686443
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 2153,
+    "ZONEID": 4096,
+    "ZONING": "DH2/85",
+    "CONTRACT": " ",
+    "ORDINANCE": " ",
+    "EFFECTIVE": null,
+    "HISTORIC": " ",
+    "PEDESTRIAN": " ",
+    "SHORELINE": "UH",
+    "OVERLAY": "DF",
+    "LIGHTRAIL": " ",
+    "MHA": "N",
+    "IZ": "Y",
+    "MHA_VALUE": null,
+    "MIO_NAME": null,
+    "CLASS_DESC": "Downtown",
+    "CATEGORY_DESC": "Downtown",
+    "ZONELUT": "DH2",
+    "ZONELUT_DESC": "Downtown Harborfront 2",
+    "DETAIL_DESC": "Downtown Harborfront",
+    "ZONING_DESC": "Downtown Harborfront 2/85",
+    "BASE_ZONE": "DH2/85",
+    "ZONING_PREV": null,
+    "CONTRACT_PREV": null,
+    "ORDINANCE_PREV": null,
+    "EFFECTIVE_PREV": 767775600000,
+    "HISTORIC_PREV": null,
+    "PEDESTRIAN_PREV": null,
+    "SHORELINE_PREV": null,
+    "OVERLAY_PREV": null,
+    "LIGHTRAIL_PREV": null,
+    "PUBLIC_DESCRIPTION": "is in a zone Downtown where both commercial and residential development is generally allowed.",
+    "CHAPTER": "Chapter 23.49",
+    "CHAPTER_LINK": "https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT23LAUSCO_SUBTITLE_IIILAUSRE_CH23.49DOZO",
+    "ZONINGHISTORY": "DH2/85; DH2/85,05/01/1994",
+    "_pt": [
+     -122.34675,
+     47.6106
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 2225,
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.342612495365,
+       47.6110682246785
+      ],
+      [
+       -122.343468528235,
+       47.6104121173022
+      ],
+      [
+       -122.343931737719,
+       47.6106853342269
+      ],
+      [
+       -122.344446057122,
+       47.6102876613247
+      ],
+      [
+       -122.344260279073,
+       47.6101815033575
+      ],
+      [
+       -122.344199190036,
+       47.6101453719431
+      ],
+      [
+       -122.344077198061,
+       47.6100732174576
+      ],
+      [
+       -122.343930734024,
+       47.609986589084
+      ],
+      [
+       -122.343879980504,
+       47.6099508657123
+      ],
+      [
+       -122.343710742191,
+       47.6098317446897
+      ],
+      [
+       -122.343541500442,
+       47.6097126213652
+      ],
+      [
+       -122.343358359523,
+       47.6096042361687
+      ],
+      [
+       -122.34322462091,
+       47.6095220744638
+      ],
+      [
+       -122.343134365968,
+       47.6094590732477
+      ],
+      [
+       -122.343072819925,
+       47.6094117132028
+      ],
+      [
+       -122.343014640986,
+       47.6093700300988
+      ],
+      [
+       -122.342875491724,
+       47.6092276627891
+      ],
+      [
+       -122.342801926148,
+       47.6091471373847
+      ],
+      [
+       -122.342722639184,
+       47.6090603463579
+      ],
+      [
+       -122.342767976815,
+       47.6090317326575
+      ],
+      [
+       -122.342703948099,
+       47.6089618072765
+      ],
+      [
+       -122.342234944707,
+       47.6084495810636
+      ],
+      [
+       -122.342189535945,
+       47.6084041033088
+      ],
+      [
+       -122.341450841207,
+       47.6087127944638
+      ],
+      [
+       -122.340801264543,
+       47.607998418418
+      ],
+      [
+       -122.339687069447,
+       47.6084641651203
+      ],
+      [
+       -122.339105334864,
+       47.6078281604538
+      ],
+      [
+       -122.339671841502,
+       47.6075913449246
+      ],
+      [
+       -122.340756862253,
+       47.607124051452
+      ],
+      [
+       -122.34082632434,
+       47.6071910503218
+      ],
+      [
+       -122.340903408894,
+       47.6072623634593
+      ],
+      [
+       -122.341005105121,
+       47.6073520547505
+      ],
+      [
+       -122.341120273981,
+       47.6074476688238
+      ],
+      [
+       -122.341226980721,
+       47.6075310362915
+      ],
+      [
+       -122.341335000472,
+       47.607612742982
+      ],
+      [
+       -122.341444232701,
+       47.6076916839414
+      ],
+      [
+       -122.341553059654,
+       47.6077659060071
+      ],
+      [
+       -122.341713683732,
+       47.6078690687871
+      ],
+      [
+       -122.341877557608,
+       47.6079684447294
+      ],
+      [
+       -122.342071375857,
+       47.6080830987749
+      ],
+      [
+       -122.342262479061,
+       47.6081843474474
+      ],
+      [
+       -122.342362138329,
+       47.6083319731817
+      ],
+      [
+       -122.343145391348,
+       47.609158512754
+      ],
+      [
+       -122.343198502046,
+       47.6092103017222
+      ],
+      [
+       -122.343253741001,
+       47.6092593437476
+      ],
+      [
+       -122.343292685307,
+       47.609291431426
+      ],
+      [
+       -122.343355918393,
+       47.6093396569393
+      ],
+      [
+       -122.343417484986,
+       47.6093827472613
+      ],
+      [
+       -122.343507821486,
+       47.6094392161698
+      ],
+      [
+       -122.344099791472,
+       47.6097874359378
+      ],
+      [
+       -122.344298824967,
+       47.6099041573616
+      ],
+      [
+       -122.344664177659,
+       47.6101190071833
+      ],
+      [
+       -122.344736236608,
+       47.6101613811499
+      ],
+      [
+       -122.344795898422,
+       47.6101957503751
+      ],
+      [
+       -122.344888193423,
+       47.610249857502
+      ],
+      [
+       -122.344968160034,
+       47.610299111452
+      ],
+      [
+       -122.345049666684,
+       47.6103518118521
+      ],
+      [
+       -122.345140279802,
+       47.6104135012008
+      ],
+      [
+       -122.345227791247,
+       47.6104766833388
+      ],
+      [
+       -122.345274038008,
+       47.6105119065517
+      ],
+      [
+       -122.345319371186,
+       47.6105472668345
+      ],
+      [
+       -122.345372715054,
+       47.6105888087815
+      ],
+      [
+       -122.34544909575,
+       47.6106487629538
+      ],
+      [
+       -122.344822288435,
+       47.611133906857
+      ],
+      [
+       -122.344771984861,
+       47.6111727699112
+      ],
+      [
+       -122.344343742107,
+       47.6115037244307
+      ],
+      [
+       -122.343912113965,
+       47.6118372878566
+      ],
+      [
+       -122.342612495365,
+       47.6110682246785
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 2225,
+    "ZONEID": 4173,
+    "ZONING": "PMM-85",
+    "CONTRACT": " ",
+    "ORDINANCE": " ",
+    "EFFECTIVE": null,
+    "HISTORIC": " ",
+    "PEDESTRIAN": " ",
+    "SHORELINE": " ",
+    "OVERLAY": "DF",
+    "LIGHTRAIL": " ",
+    "MHA": "N",
+    "IZ": "N",
+    "MHA_VALUE": null,
+    "MIO_NAME": null,
+    "CLASS_DESC": "Downtown",
+    "CATEGORY_DESC": "Downtown",
+    "ZONELUT": "PMM",
+    "ZONELUT_DESC": "Pike Market Mixed",
+    "DETAIL_DESC": "Pike Market",
+    "ZONING_DESC": "Pike Market Mixed-85",
+    "BASE_ZONE": "PMM-85",
+    "ZONING_PREV": null,
+    "CONTRACT_PREV": null,
+    "ORDINANCE_PREV": null,
+    "EFFECTIVE_PREV": 767775600000,
+    "HISTORIC_PREV": null,
+    "PEDESTRIAN_PREV": null,
+    "SHORELINE_PREV": null,
+    "OVERLAY_PREV": null,
+    "LIGHTRAIL_PREV": null,
+    "PUBLIC_DESCRIPTION": "is in a zone Downtown where both commercial and residential development is generally allowed.",
+    "CHAPTER": "Chapter 23.49",
+    "CHAPTER_LINK": "https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT23LAUSCO_SUBTITLE_IIILAUSRE_CH23.49DOZO",
+    "ZONINGHISTORY": "PMM-85; PMM-85,05/01/1994",
+    "_pt": [
+     -122.342498,
+     47.60944
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 2226,
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.340893907321,
+       47.6070784947296
+      ],
+      [
+       -122.341185847527,
+       47.6069579997089
+      ],
+      [
+       -122.341533281412,
+       47.6073373150564
+      ],
+      [
+       -122.341651744045,
+       47.6074109537262
+      ],
+      [
+       -122.34214796319,
+       47.6077009897319
+      ],
+      [
+       -122.342161431067,
+       47.6080096424292
+      ],
+      [
+       -122.342262479061,
+       47.6081843474474
+      ],
+      [
+       -122.342071375857,
+       47.6080830987749
+      ],
+      [
+       -122.341877557608,
+       47.6079684447294
+      ],
+      [
+       -122.341713683732,
+       47.6078690687871
+      ],
+      [
+       -122.341553059654,
+       47.6077659060071
+      ],
+      [
+       -122.341444232701,
+       47.6076916839414
+      ],
+      [
+       -122.341335000472,
+       47.607612742982
+      ],
+      [
+       -122.341226980721,
+       47.6075310362915
+      ],
+      [
+       -122.341120273981,
+       47.6074476688238
+      ],
+      [
+       -122.341005105121,
+       47.6073520547505
+      ],
+      [
+       -122.340903408894,
+       47.6072623634593
+      ],
+      [
+       -122.34082632434,
+       47.6071910503218
+      ],
+      [
+       -122.340756862253,
+       47.607124051452
+      ],
+      [
+       -122.340893907321,
+       47.6070784947296
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 2226,
+    "ZONEID": 4174,
+    "ZONING": "PMM-85",
+    "CONTRACT": " ",
+    "ORDINANCE": " ",
+    "EFFECTIVE": null,
+    "HISTORIC": " ",
+    "PEDESTRIAN": " ",
+    "SHORELINE": "UH",
+    "OVERLAY": "DF",
+    "LIGHTRAIL": " ",
+    "MHA": "N",
+    "IZ": "N",
+    "MHA_VALUE": null,
+    "MIO_NAME": null,
+    "CLASS_DESC": "Downtown",
+    "CATEGORY_DESC": "Downtown",
+    "ZONELUT": "PMM",
+    "ZONELUT_DESC": "Pike Market Mixed",
+    "DETAIL_DESC": "Pike Market",
+    "ZONING_DESC": "Pike Market Mixed-85",
+    "BASE_ZONE": "PMM-85",
+    "ZONING_PREV": null,
+    "CONTRACT_PREV": null,
+    "ORDINANCE_PREV": null,
+    "EFFECTIVE_PREV": 767775600000,
+    "HISTORIC_PREV": null,
+    "PEDESTRIAN_PREV": null,
+    "SHORELINE_PREV": null,
+    "OVERLAY_PREV": null,
+    "LIGHTRAIL_PREV": null,
+    "PUBLIC_DESCRIPTION": "is in a zone Downtown where both commercial and residential development is generally allowed.",
+    "CHAPTER": "Chapter 23.49",
+    "CHAPTER_LINK": "https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT23LAUSCO_SUBTITLE_IIILAUSRE_CH23.49DOZO",
+    "ZONINGHISTORY": "PMM-85; PMM-85,05/01/1994",
+    "_pt": [
+     -122.341462,
+     47.607493
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 2537,
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.348376254831,
+       47.6112132578578
+      ],
+      [
+       -122.3482539221,
+       47.6112093046261
+      ],
+      [
+       -122.348215057538,
+       47.6112077091482
+      ],
+      [
+       -122.348192235024,
+       47.6112063963762
+      ],
+      [
+       -122.348114085639,
+       47.6111606351426
+      ],
+      [
+       -122.347527962547,
+       47.6108174126904
+      ],
+      [
+       -122.347119374727,
+       47.6105758303724
+      ],
+      [
+       -122.346227142009,
+       47.610048356558
+      ],
+      [
+       -122.344927031829,
+       47.6092793320724
+      ],
+      [
+       -122.344766528762,
+       47.6091844256889
+      ],
+      [
+       -122.343797468492,
+       47.6086111383592
+      ],
+      [
+       -122.343649525361,
+       47.6085236385337
+      ],
+      [
+       -122.342671226988,
+       47.6079450201823
+      ],
+      [
+       -122.342594158596,
+       47.6078994353867
+      ],
+      [
+       -122.342438545908,
+       47.6078073965427
+      ],
+      [
+       -122.342215046642,
+       47.6076567290695
+      ],
+      [
+       -122.34214796319,
+       47.6077009897319
+      ],
+      [
+       -122.341651743008,
+       47.6074109537399
+      ],
+      [
+       -122.341533281412,
+       47.6073373150564
+      ],
+      [
+       -122.341185847527,
+       47.6069579997089
+      ],
+      [
+       -122.340717406304,
+       47.6064459757078
+      ],
+      [
+       -122.340647492888,
+       47.6063791947554
+      ],
+      [
+       -122.340276892415,
+       47.6059644660746
+      ],
+      [
+       -122.339624120914,
+       47.6052509208654
+      ],
+      [
+       -122.338971377116,
+       47.6045377466159
+      ],
+      [
+       -122.338318895874,
+       47.6038243077578
+      ],
+      [
+       -122.338192656995,
+       47.6036824100919
+      ],
+      [
+       -122.337684668996,
+       47.6031604024937
+      ],
+      [
+       -122.337627914158,
+       47.6031273060308
+      ],
+      [
+       -122.336979874335,
+       47.6024128374414
+      ],
+      [
+       -122.337294025706,
+       47.6022843469266
+      ],
+      [
+       -122.337297493759,
+       47.6022829280562
+      ],
+      [
+       -122.337148375866,
+       47.6021181342356
+      ],
+      [
+       -122.336680830511,
+       47.601603828147
+      ],
+      [
+       -122.336667105159,
+       47.6015937448208
+      ],
+      [
+       -122.336619599655,
+       47.6015418080229
+      ],
+      [
+       -122.336554681927,
+       47.6014708220716
+      ],
+      [
+       -122.33649429933,
+       47.6014048140987
+      ],
+      [
+       -122.336491061534,
+       47.6014012677803
+      ],
+      [
+       -122.336488943272,
+       47.6013989322841
+      ],
+      [
+       -122.336486824909,
+       47.6013965932794
+      ],
+      [
+       -122.336484714885,
+       47.6013942555684
+      ],
+      [
+       -122.336482607772,
+       47.6013919107994
+      ],
+      [
+       -122.336480503893,
+       47.6013895701992
+      ],
+      [
+       -122.336478409088,
+       47.6013872203538
+      ],
+      [
+       -122.336476317456,
+       47.6013848725723
+      ],
+      [
+       -122.336472153662,
+       47.6013801683284
+      ],
+      [
+       -122.336470078407,
+       47.6013778126089
+      ],
+      [
+       -122.336465945393,
+       47.6013730960249
+      ],
+      [
+       -122.336463885559,
+       47.6013707351878
+      ],
+      [
+       -122.336461831848,
+       47.6013683707601
+      ],
+      [
+       -122.336459784383,
+       47.6013660069517
+      ],
+      [
+       -122.336457741862,
+       47.6013636346545
+      ],
+      [
+       -122.336455701497,
+       47.6013612651366
+      ],
+      [
+       -122.336453671507,
+       47.6013588954816
+      ],
+      [
+       -122.336451641436,
+       47.6013565230198
+      ],
+      [
+       -122.336449622696,
+       47.6013541476004
+      ],
+      [
+       -122.336447603876,
+       47.6013517693743
+      ],
+      [
+       -122.336445593294,
+       47.6013493889334
+      ],
+      [
+       -122.336443586782,
+       47.6013470056309
+      ],
+      [
+       -122.336441583361,
+       47.6013446215855
+      ],
+      [
+       -122.336439589197,
+       47.60134223461
+      ],
+      [
+       -122.336437598166,
+       47.6013398482951
+      ],
+      [
+       -122.33643561631,
+       47.6013374562432
+      ],
+      [
+       -122.336433633498,
+       47.6013350670117
+      ],
+      [
+       -122.336431659841,
+       47.6013326713417
+      ],
+      [
+       -122.336429692429,
+       47.6013302762911
+      ],
+      [
+       -122.336427725872,
+       47.6013278749115
+      ],
+      [
+       -122.336425770849,
+       47.6013254775913
+      ],
+      [
+       -122.336423816661,
+       47.6013230732404
+      ],
+      [
+       -122.336421870894,
+       47.60132067299
+      ],
+      [
+       -122.336419927956,
+       47.6013182628748
+      ],
+      [
+       -122.336417988192,
+       47.6013158548236
+      ],
+      [
+       -122.336416057704,
+       47.6013134445438
+      ],
+      [
+       -122.336414131224,
+       47.6013110292974
+      ],
+      [
+       -122.336412209016,
+       47.6013086182062
+      ],
+      [
+       -122.336410307436,
+       47.6013062026308
+      ],
+      [
+       -122.336407492996,
+       47.6013026528228
+      ],
+      [
+       -122.336405590217,
+       47.6013002316474
+      ],
+      [
+       -122.336403695758,
+       47.6012978110641
+      ],
+      [
+       -122.336399918985,
+       47.6012929592076
+      ],
+      [
+       -122.33639803775,
+       47.601290529324
+      ],
+      [
+       -122.336396161722,
+       47.6012881000736
+      ],
+      [
+       -122.336394291839,
+       47.6012856679342
+      ],
+      [
+       -122.336392426024,
+       47.6012832329331
+      ],
+      [
+       -122.336390568529,
+       47.6012807985241
+      ],
+      [
+       -122.336388714026,
+       47.6012783598638
+      ],
+      [
+       -122.336386867761,
+       47.6012759189888
+      ],
+      [
+       -122.336385022473,
+       47.6012734759949
+      ],
+      [
+       -122.33638318754,
+       47.6012710321622
+      ],
+      [
+       -122.336381357814,
+       47.6012685889627
+      ],
+      [
+       -122.336379531019,
+       47.6012661394069
+      ],
+      [
+       -122.336377708394,
+       47.6012636904979
+      ],
+      [
+       -122.336375895106,
+       47.6012612414655
+      ],
+      [
+       -122.336374084748,
+       47.6012587860767
+      ],
+      [
+       -122.336372279599,
+       47.6012563313211
+      ],
+      [
+       -122.336370480592,
+       47.6012538736765
+      ],
+      [
+       -122.336368686754,
+       47.6012514152616
+      ],
+      [
+       -122.336366895987,
+       47.6012489554022
+      ],
+      [
+       -122.336365114517,
+       47.601246494016
+      ],
+      [
+       -122.336363341306,
+       47.6012440311168
+      ],
+      [
+       -122.336361566957,
+       47.6012415647228
+      ],
+      [
+       -122.336359801924,
+       47.6012390975038
+      ],
+      [
+       -122.336358039964,
+       47.6012366288402
+      ],
+      [
+       -122.336356286202,
+       47.6012341565585
+      ],
+      [
+       -122.336354539703,
+       47.6012316841808
+      ],
+      [
+       -122.33635279003,
+       47.6012292097392
+      ],
+      [
+       -122.33635225859,
+       47.6012284530328
+      ],
+      [
+       -122.336336142558,
+       47.6012039718586
+      ],
+      [
+       -122.336298497423,
+       47.6011467909227
+      ],
+      [
+       -122.336230203667,
+       47.601023484232
+      ],
+      [
+       -122.337478509948,
+       47.6010243806134
+      ],
+      [
+       -122.338468226676,
+       47.6010240862202
+      ],
+      [
+       -122.338429491816,
+       47.6009270050681
+      ],
+      [
+       -122.338431041472,
+       47.6007499443109
+      ],
+      [
+       -122.337632673188,
+       47.6007497336059
+      ],
+      [
+       -122.336129058011,
+       47.6007493225436
+      ],
+      [
+       -122.336112150082,
+       47.6006710981686
+      ],
+      [
+       -122.336105583767,
+       47.600631817145
+      ],
+      [
+       -122.336095941479,
+       47.6005494830132
+      ],
+      [
+       -122.33609182897,
+       47.6004669382537
+      ],
+      [
+       -122.336091708006,
+       47.600373179679
+      ],
+      [
+       -122.336091749102,
+       47.6003023939613
+      ],
+      [
+       -122.33609020212,
+       47.6002574085302
+      ],
+      [
+       -122.33608061761,
+       47.6002511866503
+      ],
+      [
+       -122.3360659965,
+       47.600241694203
+      ],
+      [
+       -122.336036754357,
+       47.6002227114078
+      ],
+      [
+       -122.336036677175,
+       47.599522471984
+      ],
+      [
+       -122.336034149475,
+       47.5993621401685
+      ],
+      [
+       -122.336034885601,
+       47.5993322095992
+      ],
+      [
+       -122.336038774079,
+       47.5992975160388
+      ],
+      [
+       -122.336042219693,
+       47.5992808763014
+      ],
+      [
+       -122.336083097914,
+       47.5992811183074
+      ],
+      [
+       -122.336130323461,
+       47.5992813978899
+      ],
+      [
+       -122.340337122472,
+       47.5993061886972
+      ],
+      [
+       -122.341191298959,
+       47.5993077034929
+      ],
+      [
+       -122.340877661455,
+       47.601024652161
+      ],
+      [
+       -122.340886156293,
+       47.6031180374891
+      ],
+      [
+       -122.340863246015,
+       47.6034942119005
+      ],
+      [
+       -122.341132857424,
+       47.6038787015497
+      ],
+      [
+       -122.339703093283,
+       47.6038989499358
+      ],
+      [
+       -122.33901149244,
+       47.6039087378745
+      ],
+      [
+       -122.338787280915,
+       47.6039116613558
+      ],
+      [
+       -122.340381568592,
+       47.6056543032169
+      ],
+      [
+       -122.340440404767,
+       47.6058228665584
+      ],
+      [
+       -122.341338493047,
+       47.6068004969089
+      ],
+      [
+       -122.341448166687,
+       47.6069066896537
+      ],
+      [
+       -122.341699111455,
+       47.6071244190253
+      ],
+      [
+       -122.341966436377,
+       47.6073253497755
+      ],
+      [
+       -122.342107715125,
+       47.6074209592297
+      ],
+      [
+       -122.342315777919,
+       47.6075522140451
+      ],
+      [
+       -122.3435953589,
+       47.607527734329
+      ],
+      [
+       -122.344227523552,
+       47.6075009798067
+      ],
+      [
+       -122.344726176621,
+       47.6077949069189
+      ],
+      [
+       -122.3486563676,
+       47.6101268955069
+      ],
+      [
+       -122.349464048797,
+       47.6106085485621
+      ],
+      [
+       -122.350555046881,
+       47.6112535745713
+      ],
+      [
+       -122.350989041238,
+       47.611475159584
+      ],
+      [
+       -122.351969697129,
+       47.6119756024603
+      ],
+      [
+       -122.352519152752,
+       47.612254797626
+      ],
+      [
+       -122.352603157383,
+       47.6122909619875
+      ],
+      [
+       -122.352817309497,
+       47.6124080384271
+      ],
+      [
+       -122.353998067112,
+       47.6130094243457
+      ],
+      [
+       -122.354802468907,
+       47.613418413609
+      ],
+      [
+       -122.35564636235,
+       47.6138474680262
+      ],
+      [
+       -122.357201968246,
+       47.6146379836548
+      ],
+      [
+       -122.360224100618,
+       47.6168725085933
+      ],
+      [
+       -122.359696994201,
+       47.61687171701
+      ],
+      [
+       -122.358053931856,
+       47.6168749246837
+      ],
+      [
+       -122.357206447259,
+       47.6168749213312
+      ],
+      [
+       -122.357291040732,
+       47.6167948960805
+      ],
+      [
+       -122.356172846624,
+       47.6159313010253
+      ],
+      [
+       -122.355989727436,
+       47.6158231261705
+      ],
+      [
+       -122.355699310616,
+       47.6156513507148
+      ],
+      [
+       -122.354932519245,
+       47.615203844192
+      ],
+      [
+       -122.354783081677,
+       47.6151572758394
+      ],
+      [
+       -122.35381680871,
+       47.6145947799629
+      ],
+      [
+       -122.353279421873,
+       47.6142779982354
+      ],
+      [
+       -122.352991029302,
+       47.6141079930925
+      ],
+      [
+       -122.35195865593,
+       47.6134994008653
+      ],
+      [
+       -122.351006884685,
+       47.6129483598476
+      ],
+      [
+       -122.350812795061,
+       47.6128113323976
+      ],
+      [
+       -122.350112174899,
+       47.612363830898
+      ],
+      [
+       -122.349172077498,
+       47.6118427376395
+      ],
+      [
+       -122.348962953509,
+       47.6116715065985
+      ],
+      [
+       -122.348976212594,
+       47.6116498704511
+      ],
+      [
+       -122.348998883492,
+       47.6116186374263
+      ],
+      [
+       -122.349009196525,
+       47.6116059104503
+      ],
+      [
+       -122.349020989941,
+       47.6115927952268
+      ],
+      [
+       -122.348904011142,
+       47.6115232499558
+      ],
+      [
+       -122.348376254831,
+       47.6112132578578
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 2537,
+    "ZONEID": 4090,
+    "ZONING": "DH1/45",
+    "CONTRACT": " ",
+    "ORDINANCE": " ",
+    "EFFECTIVE": null,
+    "HISTORIC": " ",
+    "PEDESTRIAN": " ",
+    "SHORELINE": "UH",
+    "OVERLAY": "DF",
+    "LIGHTRAIL": " ",
+    "MHA": "N",
+    "IZ": "N",
+    "MHA_VALUE": null,
+    "MIO_NAME": null,
+    "CLASS_DESC": "Downtown",
+    "CATEGORY_DESC": "Downtown",
+    "ZONELUT": "DH1",
+    "ZONELUT_DESC": "Downtown Harborfront 1",
+    "DETAIL_DESC": "Downtown Harborfront",
+    "ZONING_DESC": "Downtown Harborfront 1/45",
+    "BASE_ZONE": "DH1/45",
+    "ZONING_PREV": null,
+    "CONTRACT_PREV": null,
+    "ORDINANCE_PREV": null,
+    "EFFECTIVE_PREV": 767775600000,
+    "HISTORIC_PREV": null,
+    "PEDESTRIAN_PREV": null,
+    "SHORELINE_PREV": null,
+    "OVERLAY_PREV": null,
+    "LIGHTRAIL_PREV": null,
+    "PUBLIC_DESCRIPTION": "is in a zone Downtown where both commercial and residential development is generally allowed.",
+    "CHAPTER": "Chapter 23.49",
+    "CHAPTER_LINK": "https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT23LAUSCO_SUBTITLE_IIILAUSRE_CH23.49DOZO",
+    "ZONINGHISTORY": "DH1/45; DH1/45,05/01/1994",
+    "_pt": [
+     -122.345993,
+     47.607666
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 3587,
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.336884603386,
+       47.6087562235172
+      ],
+      [
+       -122.337440087791,
+       47.6085241522981
+      ],
+      [
+       -122.339256610291,
+       47.6105098911131
+      ],
+      [
+       -122.339918576942,
+       47.6112345655535
+      ],
+      [
+       -122.34002274498,
+       47.6112959853836
+      ],
+      [
+       -122.339592758748,
+       47.6116284826809
+      ],
+      [
+       -122.339545257107,
+       47.6116652067268
+      ],
+      [
+       -122.338701509637,
+       47.6107429507828
+      ],
+      [
+       -122.337591981588,
+       47.611207372417
+      ],
+      [
+       -122.337139509713,
+       47.6107127851836
+      ],
+      [
+       -122.33824727604,
+       47.6102462179154
+      ],
+      [
+       -122.337793033722,
+       47.6097496715836
+      ],
+      [
+       -122.33725038777,
+       47.6099767592681
+      ],
+      [
+       -122.336799319119,
+       47.6094795262918
+      ],
+      [
+       -122.337335860164,
+       47.6092497388564
+      ],
+      [
+       -122.336884603386,
+       47.6087562235172
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 3587,
+    "ZONEID": 7513,
+    "ZONING": "DMC 240/290-440",
+    "CONTRACT": " ",
+    "ORDINANCE": "126917",
+    "EFFECTIVE": 1699167600000,
+    "HISTORIC": " ",
+    "PEDESTRIAN": " ",
+    "SHORELINE": " ",
+    "OVERLAY": "DF",
+    "LIGHTRAIL": " ",
+    "MHA": "Y",
+    "IZ": "Y",
+    "MHA_VALUE": null,
+    "MIO_NAME": null,
+    "CLASS_DESC": "Downtown",
+    "CATEGORY_DESC": "Downtown",
+    "ZONELUT": "DMC",
+    "ZONELUT_DESC": "Downtown Mixed Commercial",
+    "DETAIL_DESC": "Downtown Mixed",
+    "ZONING_DESC": "Downtown Mixed Commercial 240/290-440",
+    "BASE_ZONE": "DMC 240/290-440",
+    "ZONING_PREV": "DRC 85-170",
+    "CONTRACT_PREV": " ",
+    "ORDINANCE_PREV": 125291,
+    "EFFECTIVE_PREV": 1494745200000,
+    "HISTORIC_PREV": " ",
+    "PEDESTRIAN_PREV": " ",
+    "SHORELINE_PREV": " ",
+    "OVERLAY_PREV": "DF",
+    "LIGHTRAIL_PREV": " ",
+    "PUBLIC_DESCRIPTION": "is in a zone Downtown where both commercial and residential development is generally allowed.",
+    "CHAPTER": "Chapter 23.49",
+    "CHAPTER_LINK": "https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT23LAUSCO_SUBTITLE_IIILAUSRE_CH23.49DOZO",
+    "ZONINGHISTORY": "DMC 240/290-440,ORD126917,11/05/2023; DRC 85-170,ORD125291,05/14/2017; DRC 85-150",
+    "_pt": [
+     -122.338198,
+     47.610163
+    ],
+    "_inside": false
+   }
+  }
+ ]
+}

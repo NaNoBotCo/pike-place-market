@@ -1,0 +1,19 @@
+# Pike Place Market — the twelve acres, counted
+
+A directory and GIS map of the Pike Place Market Historical District, Seattle, built
+from open data and bounded by the district's own polygon.
+
+The boundary is Seattle Land Use Code chapter 25.24, overlay code PP, taken from the
+city's zoning overlay layer. Everything on this site is that polygon answering yes or
+no to a point.
+
+- https://nanobotco.github.io/pike-place-market/directory/ — businesses grouped by the building they stand in
+- https://nanobotco.github.io/pike-place-market/map/ — every point, drawn from this site's own GeoJSON, no tile server
+- https://nanobotco.github.io/pike-place-market/age/ — how long licences have run, inside the line and just outside it
+- https://nanobotco.github.io/pike-place-market/fence/ — how the boundary is drawn and what falls inside it
+- https://nanobotco.github.io/pike-place-market/sources/ — every dataset, its licence and the hour it was read
+- https://nanobotco.github.io/pike-place-market/api/ — the GeoJSON and JSON files
+
+Data: City of Seattle open data; OpenStreetMap contributors (ODbL 1.0); the Pike Place
+Market PDA's own vendor roster; Wikimedia Commons for photographs. Code MIT, text and
+figures CC BY 4.0.

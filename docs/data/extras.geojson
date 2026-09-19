@@ -1,0 +1,1084 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.344013,
+     47.610429
+    ]
+   },
+   "properties": {
+    "kind": "public art",
+    "name": "The Tree of Life"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.344135,
+     47.610125
+    ]
+   },
+   "properties": {
+    "kind": "public art",
+    "name": "Untitled Fence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.343838,
+     47.609927
+    ]
+   },
+   "properties": {
+    "kind": "public art",
+    "name": "Untitled Fence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.344119,
+     47.610132
+    ]
+   },
+   "properties": {
+    "kind": "public art",
+    "name": "Untitled Totem Pole"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.343819,
+     47.609952
+    ]
+   },
+   "properties": {
+    "kind": "public art",
+    "name": "Farmer's Pole"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341192,
+     47.60992
+    ]
+   },
+   "properties": {
+    "kind": "tree",
+    "name": "Greenspire Littleleaf Linden"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342371,
+     47.610832
+    ]
+   },
+   "properties": {
+    "kind": "tree",
+    "name": "Scarlet Oak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.343606,
+     47.610482
+    ]
+   },
+   "properties": {
+    "kind": "tree",
+    "name": "Red Oak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341268,
+     47.610023
+    ]
+   },
+   "properties": {
+    "kind": "tree",
+    "name": "Greenspire Littleleaf Linden"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342515,
+     47.610915
+    ]
+   },
+   "properties": {
+    "kind": "tree",
+    "name": "Scarlet Oak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.343538,
+     47.610107
+    ]
+   },
+   "properties": {
+    "kind": "tree",
+    "name": "Honey Locust"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341998,
+     47.609182
+    ]
+   },
+   "properties": {
+    "kind": "tree",
+    "name": "Coast Redwood"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341011,
+     47.608343
+    ]
+   },
+   "properties": {
+    "kind": "tree",
+    "name": "Accolade Elm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340775,
+     47.608114
+    ]
+   },
+   "properties": {
+    "kind": "tree",
+    "name": "Magnolia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340826,
+     47.608175
+    ]
+   },
+   "properties": {
+    "kind": "tree",
+    "name": "Magnolia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341959,
+     47.610583
+    ]
+   },
+   "properties": {
+    "kind": "tree",
+    "name": "Scarlet Oak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341766,
+     47.610476
+    ]
+   },
+   "properties": {
+    "kind": "tree",
+    "name": "Red Oak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341524,
+     47.610332
+    ]
+   },
+   "properties": {
+    "kind": "tree",
+    "name": "Scarlet Oak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341657,
+     47.61041
+    ]
+   },
+   "properties": {
+    "kind": "tree",
+    "name": "Red Oak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341838,
+     47.609004
+    ]
+   },
+   "properties": {
+    "kind": "tree",
+    "name": "Kousa Dogwood"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341776,
+     47.608939
+    ]
+   },
+   "properties": {
+    "kind": "tree",
+    "name": "Beni Fuji Dogwood"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341284,
+     47.609743
+    ]
+   },
+   "properties": {
+    "kind": "tree",
+    "name": "Bristlecone Pine"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341981,
+     47.609161
+    ]
+   },
+   "properties": {
+    "kind": "tree",
+    "name": "Kousa Dogwood"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341352,
+     47.609715
+    ]
+   },
+   "properties": {
+    "kind": "tree",
+    "name": "Bristlecone Pine"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341172,
+     47.608474
+    ]
+   },
+   "properties": {
+    "kind": "tree",
+    "name": "Littleleaf Linden"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342208,
+     47.61074
+    ]
+   },
+   "properties": {
+    "kind": "tree",
+    "name": "Red Oak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.343638,
+     47.610182
+    ]
+   },
+   "properties": {
+    "kind": "tree",
+    "name": "Honey Locust"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.343432,
+     47.610037
+    ]
+   },
+   "properties": {
+    "kind": "tree",
+    "name": "Honey Locust"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341339,
+     47.610105
+    ]
+   },
+   "properties": {
+    "kind": "tree",
+    "name": "Greenspire Littleleaf Linden"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341721,
+     47.608885
+    ]
+   },
+   "properties": {
+    "kind": "tree",
+    "name": "Beni Fuji Dogwood"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342533,
+     47.611021
+    ]
+   },
+   "properties": {
+    "kind": "crossing",
+    "name": "crossing"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341866,
+     47.609168
+    ]
+   },
+   "properties": {
+    "kind": "crossing",
+    "name": "crossing"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34143,
+     47.610206
+    ]
+   },
+   "properties": {
+    "kind": "crossing",
+    "name": "crossing"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341414,
+     47.610352
+    ]
+   },
+   "properties": {
+    "kind": "crossing",
+    "name": "crossing"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341043,
+     47.609764
+    ]
+   },
+   "properties": {
+    "kind": "crossing",
+    "name": "crossing"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.343719,
+     47.610424
+    ]
+   },
+   "properties": {
+    "kind": "crossing",
+    "name": "crossing"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.343605,
+     47.610279
+    ]
+   },
+   "properties": {
+    "kind": "crossing",
+    "name": "crossing"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341286,
+     47.610212
+    ]
+   },
+   "properties": {
+    "kind": "crossing",
+    "name": "crossing"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608427
+    ]
+   },
+   "properties": {
+    "kind": "crossing",
+    "name": "crossing"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341069,
+     47.60947
+    ]
+   },
+   "properties": {
+    "kind": "parking",
+    "name": "parking"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342131,
+     47.608979
+    ]
+   },
+   "properties": {
+    "kind": "parking",
+    "name": "parking"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34168,
+     47.609435
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.343401,
+     47.610443
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341892,
+     47.609399
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342153,
+     47.609554
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341748,
+     47.609913
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341912,
+     47.609334
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341525,
+     47.610328
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341407,
+     47.610199
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342631,
+     47.610985
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.343131,
+     47.610778
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340735,
+     47.608877
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340057,
+     47.608811
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.344008,
+     47.610625
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34385,
+     47.61071
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340798,
+     47.608754
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341047,
+     47.608398
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341872,
+     47.609975
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340119,
+     47.60879
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341386,
+     47.610203
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341498,
+     47.610275
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342067,
+     47.609678
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341447,
+     47.609523
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.343497,
+     47.61036
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34356,
+     47.610417
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.343035,
+     47.610675
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341596,
+     47.609625
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340217,
+     47.608909
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340058,
+     47.608724
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.343452,
+     47.610324
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340971,
+     47.609722
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341079,
+     47.609841
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34099,
+     47.609743
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340095,
+     47.608769
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.343494,
+     47.610254
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.343646,
+     47.610173
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342087,
+     47.60926
+    ]
+   },
+   "properties": {
+    "kind": "kerb space",
+    "name": "kerb space"
+   }
+  }
+ ],
+ "note": "City of Seattle open data"
+}

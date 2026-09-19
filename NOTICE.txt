@@ -1,0 +1,42 @@
+Pike Place Market — the twelve acres, counted
+https://nanobotco.github.io/pike-place-market/
+
+LICENCES, BY PART
+
+  Code (tools/, tests/)                     MIT — see LICENSE-MIT
+  Prose, figures and derived measurements   CC BY 4.0 — see LICENSE
+    data/analysis.json and everything computed from it: the tenure figures, the
+    inside-and-outside comparison, the place grouping, the acreage difference.
+    Attribute as "Pike Place Market — the twelve acres, counted,
+    https://nanobotco.github.io/pike-place-market/".
+
+  Building outlines, streets, paths, POIs   ODbL 1.0
+    © OpenStreetMap contributors. data/harvest/osm-*.json and docs/data/ground.geojson,
+    buildings.geojson and osm.geojson carry OpenStreetMap's share-alike terms, which
+    travel with any redistribution. The attribution prints on the map.
+
+  District boundary, addresses, licences,
+  parcels, trees, crossings, public art,
+  kerb space, parking                       City of Seattle open data
+    data.seattle.gov and data-seattlecitygis.opendata.arcgis.com. The city asserts no
+    licence over these; they are published as open data.
+
+  Vendor roster, categories, hours          Pike Place Market Preservation and
+                                            Development Authority
+    pikeplacemarket.org. Vendor names, descriptions and categories belong to the Market
+    and its vendors and are held here as facts about who trades where, quoted short,
+    each linked back to the page it came from. Its robots.txt permits crawling and asks
+    ten seconds between requests; tools/harvest_pda.py waits ten.
+
+  Photographs                               each as named beside it
+    Wikimedia Commons. CC0, public domain, CC BY, CC BY-SA and the Free Art Licence.
+    The author, the licence and the Commons page print beside every picture.
+
+  MapLibre GL JS 4.7.1                      3-Clause BSD
+    vendor/maplibre-gl.js and .css — see vendor/maplibre-LICENSE.txt.
+
+NOT INCLUDED
+
+  No photograph of Daniel T. Fleming's work is in this repository. The page about him
+  is built from the city's licence record, the Market's own published description and
+  a link to his site.

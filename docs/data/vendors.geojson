@@ -1,0 +1,3984 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "THE ART STALL GALLERY",
+    "legal": "THE ART STALL GALLERY",
+    "trade": "Art Dealers",
+    "sector": "Retail",
+    "naics": "459920",
+    "start": "19650219",
+    "years": 61.58,
+    "address": "97 PIKE ST",
+    "unit": "",
+    "building": null,
+    "place": "97-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "ATHENIAN INN",
+    "legal": "CATERING ADVISORS INC",
+    "trade": "Limited-Service Restaurants",
+    "sector": "Food and lodging",
+    "naics": "722513",
+    "start": "19660906",
+    "years": 60.04,
+    "address": "1517 PIKE PL",
+    "unit": "",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "PURE FOOD FISH MARKET",
+    "legal": "SOLOMON AMON INC",
+    "trade": "Meat Retailers",
+    "sector": "Retail",
+    "naics": "445240",
+    "start": "19680801",
+    "years": 58.13,
+    "address": "1511 PIKE PL",
+    "unit": "",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "DE LAURENTI ITALIAN & INTL FOODS INC",
+    "legal": "DE LAURENTI ITALIAN & INTL FOODS INC",
+    "trade": "Supermarkets and Other Grocery Retailers (except Convenience Retailers)",
+    "sector": "Retail",
+    "naics": "445110",
+    "start": "19730401",
+    "years": 53.47,
+    "address": "1435 1ST AVE",
+    "unit": "",
+    "building": null,
+    "place": "1435-1st-ave",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34135,
+     47.609325
+    ]
+   },
+   "properties": {
+    "name": "COPACABANA CAFE",
+    "legal": "MORROW M & MORROW M",
+    "trade": "Limited-Service Restaurants",
+    "sector": "Food and lodging",
+    "naics": "722513",
+    "start": "19750215",
+    "years": 51.59,
+    "address": "1520 1/2 PIKE PL",
+    "unit": "",
+    "building": "triangle-building",
+    "place": "triangle-building",
+    "place_kind": "building",
+    "placed": "nearest",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.343137,
+     47.610419
+    ]
+   },
+   "properties": {
+    "name": "PIKE & WESTERN CO",
+    "legal": "PIKE & WESTERN CO",
+    "trade": "Beer, Wine, and Liquor Retailers",
+    "sector": "Retail",
+    "naics": "445320",
+    "start": "19750716",
+    "years": 51.18,
+    "address": "1934 PIKE PL",
+    "unit": "",
+    "building": "pike-virginia-building",
+    "place": "pike-virginia-building",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "FRANTIC ART",
+    "legal": "SHEEN WRAY A",
+    "trade": "All Other Miscellaneous Retailers",
+    "sector": "Retail",
+    "naics": "459999",
+    "start": "19751208",
+    "years": 50.78,
+    "address": "1511 PIKE PL",
+    "unit": "",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340815,
+     47.608328
+    ]
+   },
+   "properties": {
+    "name": "ARTAS USUWIL",
+    "legal": "NIEUWEJAAR R & NIEUWEJAAR G",
+    "trade": "All Other Miscellaneous Retailers",
+    "sector": "Retail",
+    "naics": "459999",
+    "start": "19771106",
+    "years": 48.87,
+    "address": "85 PIKE ST",
+    "unit": "",
+    "building": null,
+    "place": "85-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340523,
+     47.608955
+    ]
+   },
+   "properties": {
+    "name": "PIKE PLACE FISH MARKET INC",
+    "legal": "PIKE PLACE FISH MARKET INC",
+    "trade": "Fish and Seafood Retailers",
+    "sector": "Retail",
+    "naics": "445250",
+    "start": "19780601",
+    "years": 48.3,
+    "address": "86 PIKE ST",
+    "unit": "",
+    "building": "corner-market",
+    "place": "corner-market",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340792,
+     47.60918
+    ]
+   },
+   "properties": {
+    "name": "MATHERS JACK S",
+    "legal": "MATHERS JACK S",
+    "trade": "Fish and Seafood Merchant Wholesalers",
+    "sector": "Wholesale",
+    "naics": "424460",
+    "start": "19790806",
+    "years": 47.12,
+    "address": "1514 PIKE PL # 2",
+    "unit": "2",
+    "building": "sanitary-public-market",
+    "place": "sanitary-public-market",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "HOUSE OF JADE",
+    "legal": "KUO TRAKARNSILPA & KUO",
+    "trade": "All Other Miscellaneous Retailers",
+    "sector": "Retail",
+    "naics": "459999",
+    "start": "19800101",
+    "years": 46.72,
+    "address": "1501 PIKE PL # 433",
+    "unit": "433",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340792,
+     47.60918
+    ]
+   },
+   "properties": {
+    "name": "PIKE PL MARKET CREAMERY",
+    "legal": "DOUTY NANCY I",
+    "trade": "All Other Specialty Food Retailers",
+    "sector": "Retail",
+    "naics": "445298",
+    "start": "19800401",
+    "years": 46.47,
+    "address": "1514 PIKE PL # 3",
+    "unit": "3",
+    "building": "sanitary-public-market",
+    "place": "sanitary-public-market",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342335,
+     47.609944
+    ]
+   },
+   "properties": {
+    "name": "TOTEM SMOKEHOUSE INC",
+    "legal": "TOTEM SMOKEHOUSE INC",
+    "trade": "Supermarkets and Other Grocery Retailers (except Convenience Retailers)",
+    "sector": "Retail",
+    "naics": "445110",
+    "start": "19801015",
+    "years": 45.93,
+    "address": "1906 PIKE PL",
+    "unit": "",
+    "building": "stewart-house",
+    "place": "stewart-house",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340815,
+     47.608328
+    ]
+   },
+   "properties": {
+    "name": "NATURES CORNER",
+    "legal": "GUEST RANDY B",
+    "trade": "All Other Miscellaneous Retailers",
+    "sector": "Retail",
+    "naics": "459999",
+    "start": "19810711",
+    "years": 45.19,
+    "address": "85 PIKE ST",
+    "unit": "",
+    "building": null,
+    "place": "85-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "MARKET COINS",
+    "legal": "STRAND DARRELL",
+    "trade": "All Other Miscellaneous Retailers",
+    "sector": "Retail",
+    "naics": "459999",
+    "start": "19810901",
+    "years": 45.05,
+    "address": "1501 PIKE PL # 422",
+    "unit": "422",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "RUBYS SEATTLE GIFT GALLERY",
+    "legal": "FRANCISCO RODELIO & RUBY",
+    "trade": "Gift, Novelty, and Souvenir Retailers",
+    "sector": "Retail",
+    "naics": "459420",
+    "start": "19810904",
+    "years": 45.04,
+    "address": "1501 PIKE PL # 505",
+    "unit": "505",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340815,
+     47.608328
+    ]
+   },
+   "properties": {
+    "name": "CHOW JIMMY K C",
+    "legal": "CHOW JIMMY K C",
+    "trade": "Jewelry Retailers",
+    "sector": "Retail",
+    "naics": "458310",
+    "start": "19811001",
+    "years": 44.97,
+    "address": "85 PIKE ST",
+    "unit": "",
+    "building": null,
+    "place": "85-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342143,
+     47.610413
+    ]
+   },
+   "properties": {
+    "name": "ECOTOPE INC",
+    "legal": "ECOTOPE INC",
+    "trade": "Research and Development in Biotechnology (except Nanobiotechnology)",
+    "sector": "Professional services",
+    "naics": "541714",
+    "start": "19820101",
+    "years": 44.72,
+    "address": "1917 1ST AVE # 300",
+    "unit": "300",
+    "building": "alaska-trade-building",
+    "place": "alaska-trade-building",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340815,
+     47.608328
+    ]
+   },
+   "properties": {
+    "name": "ANN ORIGINAL",
+    "legal": "DUNLAP-BROWN ANN",
+    "trade": "All Other Miscellaneous Retailers",
+    "sector": "Retail",
+    "naics": "459999",
+    "start": "19820301",
+    "years": 44.55,
+    "address": "85 PIKE ST",
+    "unit": "",
+    "building": null,
+    "place": "85-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340523,
+     47.608955
+    ]
+   },
+   "properties": {
+    "name": "MARAKESH HANDCRAFT",
+    "legal": "PATTERSON JAN M",
+    "trade": "Luggage and Leather Goods Retailers",
+    "sector": "Retail",
+    "naics": "458320",
+    "start": "19820701",
+    "years": 44.22,
+    "address": "88 PIKE ST",
+    "unit": "",
+    "building": "corner-market",
+    "place": "corner-market",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "PIKE MARKET CHILD CARE & PRESCHO",
+    "legal": "PIKE MARKET CHILD CARE CENTER",
+    "trade": "Child Care Services",
+    "sector": "Health and care",
+    "naics": "624410",
+    "start": "19821001",
+    "years": 43.97,
+    "address": "1501 PIKE PL # 222",
+    "unit": "222",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342335,
+     47.609944
+    ]
+   },
+   "properties": {
+    "name": "LE PANIER",
+    "legal": "LE PANIER INC",
+    "trade": "Commercial Bakeries",
+    "sector": "Making",
+    "naics": "311812",
+    "start": "19830629",
+    "years": 43.23,
+    "address": "1902 PIKE PL",
+    "unit": "",
+    "building": "stewart-house",
+    "place": "stewart-house",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "LOWELLS RESTAURANT",
+    "legal": "CHATALAS WILLIAM B",
+    "trade": "Limited-Service Restaurants",
+    "sector": "Food and lodging",
+    "naics": "722513",
+    "start": "19840101",
+    "years": 42.72,
+    "address": "1519 PIKE PL",
+    "unit": "",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "A A ALL SHOP INC",
+    "legal": "A A ALL SHOP INC",
+    "trade": "Used Merchandise Retailers",
+    "sector": "Retail",
+    "naics": "459510",
+    "start": "19840101",
+    "years": 42.72,
+    "address": "1501 PIKE PL # 404",
+    "unit": "404",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "ERNIE SEPPA & CO",
+    "legal": "SEPPA ERNEST S",
+    "trade": "Jewelry Retailers",
+    "sector": "Retail",
+    "naics": "458310",
+    "start": "19840117",
+    "years": 42.67,
+    "address": "1511 PIKE PL # 87",
+    "unit": "87",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342335,
+     47.609944
+    ]
+   },
+   "properties": {
+    "name": "GREGARIAN ENTERPRISES",
+    "legal": "ANDERSON GRAIG S",
+    "trade": "All Other Miscellaneous Retailers",
+    "sector": "Retail",
+    "naics": "459999",
+    "start": "19840131",
+    "years": 42.63,
+    "address": "80 STEWART ST # 326",
+    "unit": "326",
+    "building": "stewart-house",
+    "place": "stewart-house",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342506,
+     47.610139
+    ]
+   },
+   "properties": {
+    "name": "PINK DOOR THE",
+    "legal": "THE PINK DOOR INC",
+    "trade": "Limited-Service Restaurants",
+    "sector": "Food and lodging",
+    "naics": "722513",
+    "start": "19840401",
+    "years": 42.47,
+    "address": "1919 POST ALY",
+    "unit": "",
+    "building": null,
+    "place": "1919-post-alley",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "GOLDEN AGE COLLECTABLES LTD",
+    "legal": "GOLDEN AGE COLLECTABLES LTD",
+    "trade": "Used Merchandise Retailers",
+    "sector": "Retail",
+    "naics": "459510",
+    "start": "19840801",
+    "years": 42.13,
+    "address": "1501 PIKE PL # 401",
+    "unit": "401",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "AFGHAN CRAFT",
+    "legal": "POPAL MOHAMMAD A",
+    "trade": "All Other Miscellaneous Retailers",
+    "sector": "Retail",
+    "naics": "459999",
+    "start": "19850101",
+    "years": 41.71,
+    "address": "1501 PIKE PL # 512",
+    "unit": "512",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342506,
+     47.610139
+    ]
+   },
+   "properties": {
+    "name": "JOHN WILEY PHOTOGRAPHY",
+    "legal": "WILEY JOHN",
+    "trade": "Art Dealers",
+    "sector": "Retail",
+    "naics": "459920",
+    "start": "19850101",
+    "years": 41.71,
+    "address": "1916 PIKE PL # 12-241",
+    "unit": "12-241",
+    "building": null,
+    "place": "1916-pike-pl",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340792,
+     47.60918
+    ]
+   },
+   "properties": {
+    "name": "BASIC STOCK KITCHENWARE INC",
+    "legal": "BASIC STOCK KITCHENWARE INC",
+    "trade": "All Other Home Furnishings Retailers",
+    "sector": "Retail",
+    "naics": "449129",
+    "start": "19850406",
+    "years": 41.45,
+    "address": "1514 PIKE PL # 10",
+    "unit": "10",
+    "building": "sanitary-public-market",
+    "place": "sanitary-public-market",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341376,
+     47.609967
+    ]
+   },
+   "properties": {
+    "name": "INN AT THE MARKET",
+    "legal": "MARKET PLACE CENTER LTD",
+    "trade": "Hotels (except Casino Hotels) and Motels",
+    "sector": "Food and lodging",
+    "naics": "721110",
+    "start": "19850610",
+    "years": 41.28,
+    "address": "86 PINE ST",
+    "unit": "",
+    "building": "inn-at-the-market-building",
+    "place": "inn-at-the-market-building",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340815,
+     47.608328
+    ]
+   },
+   "properties": {
+    "name": "MARKET SPICE",
+    "legal": "SAMUEL & CO INC",
+    "trade": "All Other Specialty Food Retailers",
+    "sector": "Retail",
+    "naics": "445298",
+    "start": "19850701",
+    "years": 41.22,
+    "address": "85 PIKE ST # A",
+    "unit": "A",
+    "building": null,
+    "place": "85-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.343137,
+     47.610419
+    ]
+   },
+   "properties": {
+    "name": "TURKISH DELIGHT",
+    "legal": "YAVUZ & YAVUZ",
+    "trade": "Retail Bakeries",
+    "sector": "Making",
+    "naics": "311811",
+    "start": "19860220",
+    "years": 40.58,
+    "address": "1930 PIKE PL",
+    "unit": "",
+    "building": "pike-virginia-building",
+    "place": "pike-virginia-building",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "MOON VALLEY DESIGNS",
+    "legal": "AMESQUITA JOSE LUIS",
+    "trade": "Jewelry Retailers",
+    "sector": "Retail",
+    "naics": "458310",
+    "start": "19870316",
+    "years": 39.51,
+    "address": "1501 PIKE PL",
+    "unit": "",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "ANTIQUE TOUCH",
+    "legal": "WERRION ILSA",
+    "trade": "Other General Government Support",
+    "sector": "Public bodies",
+    "naics": "921190",
+    "start": "19871001",
+    "years": 38.97,
+    "address": "1501 PIKE PL # 318",
+    "unit": "318",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "EAR REVERENCE",
+    "legal": "DE AGUERO AMY B",
+    "trade": "Jewelry Retailers",
+    "sector": "Retail",
+    "naics": "458310",
+    "start": "19880508",
+    "years": 38.37,
+    "address": "1511 PIKE PL # 85",
+    "unit": "85",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342272,
+     47.610506
+    ]
+   },
+   "properties": {
+    "name": "KELLS IRISH RESTAURANT & BAR",
+    "legal": "MR KELLS INC",
+    "trade": "Limited-Service Restaurants",
+    "sector": "Food and lodging",
+    "naics": "722513",
+    "start": "19880601",
+    "years": 38.3,
+    "address": "1916 POST ALY",
+    "unit": "",
+    "building": null,
+    "place": "1916-post-alley",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "CANDY STORE",
+    "legal": "POPAL MOHAMMAD A",
+    "trade": "Confectionery and Nut Retailers",
+    "sector": "Retail",
+    "naics": "445292",
+    "start": "19880611",
+    "years": 38.27,
+    "address": "1501 PIKE PL # 502",
+    "unit": "502",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "STUDIO SOLSTONE LTD",
+    "legal": "STUDIO SOLSTONE LTD",
+    "trade": "All Other Miscellaneous Retailers",
+    "sector": "Retail",
+    "naics": "459999",
+    "start": "19880701",
+    "years": 38.22,
+    "address": "93 PIKE ST",
+    "unit": "",
+    "building": null,
+    "place": "93-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "UNEXPECTED PRODUCTIONS",
+    "legal": "UNEXPECTED PRODUCTIONS",
+    "trade": "Theater Companies and Dinner Theaters",
+    "sector": "Arts and recreation",
+    "naics": "711110",
+    "start": "19880907",
+    "years": 38.03,
+    "address": "1428 POST ALY",
+    "unit": "",
+    "building": null,
+    "place": "1428-post-alley",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "C SWANBERG CO",
+    "legal": "BLOCKER JOHN A & BLOCKER SONIALYN",
+    "trade": "Gift, Novelty, and Souvenir Retailers",
+    "sector": "Retail",
+    "naics": "459420",
+    "start": "19890101",
+    "years": 37.71,
+    "address": "1525 PIKE PL",
+    "unit": "",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342506,
+     47.610139
+    ]
+   },
+   "properties": {
+    "name": "STARBUCKS COFFEE   301",
+    "legal": "STARBUCKS CORPORATION",
+    "trade": "Snack and Nonalcoholic Beverage Bars",
+    "sector": "Food and lodging",
+    "naics": "722515",
+    "start": "19890101",
+    "years": 37.71,
+    "address": "1912 PIKE PL",
+    "unit": "",
+    "building": null,
+    "place": "1912-pike-pl",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "PIKE MARKET CRYSTAL BOUQUET",
+    "legal": "CRABTREE KAREN L",
+    "trade": "All Other Professional, Scientific, and Technical Services",
+    "sector": "Professional services",
+    "naics": "541990",
+    "start": "19890308",
+    "years": 37.53,
+    "address": "1511 PIKE PL",
+    "unit": "",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34135,
+     47.609325
+    ]
+   },
+   "properties": {
+    "name": "MEE SUM PASTRIES INC",
+    "legal": "MEE SUM PASTRIES INC",
+    "trade": "Retail Bakeries",
+    "sector": "Making",
+    "naics": "311811",
+    "start": "19900501",
+    "years": 36.39,
+    "address": "1526 PIKE PL",
+    "unit": "",
+    "building": "triangle-building",
+    "place": "triangle-building",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "PIKE PLACE CHINESE CUISINE INC",
+    "legal": "PIKE PLACE CHINESE CUISINE INC",
+    "trade": "Limited-Service Restaurants",
+    "sector": "Food and lodging",
+    "naics": "722513",
+    "start": "19900701",
+    "years": 36.22,
+    "address": "1533 PIKE PL",
+    "unit": "",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "MARKET MAGIC SHOP INC",
+    "legal": "MARKET MAGIC SHOP INC",
+    "trade": "Gift, Novelty, and Souvenir Retailers",
+    "sector": "Retail",
+    "naics": "459420",
+    "start": "19940101",
+    "years": 32.72,
+    "address": "1501 PIKE PL # 427",
+    "unit": "427",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340523,
+     47.608955
+    ]
+   },
+   "properties": {
+    "name": "PIKE PLACE FLOWERS",
+    "legal": "PIKE PLACE FLOWERS INC",
+    "trade": "All Other Miscellaneous Retailers",
+    "sector": "Retail",
+    "naics": "459999",
+    "start": "19940112",
+    "years": 32.69,
+    "address": "1501 1ST AVE",
+    "unit": "",
+    "building": "corner-market",
+    "place": "corner-market",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342638,
+     47.610286
+    ]
+   },
+   "properties": {
+    "name": "CHOCOLATE & ICE CREAM DELIGHT",
+    "legal": "CHOCOLATE & ICE CREAM DELIGHT INC",
+    "trade": "Limited-Service Restaurants",
+    "sector": "Food and lodging",
+    "naics": "722513",
+    "start": "19940411",
+    "years": 32.44,
+    "address": "1918 PIKE PL",
+    "unit": "",
+    "building": null,
+    "place": "1918-pike-pl",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "PIKE PLACE TENZING MOMO INC",
+    "legal": "PIKE PLACE TENZING MOMO INC",
+    "trade": "All Other Specialty Food Retailers",
+    "sector": "Retail",
+    "naics": "445298",
+    "start": "19940801",
+    "years": 32.13,
+    "address": "93 PIKE ST",
+    "unit": "",
+    "building": null,
+    "place": "93-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "CREPE DE FRANCE",
+    "legal": "CREPE DE FRANCE INC",
+    "trade": "Snack and Nonalcoholic Beverage Bars",
+    "sector": "Food and lodging",
+    "naics": "722515",
+    "start": "19941201",
+    "years": 31.8,
+    "address": "93 PIKE ST ST # 204",
+    "unit": "204",
+    "building": null,
+    "place": "93-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "FAMOUS PIKE PLACE NUTS",
+    "legal": "WILLS STEVEN M",
+    "trade": "Nonchocolate Confectionery Manufacturing",
+    "sector": "Making",
+    "naics": "311340",
+    "start": "19950101",
+    "years": 31.72,
+    "address": "97 PIKE ST # 2",
+    "unit": "2",
+    "building": null,
+    "place": "97-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341069,
+     47.60947
+    ]
+   },
+   "properties": {
+    "name": "LUNDMARK LINNEA",
+    "legal": "LUNDMARK LINNEA",
+    "trade": "All Other Professional, Scientific, and Technical Services",
+    "sector": "Professional services",
+    "naics": "541990",
+    "start": "19950103",
+    "years": 31.71,
+    "address": "1531 1ST AVE APT 410",
+    "unit": "410",
+    "building": "first-pine-building",
+    "place": "first-pine-building",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "ANIMAL GIFTS & COLLECTIBLE",
+    "legal": "OSMAN NAJEEB A",
+    "trade": "Used Merchandise Retailers",
+    "sector": "Retail",
+    "naics": "459510",
+    "start": "19950401",
+    "years": 31.47,
+    "address": "1501 PIKE PL # 431",
+    "unit": "431",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341376,
+     47.609967
+    ]
+   },
+   "properties": {
+    "name": "FINI",
+    "legal": "FINI INC",
+    "trade": "Clothing and Clothing Accessories Merchant Wholesalers",
+    "sector": "Wholesale",
+    "naics": "424350",
+    "start": "19950901",
+    "years": 31.05,
+    "address": "86 PINE ST",
+    "unit": "",
+    "building": "inn-at-the-market-building",
+    "place": "inn-at-the-market-building",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "SOUND VIEW CAFE",
+    "legal": "AMON ENTERPRISES INC",
+    "trade": "Limited-Service Restaurants",
+    "sector": "Food and lodging",
+    "naics": "722513",
+    "start": "19960401",
+    "years": 30.47,
+    "address": "1501 PIKE PL # 501",
+    "unit": "501",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "MARKET GRILL INC",
+    "legal": "MARKET GRILL INC",
+    "trade": "Limited-Service Restaurants",
+    "sector": "Food and lodging",
+    "naics": "722513",
+    "start": "19960524",
+    "years": 30.32,
+    "address": "1509 PIKE PL # 3",
+    "unit": "3",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342506,
+     47.610139
+    ]
+   },
+   "properties": {
+    "name": "WEIRD WOODS",
+    "legal": "SACKSTEDER KRIS",
+    "trade": "Wood Container and Pallet Manufacturing",
+    "sector": "Making",
+    "naics": "321920",
+    "start": "19961001",
+    "years": 29.97,
+    "address": "1916 PIKE PL #12-155",
+    "unit": "12-155",
+    "building": null,
+    "place": "1916-pike-pl",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "B L M F A LITERARY SALOON",
+    "legal": "JOHNSON JAMES B",
+    "trade": "Book Retailers and News Dealers",
+    "sector": "Retail",
+    "naics": "459210",
+    "start": "19961007",
+    "years": 29.95,
+    "address": "1501 PIKE PL # 322",
+    "unit": "322",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340815,
+     47.608328
+    ]
+   },
+   "properties": {
+    "name": "MAXIMILIEN",
+    "legal": "CORREZE INC",
+    "trade": "Limited-Service Restaurants",
+    "sector": "Food and lodging",
+    "naics": "722513",
+    "start": "19970815",
+    "years": 29.1,
+    "address": "81 PIKE ST #A",
+    "unit": "A",
+    "building": null,
+    "place": "81-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340815,
+     47.608328
+    ]
+   },
+   "properties": {
+    "name": "RAVENS NEST TREASURE",
+    "legal": "RAVENS NEST INC",
+    "trade": "Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers",
+    "sector": "Wholesale",
+    "naics": "423940",
+    "start": "19970901",
+    "years": 29.05,
+    "address": "85 PIKE ST # B",
+    "unit": "B",
+    "building": null,
+    "place": "85-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "HISTORY INK",
+    "legal": "HISTORY INK",
+    "trade": "All Other Miscellaneous Schools and Instruction",
+    "sector": "Teaching",
+    "naics": "611699",
+    "start": "19971113",
+    "years": 28.85,
+    "address": "93 PIKE ST # 315B",
+    "unit": "315B",
+    "building": null,
+    "place": "93-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "MICKS PEPPOURRI INC",
+    "legal": "MICKS PEPPOURRI INC",
+    "trade": "Fruit and Vegetable Retailers",
+    "sector": "Retail",
+    "naics": "445230",
+    "start": "19980101",
+    "years": 28.72,
+    "address": "1531 PIKE PL",
+    "unit": "",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342143,
+     47.610413
+    ]
+   },
+   "properties": {
+    "name": "SONYAS BAR & GRILL",
+    "legal": "SKYYSCRAPER INC",
+    "trade": "Limited-Service Restaurants",
+    "sector": "Food and lodging",
+    "naics": "722513",
+    "start": "19981101",
+    "years": 27.88,
+    "address": "1919 1ST AVE",
+    "unit": "",
+    "building": "alaska-trade-building",
+    "place": "alaska-trade-building",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340523,
+     47.608955
+    ]
+   },
+   "properties": {
+    "name": "LEFT BANK DISTRIBUTION",
+    "legal": "LEFT BANK BOOKS COLLECTIVE",
+    "trade": "Book Retailers and News Dealers",
+    "sector": "Retail",
+    "naics": "459210",
+    "start": "19990101",
+    "years": 27.72,
+    "address": "92 PIKE ST",
+    "unit": "",
+    "building": "corner-market",
+    "place": "corner-market",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342498,
+     47.610642
+    ]
+   },
+   "properties": {
+    "name": "MAGGIES SHOES",
+    "legal": "MAGGIES SHOES LLC",
+    "trade": "Shoe Retailers",
+    "sector": "Retail",
+    "naics": "458210",
+    "start": "19990101",
+    "years": 27.72,
+    "address": "1927 1ST AVE",
+    "unit": "",
+    "building": null,
+    "place": "1927-1st-ave",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "F & J GREAT WESTERN TRADING CO",
+    "legal": "POPAL MOHAMMAD A",
+    "trade": "All Other Miscellaneous Retailers",
+    "sector": "Retail",
+    "naics": "459999",
+    "start": "19990301",
+    "years": 27.55,
+    "address": "1501 PIKE PL #504-508",
+    "unit": "504-508",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "KENT S DE VIGNE DDS PLLC",
+    "legal": "KENT S DEVIGNE DDS MPH PLLC",
+    "trade": "Offices of Dentists",
+    "sector": "Health and care",
+    "naics": "621210",
+    "start": "19990801",
+    "years": 27.14,
+    "address": "93 PIKE ST # 309",
+    "unit": "309",
+    "building": null,
+    "place": "93-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340792,
+     47.60918
+    ]
+   },
+   "properties": {
+    "name": "METSKER MAPS OF SEATTLE",
+    "legal": "ANDERSON MAP COMPANY",
+    "trade": "All Other Publishers",
+    "sector": "Publishing and broadcast",
+    "naics": "513199",
+    "start": "19990801",
+    "years": 27.14,
+    "address": "1511 1ST AVE",
+    "unit": "",
+    "building": "sanitary-public-market",
+    "place": "sanitary-public-market",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342506,
+     47.610139
+    ]
+   },
+   "properties": {
+    "name": "HAMMERING GIRL",
+    "legal": "HENNING KATHRYN A",
+    "trade": "Commercial Photography",
+    "sector": "Professional services",
+    "naics": "541922",
+    "start": "20000401",
+    "years": 26.47,
+    "address": "1916 PIKE PL #155",
+    "unit": "155",
+    "building": null,
+    "place": "1916-pike-pl",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "PEN & INK DRAWINGS BY PATRICK T KERR",
+    "legal": "KERR PATRICK T",
+    "trade": "All Other Miscellaneous Retailers",
+    "sector": "Retail",
+    "naics": "459999",
+    "start": "20000908",
+    "years": 26.03,
+    "address": "1501 PIKE PL # 323",
+    "unit": "323",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341376,
+     47.609967
+    ]
+   },
+   "properties": {
+    "name": "MARCHE & CAFE CAMPAGNE",
+    "legal": "CAMPAGNE PARTNERS LLC",
+    "trade": "Limited-Service Restaurants",
+    "sector": "Food and lodging",
+    "naics": "722513",
+    "start": "20001120",
+    "years": 25.83,
+    "address": "1600 POST ALY",
+    "unit": "",
+    "building": "inn-at-the-market-building",
+    "place": "inn-at-the-market-building",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341069,
+     47.60947
+    ]
+   },
+   "properties": {
+    "name": "SISTERS",
+    "legal": "SISTERS EUROPEAN CAFE INC",
+    "trade": "Limited-Service Restaurants",
+    "sector": "Food and lodging",
+    "naics": "722513",
+    "start": "20010131",
+    "years": 25.63,
+    "address": "1530 POST ALY # 2A",
+    "unit": "2A",
+    "building": "first-pine-building",
+    "place": "first-pine-building",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340523,
+     47.608955
+    ]
+   },
+   "properties": {
+    "name": "SIMPLY THE BEST",
+    "legal": "SWEAT PAUL A",
+    "trade": "Dried and Dehydrated Food Manufacturing",
+    "sector": "Making",
+    "naics": "311423",
+    "start": "20010510",
+    "years": 25.36,
+    "address": "88 PIKE ST",
+    "unit": "",
+    "building": "corner-market",
+    "place": "corner-market",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342335,
+     47.609944
+    ]
+   },
+   "properties": {
+    "name": "LUNGU GIFTS & ANTIQUES",
+    "legal": "KWARA PHILIP B",
+    "trade": "Gift, Novelty, and Souvenir Retailers",
+    "sector": "Retail",
+    "naics": "459420",
+    "start": "20010901",
+    "years": 25.05,
+    "address": "1906 PIKE PL # 7",
+    "unit": "7",
+    "building": "stewart-house",
+    "place": "stewart-house",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342506,
+     47.610139
+    ]
+   },
+   "properties": {
+    "name": "TRISONS",
+    "legal": "SUWANCHOTE CHATNARONG & NAYANA",
+    "trade": "All Other Miscellaneous Retailers",
+    "sector": "Retail",
+    "naics": "459999",
+    "start": "20020102",
+    "years": 24.71,
+    "address": "1916 PIKE PL",
+    "unit": "",
+    "building": null,
+    "place": "1916-pike-pl",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340815,
+     47.608328
+    ]
+   },
+   "properties": {
+    "name": "TRISONS",
+    "legal": "SUWANCHOTE CHATNARONG AND SUWANCHOTE NAYANA",
+    "trade": "Jewelry Retailers",
+    "sector": "Retail",
+    "naics": "458310",
+    "start": "20020102",
+    "years": 24.71,
+    "address": "85 PIKE PLACE ST",
+    "unit": "",
+    "building": null,
+    "place": "85-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340815,
+     47.608328
+    ]
+   },
+   "properties": {
+    "name": "BASILIC",
+    "legal": "STERLING STACEY L",
+    "trade": "All Other Miscellaneous Retailers",
+    "sector": "Retail",
+    "naics": "459999",
+    "start": "20020124",
+    "years": 24.65,
+    "address": "85 PIKE ST #500",
+    "unit": "500",
+    "building": null,
+    "place": "85-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340523,
+     47.608955
+    ]
+   },
+   "properties": {
+    "name": "SHY GIANT FROZEN YOGURT",
+    "legal": "SHAFER BRUCE A & POFF-SHAFER A CELESTE",
+    "trade": "All Other Miscellaneous Retailers",
+    "sector": "Retail",
+    "naics": "459999",
+    "start": "20020612",
+    "years": 24.27,
+    "address": "1500 PIKE PL # 16",
+    "unit": "16",
+    "building": "corner-market",
+    "place": "corner-market",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341376,
+     47.609967
+    ]
+   },
+   "properties": {
+    "name": "EMILY E CURRAN",
+    "legal": "CURRAN EMILY E",
+    "trade": "Beauty Salons",
+    "sector": "Other services",
+    "naics": "812112",
+    "start": "20020701",
+    "years": 24.22,
+    "address": "86 PINE ST ST",
+    "unit": "",
+    "building": "inn-at-the-market-building",
+    "place": "inn-at-the-market-building",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342362,
+     47.610563
+    ]
+   },
+   "properties": {
+    "name": "THE TASTING ROOM",
+    "legal": "TAPENADE INC",
+    "trade": "Limited-Service Restaurants",
+    "sector": "Food and lodging",
+    "naics": "722513",
+    "start": "20021104",
+    "years": 23.87,
+    "address": "1924 POST ALY",
+    "unit": "",
+    "building": null,
+    "place": "1924-post-alley",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341376,
+     47.609967
+    ]
+   },
+   "properties": {
+    "name": "KAYA",
+    "legal": "BIELY AKIKO K",
+    "trade": "Beauty Salons",
+    "sector": "Other services",
+    "naics": "812112",
+    "start": "20021201",
+    "years": 23.8,
+    "address": "86 PINE ST",
+    "unit": "",
+    "building": "inn-at-the-market-building",
+    "place": "inn-at-the-market-building",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "SOSIOS FRUIT & PRODUCE INC",
+    "legal": "SOSIOS FRUIT & PRODUCE INC",
+    "trade": "Fruit and Vegetable Retailers",
+    "sector": "Retail",
+    "naics": "445230",
+    "start": "20030101",
+    "years": 23.72,
+    "address": "1527 PIKE PL",
+    "unit": "",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340815,
+     47.608328
+    ]
+   },
+   "properties": {
+    "name": "MUTSUKO MITSUI",
+    "legal": "PALMS MUTSUKO M",
+    "trade": "Pottery, Ceramics, and Plumbing Fixture Manufacturing",
+    "sector": "Making",
+    "naics": "327110",
+    "start": "20030102",
+    "years": 23.71,
+    "address": "85 PIKE ST",
+    "unit": "",
+    "building": null,
+    "place": "85-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340815,
+     47.608328
+    ]
+   },
+   "properties": {
+    "name": "HAPPY DAYS & FUNNY NIGHTS",
+    "legal": "GREGORY DAN L",
+    "trade": "Independent Artists, Writers, and Performers",
+    "sector": "Arts and recreation",
+    "naics": "711510",
+    "start": "20030102",
+    "years": 23.71,
+    "address": "85 PIKE ST",
+    "unit": "",
+    "building": null,
+    "place": "85-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "OLD SEATTLE PAPERWORKS",
+    "legal": "PAPERHORSE INC",
+    "trade": "Commercial Printing (except Screen and Books)",
+    "sector": "Making",
+    "naics": "323111",
+    "start": "20030701",
+    "years": 23.22,
+    "address": "1501 PIKE PL # 424",
+    "unit": "424",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "THE MINIATURE CAR DEALER",
+    "legal": "HUIZAR JAIME A",
+    "trade": "Other Miscellaneous Nondurable Goods Merchant Wholesalers",
+    "sector": "Wholesale",
+    "naics": "424990",
+    "start": "20031020",
+    "years": 22.92,
+    "address": "1501 PIKE PL # 525",
+    "unit": "525",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341769,
+     47.609697
+    ]
+   },
+   "properties": {
+    "name": "BEECHERS HANDMADE CHEESE",
+    "legal": "BEECHERS HANDMADE CHEESE LLC",
+    "trade": "All Other Specialty Food Retailers",
+    "sector": "Retail",
+    "naics": "445298",
+    "start": "20031119",
+    "years": 22.83,
+    "address": "1600 PIKE PL",
+    "unit": "",
+    "building": "garden-center-building",
+    "place": "garden-center-building",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "MANZO BROS FRUIT & PROD",
+    "legal": "MANZO MARIO S",
+    "trade": "Fruit and Vegetable Retailers",
+    "sector": "Retail",
+    "naics": "445230",
+    "start": "20040101",
+    "years": 22.72,
+    "address": "1509 PIKE PL",
+    "unit": "",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "THE HOUSE OF SILVER & GOLD ANIMAL LOVER",
+    "legal": "HERKISHNANI VINOD L & POOJA",
+    "trade": "Clothing and Clothing Accessories Retailers",
+    "sector": "Retail",
+    "naics": "458110",
+    "start": "20050201",
+    "years": 21.63,
+    "address": "1501 PIKE PL # 407",
+    "unit": "407",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "LA VACA BURRITO EXPRESS",
+    "legal": "REYES MARTINEZ CARLOS F & HERRERA TORRES JUDITH",
+    "trade": "Limited-Service Restaurants",
+    "sector": "Food and lodging",
+    "naics": "722513",
+    "start": "20050401",
+    "years": 21.47,
+    "address": "1429 1ST AVE",
+    "unit": "",
+    "building": null,
+    "place": "1429-1st-ave",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "POLISH POTTERY PLACE INC",
+    "legal": "POLISH POTTERY PLACE INC",
+    "trade": "All Other Miscellaneous Retailers",
+    "sector": "Retail",
+    "naics": "459999",
+    "start": "20050706",
+    "years": 21.21,
+    "address": "1501 PIKE PL #515",
+    "unit": "515",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340815,
+     47.608328
+    ]
+   },
+   "properties": {
+    "name": "BAOSHU",
+    "legal": "JIN BAOSHU",
+    "trade": "All Other Personal Services",
+    "sector": "Other services",
+    "naics": "812990",
+    "start": "20051001",
+    "years": 20.97,
+    "address": "85 PIKE ST # 500",
+    "unit": "500",
+    "building": null,
+    "place": "85-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340815,
+     47.608328
+    ]
+   },
+   "properties": {
+    "name": "FINE GRINDS",
+    "legal": "KNUTSON BRETT M",
+    "trade": "All Other Miscellaneous Retailers",
+    "sector": "Retail",
+    "naics": "459999",
+    "start": "20051012",
+    "years": 20.94,
+    "address": "85 PIKE ST",
+    "unit": "",
+    "building": null,
+    "place": "85-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342506,
+     47.610139
+    ]
+   },
+   "properties": {
+    "name": "SOUND CLEANING",
+    "legal": "DU JOHN",
+    "trade": "Janitorial Services",
+    "sector": "Admin and support",
+    "naics": "561720",
+    "start": "20051112",
+    "years": 20.85,
+    "address": "1916 PIKE PL # 1282",
+    "unit": "1282",
+    "building": null,
+    "place": "1916-pike-pl",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "CONSCIOUS WEAR",
+    "legal": "DAWA TASHI",
+    "trade": "All Other Miscellaneous Retailers",
+    "sector": "Retail",
+    "naics": "459999",
+    "start": "20060101",
+    "years": 20.72,
+    "address": "1501 PIKE PL # 402",
+    "unit": "402",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342335,
+     47.609944
+    ]
+   },
+   "properties": {
+    "name": "SERGIOS BARBER SHOP",
+    "legal": "CURIEL SERGIO",
+    "trade": "Beauty Salons",
+    "sector": "Other services",
+    "naics": "812112",
+    "start": "20060101",
+    "years": 20.72,
+    "address": "1906 PIKE PL # 5",
+    "unit": "5",
+    "building": "stewart-house",
+    "place": "stewart-house",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "CHRISTOPHERS LAMP INC",
+    "legal": "CHRISTOPHERS LAMP INC",
+    "trade": "Administrative Management and General Management Consulting Services",
+    "sector": "Professional services",
+    "naics": "541611",
+    "start": "20060101",
+    "years": 20.72,
+    "address": "1501 PIKE PL # 330",
+    "unit": "330",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342506,
+     47.610139
+    ]
+   },
+   "properties": {
+    "name": "MADAME LAZONGAS TATTOO",
+    "legal": "MADAME LAZONGAS TATTOO LLC",
+    "trade": "All Other Personal Services",
+    "sector": "Other services",
+    "naics": "812990",
+    "start": "20060228",
+    "years": 20.56,
+    "address": "1916 PIKE PL # 12",
+    "unit": "12",
+    "building": null,
+    "place": "1916-pike-pl",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "WSFMA",
+    "legal": "WASHINGTON STATE FARMERS MARKET ASSOCIATION",
+    "trade": "Civic and Social Organizations",
+    "sector": "Other services",
+    "naics": "813410",
+    "start": "20060301",
+    "years": 20.55,
+    "address": "93 PIKE ST # STE 316",
+    "unit": "STE",
+    "building": null,
+    "place": "93-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "DOUBLE DORJEE",
+    "legal": "WOESUNG TENZIN C",
+    "trade": "All Other Miscellaneous Retailers",
+    "sector": "Retail",
+    "naics": "459999",
+    "start": "20060301",
+    "years": 20.55,
+    "address": "1501 PIKE PL #511",
+    "unit": "511",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340815,
+     47.608328
+    ]
+   },
+   "properties": {
+    "name": "FODOUGHGRAFIKS",
+    "legal": "FLEMING DANIEL T",
+    "trade": "All Other Professional, Scientific, and Technical Services",
+    "sector": "Professional services",
+    "naics": "541990",
+    "start": "20060310",
+    "years": 20.53,
+    "address": "85 PIKE ST # 125",
+    "unit": "125",
+    "building": null,
+    "place": "85-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "WANNA CRAFT",
+    "legal": "ARKANIT WANNA",
+    "trade": "All Other Personal Services",
+    "sector": "Other services",
+    "naics": "812990",
+    "start": "20060401",
+    "years": 20.47,
+    "address": "1501 PIKE PL",
+    "unit": "",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "SEW IT SEAMS TIE DYE",
+    "legal": "ROLOSON MARCUS",
+    "trade": "Sewing, Needlework, and Piece Goods Retailers",
+    "sector": "Retail",
+    "naics": "459130",
+    "start": "20060606",
+    "years": 20.29,
+    "address": "1511 PIKE PL",
+    "unit": "",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "PAPPARDELLE'S PASTA OF PIKE PLACE MARKET",
+    "legal": "PASTA GUYS LLC THE",
+    "trade": "Limited-Service Restaurants",
+    "sector": "Food and lodging",
+    "naics": "722513",
+    "start": "20061115",
+    "years": 19.84,
+    "address": "1519 PIKE PL # 8",
+    "unit": "8",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "ROTARY GROCERY",
+    "legal": "ROTARY GROCERY INC",
+    "trade": "Supermarkets and Other Grocery Retailers (except Convenience Retailers)",
+    "sector": "Retail",
+    "naics": "445110",
+    "start": "20070101",
+    "years": 19.72,
+    "address": "1503 PIKE PL # B",
+    "unit": "B",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340815,
+     47.608328
+    ]
+   },
+   "properties": {
+    "name": "PLACE PIGALLE",
+    "legal": "MONTMARTRE INC",
+    "trade": "Limited-Service Restaurants",
+    "sector": "Food and lodging",
+    "naics": "722513",
+    "start": "20070331",
+    "years": 19.47,
+    "address": "81 PIKE ST",
+    "unit": "",
+    "building": null,
+    "place": "81-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340815,
+     47.608328
+    ]
+   },
+   "properties": {
+    "name": "VANG NENG",
+    "legal": "VANG NENG",
+    "trade": "Fruit and Vegetable Retailers",
+    "sector": "Retail",
+    "naics": "445230",
+    "start": "20070524",
+    "years": 19.32,
+    "address": "85 PIKE ST ST # 500",
+    "unit": "500",
+    "building": null,
+    "place": "85-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340815,
+     47.608328
+    ]
+   },
+   "properties": {
+    "name": "THE ALIBI ROOM",
+    "legal": "RJM POST ALLEY CORP",
+    "trade": "Limited-Service Restaurants",
+    "sector": "Food and lodging",
+    "naics": "722513",
+    "start": "20070601",
+    "years": 19.3,
+    "address": "85 PIKE ST # 410",
+    "unit": "410",
+    "building": null,
+    "place": "85-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "OUR FABRIC STASH",
+    "legal": "THE ART BROKERESS LLC",
+    "trade": "Sewing, Needlework, and Piece Goods Retailers",
+    "sector": "Retail",
+    "naics": "459130",
+    "start": "20071001",
+    "years": 18.97,
+    "address": "1501 PIKE PL #326",
+    "unit": "326",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342506,
+     47.610139
+    ]
+   },
+   "properties": {
+    "name": "LQA TODAY",
+    "legal": "SCHAIBLE MICHAEL W",
+    "trade": "Bed-and-Breakfast Inns",
+    "sector": "Food and lodging",
+    "naics": "721191",
+    "start": "20080701",
+    "years": 18.22,
+    "address": "1916 PIKE PL 12 #70",
+    "unit": "70",
+    "building": null,
+    "place": "1916-pike-pl",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341376,
+     47.609967
+    ]
+   },
+   "properties": {
+    "name": "BEYOND THREADS",
+    "legal": "BEYOND THREADS LLC",
+    "trade": "Clothing and Clothing Accessories Merchant Wholesalers",
+    "sector": "Wholesale",
+    "naics": "424350",
+    "start": "20080910",
+    "years": 18.02,
+    "address": "1603 1ST AVE",
+    "unit": "",
+    "building": "inn-at-the-market-building",
+    "place": "inn-at-the-market-building",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340792,
+     47.60918
+    ]
+   },
+   "properties": {
+    "name": "AGELESS ACUPUNCTURE",
+    "legal": "AGELESS ACUPUNCTURE LLC",
+    "trade": "Offices of All Other Miscellaneous Health Practitioners",
+    "sector": "Health and care",
+    "naics": "621399",
+    "start": "20081001",
+    "years": 17.97,
+    "address": "1515 1ST AVE",
+    "unit": "",
+    "building": "sanitary-public-market",
+    "place": "sanitary-public-market",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340815,
+     47.608328
+    ]
+   },
+   "properties": {
+    "name": "BANNER BAGS",
+    "legal": "JONES ROBERT A",
+    "trade": "All Other Miscellaneous Retailers",
+    "sector": "Retail",
+    "naics": "459999",
+    "start": "20081215",
+    "years": 17.76,
+    "address": "85 PIKE ST",
+    "unit": "",
+    "building": null,
+    "place": "85-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341976,
+     47.610214
+    ]
+   },
+   "properties": {
+    "name": "WHITE HORSE TAVERN",
+    "legal": "WHITE HORSE TRADING LLC",
+    "trade": "Drinking Places (Alcoholic Beverages)",
+    "sector": "Food and lodging",
+    "naics": "722410",
+    "start": "20090106",
+    "years": 17.7,
+    "address": "1908 POST ALY",
+    "unit": "",
+    "building": null,
+    "place": "1908-post-alley",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340815,
+     47.608328
+    ]
+   },
+   "properties": {
+    "name": "CHENG CHIO SAELEE GARDEN",
+    "legal": "SAELEE CHENG CHIO",
+    "trade": "Fruit and Vegetable Retailers",
+    "sector": "Retail",
+    "naics": "445230",
+    "start": "20090401",
+    "years": 17.47,
+    "address": "85 PIKE ST",
+    "unit": "",
+    "building": null,
+    "place": "85-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342506,
+     47.610139
+    ]
+   },
+   "properties": {
+    "name": "NW BRIDGE CAPITAL MANAGEMENT LLC",
+    "legal": "NW BRIDGE CAPITAL MANAGEMENT LLC",
+    "trade": "Nonresidential Property Managers",
+    "sector": "Property and rental",
+    "naics": "531312",
+    "start": "20090624",
+    "years": 17.24,
+    "address": "1916 PIKE PL # 12-722",
+    "unit": "12-722",
+    "building": null,
+    "place": "1916-pike-pl",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "RUMMAGE AROUND",
+    "legal": "BRADY MARK S",
+    "trade": "Used Merchandise Retailers",
+    "sector": "Retail",
+    "naics": "459510",
+    "start": "20090801",
+    "years": 17.13,
+    "address": "1501 PIKE PL # 312",
+    "unit": "312",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342506,
+     47.610139
+    ]
+   },
+   "properties": {
+    "name": "PEOPLEPATH INC",
+    "legal": "PEOPLEPATH INC",
+    "trade": "Custom Computer Programming Services",
+    "sector": "Professional services",
+    "naics": "541511",
+    "start": "20091002",
+    "years": 16.96,
+    "address": "1916 PIKE PL # 12-1428",
+    "unit": "12-1428",
+    "building": null,
+    "place": "1916-pike-pl",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340815,
+     47.608328
+    ]
+   },
+   "properties": {
+    "name": "JONI LEE LATHAM",
+    "legal": "LATHAM JONI LEE",
+    "trade": "Used Merchandise Retailers",
+    "sector": "Retail",
+    "naics": "459510",
+    "start": "20091013",
+    "years": 16.93,
+    "address": "85 PIKE ST",
+    "unit": "",
+    "building": null,
+    "place": "85-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "VENTURES",
+    "legal": "VENTURES",
+    "trade": "All Other Miscellaneous Schools and Instruction",
+    "sector": "Teaching",
+    "naics": "611699",
+    "start": "20100211",
+    "years": 16.6,
+    "address": "1501 PIKE PLACE # 521",
+    "unit": "521",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "HOLY COW RECORDS",
+    "legal": "SELIM INC",
+    "trade": "Electronics and Appliance Retailers",
+    "sector": "Retail",
+    "naics": "449210",
+    "start": "20100401",
+    "years": 16.47,
+    "address": "1501 PIKE PL # 325",
+    "unit": "325",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342131,
+     47.608979
+    ]
+   },
+   "properties": {
+    "name": "ALBERG CHERRY FARM",
+    "legal": "ALBERG DAVID",
+    "trade": "Other Noncitrus Fruit Farming",
+    "sector": "Farming",
+    "naics": "111339",
+    "start": "20110415",
+    "years": 15.43,
+    "address": "1531 WESTERN AVE",
+    "unit": "",
+    "building": "pike-place-market-parking",
+    "place": "pike-place-market-parking",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "PUGET SOUND BUSINESS & LITIGATION",
+    "legal": "PUGET SOUND BUSINESS & LITIGATION PLLC",
+    "trade": "Offices of Lawyers",
+    "sector": "Professional services",
+    "naics": "541110",
+    "start": "20110706",
+    "years": 15.21,
+    "address": "1522 WESTERN AVE",
+    "unit": "",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342857,
+     47.609459
+    ]
+   },
+   "properties": {
+    "name": "INDI CHOCOLATE",
+    "legal": "INDI CHOCOLATE LLC",
+    "trade": "Chocolate and Confectionery Manufacturing from Cacao Beans",
+    "sector": "Making",
+    "naics": "311351",
+    "start": "20120201",
+    "years": 14.63,
+    "address": "1901 WESTERN AVE #D",
+    "unit": "D",
+    "building": "marketfront",
+    "place": "marketfront",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342498,
+     47.610642
+    ]
+   },
+   "properties": {
+    "name": "ACCOUNTING SYSTEM DESIGNS",
+    "legal": "PARRIS ROSOLINO",
+    "trade": "Books Printing",
+    "sector": "Making",
+    "naics": "323117",
+    "start": "20120416",
+    "years": 14.43,
+    "address": "1925 1ST AVE # B104",
+    "unit": "B104",
+    "building": null,
+    "place": "1925-1st-ave",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340523,
+     47.608955
+    ]
+   },
+   "properties": {
+    "name": "STORYVILLE COFFEE COMPANY",
+    "legal": "STORYVILLE SEATTLE PIKE PLACE LLC",
+    "trade": "Snack and Nonalcoholic Beverage Bars",
+    "sector": "Food and lodging",
+    "naics": "722515",
+    "start": "20120515",
+    "years": 14.35,
+    "address": "94 PIKE ST # 34",
+    "unit": "34",
+    "building": "corner-market",
+    "place": "corner-market",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342506,
+     47.610139
+    ]
+   },
+   "properties": {
+    "name": "ROYAL PHOENIX",
+    "legal": "NALYVAYKO ANASTASIYA",
+    "trade": "Art Dealers",
+    "sector": "Retail",
+    "naics": "459920",
+    "start": "20121203",
+    "years": 13.79,
+    "address": "1916 PIKE PL # 12",
+    "unit": "12",
+    "building": null,
+    "place": "1916-pike-pl",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342857,
+     47.609459
+    ]
+   },
+   "properties": {
+    "name": "PLANET OF THE PUPPETS LLC",
+    "legal": "PLANET OF THE PUPPETS LLC",
+    "trade": "Independent Artists, Writers, and Performers",
+    "sector": "Arts and recreation",
+    "naics": "711510",
+    "start": "20130626",
+    "years": 13.23,
+    "address": "1901 WESTERN AVE # 106",
+    "unit": "106",
+    "building": "marketfront",
+    "place": "marketfront",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "SAFFRON SPICE LLC",
+    "legal": "SAFFRON SPICE LLC",
+    "trade": "Limited-Service Restaurants",
+    "sector": "Food and lodging",
+    "naics": "722513",
+    "start": "20130826",
+    "years": 13.07,
+    "address": "93 PIKE ST # 3",
+    "unit": "3",
+    "building": null,
+    "place": "93-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "PIKE PLACE BAKERY",
+    "legal": "PIKE PLACE BAKERY THREE LLC",
+    "trade": "Commercial Bakeries",
+    "sector": "Making",
+    "naics": "311812",
+    "start": "20140101",
+    "years": 12.71,
+    "address": "1501 PIKE PL",
+    "unit": "",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "GLOWFORGE",
+    "legal": "GLOWFORGE INC",
+    "trade": "All Other Miscellaneous General Purpose Machinery Manufacturing",
+    "sector": "Making",
+    "naics": "333998",
+    "start": "20150101",
+    "years": 11.72,
+    "address": "1522 WESTERN AVE",
+    "unit": "",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "SUNNY HONEY COMPANY",
+    "legal": "SUNNY HONEY COMPANY LLC",
+    "trade": "Apiculture",
+    "sector": "Farming",
+    "naics": "112910",
+    "start": "20150814",
+    "years": 11.1,
+    "address": "89 PIKE ST",
+    "unit": "",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340792,
+     47.60918
+    ]
+   },
+   "properties": {
+    "name": "EARTH WIND AND FIRE",
+    "legal": "NUNEZ MORALES GROUP LLC",
+    "trade": "Clothing and Clothing Accessories Retailers",
+    "sector": "Retail",
+    "naics": "458110",
+    "start": "20160106",
+    "years": 10.7,
+    "address": "1514 PIKE PL #13",
+    "unit": "13",
+    "building": "sanitary-public-market",
+    "place": "sanitary-public-market",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341376,
+     47.609967
+    ]
+   },
+   "properties": {
+    "name": "INN AT THE MARKET",
+    "legal": "INN MARKET MANAGEMENT LLC",
+    "trade": "Beer, Wine, and Liquor Retailers",
+    "sector": "Retail",
+    "naics": "445320",
+    "start": "20170403",
+    "years": 9.46,
+    "address": "86 PINE ST",
+    "unit": "",
+    "building": "inn-at-the-market-building",
+    "place": "inn-at-the-market-building",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340523,
+     47.608955
+    ]
+   },
+   "properties": {
+    "name": "ORIENTAL MART",
+    "legal": "MORI  JOY",
+    "trade": "Supermarkets and Other Grocery Retailers (except Convenience Retailers)",
+    "sector": "Retail",
+    "naics": "445110",
+    "start": "20180101",
+    "years": 8.71,
+    "address": "1506 PIKE PLACE MARKET",
+    "unit": "",
+    "building": "corner-market",
+    "place": "corner-market",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "PIKE PLACE NATURAL FOOD INC",
+    "legal": "PIKE PLACE NATURAL FOOD INC",
+    "trade": "Food (Health) Supplement Retailers",
+    "sector": "Retail",
+    "naics": "456191",
+    "start": "20180101",
+    "years": 8.71,
+    "address": "1501 PIKE PL # LL416",
+    "unit": "LL416",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34135,
+     47.609325
+    ]
+   },
+   "properties": {
+    "name": "MR DS GREEK DELI",
+    "legal": "THE GREEK YEERO INC",
+    "trade": "Limited-Service Restaurants",
+    "sector": "Food and lodging",
+    "naics": "722513",
+    "start": "20180101",
+    "years": 8.71,
+    "address": "1518 PIKE PL",
+    "unit": "",
+    "building": "triangle-building",
+    "place": "triangle-building",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341069,
+     47.60947
+    ]
+   },
+   "properties": {
+    "name": "MISS CAFE",
+    "legal": "RIVER UP LLC",
+    "trade": "Snack and Nonalcoholic Beverage Bars",
+    "sector": "Food and lodging",
+    "naics": "722515",
+    "start": "20180201",
+    "years": 8.63,
+    "address": "1523 1ST AVE",
+    "unit": "",
+    "building": "first-pine-building",
+    "place": "first-pine-building",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340815,
+     47.608328
+    ]
+   },
+   "properties": {
+    "name": "KAIGANI CRAFT",
+    "legal": "JACINTHE DEMMERT",
+    "trade": "Toy and Hobby Goods and Supplies Merchant Wholesalers",
+    "sector": "Wholesale",
+    "naics": "423920",
+    "start": "20180917",
+    "years": 8.01,
+    "address": "85 PIKE ST",
+    "unit": "",
+    "building": null,
+    "place": "85-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "MARKET ART",
+    "legal": "CONRAD PAUL D",
+    "trade": "All Other General Merchandise Retailers",
+    "sector": "Retail",
+    "naics": "455219",
+    "start": "20190222",
+    "years": 7.57,
+    "address": "1526 WESTERN AVE",
+    "unit": "",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341376,
+     47.609967
+    ]
+   },
+   "properties": {
+    "name": "MY CORNER",
+    "legal": "PELLICONE JULIAN",
+    "trade": "Beauty Salons",
+    "sector": "Other services",
+    "naics": "812112",
+    "start": "20190501",
+    "years": 7.39,
+    "address": "86 PINE ST",
+    "unit": "",
+    "building": "inn-at-the-market-building",
+    "place": "inn-at-the-market-building",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342335,
+     47.609944
+    ]
+   },
+   "properties": {
+    "name": "MARKET OPTICAL",
+    "legal": "OAK STREET OPTICAL LLC",
+    "trade": "Ophthalmic Goods Merchant Wholesalers",
+    "sector": "Wholesale",
+    "naics": "423460",
+    "start": "20190622",
+    "years": 7.24,
+    "address": "1906 PIKE PL # 8",
+    "unit": "8",
+    "building": "stewart-house",
+    "place": "stewart-house",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "ECLIPSE HAT SHOP",
+    "legal": "HAGERTY SHARON M",
+    "trade": "Apparel Accessories and Other Apparel Manufacturing",
+    "sector": "Making",
+    "naics": "315990",
+    "start": "20210105",
+    "years": 5.7,
+    "address": "1518 WESTERN AVE",
+    "unit": "",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "BAGELBOP",
+    "legal": "SEATTLE BAGELBOP CORPORATION",
+    "trade": "Limited-Service Restaurants",
+    "sector": "Food and lodging",
+    "naics": "722513",
+    "start": "20210322",
+    "years": 5.49,
+    "address": "93 PIKE ST # 4",
+    "unit": "4",
+    "building": null,
+    "place": "93-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342272,
+     47.610506
+    ]
+   },
+   "properties": {
+    "name": "THE CHAPEL LOUNGE",
+    "legal": "CHAPELSEA LLC",
+    "trade": "Drinking Places (Alcoholic Beverages)",
+    "sector": "Food and lodging",
+    "naics": "722410",
+    "start": "20210703",
+    "years": 5.21,
+    "address": "1921 1ST AVE",
+    "unit": "",
+    "building": null,
+    "place": "1921-1st-ave",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "THE BALCONY SHOP",
+    "legal": "DOCUSEN WENDELL",
+    "trade": "Beauty Salons",
+    "sector": "Other services",
+    "naics": "812112",
+    "start": "20220805",
+    "years": 4.12,
+    "address": "1501 PIKE PL # 510",
+    "unit": "510",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341376,
+     47.609967
+    ]
+   },
+   "properties": {
+    "name": "ARMISTICE COFFEE",
+    "legal": "ARMISTICE COFFEE WESTLAKE LLC",
+    "trade": "Limited-Service Restaurants",
+    "sector": "Food and lodging",
+    "naics": "722513",
+    "start": "20220808",
+    "years": 4.12,
+    "address": "1601 1ST AVE # 100",
+    "unit": "100",
+    "building": "inn-at-the-market-building",
+    "place": "inn-at-the-market-building",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "OUR FABRIC STASH",
+    "legal": "OUR FABRIC STASH LLC",
+    "trade": "Clothing and Clothing Accessories Retailers",
+    "sector": "Retail",
+    "naics": "458110",
+    "start": "20230201",
+    "years": 3.63,
+    "address": "1501 PIKE PL # 326",
+    "unit": "326",
+    "building": "main-arcade",
+    "place": "main-arcade",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342335,
+     47.609944
+    ]
+   },
+   "properties": {
+    "name": "AIIDEN",
+    "legal": "ARKANIT LLC",
+    "trade": "Clothing and Clothing Accessories Retailers",
+    "sector": "Retail",
+    "naics": "458110",
+    "start": "20230301",
+    "years": 3.55,
+    "address": "1902 PIKE PL # P1",
+    "unit": "P1",
+    "building": "stewart-house",
+    "place": "stewart-house",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "J&J GIFT & SPORTS WEAR",
+    "legal": "J&J SPORTS AND GIFT INC",
+    "trade": "Clothing and Clothing Accessories Retailers",
+    "sector": "Retail",
+    "naics": "458110",
+    "start": "20240401",
+    "years": 2.47,
+    "address": "1427 1ST AVE",
+    "unit": "",
+    "building": null,
+    "place": "1427-1st-ave",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341835,
+     47.610332
+    ]
+   },
+   "properties": {
+    "name": "INTERNATIONAL NEWS INC",
+    "legal": "SHAH SAFARI INC",
+    "trade": "Clothing and Clothing Accessories Retailers",
+    "sector": "Retail",
+    "naics": "458110",
+    "start": "20260101",
+    "years": 0.71,
+    "address": "1901 1ST AVE",
+    "unit": "",
+    "building": "fairmount-apartments",
+    "place": "fairmount-apartments",
+    "place_kind": "building",
+    "placed": "exact",
+    "source": "licence"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340815,
+     47.608328
+    ]
+   },
+   "properties": {
+    "name": "JOS FLOWER FARM LLC",
+    "legal": "JOS FLOWER FARM LLC",
+    "trade": "Florists",
+    "sector": "Retail",
+    "naics": "459310",
+    "start": "20260401",
+    "years": 0.47,
+    "address": "85 PIKE ST",
+    "unit": "",
+    "building": null,
+    "place": "85-pike-st",
+    "place_kind": "address",
+    "placed": "exact",
+    "source": "licence"
+   }
+  }
+ ],
+ "note": "City of Seattle business licences, placed on the city's Master Address File"
+}

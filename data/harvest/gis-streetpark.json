@@ -1,0 +1,5922 @@
+{
+ "source": "City of Seattle Open Data — Parking_Features",
+ "licence": "City of Seattle Open Data — open / public domain",
+ "url": "https://services.arcgis.com/ZOyb2t4B0UYuYNYH/arcgis/rest/services/Parking_Features/FeatureServer/2",
+ "query": "envelope (47.6055, -122.346, 47.613, -122.338)",
+ "note": "every metered and signed kerb space",
+ "fetched": "2026-09-19T16:06:32Z",
+ "count": 175,
+ "rows": [
+  {
+   "type": "Feature",
+   "id": 30518034,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.338546628579,
+      47.6056461678147
+     ],
+     [
+      -122.338118147972,
+      47.6058253908852
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30518034,
+    "ELMNTKEY": 80730,
+    "UNITDESC": "SENECA ST BETWEEN WESTERN AVE AND POST AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 124.2841679092387,
+    "_pt": [
+     -122.338118,
+     47.605825
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30518082,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.339450198793,
+      47.6054049593746
+     ],
+     [
+      -122.338810522075,
+      47.6056769757391
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30518082,
+    "ELMNTKEY": 12765,
+    "UNITDESC": "SENECA ST BETWEEN ALASKAN WAY AND WESTERN AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 186.40367362966603,
+    "_pt": [
+     -122.338811,
+     47.605677
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30518592,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.338630206079,
+      47.6057401481003
+     ],
+     [
+      -122.338201724987,
+      47.6059193714852
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30518592,
+    "ELMNTKEY": 80729,
+    "UNITDESC": "SENECA ST BETWEEN WESTERN AVE AND POST AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 124.28416792206271,
+    "_pt": [
+     -122.338202,
+     47.605919
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30518744,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.340735531827,
+      47.6088773690092
+     ],
+     [
+      -122.341680067812,
+      47.6094345083604
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30518744,
+    "ELMNTKEY": 12198,
+    "UNITDESC": "PIKE PL BETWEEN POST AL AND PINE ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Time Limited Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 309.1684792905385,
+    "_pt": [
+     -122.34168,
+     47.609435
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30518998,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.342182733814,
+      47.609721616031
+     ],
+     [
+      -122.343400625542,
+      47.6104425185834
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30518998,
+    "ELMNTKEY": 57498,
+    "UNITDESC": "PIKE PL BETWEEN STEWART ST AND VIRGINIA ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 399.24564366608746,
+    "_pt": [
+     -122.343401,
+     47.610443
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30519101,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.340852784939,
+      47.6087864663512
+     ],
+     [
+      -122.341891744613,
+      47.6093993413923
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30519101,
+    "ELMNTKEY": 12197,
+    "UNITDESC": "PIKE PL BETWEEN POST AL AND PINE ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Time Limited Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 340.08521725756555,
+    "_pt": [
+     -122.341892,
+     47.609399
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30521491,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.341894973982,
+      47.6094012480323
+     ],
+     [
+      -122.342152611562,
+      47.6095542480865
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30521491,
+    "ELMNTKEY": 57493,
+    "UNITDESC": "PIKE PL BETWEEN PINE ST AND STEWART ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Time Limited Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 84.5781755790237,
+    "_pt": [
+     -122.342153,
+     47.609554
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30522021,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.338156097933,
+      47.6069156138088
+     ],
+     [
+      -122.338989788339,
+      47.6078271744561
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30522021,
+    "ELMNTKEY": 68910,
+    "UNITDESC": "1ST AVE BETWEEN UNIVERSITY ST AND UNION ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 390.9655690405605,
+    "_pt": [
+     -122.33899,
+     47.607827
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30522391,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.342952150928,
+      47.6125050690895
+     ],
+     [
+      -122.342209390475,
+      47.6130794203299
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30522391,
+    "ELMNTKEY": 79354,
+    "UNITDESC": "LENORA ST BETWEEN 2ND AVE AND 3RD AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 278.30908757355337,
+    "_pt": [
+     -122.342209,
+     47.613079
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30523071,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.339165309189,
+      47.6069731536968
+     ],
+     [
+      -122.33968864835,
+      47.6075566805177
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30523071,
+    "ELMNTKEY": 12225,
+    "UNITDESC": "POST AL BETWEEN DEAD END AND UNION ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": null,
+    "Shape__Length": 248.9407776501633,
+    "_pt": [
+     -122.339689,
+     47.607557
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30523427,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.339075189773,
+      47.6070101184212
+     ],
+     [
+      -122.339598529599,
+      47.6075936447391
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30523427,
+    "ELMNTKEY": 12226,
+    "UNITDESC": "POST AL BETWEEN DEAD END AND UNION ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": null,
+    "Shape__Length": 248.94065847561433,
+    "_pt": [
+     -122.339599,
+     47.607594
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30524487,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.344955608738,
+      47.6111537051359
+     ],
+     [
+      -122.345491043954,
+      47.6113057059843
+     ],
+     [
+      -122.346161089006,
+      47.6114659949448
+     ],
+     [
+      -122.346573133666,
+      47.6115462175331
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30524487,
+    "ELMNTKEY": 55474,
+    "UNITDESC": "ELLIOTT AVE BETWEEN LENORA ST AND BLANCHARD ST",
+    "SIDE": "S",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 424.3134033296203,
+    "_pt": [
+     -122.346161,
+     47.611466
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30524552,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.3420765996,
+      47.6096685447819
+     ],
+     [
+      -122.341747554172,
+      47.6099132947485
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30524552,
+    "ELMNTKEY": 80878,
+    "UNITDESC": "STEWART ST BETWEEN PIKE PL AND POST AL",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 120.65683965345976,
+    "_pt": [
+     -122.341748,
+     47.609913
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30524896,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.343173218384,
+      47.6088908181171
+     ],
+     [
+      -122.343562116392,
+      47.609271323596
+     ],
+     [
+      -122.34425292495,
+      47.6096899399249
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30524896,
+    "ELMNTKEY": 78114,
+    "UNITDESC": "ALLEY RR TUNNEL ACC BETWEEN PINE ST AND DEAD END",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 397.5291470344075,
+    "_pt": [
+     -122.343562,
+     47.609271
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30525088,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.343919048157,
+      47.6119405219203
+     ],
+     [
+      -122.345137931659,
+      47.6126610563341
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30525088,
+    "ELMNTKEY": 1022,
+    "UNITDESC": "1ST AVE BETWEEN LENORA ST AND BLANCHARD ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 399.3317224307367,
+    "_pt": [
+     -122.345138,
+     47.612661
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30525100,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.344057422479,
+      47.6118293300592
+     ],
+     [
+      -122.345276305267,
+      47.6125498620933
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30525100,
+    "ELMNTKEY": 1021,
+    "UNITDESC": "1ST AVE BETWEEN LENORA ST AND BLANCHARD ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 399.33150167254973,
+    "_pt": [
+     -122.345276,
+     47.61255
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30525110,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.340895182259,
+      47.6125023596923
+     ],
+     [
+      -122.342067494487,
+      47.6131955828006
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30525110,
+    "ELMNTKEY": 4434,
+    "UNITDESC": "3RD AVE BETWEEN VIRGINIA ST AND LENORA ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 384.12428369092623,
+    "_pt": [
+     -122.342067,
+     47.613196
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30525593,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.345214159502,
+      47.6127061387241
+     ],
+     [
+      -122.346434523498,
+      47.6134279336857
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30525593,
+    "ELMNTKEY": 24038,
+    "UNITDESC": "1ST AVE BETWEEN BLANCHARD ST AND BELL ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 399.90596053172646,
+    "_pt": [
+     -122.346435,
+     47.613428
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30526218,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.345354863853,
+      47.6125890371633
+     ],
+     [
+      -122.346575227055,
+      47.6133108306181
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30526218,
+    "ELMNTKEY": 24037,
+    "UNITDESC": "1ST AVE BETWEEN BLANCHARD ST AND BELL ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 399.90596052070543,
+    "_pt": [
+     -122.346575,
+     47.613311
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30527277,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.341237925177,
+      47.6102859703081
+     ],
+     [
+      -122.340416001463,
+      47.6109215456514
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30527277,
+    "ELMNTKEY": 12874,
+    "UNITDESC": "STEWART ST BETWEEN 1ST AVE AND 2ND AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 307.979526756404,
+    "_pt": [
+     -122.340416,
+     47.610922
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30528346,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.341052212971,
+      47.608398877334
+     ],
+     [
+      -122.341911865838,
+      47.6093342451314
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30528346,
+    "ELMNTKEY": 81478,
+    "UNITDESC": "WESTERN AVE BETWEEN PIKE ST AND PINE ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 401.7177023527594,
+    "_pt": [
+     -122.341912,
+     47.609334
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30529152,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.338799031236,
+      47.605659668165
+     ],
+     [
+      -122.339392412668,
+      47.6063079930131
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30529152,
+    "ELMNTKEY": 36101,
+    "UNITDESC": "WESTERN AVE BETWEEN SENECA ST AND UNIVERSITY ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 278.12368002444964,
+    "_pt": [
+     -122.339392,
+     47.606308
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30529170,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.338644216626,
+      47.6057405447845
+     ],
+     [
+      -122.339237597051,
+      47.6063888704387
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30529170,
+    "ELMNTKEY": 36102,
+    "UNITDESC": "WESTERN AVE BETWEEN SENECA ST AND UNIVERSITY ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 278.12368002444964,
+    "_pt": [
+     -122.339238,
+     47.606389
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30530950,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.338685940462,
+      47.610835553214
+     ],
+     [
+      -122.337672893652,
+      47.6112595906994
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30530950,
+    "ELMNTKEY": 57525,
+    "UNITDESC": "PINE ST BETWEEN 3RD AVE AND 4TH AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 293.8789540511921,
+    "_pt": [
+     -122.337673,
+     47.61126
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30531419,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.337498302118,
+      47.60523880516
+     ],
+     [
+      -122.338093521151,
+      47.6058895393611
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30531419,
+    "ELMNTKEY": 12242,
+    "UNITDESC": "POST AVE BETWEEN SPRING ST AND SENECA ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 279.1101728942376,
+    "_pt": [
+     -122.338094,
+     47.60589
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30533881,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.343793447957,
+      47.6118587017675
+     ],
+     [
+      -122.343074972133,
+      47.612414261263
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30533881,
+    "ELMNTKEY": 11398,
+    "UNITDESC": "LENORA ST BETWEEN 1ST AVE AND 2ND AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 269.20756700155675,
+    "_pt": [
+     -122.343075,
+     47.612414
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30533930,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.343921624496,
+      47.6119344990128
+     ],
+     [
+      -122.343195167577,
+      47.6124962321904
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30533930,
+    "ELMNTKEY": 11397,
+    "UNITDESC": "LENORA ST BETWEEN 1ST AVE AND 2ND AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 272.1984832676156,
+    "_pt": [
+     -122.343195,
+     47.612496
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30534402,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.345393391557,
+      47.6107966958622
+     ],
+     [
+      -122.345028886188,
+      47.6110785866533
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30534402,
+    "ELMNTKEY": 118354,
+    "UNITDESC": "LENORA ST BETWEEN DEAD END AND WESTERN AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 136.58925532885473,
+    "_pt": [
+     -122.345029,
+     47.611079
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30534506,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.34532014592,
+      47.6107533858148
+     ],
+     [
+      -122.344955640458,
+      47.6110352763715
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30534506,
+    "ELMNTKEY": 56678,
+    "UNITDESC": "LENORA ST BETWEEN DEAD END AND WESTERN AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 136.58925531882753,
+    "_pt": [
+     -122.344956,
+     47.611035
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30535730,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.340887575361,
+      47.6099018174595
+     ],
+     [
+      -122.339967514311,
+      47.6102866389604
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30535730,
+    "ELMNTKEY": 12205,
+    "UNITDESC": "PINE ST BETWEEN 1ST AVE AND 2ND AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 266.8513707097983,
+    "_pt": [
+     -122.339968,
+     47.610287
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30536360,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.340773786791,
+      47.6124194343009
+     ],
+     [
+      -122.339986079974,
+      47.6130284505368
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30536360,
+    "ELMNTKEY": 81298,
+    "UNITDESC": "VIRGINIA ST BETWEEN 3RD AVE AND 4TH AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 295.12561462075024,
+    "_pt": [
+     -122.339986,
+     47.613028
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30537658,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.340068930036,
+      47.6061026243424
+     ],
+     [
+      -122.339419183816,
+      47.6063741026936
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30537658,
+    "ELMNTKEY": 58489,
+    "UNITDESC": "UNIVERSITY ST BETWEEN ALASKAN WAY AND WESTERN AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 188.40614674522206,
+    "_pt": [
+     -122.339419,
+     47.606374
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30537893,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.341623250059,
+      47.6117627601084
+     ],
+     [
+      -122.340845644463,
+      47.6123638760483
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30537893,
+    "ELMNTKEY": 35910,
+    "UNITDESC": "VIRGINIA ST BETWEEN 2ND AVE AND 3RD AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 291.31779322741295,
+    "_pt": [
+     -122.340846,
+     47.612364
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30538129,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.342490749454,
+      47.6110878523707
+     ],
+     [
+      -122.341702745912,
+      47.6116971422638
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30538129,
+    "ELMNTKEY": 13302,
+    "UNITDESC": "VIRGINIA ST BETWEEN 1ST AVE AND 2ND AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 295.2522038786026,
+    "_pt": [
+     -122.341703,
+     47.611697
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30538198,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.34178209272,
+      47.6118439989016
+     ],
+     [
+      -122.3409964982,
+      47.6124512923481
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30538198,
+    "ELMNTKEY": 35909,
+    "UNITDESC": "VIRGINIA ST BETWEEN 2ND AVE AND 3RD AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 294.3110049238168,
+    "_pt": [
+     -122.340996,
+     47.612451
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30538288,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.340923321081,
+      47.6125078694428
+     ],
+     [
+      -122.340135614702,
+      47.6131168876118
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30538288,
+    "ELMNTKEY": 81297,
+    "UNITDESC": "VIRGINIA ST BETWEEN 3RD AVE AND 4TH AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 295.1258572966873,
+    "_pt": [
+     -122.340136,
+     47.613117
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30538361,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.343065138676,
+      47.6126009429915
+     ],
+     [
+      -122.342322376746,
+      47.6131752940864
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30538361,
+    "ELMNTKEY": 79353,
+    "UNITDESC": "LENORA ST BETWEEN 2ND AVE AND 3RD AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 278.30906564671653,
+    "_pt": [
+     -122.342322,
+     47.613175
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30538386,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.338329658355,
+      47.6067978929552
+     ],
+     [
+      -122.339161217892,
+      47.6077071208738
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30538386,
+    "ELMNTKEY": 68909,
+    "UNITDESC": "1ST AVE BETWEEN UNIVERSITY ST AND UNION ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": "6-9AM 3-7PM",
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 389.9656502212689,
+    "_pt": [
+     -122.339161,
+     47.607707
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30538613,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.340005010709,
+      47.6060326562232
+     ],
+     [
+      -122.339355265029,
+      47.6063041342098
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30538613,
+    "ELMNTKEY": 58490,
+    "UNITDESC": "UNIVERSITY ST BETWEEN ALASKAN WAY AND WESTERN AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 188.40614674522206,
+    "_pt": [
+     -122.339355,
+     47.606304
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30538663,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.341328078714,
+      47.610383296331
+     ],
+     [
+      -122.341362569751,
+      47.6104210186666
+     ],
+     [
+      -122.342496697113,
+      47.6110916031282
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30538663,
+    "ELMNTKEY": 1018,
+    "UNITDESC": "1ST AVE BETWEEN STEWART ST AND VIRGINIA ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 387.78441241573364,
+    "_pt": [
+     -122.341363,
+     47.610421
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30538766,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.340874686532,
+      47.6098877860838
+     ],
+     [
+      -122.341232229071,
+      47.610278498966
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30538766,
+    "ELMNTKEY": 68914,
+    "UNITDESC": "1ST AVE BETWEEN PINE ST AND STEWART ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 167.59993188914424,
+    "_pt": [
+     -122.341232,
+     47.610278
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30538783,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.343908217437,
+      47.6087092497973
+     ],
+     [
+      -122.344741213952,
+      47.6091918556525
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30538783,
+    "ELMNTKEY": 31490,
+    "UNITDESC": "ALASKAN WAY BETWEEN PINE ST AND VIRGINIA ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 270.5743943835585,
+    "_pt": [
+     -122.344741,
+     47.609192
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30538849,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.337699536414,
+      47.6061041585003
+     ],
+     [
+      -122.338296821069,
+      47.6067568004384
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30538849,
+    "ELMNTKEY": 1013,
+    "UNITDESC": "1ST AVE BETWEEN SENECA ST AND UNIVERSITY ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 279.96876412198674,
+    "_pt": [
+     -122.338297,
+     47.606757
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30538856,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.340198317051,
+      47.6060098667344
+     ],
+     [
+      -122.341107729633,
+      47.6070045974854
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30538856,
+    "ELMNTKEY": 31485,
+    "UNITDESC": "ALASKAN WAY BETWEEN UNIVERSITY ST AND UNION ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 426.59441024277487,
+    "_pt": [
+     -122.341108,
+     47.607005
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30539008,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.337511917666,
+      47.6062117025647
+     ],
+     [
+      -122.338087868687,
+      47.606841037163
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30539008,
+    "ELMNTKEY": 1014,
+    "UNITDESC": "1ST AVE BETWEEN SENECA ST AND UNIVERSITY ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 269.969880862075,
+    "_pt": [
+     -122.338088,
+     47.606841
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30539092,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.338848929263,
+      47.6093714481447
+     ],
+     [
+      -122.339657664186,
+      47.6102553073828
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30539092,
+    "ELMNTKEY": 47970,
+    "UNITDESC": "2ND AVE BETWEEN PIKE ST AND PINE ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 379.1288636309558,
+    "_pt": [
+     -122.339658,
+     47.610255
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30539104,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.341488197093,
+      47.6102873422058
+     ],
+     [
+      -122.341525201027,
+      47.6103278136799
+     ],
+     [
+      -122.342629359329,
+      47.61098067409
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30539104,
+    "ELMNTKEY": 1017,
+    "UNITDESC": "1ST AVE BETWEEN STEWART ST AND VIRGINIA ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": "6-9AM 3-6PM",
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 379.1431309843476,
+    "_pt": [
+     -122.341525,
+     47.610328
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30539220,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.342220903898,
+      47.607947334332
+     ],
+     [
+      -122.342307511145,
+      47.6079036351253
+     ],
+     [
+      -122.342375579777,
+      47.6078937443762
+     ],
+     [
+      -122.342490192491,
+      47.6078863632991
+     ],
+     [
+      -122.342561646565,
+      47.6079038998295
+     ],
+     [
+      -122.343688532577,
+      47.6085776410455
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30539220,
+    "ELMNTKEY": 8834,
+    "UNITDESC": "ALASKAN WAY BETWEEN PIKE HILL CLIMB AND PINE ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 462.01677513560423,
+    "_pt": [
+     -122.34249,
+     47.607886
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30539225,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.33908277759,
+      47.607923631588
+     ],
+     [
+      -122.339918394305,
+      47.6088371934672
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30539225,
+    "ELMNTKEY": 46246,
+    "UNITDESC": "1ST AVE BETWEEN UNION ST AND PIKE ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 391.83425666847967,
+    "_pt": [
+     -122.339918,
+     47.608837
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30539365,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.342757532949,
+      47.6110565050214
+     ],
+     [
+      -122.34397783301,
+      47.6117786303034
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30539365,
+    "ELMNTKEY": 46253,
+    "UNITDESC": "1ST AVE BETWEEN VIRGINIA ST AND LENORA ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": "6-9AM 3-6PM",
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 399.98060315481877,
+    "_pt": [
+     -122.343978,
+     47.611779
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30539438,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.341062460889,
+      47.6098220726567
+     ],
+     [
+      -122.341407234653,
+      47.6101988312184
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30539438,
+    "ELMNTKEY": 68913,
+    "UNITDESC": "1ST AVE BETWEEN PINE ST AND STEWART ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": "6-9AM 3-7PM",
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 161.61427084840898,
+    "_pt": [
+     -122.341407,
+     47.610199
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30539502,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.339961886896,
+      47.6088899023579
+     ],
+     [
+      -122.339038257282,
+      47.6092762409103
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30539502,
+    "ELMNTKEY": 57501,
+    "UNITDESC": "PIKE ST BETWEEN 1ST AVE AND 2ND AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 267.8948445308127,
+    "_pt": [
+     -122.339038,
+     47.609276
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30539509,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.338805086167,
+      47.6092867353787
+     ],
+     [
+      -122.337855938499,
+      47.6096837220594
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30539509,
+    "ELMNTKEY": 80182,
+    "UNITDESC": "PIKE ST BETWEEN 2ND AVE AND 3RD AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 275.2897898435816,
+    "_pt": [
+     -122.337856,
+     47.609684
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30539593,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.339912837793,
+      47.6088362774689
+     ],
+     [
+      -122.338989208767,
+      47.6092226156237
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30539593,
+    "ELMNTKEY": 57502,
+    "UNITDESC": "PIKE ST BETWEEN 1ST AVE AND 2ND AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 267.8948445308127,
+    "_pt": [
+     -122.338989,
+     47.609223
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30539699,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.341004418777,
+      47.6070895618201
+     ],
+     [
+      -122.340389187122,
+      47.6073449503452
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30539699,
+    "ELMNTKEY": 81181,
+    "UNITDESC": "UNION ST BETWEEN ALASKAN WAY AND DEAD END 1",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 178.07636337996513,
+    "_pt": [
+     -122.340389,
+     47.607345
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30539729,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.3388733246,
+      47.6093613448106
+     ],
+     [
+      -122.337924177448,
+      47.6097583329414
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30539729,
+    "ELMNTKEY": 80181,
+    "UNITDESC": "PIKE ST BETWEEN 2ND AVE AND 3RD AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 275.2896745929532,
+    "_pt": [
+     -122.337924,
+     47.609758
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30539845,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.337946460376,
+      47.6083792938286
+     ],
+     [
+      -122.337017964783,
+      47.6087672077903
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30539845,
+    "ELMNTKEY": 35793,
+    "UNITDESC": "UNION ST BETWEEN 2ND AVE AND 3RD AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 269.21989206209196,
+    "_pt": [
+     -122.337018,
+     47.608767
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30539890,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.339528515487,
+      47.6075826049757
+     ],
+     [
+      -122.339132142244,
+      47.6077483011534
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30539890,
+    "ELMNTKEY": 35790,
+    "UNITDESC": "UNION ST BETWEEN DEAD END 2 AND 1ST AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 114.94945415770914,
+    "_pt": [
+     -122.339132,
+     47.607748
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30540079,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.339618039056,
+      47.607680546031
+     ],
+     [
+      -122.339221665378,
+      47.6078462434195
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30540079,
+    "ELMNTKEY": 35789,
+    "UNITDESC": "UNION ST BETWEEN DEAD END 2 AND 1ST AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 114.94962117499674,
+    "_pt": [
+     -122.339222,
+     47.607846
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30541407,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.338152070176,
+      47.6049629052247
+     ],
+     [
+      -122.338745399743,
+      47.6056114192497
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30541407,
+    "ELMNTKEY": 58801,
+    "UNITDESC": "WESTERN AVE BETWEEN SPRING ST AND SENECA ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 278.1766527678071,
+    "_pt": [
+     -122.338745,
+     47.605611
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30541779,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.337955805728,
+      47.6050193182041
+     ],
+     [
+      -122.338551259904,
+      47.6056701584982
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30541779,
+    "ELMNTKEY": 58802,
+    "UNITDESC": "WESTERN AVE BETWEEN SPRING ST AND SENECA ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 279.17392678959715,
+    "_pt": [
+     -122.338551,
+     47.60567
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30542461,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.340315881394,
+      47.6109823097594
+     ],
+     [
+      -122.339580827948,
+      47.611550703233
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30542461,
+    "ELMNTKEY": 12878,
+    "UNITDESC": "STEWART ST BETWEEN 2ND AVE AND 3RD AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 275.4252936256139,
+    "_pt": [
+     -122.339581,
+     47.611551
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30542486,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.340481787226,
+      47.6110622467929
+     ],
+     [
+      -122.339746734489,
+      47.6116306422363
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30542486,
+    "ELMNTKEY": 12877,
+    "UNITDESC": "STEWART ST BETWEEN 2ND AVE AND 3RD AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 275.42553629527765,
+    "_pt": [
+     -122.339747,
+     47.611631
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30542774,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.341338275009,
+      47.6103999371259
+     ],
+     [
+      -122.340543041018,
+      47.6110148806645
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30542774,
+    "ELMNTKEY": 12873,
+    "UNITDESC": "STEWART ST BETWEEN 1ST AVE AND 2ND AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 297.9803353271105,
+    "_pt": [
+     -122.340543,
+     47.611015
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30544100,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.343838642202,
+      47.6087524596337
+     ],
+     [
+      -122.344480445688,
+      47.6091318048423
+     ],
+     [
+      -122.344561081414,
+      47.6091558987171
+     ],
+     [
+      -122.344633083098,
+      47.6091533177099
+     ],
+     [
+      -122.344815417799,
+      47.6091648811239
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30544100,
+    "ELMNTKEY": 80190,
+    "UNITDESC": "ALASKAN ER WAY BETWEEN ALASKAN WR WAY AND PINE ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Unrestricted Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": null,
+    "Shape__Length": 294.9690684692994,
+    "_pt": [
+     -122.344561,
+     47.609156
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30544405,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.337949680459,
+      47.6083779881967
+     ],
+     [
+      -122.33875993062,
+      47.6092637441607
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30544405,
+    "ELMNTKEY": 25702,
+    "UNITDESC": "2ND AVE BETWEEN UNION ST AND PIKE ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": "3-7PM",
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 379.9158710414218,
+    "_pt": [
+     -122.33876,
+     47.609264
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30544489,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.343949562777,
+      47.6086958751495
+     ],
+     [
+      -122.344553249487,
+      47.609054651708
+     ],
+     [
+      -122.34459015407,
+      47.6090656783716
+     ],
+     [
+      -122.344824915951,
+      47.6090746553481
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30544489,
+    "ELMNTKEY": 80189,
+    "UNITDESC": "ALASKAN ER WAY BETWEEN ALASKAN WR WAY AND PINE ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Unrestricted Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": null,
+    "Shape__Length": 266.20149275268443,
+    "_pt": [
+     -122.34459,
+     47.609066
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30544820,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.337251424194,
+      47.6072969051346
+     ],
+     [
+      -122.338093870666,
+      47.6082177420983
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30544820,
+    "ELMNTKEY": 25697,
+    "UNITDESC": "2ND AVE BETWEEN UNIVERSITY ST AND UNION ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": "6-9AM 3-7PM",
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 394.97866625080127,
+    "_pt": [
+     -122.338094,
+     47.608218
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30544833,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.3450907473,
+      47.6126183471548
+     ],
+     [
+      -122.344302753159,
+      47.6132275452489
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30544833,
+    "ELMNTKEY": 9354,
+    "UNITDESC": "BLANCHARD ST BETWEEN 1ST AVE AND 2ND AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 295.2217149994991,
+    "_pt": [
+     -122.344303,
+     47.613228
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30544864,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.340610397673,
+      47.6109418208754
+     ],
+     [
+      -122.341767701673,
+      47.611626323948
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30544864,
+    "ELMNTKEY": 25705,
+    "UNITDESC": "2ND AVE BETWEEN STEWART ST AND VIRGINIA ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": "6-9AM 3-7PM",
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 379.2502533558268,
+    "_pt": [
+     -122.341768,
+     47.611626
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30544867,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.345958637607,
+      47.6119550789455
+     ],
+     [
+      -122.34517135351,
+      47.6125643530585
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30544867,
+    "ELMNTKEY": 54514,
+    "UNITDESC": "BLANCHARD ST BETWEEN WESTERN AVE AND 1ST AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 295.1289484746052,
+    "_pt": [
+     -122.345171,
+     47.612564
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30545026,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.338160800126,
+      47.6082961161102
+     ],
+     [
+      -122.338971052579,
+      47.6091818696733
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30545026,
+    "ELMNTKEY": 25701,
+    "UNITDESC": "2ND AVE BETWEEN UNION ST AND PIKE ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": "6-9AM 3-7PM",
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 379.9155887029821,
+    "_pt": [
+     -122.338971,
+     47.609182
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30545058,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.342964938182,
+      47.6107305641189
+     ],
+     [
+      -122.342630846482,
+      47.6109845667687
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30545058,
+    "ELMNTKEY": 58634,
+    "UNITDESC": "VIRGINIA ST BETWEEN POST AL AND 1ST AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 123.99767408712556,
+    "_pt": [
+     -122.342631,
+     47.610985
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30545185,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.346092966644,
+      47.6120344480235
+     ],
+     [
+      -122.345305684223,
+      47.6126437221476
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30545185,
+    "ELMNTKEY": 54513,
+    "UNITDESC": "BLANCHARD ST BETWEEN WESTERN AVE AND 1ST AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 295.12848502681067,
+    "_pt": [
+     -122.345306,
+     47.612644
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30545228,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.345225409794,
+      47.6127016252375
+     ],
+     [
+      -122.344437415942,
+      47.6133108233635
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30545228,
+    "ELMNTKEY": 9353,
+    "UNITDESC": "BLANCHARD ST BETWEEN 1ST AVE AND 2ND AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 295.2214723218788,
+    "_pt": [
+     -122.344437,
+     47.613311
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30545265,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.343127191287,
+      47.6107804583363
+     ],
+     [
+      -122.342752685593,
+      47.6110651866876
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30545265,
+    "ELMNTKEY": 58633,
+    "UNITDESC": "VIRGINIA ST BETWEEN POST AL AND 1ST AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 138.9971466605444,
+    "_pt": [
+     -122.342753,
+     47.611065
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30545371,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.337053929785,
+      47.6073988780832
+     ],
+     [
+      -122.337864382728,
+      47.6082847489105
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30545371,
+    "ELMNTKEY": 25698,
+    "UNITDESC": "2ND AVE BETWEEN UNIVERSITY ST AND UNION ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": "6-9AM 3-7PM",
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 379.979791628502,
+    "_pt": [
+     -122.337864,
+     47.608285
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30545438,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.343550959322,
+      47.6104470195009
+     ],
+     [
+      -122.343130709004,
+      47.6107776264684
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30545438,
+    "ELMNTKEY": 58629,
+    "UNITDESC": "VIRGINIA ST BETWEEN PIKE PL AND POST AL",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 159.0236976961079,
+    "_pt": [
+     -122.343131,
+     47.610778
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30545450,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.344786384599,
+      47.6112620090475
+     ],
+     [
+      -122.344046310999,
+      47.6118339477426
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30545450,
+    "ELMNTKEY": 56681,
+    "UNITDESC": "LENORA ST BETWEEN WESTERN AVE AND 1ST AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 277.213260156252,
+    "_pt": [
+     -122.344046,
+     47.611834
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30545525,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.344658240945,
+      47.6111861862548
+     ],
+     [
+      -122.343928815784,
+      47.6117498952557
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30545525,
+    "ELMNTKEY": 56682,
+    "UNITDESC": "LENORA ST BETWEEN WESTERN AVE AND 1ST AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 273.22467947233395,
+    "_pt": [
+     -122.343929,
+     47.61175
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30545560,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.338653697095,
+      47.6108264466107
+     ],
+     [
+      -122.339345101386,
+      47.6115822824596
+     ],
+     [
+      -122.339461605368,
+      47.6116512077723
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30545560,
+    "ELMNTKEY": 27274,
+    "UNITDESC": "3RD AVE BETWEEN PINE ST AND STEWART ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 362.3693062862085,
+    "_pt": [
+     -122.339345,
+     47.611582
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30545744,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.340456343335,
+      47.6110692355107
+     ],
+     [
+      -122.341613650724,
+      47.611753737415
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30545744,
+    "ELMNTKEY": 25706,
+    "UNITDESC": "2ND AVE BETWEEN STEWART ST AND VIRGINIA ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 379.25007632015587,
+    "_pt": [
+     -122.341614,
+     47.611754
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30545810,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.338844141981,
+      47.6107532312432
+     ],
+     [
+      -122.339513992682,
+      47.6114854999123
+     ],
+     [
+      -122.339611858536,
+      47.6115433996674
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30545810,
+    "ELMNTKEY": 27273,
+    "UNITDESC": "3RD AVE BETWEEN PINE ST AND STEWART ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 346.1536952291277,
+    "_pt": [
+     -122.339514,
+     47.611485
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30545998,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.339043812998,
+      47.6092770364146
+     ],
+     [
+      -122.339895115215,
+      47.6102074135651
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30545998,
+    "ELMNTKEY": 47969,
+    "UNITDESC": "2ND AVE BETWEEN PIKE ST AND PINE ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": "6-9AM 3-7PM",
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 399.083154740123,
+    "_pt": [
+     -122.339895,
+     47.610207
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30546204,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.34489175983,
+      47.6090733058874
+     ],
+     [
+      -122.346362044171,
+      47.60992940811
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30546204,
+    "ELMNTKEY": 76621,
+    "UNITDESC": "ALASKAN WAY BETWEEN VIRGINIA ST AND LENORA ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 478.59204493653846,
+    "_pt": [
+     -122.346362,
+     47.609929
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30546264,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.340556382213,
+      47.608771274487
+     ],
+     [
+      -122.340735376167,
+      47.6088772766123
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30546264,
+    "ELMNTKEY": 34822,
+    "UNITDESC": "PIKE PL BETWEEN PIKE ST AND POST AL",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Time Limited Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 58.690282820329294,
+    "_pt": [
+     -122.340735,
+     47.608877
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30546501,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.344740983919,
+      47.6091917219672
+     ],
+     [
+      -122.345907385734,
+      47.6098708868652
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30546501,
+    "ELMNTKEY": 76622,
+    "UNITDESC": "ALASKAN WAY BETWEEN VIRGINIA ST AND LENORA ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 379.6761867975898,
+    "_pt": [
+     -122.345907,
+     47.609871
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30546813,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.338015844224,
+      47.6129485846394
+     ],
+     [
+      -122.339190811374,
+      47.6136433933013
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30546813,
+    "ELMNTKEY": 52521,
+    "UNITDESC": "5TH AVE BETWEEN STEWART ST AND VIRGINIA ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 384.99608359544027,
+    "_pt": [
+     -122.339191,
+     47.613643
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30546868,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.340483985356,
+      47.6086327903626
+     ],
+     [
+      -122.340056899724,
+      47.6088114739366
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30546868,
+    "ELMNTKEY": 34834,
+    "UNITDESC": "PIKE ST BETWEEN PIKE PL AND 1ST AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 123.88284632844238,
+    "_pt": [
+     -122.340057,
+     47.608811
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30547065,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.343743977577,
+      47.6102926132143
+     ],
+     [
+      -122.344008309333,
+      47.6106252121231
+     ],
+     [
+      -122.344776486339,
+      47.6110780649032
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30547065,
+    "ELMNTKEY": 58805,
+    "UNITDESC": "WESTERN AVE BETWEEN VIRGINIA ST AND LENORA ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 389.106390545542,
+    "_pt": [
+     -122.344008,
+     47.610625
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30547160,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.340320408457,
+      47.6073321476655
+     ],
+     [
+      -122.341204516052,
+      47.6082995833822
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30547160,
+    "ELMNTKEY": 36105,
+    "UNITDESC": "WESTERN AVE BETWEEN UNION ST AND PIKE ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 414.8404124732819,
+    "_pt": [
+     -122.341205,
+     47.6083
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30547411,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.343607341602,
+      47.6104044527802
+     ],
+     [
+      -122.3438504714,
+      47.61071037663
+     ],
+     [
+      -122.344707003438,
+      47.611215315701
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30547411,
+    "ELMNTKEY": 58806,
+    "UNITDESC": "WESTERN AVE BETWEEN VIRGINIA ST AND LENORA ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 406.9722738205666,
+    "_pt": [
+     -122.34385,
+     47.61071
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30547530,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.340561505349,
+      47.6086141203804
+     ],
+     [
+      -122.340798252282,
+      47.6087541722622
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30547530,
+    "ELMNTKEY": 34821,
+    "UNITDESC": "PIKE PL BETWEEN PIKE ST AND POST AL",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Time Limited Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 77.590453294201,
+    "_pt": [
+     -122.340798,
+     47.608754
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30547796,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.34016665512,
+      47.6074350661923
+     ],
+     [
+      -122.34104650002,
+      47.6083978411174
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30547796,
+    "ELMNTKEY": 36106,
+    "UNITDESC": "WESTERN AVE BETWEEN UNION ST AND PIKE ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 412.8411912915692,
+    "_pt": [
+     -122.341047,
+     47.608398
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30549990,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.342201463697,
+      47.6097305328906
+     ],
+     [
+      -122.341872418464,
+      47.6099752832179
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30549990,
+    "ELMNTKEY": 80877,
+    "UNITDESC": "STEWART ST BETWEEN PIKE PL AND POST AL",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 120.65683964263272,
+    "_pt": [
+     -122.341872,
+     47.609975
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30550038,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.338886835331,
+      47.61229129504
+     ],
+     [
+      -122.340044162646,
+      47.6129754024871
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30550038,
+    "ELMNTKEY": 51485,
+    "UNITDESC": "4TH AVE BETWEEN STEWART ST AND VIRGINIA ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 379.1540229607691,
+    "_pt": [
+     -122.340044,
+     47.612975
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30550263,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.338725606362,
+      47.6124035438741
+     ],
+     [
+      -122.339882934028,
+      47.6130876520597
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30550263,
+    "ELMNTKEY": 51486,
+    "UNITDESC": "4TH AVE BETWEEN STEWART ST AND VIRGINIA ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": "7-9AM 4-6PM",
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 379.1538022345736,
+    "_pt": [
+     -122.339883,
+     47.613088
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30550301,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.338493577268,
+      47.6122735385472
+     ],
+     [
+      -122.338541774422,
+      47.6123020672455
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30550301,
+    "ELMNTKEY": 6194,
+    "UNITDESC": "4TH AVE BETWEEN OLIVE WAY AND STEWART ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 15.79935326121852,
+    "_pt": [
+     -122.338542,
+     47.612302
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30550770,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.34019547078,
+      47.6130539184976
+     ],
+     [
+      -122.341358369493,
+      47.6137413199781
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30550770,
+    "ELMNTKEY": 74025,
+    "UNITDESC": "4TH AVE BETWEEN VIRGINIA ST AND LENORA ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 380.97628400755025,
+    "_pt": [
+     -122.341358,
+     47.613741
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30551469,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.346270889859,
+      47.6116974668571
+     ],
+     [
+      -122.346066201769,
+      47.6118553260699
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30551469,
+    "ELMNTKEY": 9350,
+    "UNITDESC": "BLANCHARD ST BETWEEN DEAD END AND WESTERN AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 76.58137160593361,
+    "_pt": [
+     -122.346066,
+     47.611855
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30551654,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.338657973932,
+      47.6121485978339
+     ],
+     [
+      -122.338706171086,
+      47.6121771273618
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30551654,
+    "ELMNTKEY": 6193,
+    "UNITDESC": "4TH AVE BETWEEN OLIVE WAY AND STEWART ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 15.79957413958531,
+    "_pt": [
+     -122.338706,
+     47.612177
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30552571,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.343299853156,
+      47.608874892359
+     ],
+     [
+      -122.343650926979,
+      47.609218386626
+     ],
+     [
+      -122.344370578656,
+      47.6096544820599
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30552571,
+    "ELMNTKEY": 78113,
+    "UNITDESC": "ALLEY RR TUNNEL ACC BETWEEN PINE ST AND DEAD END",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 390.672065238719,
+    "_pt": [
+     -122.343651,
+     47.609218
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30552779,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.340543324283,
+      47.6085577163904
+     ],
+     [
+      -122.34011872399,
+      47.6087895836906
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30552779,
+    "ELMNTKEY": 57521,
+    "UNITDESC": "PIKE LOWER ST BETWEEN POST AL AND 1ST AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 134.62301729018918,
+    "_pt": [
+     -122.340119,
+     47.60879
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30553291,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.338158209569,
+      47.6069179329612
+     ],
+     [
+      -122.337230729641,
+      47.6073056062032
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30553291,
+    "ELMNTKEY": 58493,
+    "UNITDESC": "UNIVERSITY ST BETWEEN 1ST AVE AND 2ND AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 268.9660672831538,
+    "_pt": [
+     -122.337231,
+     47.607306
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30553962,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.337927654981,
+      47.6097696085381
+     ],
+     [
+      -122.338753404674,
+      47.6106720509187
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30553962,
+    "ELMNTKEY": 49645,
+    "UNITDESC": "3RD AVE BETWEEN PIKE ST AND PINE ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": "6-9AM 3-7PM",
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 387.10065517733676,
+    "_pt": [
+     -122.338753,
+     47.610672
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30554068,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.339961803201,
+      47.6088898602848
+     ],
+     [
+      -122.340812965226,
+      47.6098203243269
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30554068,
+    "ELMNTKEY": 46250,
+    "UNITDESC": "1ST AVE BETWEEN PIKE ST AND PINE ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 399.0927333103565,
+    "_pt": [
+     -122.340813,
+     47.60982
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30554118,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.337758433812,
+      47.6098243364093
+     ],
+     [
+      -122.338584218232,
+      47.6107267642367
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30554118,
+    "ELMNTKEY": 49646,
+    "UNITDESC": "3RD AVE BETWEEN PIKE ST AND PINE ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 387.100535960303,
+    "_pt": [
+     -122.338584,
+     47.610727
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30554127,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.341746277686,
+      47.6099142796505
+     ],
+     [
+      -122.341385703981,
+      47.6102031189367
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30554127,
+    "ELMNTKEY": 12870,
+    "UNITDESC": "STEWART ST BETWEEN POST AL AND 1ST AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 137.880727143835,
+    "_pt": [
+     -122.341386,
+     47.610203
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30554162,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.346096789561,
+      47.6120151185396
+     ],
+     [
+      -122.34655780715,
+      47.6123187742723
+     ],
+     [
+      -122.346688174749,
+      47.6123563778332
+     ],
+     [
+      -122.346812767637,
+      47.6123697955438
+     ],
+     [
+      -122.346868303615,
+      47.6123661619293
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30554162,
+    "ELMNTKEY": 81482,
+    "UNITDESC": "WESTERN AVE BETWEEN BLANCHARD ST AND BELL ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 238.58340987867652,
+    "_pt": [
+     -122.346688,
+     47.612356
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30554220,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.341858768463,
+      47.6099856657605
+     ],
+     [
+      -122.341498194887,
+      47.6102745054026
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30554220,
+    "ELMNTKEY": 12869,
+    "UNITDESC": "STEWART ST BETWEEN POST AL AND 1ST AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 137.8807271536685,
+    "_pt": [
+     -122.341498,
+     47.610275
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30554238,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.341809005872,
+      47.609525324859
+     ],
+     [
+      -122.342066643838,
+      47.6096783260067
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30554238,
+    "ELMNTKEY": 57494,
+    "UNITDESC": "PIKE PL BETWEEN PINE ST AND STEWART ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 84.57839685286548,
+    "_pt": [
+     -122.342067,
+     47.609678
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30554254,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.342209901458,
+      47.6079453670529
+     ],
+     [
+      -122.342958133658,
+      47.6086923157852
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30554254,
+    "ELMNTKEY": 139098,
+    "UNITDESC": "ALASKAN WAY BETWEEN PIKE HILL CLIMB AND ELLIOTT WAY",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 329.09181654879035,
+    "_pt": [
+     -122.342958,
+     47.608692
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30554399,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.33898210752,
+      47.6078239133551
+     ],
+     [
+      -122.338058276592,
+      47.6082101019432
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30554399,
+    "ELMNTKEY": 58470,
+    "UNITDESC": "UNION ST BETWEEN 1ST AVE AND 2ND AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 267.9122808832912,
+    "_pt": [
+     -122.338058,
+     47.60821
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30554473,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.342014699506,
+      47.607975352202
+     ],
+     [
+      -122.342751592952,
+      47.6087109843719
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30554473,
+    "ELMNTKEY": 139099,
+    "UNITDESC": "ALASKAN WAY BETWEEN PIKE HILL CLIMB AND ELLIOTT WAY",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 324.10552051091486,
+    "_pt": [
+     -122.342752,
+     47.608711
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30554495,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.341688357531,
+      47.6094213127451
+     ],
+     [
+      -122.341447388739,
+      47.6095233136565
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30554495,
+    "ELMNTKEY": 80198,
+    "UNITDESC": "PINE ST BETWEEN PIKE PL AND POST AL",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 70.1243448698789,
+    "_pt": [
+     -122.341447,
+     47.609523
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30554667,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.339776370401,
+      47.6103794805914
+     ],
+     [
+      -122.338827083564,
+      47.610776512124
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30554667,
+    "ELMNTKEY": 80205,
+    "UNITDESC": "PINE ST BETWEEN 2ND AVE AND 3RD AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 275.3234117184709,
+    "_pt": [
+     -122.338827,
+     47.610777
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30554728,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.343577619896,
+      47.6103189848563
+     ],
+     [
+      -122.343496868041,
+      47.6103597375198
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30554728,
+    "ELMNTKEY": 120568,
+    "UNITDESC": "VIRGINIA ST BETWEEN WESTERN AVE AND PIKE PL",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "Unrestricted Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": null,
+    "Shape__Length": 24.85419535557112,
+    "_pt": [
+     -122.343497,
+     47.61036
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30554766,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.341037779056,
+      47.6123900199438
+     ],
+     [
+      -122.342200955187,
+      47.6130778400134
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30554766,
+    "ELMNTKEY": 4433,
+    "UNITDESC": "3RD AVE BETWEEN VIRGINIA ST AND LENORA ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 381.1310501156098,
+    "_pt": [
+     -122.342201,
+     47.613078
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30554901,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.343640661743,
+      47.6103761100097
+     ],
+     [
+      -122.343559909822,
+      47.6104168618186
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30554901,
+    "ELMNTKEY": 120567,
+    "UNITDESC": "VIRGINIA ST BETWEEN WESTERN AVE AND PIKE PL",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": null,
+    "Shape__Length": 24.85400431133457,
+    "_pt": [
+     -122.34356,
+     47.610417
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30555033,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.345332518861,
+      47.6113947275177
+     ],
+     [
+      -122.34610626469,
+      47.6115808331622
+     ],
+     [
+      -122.346359145057,
+      47.6116316482524
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30555033,
+    "ELMNTKEY": 55473,
+    "UNITDESC": "ELLIOTT AVE BETWEEN LENORA ST AND BLANCHARD ST",
+    "SIDE": "N",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 267.6380906891395,
+    "_pt": [
+     -122.346106,
+     47.611581
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30555059,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.340806540154,
+      47.6098132179682
+     ],
+     [
+      -122.339886478767,
+      47.6101980397316
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30555059,
+    "ELMNTKEY": 12206,
+    "UNITDESC": "PINE ST BETWEEN 1ST AVE AND 2ND AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 266.8518201369252,
+    "_pt": [
+     -122.339886,
+     47.610198
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30555254,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.339688111408,
+      47.6102777849828
+     ],
+     [
+      -122.338738828413,
+      47.6106748157448
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30555254,
+    "ELMNTKEY": 80206,
+    "UNITDESC": "PINE ST BETWEEN 2ND AVE AND 3RD AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 275.3228470115862,
+    "_pt": [
+     -122.338739,
+     47.610675
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30555276,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.338583520546,
+      47.6107236626175
+     ],
+     [
+      -122.33757047375,
+      47.6111476992098
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30555276,
+    "ELMNTKEY": 57526,
+    "UNITDESC": "PINE ST BETWEEN 3RD AVE AND 4TH AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 293.8792363482949,
+    "_pt": [
+     -122.33757,
+     47.611148
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30555367,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.343360844432,
+      47.6104191267709
+     ],
+     [
+      -122.343035017573,
+      47.6106752700076
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30555367,
+    "ELMNTKEY": 58630,
+    "UNITDESC": "VIRGINIA ST BETWEEN PIKE PL AND POST AL",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 123.24345733887839,
+    "_pt": [
+     -122.343035,
+     47.610675
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30555465,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.34184932744,
+      47.609518124192
+     ],
+     [
+      -122.341596394184,
+      47.6096251887084
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30555465,
+    "ELMNTKEY": 80197,
+    "UNITDESC": "PINE ST BETWEEN PIKE PL AND POST AL",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 73.60585042675255,
+    "_pt": [
+     -122.341596,
+     47.609625
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30555517,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.342605351119,
+      47.6111741001381
+     ],
+     [
+      -122.3438256518,
+      47.6118962261508
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30555517,
+    "ELMNTKEY": 46254,
+    "UNITDESC": "1ST AVE BETWEEN VIRGINIA ST AND LENORA ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 399.9803822978379,
+    "_pt": [
+     -122.343826,
+     47.611896
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30556421,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.338372518949,
+      47.6121941128683
+     ],
+     [
+      -122.337381710506,
+      47.6126112716962
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30556421,
+    "ELMNTKEY": 57378,
+    "UNITDESC": "OLIVE WAY BETWEEN 4TH AVE AND 5TH AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": "6-9AM 3-7PM",
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 287.8897997389775,
+    "_pt": [
+     -122.337382,
+     47.612611
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30556757,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.339444327947,
+      47.6053962029246
+     ],
+     [
+      -122.340042500229,
+      47.6060740096121
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30556757,
+    "ELMNTKEY": 54002,
+    "UNITDESC": "ALASKAN WAY BETWEEN SENECA ST AND UNIVERSITY ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 287.9276833437733,
+    "_pt": [
+     -122.340043,
+     47.606074
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30556820,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.339199877736,
+      47.6119046281433
+     ],
+     [
+      -122.338667270838,
+      47.6121850277666
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30556820,
+    "ELMNTKEY": 12045,
+    "UNITDESC": "OLIVE WAY BETWEEN 3RD AVE AND 4TH AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 166.49271215130145,
+    "_pt": [
+     -122.338667,
+     47.612185
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30557000,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.34058587237,
+      47.608754573023
+     ],
+     [
+      -122.340217338286,
+      47.6089087597623
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30557000,
+    "ELMNTKEY": 34833,
+    "UNITDESC": "PIKE ST BETWEEN PIKE PL AND 1ST AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 106.89887345935186,
+    "_pt": [
+     -122.340217,
+     47.608909
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30557050,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.342078753821,
+      47.6078132846477
+     ],
+     [
+      -122.342204873264,
+      47.6077503056089
+     ],
+     [
+      -122.342338375344,
+      47.6077309063855
+     ],
+     [
+      -122.342521672259,
+      47.6077191022636
+     ],
+     [
+      -122.34268815374,
+      47.6077599618859
+     ],
+     [
+      -122.343970126754,
+      47.6085278121905
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30557050,
+    "ELMNTKEY": 8833,
+    "UNITDESC": "ALASKAN WAY BETWEEN PIKE HILL CLIMB AND PINE ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 583.9004453780344,
+    "_pt": [
+     -122.342522,
+     47.607719
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30557104,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.341103454566,
+      47.6070002928285
+     ],
+     [
+      -122.341585962082,
+      47.6074483636504
+     ],
+     [
+      -122.342081098996,
+      47.6078258076088
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30557104,
+    "ELMNTKEY": 54005,
+    "UNITDESC": "ALASKAN WAY BETWEEN UNION ST AND PIKE HILL CLIMB",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 386.23557497532346,
+    "_pt": [
+     -122.341586,
+     47.607448
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30557108,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.340043159968,
+      47.6060747430534
+     ],
+     [
+      -122.340952570692,
+      47.6070694741438
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30557108,
+    "ELMNTKEY": 31486,
+    "UNITDESC": "ALASKAN WAY BETWEEN UNIVERSITY ST AND UNION ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 426.5941278544743,
+    "_pt": [
+     -122.340953,
+     47.607069
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30557125,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.339454046161,
+      47.6116804803582
+     ],
+     [
+      -122.33860889415,
+      47.6121254263392
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30557125,
+    "ELMNTKEY": 12046,
+    "UNITDESC": "OLIVE WAY BETWEEN 3RD AVE AND 4TH AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 264.1950606223649,
+    "_pt": [
+     -122.338609,
+     47.612125
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30557153,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.340967976963,
+      47.6071109615221
+     ],
+     [
+      -122.341424656166,
+      47.6075360825551
+     ],
+     [
+      -122.341966764742,
+      47.6079493332319
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30557153,
+    "ELMNTKEY": 54006,
+    "UNITDESC": "ALASKAN WAY BETWEEN UNION ST AND PIKE HILL CLIMB",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 393.1775393367338,
+    "_pt": [
+     -122.341425,
+     47.607536
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30557259,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.339576830304,
+      47.6052788823183
+     ],
+     [
+      -122.340216544973,
+      47.6060037580699
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30557259,
+    "ELMNTKEY": 54001,
+    "UNITDESC": "ALASKAN WAY BETWEEN SENECA ST AND UNIVERSITY ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 307.92287648313584,
+    "_pt": [
+     -122.340217,
+     47.606004
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30557507,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.343742838558,
+      47.6087415299912
+     ],
+     [
+      -122.343718954624,
+      47.6087408871487
+     ],
+     [
+      -122.343425197881,
+      47.6088534797639
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30557507,
+    "ELMNTKEY": 80193,
+    "UNITDESC": "PINE ST BETWEEN ALASKAN E RDWY WAY AND ALLEY RR TUNNEL ACC",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 89.1878512083925,
+    "_pt": [
+     -122.343719,
+     47.608741
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30557509,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.339226632583,
+      47.6078151240626
+     ],
+     [
+      -122.340057984568,
+      47.6087240229194
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30557509,
+    "ELMNTKEY": 46245,
+    "UNITDESC": "1ST AVE BETWEEN UNION ST AND PIKE ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": "6-9AM 3-7PM",
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 389.83453427216074,
+    "_pt": [
+     -122.340058,
+     47.608724
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30557522,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.339605277416,
+      47.6117398202385
+     ],
+     [
+      -122.340768760055,
+      47.6124276801426
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30557522,
+    "ELMNTKEY": 72326,
+    "UNITDESC": "3RD AVE BETWEEN STEWART ST AND VIRGINIA ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 381.20022478790537,
+    "_pt": [
+     -122.340769,
+     47.612428
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30557550,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.339357414711,
+      47.6053051641208
+     ],
+     [
+      -122.338717738734,
+      47.6055771799642
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30557550,
+    "ELMNTKEY": 12766,
+    "UNITDESC": "SENECA ST BETWEEN ALASKAN WAY AND WESTERN AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 186.40367362966603,
+    "_pt": [
+     -122.338718,
+     47.605577
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30557584,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.34009874996,
+      47.6073506734724
+     ],
+     [
+      -122.339621537435,
+      47.6075521398385
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30557584,
+    "ELMNTKEY": 81186,
+    "UNITDESC": "UNION ST BETWEEN WESTERN AVE AND POST AL",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 138.7740125987638,
+    "_pt": [
+     -122.339622,
+     47.607552
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30557650,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.338590702049,
+      47.61231647949
+     ],
+     [
+      -122.337854458603,
+      47.6128859592685
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30557650,
+    "ELMNTKEY": 80882,
+    "UNITDESC": "STEWART ST BETWEEN 4TH AVE AND 5TH AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 275.9137420209926,
+    "_pt": [
+     -122.337854,
+     47.612886
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30557746,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.340184618569,
+      47.6074436948484
+     ],
+     [
+      -122.339707406879,
+      47.6076451624559
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30557746,
+    "ELMNTKEY": 81185,
+    "UNITDESC": "UNION ST BETWEEN WESTERN AVE AND POST AL",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 138.77389919045405,
+    "_pt": [
+     -122.339707,
+     47.607645
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30557915,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.339079342109,
+      47.607925076844
+     ],
+     [
+      -122.338148616178,
+      47.6083141479827
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30557915,
+    "ELMNTKEY": 58469,
+    "UNITDESC": "UNION ST BETWEEN 1ST AVE AND 2ND AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 269.9115020699885,
+    "_pt": [
+     -122.338149,
+     47.608314
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30558032,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.340949280276,
+      47.6070288139977
+     ],
+     [
+      -122.340334050398,
+      47.6072842022074
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30558032,
+    "ELMNTKEY": 81182,
+    "UNITDESC": "UNION ST BETWEEN ALASKAN WAY AND DEAD END 1",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 178.07608045289868,
+    "_pt": [
+     -122.340334,
+     47.607284
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30558065,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.342234361686,
+      47.6096027964209
+     ],
+     [
+      -122.343452251374,
+      47.6103236993218
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30558065,
+    "ELMNTKEY": 57497,
+    "UNITDESC": "PIKE PL BETWEEN STEWART ST AND VIRGINIA ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Time Limited Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 399.24586456408065,
+    "_pt": [
+     -122.343452,
+     47.610324
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30558073,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.338757039593,
+      47.6124002492795
+     ],
+     [
+      -122.338036801201,
+      47.6129573494944
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30558073,
+    "ELMNTKEY": 80881,
+    "UNITDESC": "STEWART ST BETWEEN 4TH AVE AND 5TH AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": "6-9AM 3-6PM",
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 269.91560045424865,
+    "_pt": [
+     -122.338037,
+     47.612957
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30558079,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.337713577756,
+      47.6112102922273
+     ],
+     [
+      -122.338498991502,
+      47.6120690550439
+     ],
+     [
+      -122.338518152306,
+      47.6120803984556
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30558079,
+    "ELMNTKEY": 74021,
+    "UNITDESC": "4TH AVE BETWEEN PINE ST AND OLIVE WAY",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 374.5953139701959,
+    "_pt": [
+     -122.338499,
+     47.612069
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30558136,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.341446279635,
+      47.6095237853583
+     ],
+     [
+      -122.340970892986,
+      47.6097220240707
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30558136,
+    "ELMNTKEY": 80202,
+    "UNITDESC": "PINE ST BETWEEN POST AL AND 1ST AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 137.7664167083915,
+    "_pt": [
+     -122.340971,
+     47.609722
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30558152,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.341554800298,
+      47.6096427930444
+     ],
+     [
+      -122.341079412974,
+      47.6098410322097
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30558152,
+    "ELMNTKEY": 80201,
+    "UNITDESC": "PINE ST BETWEEN POST AL AND 1ST AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 137.7664167083915,
+    "_pt": [
+     -122.341079,
+     47.609841
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30558153,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.339750913579,
+      47.6116147124032
+     ],
+     [
+      -122.340914395347,
+      47.6123025708203
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30558153,
+    "ELMNTKEY": 72325,
+    "UNITDESC": "3RD AVE BETWEEN STEWART ST AND VIRGINIA ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 381.20022478790537,
+    "_pt": [
+     -122.340914,
+     47.612303
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30558201,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.339622395935,
+      47.6117351144801
+     ],
+     [
+      -122.338887984045,
+      47.6123031321932
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30558201,
+    "ELMNTKEY": 12881,
+    "UNITDESC": "STEWART ST BETWEEN 3RD AVE AND 4TH AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": null,
+    "Shape__Length": 275.2162231034775,
+    "_pt": [
+     -122.338888,
+     47.612303
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30558205,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.343750255562,
+      47.6086155211623
+     ],
+     [
+      -122.343673252033,
+      47.6086134486576
+     ],
+     [
+      -122.343333246882,
+      47.6087437673125
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30558205,
+    "ELMNTKEY": 80194,
+    "UNITDESC": "PINE ST BETWEEN ALASKAN E RDWY WAY AND ALLEY RR TUNNEL ACC",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 115.41487071982286,
+    "_pt": [
+     -122.343673,
+     47.608613
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30558246,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.339187610815,
+      47.6118902060126
+     ],
+     [
+      -122.338700665641,
+      47.6122668282574
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30558246,
+    "ELMNTKEY": 12882,
+    "UNITDESC": "STEWART ST BETWEEN 3RD AVE AND 4TH AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": null,
+    "Shape__Length": 182.48042878856018,
+    "_pt": [
+     -122.338701,
+     47.612267
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30560276,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.337550672489,
+      47.6052178922795
+     ],
+     [
+      -122.338145891938,
+      47.605868626207
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30560276,
+    "ELMNTKEY": 12241,
+    "UNITDESC": "POST AVE BETWEEN SPRING ST AND SENECA ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 279.1101728942376,
+    "_pt": [
+     -122.338146,
+     47.605869
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30560320,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.341755238534,
+      47.6118356178755
+     ],
+     [
+      -122.342914855632,
+      47.6125214122919
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30560320,
+    "ELMNTKEY": 70746,
+    "UNITDESC": "2ND AVE BETWEEN VIRGINIA ST AND LENORA ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 379.9861263918607,
+    "_pt": [
+     -122.342915,
+     47.612521
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30560809,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.343186888745,
+      47.612469232285
+     ],
+     [
+      -122.344390198519,
+      47.6131808979981
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30560809,
+    "ELMNTKEY": 70749,
+    "UNITDESC": "2ND AVE BETWEEN LENORA ST AND BLANCHARD ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 394.30825470577105,
+    "_pt": [
+     -122.34439,
+     47.613181
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30560874,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.340226193342,
+      47.6089079102092
+     ],
+     [
+      -122.340990114404,
+      47.6097430001803
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30560874,
+    "ELMNTKEY": 46249,
+    "UNITDESC": "1ST AVE BETWEEN PIKE ST AND PINE ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": "6-9AM 3-7PM",
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 358.18572496778523,
+    "_pt": [
+     -122.34099,
+     47.609743
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30560959,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.339758984639,
+      47.6103608324572
+     ],
+     [
+      -122.340290649071,
+      47.6109418484304
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30560959,
+    "ELMNTKEY": 70742,
+    "UNITDESC": "2ND AVE BETWEEN PINE ST AND STEWART ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 249.22821491546173,
+    "_pt": [
+     -122.340291,
+     47.610942
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30561031,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.340519128963,
+      47.6085374538169
+     ],
+     [
+      -122.340094527399,
+      47.6087693210445
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30561031,
+    "ELMNTKEY": 57522,
+    "UNITDESC": "PIKE LOWER ST BETWEEN POST AL AND 1ST AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 134.62327652612979,
+    "_pt": [
+     -122.340095,
+     47.608769
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30561054,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.34191537631,
+      47.6117118020245
+     ],
+     [
+      -122.343074992733,
+      47.6123975939118
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30561054,
+    "ELMNTKEY": 70745,
+    "UNITDESC": "2ND AVE BETWEEN VIRGINIA ST AND LENORA ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": "6-9AM 3-7PM",
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 379.9859056092003,
+    "_pt": [
+     -122.343075,
+     47.612398
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30561095,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.343028657139,
+      47.6125832503785
+     ],
+     [
+      -122.344231967411,
+      47.6132949186621
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30561095,
+    "ELMNTKEY": 70750,
+    "UNITDESC": "2ND AVE BETWEEN LENORA ST AND BLANCHARD ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 394.3084754990035,
+    "_pt": [
+     -122.344232,
+     47.613295
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30561171,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.339965024488,
+      47.610268187651
+     ],
+     [
+      -122.340539229096,
+      47.6108956816022
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30561171,
+    "ELMNTKEY": 70741,
+    "UNITDESC": "2ND AVE BETWEEN PINE ST AND STEWART ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": "6-9AM 3-7PM",
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 269.1664589636431,
+    "_pt": [
+     -122.340539,
+     47.610896
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30561241,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.339228360911,
+      47.6064152414857
+     ],
+     [
+      -122.340080188137,
+      47.6073457726129
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30561241,
+    "ELMNTKEY": 13514,
+    "UNITDESC": "WESTERN AVE BETWEEN UNIVERSITY ST AND UNION ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 399.2051310439515,
+    "_pt": [
+     -122.34008,
+     47.607346
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30561248,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.344779578846,
+      47.6112692099696
+     ],
+     [
+      -122.345997801721,
+      47.6119893822654
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30561248,
+    "ELMNTKEY": 58810,
+    "UNITDESC": "WESTERN AVE BETWEEN LENORA ST AND BLANCHARD ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 399.12502367321906,
+    "_pt": [
+     -122.345998,
+     47.611989
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30561281,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.339415911205,
+      47.6063753343971
+     ],
+     [
+      -122.34026774113,
+      47.6073058641212
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30561281,
+    "ELMNTKEY": 13513,
+    "UNITDESC": "WESTERN AVE BETWEEN UNIVERSITY ST AND UNION ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 399.2051310363574,
+    "_pt": [
+     -122.340268,
+     47.607306
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30561561,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.345340500183,
+      47.6114151190946
+     ],
+     [
+      -122.346077540904,
+      47.6118508113144
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30561561,
+    "ELMNTKEY": 58809,
+    "UNITDESC": "WESTERN AVE BETWEEN LENORA ST AND BLANCHARD ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 241.4706934500766,
+    "_pt": [
+     -122.346078,
+     47.611851
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30561597,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.337531000085,
+      47.6112973168126
+     ],
+     [
+      -122.338356204432,
+      47.6121801238198
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30561597,
+    "ELMNTKEY": 74022,
+    "UNITDESC": "4TH AVE BETWEEN PINE ST AND OLIVE WAY",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 380.95361801279665,
+    "_pt": [
+     -122.338356,
+     47.61218
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30561618,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.342025211218,
+      47.609384625535
+     ],
+     [
+      -122.343494036214,
+      47.6102537299383
+     ],
+     [
+      -122.343551469426,
+      47.6103277288987
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30561618,
+    "ELMNTKEY": 13518,
+    "UNITDESC": "WESTERN AVE BETWEEN PINE ST AND VIRGINIA ST",
+    "SIDE": "NE",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 511.91152579669654,
+    "_pt": [
+     -122.343494,
+     47.610254
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30561625,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.342150680191,
+      47.6092876562725
+     ],
+     [
+      -122.343646240165,
+      47.6101725782897
+     ],
+     [
+      -122.343690089747,
+      47.6102290747373
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30561625,
+    "ELMNTKEY": 13517,
+    "UNITDESC": "WESTERN AVE BETWEEN PINE ST AND VIRGINIA ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 513.4642662736262,
+    "_pt": [
+     -122.343646,
+     47.610173
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30562036,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.341227810776,
+      47.6083250736851
+     ],
+     [
+      -122.34208746558,
+      47.6092604401574
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30562036,
+    "ELMNTKEY": 81477,
+    "UNITDESC": "WESTERN AVE BETWEEN PIKE ST AND PINE ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 401.71770234514304,
+    "_pt": [
+     -122.342087,
+     47.60926
+    ],
+    "_inside": true
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30562176,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.338536005628,
+      47.6122835234434
+     ],
+     [
+      -122.337545196794,
+      47.6127006836937
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30562176,
+    "ELMNTKEY": 57377,
+    "UNITDESC": "OLIVE WAY BETWEEN 4TH AVE AND 5TH AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": "6-9AM 3-7PM",
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 287.8897997389775,
+    "_pt": [
+     -122.337545,
+     47.612701
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30562267,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.343997973336,
+      47.608537430859
+     ],
+     [
+      -122.344904739553,
+      47.6090627753417
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30562267,
+    "ELMNTKEY": 31489,
+    "UNITDESC": "ALASKAN WAY BETWEEN PINE ST AND VIRGINIA ST",
+    "SIDE": "SW",
+    "PARKING_CATEGORY": "No Parking Allowed",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 294.5366408843344,
+    "_pt": [
+     -122.344905,
+     47.609063
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30562506,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.342649048279,
+      47.6111778377703
+     ],
+     [
+      -122.341861045202,
+      47.611787127859
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30562506,
+    "ELMNTKEY": 13301,
+    "UNITDESC": "VIRGINIA ST BETWEEN 1ST AVE AND 2ND AVE",
+    "SIDE": "NW",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Belltown",
+    "Shape__Length": 295.25196119159136,
+    "_pt": [
+     -122.341861,
+     47.611787
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30563584,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.338085745643,
+      47.606838645292
+     ],
+     [
+      -122.337168609291,
+      47.6072219935658
+     ]
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30563584,
+    "ELMNTKEY": 58494,
+    "UNITDESC": "UNIVERSITY ST BETWEEN 1ST AVE AND 2ND AVE",
+    "SIDE": "SE",
+    "PARKING_CATEGORY": "Paid Parking",
+    "PEAK_HOUR": null,
+    "RPZ_ZONE": null,
+    "PAIDAREA": "Commercial Core",
+    "Shape__Length": 265.9664778681558,
+    "_pt": [
+     -122.337169,
+     47.607222
+    ],
+    "_inside": false
+   }
+  }
+ ]
+}

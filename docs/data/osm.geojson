@@ -1,0 +1,3236 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3408538,
+     47.6083167
+    ]
+   },
+   "properties": {
+    "name": "Maximilien",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/1611112411",
+    "website": "https://www.maximilienrestaurant.com/",
+    "hours": "Mo-Sa 11:30-22:00; Su 10:00-22:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342936,
+     47.6102116
+    ]
+   },
+   "properties": {
+    "name": "Chase",
+    "kind": "atm",
+    "level": null,
+    "osm": "node/1701242984",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342558,
+     47.6108072
+    ]
+   },
+   "properties": {
+    "name": "Le Pichet",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/1999390894",
+    "website": "https://www.lepichetseattle.com/",
+    "hours": "08:00-00:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34263,
+     47.6108583
+    ]
+   },
+   "properties": {
+    "name": "Virginia Inn",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/1999390895",
+    "website": "https://virginiainnseattle.com",
+    "hours": "Mo-Th 11:30-20:00; Fr 11:30-21:00; Sa 10:00-21:00; Su 10:00-20:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340759,
+     47.60938
+    ]
+   },
+   "properties": {
+    "name": "Miss Cafe",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/2169065711",
+    "website": "https://www.misscaffe.com/",
+    "hours": "Mo-Su 08:00-11:15; Mo-We 11:30-15:30; Th-Su 11:30-18:30",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3415568,
+     47.6094145
+    ]
+   },
+   "properties": {
+    "name": "Cinnamon Works",
+    "kind": "bakery",
+    "level": null,
+    "osm": "node/2169065713",
+    "website": "https://cinnamonworks.com/",
+    "hours": "Mo, Th-Fr 09:00-16:00; Tu off; We 12:00-16:00; Sa 09:00-17:00; Su 10:00-17:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34283,
+     47.610141
+    ]
+   },
+   "properties": {
+    "name": "Hellenika Cultured Creamery",
+    "kind": "cafe",
+    "level": null,
+    "osm": "node/2169291669",
+    "website": null,
+    "hours": "Mo-Th 10:30-18:00; Fr-Su 10:30-18:30",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3422774,
+     47.6098259
+    ]
+   },
+   "properties": {
+    "name": "Le Panier",
+    "kind": "bakery",
+    "level": null,
+    "osm": "node/2169291687",
+    "website": "https://www.lepanier.com/",
+    "hours": "07:00-18:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3423498,
+     47.610732
+    ]
+   },
+   "properties": {
+    "name": "Maggie's Shoes",
+    "kind": "shoes",
+    "level": null,
+    "osm": "node/2169291688",
+    "website": "http://www.maggiesshoes.net/",
+    "hours": "Mo-Sa 10:00-18:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342338,
+     47.6098611
+    ]
+   },
+   "properties": {
+    "name": "Michou Deli",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/2169291690",
+    "website": "https://www.michoudeli.com/",
+    "hours": "Mo-Fr 09:00-17:00; Sa-Su 10:00-17:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3423272,
+     47.6105944
+    ]
+   },
+   "properties": {
+    "name": "Pensione Nichols B&B",
+    "kind": "guest_house",
+    "level": null,
+    "osm": "node/2169291695",
+    "website": "https://www.pensionenichols.com/",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.343231,
+     47.6104018
+    ]
+   },
+   "properties": {
+    "name": "Pike & Western Wine Shop",
+    "kind": "deli",
+    "level": null,
+    "osm": "node/2169291696",
+    "website": "https://www.pikeandwestern.com/",
+    "hours": "Mo-Fr 10:00-18:20; Sa 09:30-18:00; Su 12:00-17:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3424581,
+     47.6099319
+    ]
+   },
+   "properties": {
+    "name": "Piroshky Piroshky",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/2169291698",
+    "website": "https://www.piroshkybakery.com/",
+    "hours": "Mo-Su 08:00-19:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.343122,
+     47.6103399
+    ]
+   },
+   "properties": {
+    "name": "Turkish Delight",
+    "kind": "fast_food",
+    "level": null,
+    "osm": "node/2169291733",
+    "website": null,
+    "hours": "Mo,Th-Su 11:00-17:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3416588,
+     47.6103145
+    ]
+   },
+   "properties": {
+    "name": "Zebraclub Stores",
+    "kind": "clothes",
+    "level": null,
+    "osm": "node/2169291734",
+    "website": "https://shop.zebraclub.com/",
+    "hours": "Mo-Sa 10:00-19:00; Su 11:00-18:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3405735,
+     47.608511
+    ]
+   },
+   "properties": {
+    "name": "Ghost Alley Espresso",
+    "kind": "coffee",
+    "level": null,
+    "osm": "node/2397460916",
+    "website": "http://www.ghostalleyespresso.com/",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3410359,
+     47.6084177
+    ]
+   },
+   "properties": {
+    "name": "Cobb's Popcorn",
+    "kind": "cafe",
+    "level": null,
+    "osm": "node/2397460917",
+    "website": "https://www.cobbspopcorn.com/",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3411698,
+     47.6088025
+    ]
+   },
+   "properties": {
+    "name": "Merry Tails",
+    "kind": "pet",
+    "level": null,
+    "osm": "node/2397460919",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3410972,
+     47.6087623
+    ]
+   },
+   "properties": {
+    "name": "Pure Food Fish Market",
+    "kind": "seafood",
+    "level": null,
+    "osm": "node/2397460930",
+    "website": "https://www.freshseafood.com/",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341386,
+     47.6088289
+    ]
+   },
+   "properties": {
+    "name": "Brooke Westlund Studio and Gallery",
+    "kind": "gallery",
+    "level": null,
+    "osm": "node/2397460936",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341401,
+     47.6088542
+    ]
+   },
+   "properties": {
+    "name": "Leolo Handmade Shoes and Leather Goods",
+    "kind": "leather",
+    "level": null,
+    "osm": "node/2397460939",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341432,
+     47.608894
+    ]
+   },
+   "properties": {
+    "name": "Eclipse Hat Shop",
+    "kind": "clothes",
+    "level": null,
+    "osm": "node/2397460942",
+    "website": "https://www.eclipsehatshop.com",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3413154,
+     47.6088303
+    ]
+   },
+   "properties": {
+    "name": "Lowell's",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/2397460944",
+    "website": "http://eatatlowells.com",
+    "hours": "Mo-Sa 07:00-21:00; Su 07:00-20:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3410648,
+     47.6087925
+    ]
+   },
+   "properties": {
+    "name": "Chukar Cherries",
+    "kind": "confectionery",
+    "level": null,
+    "osm": "node/2397460958",
+    "website": "https://www.chukar.com/",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3418708,
+     47.6100982
+    ]
+   },
+   "properties": {
+    "name": "Post Alley Kids",
+    "kind": "clothes",
+    "level": null,
+    "osm": "node/2397461002",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3419261,
+     47.6101302
+    ]
+   },
+   "properties": {
+    "name": "The Chocolate Market",
+    "kind": "confectionery",
+    "level": null,
+    "osm": "node/2397461005",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3423969,
+     47.6098951
+    ]
+   },
+   "properties": {
+    "name": "Totem Smokehouse",
+    "kind": "butcher",
+    "level": null,
+    "osm": "node/2397461006",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3417918,
+     47.6103986
+    ]
+   },
+   "properties": {
+    "name": "Biscuit Bitch",
+    "kind": "fast_food",
+    "level": null,
+    "osm": "node/2397461011",
+    "website": "https://biscuitbitch.com/",
+    "hours": "Mo-Su 08:00-13:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3425074,
+     47.6099624
+    ]
+   },
+   "properties": {
+    "name": "Market Optical Eyeware",
+    "kind": "optician",
+    "level": null,
+    "osm": "node/2397461013",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3421051,
+     47.6102361
+    ]
+   },
+   "properties": {
+    "name": "Perennial Tea Room",
+    "kind": "cafe",
+    "level": null,
+    "osm": "node/2397461014",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3418598,
+     47.610448
+    ]
+   },
+   "properties": {
+    "name": "Experience Craft Beer & Tobacco",
+    "kind": "tobacco",
+    "level": null,
+    "osm": "node/2397461015",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3425796,
+     47.6100077
+    ]
+   },
+   "properties": {
+    "name": "Starbucks",
+    "kind": "cafe",
+    "level": null,
+    "osm": "node/2397461017",
+    "website": "https://www.starbucks.com/store-locator/store/11676/pike-place-heritage-market-1912-pike-place-seattle-wa-981011013-us",
+    "hours": "Mo-Su 06:00-20:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342636,
+     47.6100437
+    ]
+   },
+   "properties": {
+    "name": "Maíz",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/2397461019",
+    "website": "https://www.maizseattle.com",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3422197,
+     47.6103021
+    ]
+   },
+   "properties": {
+    "name": "El Callejón",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/2397461020",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3419567,
+     47.6104922
+    ]
+   },
+   "properties": {
+    "name": "Harris/Harvey Gallery",
+    "kind": "art",
+    "level": null,
+    "osm": "node/2397461021",
+    "website": "https://www.harrisharveygallery.com/",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342496,
+     47.6103175
+    ]
+   },
+   "properties": {
+    "name": "Emmett Watson's Oyster Bar",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/2397461022",
+    "website": "https://www.emmettwatsonsoysterbar.com/",
+    "hours": "Mo-Th 11:30-19:00; Fr-Sa 11:30-18:00; Su 11:30-18:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3422879,
+     47.6103448
+    ]
+   },
+   "properties": {
+    "name": "Kells Irish Restaurant & Bar",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/2397461023",
+    "website": "https://www.kellsirish.com/",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3427753,
+     47.6101103
+    ]
+   },
+   "properties": {
+    "name": "Seattle Cutlery",
+    "kind": "kitchen",
+    "level": null,
+    "osm": "node/2397461025",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342444,
+     47.6104633
+    ]
+   },
+   "properties": {
+    "name": "Old School PinUps",
+    "kind": "photo",
+    "level": null,
+    "osm": "node/2397461031",
+    "website": "https://www.oldschoolpinups.com/",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3420255,
+     47.6099229
+    ]
+   },
+   "properties": {
+    "name": "Urara",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/2397461052",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341761,
+     47.6101294
+    ]
+   },
+   "properties": {
+    "name": "Antiques at Pike Place",
+    "kind": "antiques",
+    "level": null,
+    "osm": "node/2397461058",
+    "website": "http://www.antiquesatpikeplace.com/",
+    "hours": "Mo-Sa 10:00-18:00; Su 12:00-17:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3418451,
+     47.6088759
+    ]
+   },
+   "properties": {
+    "name": "Madame Lazonga's",
+    "kind": "tattoo",
+    "level": null,
+    "osm": "node/2397471641",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3418158,
+     47.6095818
+    ]
+   },
+   "properties": {
+    "name": "Beecher's Handmade Cheese",
+    "kind": "cheese",
+    "level": null,
+    "osm": "node/2397485856",
+    "website": "https://www.beechershandmadecheese.com/cafe/pike-place-market/",
+    "hours": "Mo-Su 08:00-19:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3415286,
+     47.6097117
+    ]
+   },
+   "properties": {
+    "name": "Café Campagne",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/2397485860",
+    "website": "https://cafecampagne.com/",
+    "hours": "We-Fr 09:00-21:00; Sa 08:00-21:00; Su 08:00-20:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3416764,
+     47.6096444
+    ]
+   },
+   "properties": {
+    "name": "Sur La Table",
+    "kind": "kitchenware",
+    "level": null,
+    "osm": "node/2397485955",
+    "website": "https://www.surlatable.com/",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3413973,
+     47.6098861
+    ]
+   },
+   "properties": {
+    "name": "Chan Seattle",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/2397485961",
+    "website": "https://www.chanseattle.com/",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3398896,
+     47.6084507
+    ]
+   },
+   "properties": {
+    "name": "Bottega Italiana",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/2397493543",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340713,
+     47.6081274
+    ]
+   },
+   "properties": {
+    "name": "Freya Bakery and Cafe",
+    "kind": "cafe",
+    "level": null,
+    "osm": "node/2397493560",
+    "website": "https://www.freyabakery.com/",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3399496,
+     47.6085079
+    ]
+   },
+   "properties": {
+    "name": "J & J Sportswear",
+    "kind": "clothes",
+    "level": null,
+    "osm": "node/2397493561",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340263,
+     47.608338
+    ]
+   },
+   "properties": {
+    "name": "Market Theater",
+    "kind": "theatre",
+    "level": null,
+    "osm": "node/2397493563",
+    "website": "https://unexpectedproductions.org/",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3399912,
+     47.6085532
+    ]
+   },
+   "properties": {
+    "name": "La Vaca",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/2397493564",
+    "website": null,
+    "hours": "Mo-Fr 11:00-17:00; Sa 11:00-17:30; Su off",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3408252,
+     47.6082196
+    ]
+   },
+   "properties": {
+    "name": "Ugly Baby",
+    "kind": "gift",
+    "level": null,
+    "osm": "node/2397493566",
+    "website": "https://uglybaby.shop/",
+    "hours": "Mo-Th 11:00-17:00; Fr 11:00-18:00; Sa 10:00-18:00; Su 10:00-17:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340082,
+     47.6086519
+    ]
+   },
+   "properties": {
+    "name": "DeLaurenti Specialty Food & Wine",
+    "kind": "deli",
+    "level": null,
+    "osm": "node/2397493573",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340675,
+     47.6085012
+    ]
+   },
+   "properties": {
+    "name": "Don & Joe's Meats",
+    "kind": "butcher",
+    "level": null,
+    "osm": "node/2397493598",
+    "website": "https://donandjoesmeats.com/",
+    "hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:30",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3402705,
+     47.6085956
+    ]
+   },
+   "properties": {
+    "name": "Saffron Spice",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/2397493604",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3405704,
+     47.6088138
+    ]
+   },
+   "properties": {
+    "name": "Aditi Chai",
+    "kind": "cafe",
+    "level": null,
+    "osm": "node/2397497085",
+    "website": "https://aditichai.com",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3403532,
+     47.6089254
+    ]
+   },
+   "properties": {
+    "name": "Pike Place Flowers",
+    "kind": "florist",
+    "level": null,
+    "osm": "node/2397497086",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3407486,
+     47.6089213
+    ]
+   },
+   "properties": {
+    "name": "Oriental Mart",
+    "kind": "convenience",
+    "level": null,
+    "osm": "node/2397497091",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3408098,
+     47.6089587
+    ]
+   },
+   "properties": {
+    "name": "Frank's Quality Produce",
+    "kind": "greengrocer",
+    "level": null,
+    "osm": "node/2397497093",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3404972,
+     47.6090915
+    ]
+   },
+   "properties": {
+    "name": "Falafel King",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/2397497094",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3405314,
+     47.6091312
+    ]
+   },
+   "properties": {
+    "name": "Metsker Maps of Seattle",
+    "kind": "books",
+    "level": null,
+    "osm": "node/2397497095",
+    "website": "https://www.metskers.com/",
+    "hours": "Th, Fr 09:00-20:00; Sa, Su 10:00-18:00; Mo-We 09:00-18:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34087,
+     47.6090057
+    ]
+   },
+   "properties": {
+    "name": "Three Girls Bakery",
+    "kind": "bakery",
+    "level": null,
+    "osm": "node/2397497097",
+    "website": null,
+    "hours": "06:00-18:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3405965,
+     47.6092023
+    ]
+   },
+   "properties": {
+    "name": "Ageless Acupuncture",
+    "kind": "",
+    "level": null,
+    "osm": "node/2397497098",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3408048,
+     47.6091024
+    ]
+   },
+   "properties": {
+    "name": "Magpie Mouse",
+    "kind": "jewelry",
+    "level": "0",
+    "osm": "node/2397497099",
+    "website": "http://www.magpiemousestudios.com/",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3412217,
+     47.6092152
+    ]
+   },
+   "properties": {
+    "name": "Mr. D's Greek Delicacies",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/2397497100",
+    "website": null,
+    "hours": "We-Mo 18:30-23:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3412642,
+     47.6092405
+    ]
+   },
+   "properties": {
+    "name": "Copacabana",
+    "kind": "cafe",
+    "level": null,
+    "osm": "node/2397497102",
+    "website": "https://www.pikeplacecopa.com/",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340694,
+     47.6093089
+    ]
+   },
+   "properties": {
+    "name": "El Borracho",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/2397497104",
+    "website": "http://www.elborrachoseattle.com",
+    "hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-20:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341275,
+     47.6092749
+    ]
+   },
+   "properties": {
+    "name": "Sanitary Market Apartments",
+    "kind": "",
+    "level": null,
+    "osm": "node/2397497105",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3410003,
+     47.6091312
+    ]
+   },
+   "properties": {
+    "name": "Choice Produce & Peppers",
+    "kind": "greengrocer",
+    "level": null,
+    "osm": "node/2397497106",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341335,
+     47.6092872
+    ]
+   },
+   "properties": {
+    "name": "Truffle Queen",
+    "kind": "cafe",
+    "level": null,
+    "osm": "node/2397497108",
+    "website": "https://trufflequeen.com",
+    "hours": "Mo-Su 10:00-18:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3409255,
+     47.6093735
+    ]
+   },
+   "properties": {
+    "name": "So Much Yarn",
+    "kind": "sewing",
+    "level": null,
+    "osm": "node/2397497109",
+    "website": "http://www.somuchyarn.com/",
+    "hours": "10:00-17:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341365,
+     47.6093072
+    ]
+   },
+   "properties": {
+    "name": "Mee Sum Pastry",
+    "kind": "bakery",
+    "level": null,
+    "osm": "node/2397497110",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3413987,
+     47.6093252
+    ]
+   },
+   "properties": {
+    "name": "The Juice Emporium",
+    "kind": "cafe",
+    "level": null,
+    "osm": "node/2397497111",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34143,
+     47.6093438
+    ]
+   },
+   "properties": {
+    "name": "The Confectional",
+    "kind": "confectionery",
+    "level": null,
+    "osm": "node/2397497112",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34123,
+     47.6094025
+    ]
+   },
+   "properties": {
+    "name": "Pike Place Chowder",
+    "kind": "cafe",
+    "level": null,
+    "osm": "node/2397497113",
+    "website": "https://www.pikeplacechowder.com/",
+    "hours": "Mo-Su 11:00-17:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3408711,
+     47.6095283
+    ]
+   },
+   "properties": {
+    "name": "The Tap Room at Pike Place",
+    "kind": "bar",
+    "level": null,
+    "osm": "node/2397497114",
+    "website": "https://www.oldstove.com/",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3414718,
+     47.6093678
+    ]
+   },
+   "properties": {
+    "name": "Lands of Origin",
+    "kind": "cafe",
+    "level": null,
+    "osm": "node/2397497115",
+    "website": "https://www.landsoforigin.com",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3410185,
+     47.6096427
+    ]
+   },
+   "properties": {
+    "name": "Robot vs Sloth",
+    "kind": "gift",
+    "level": null,
+    "osm": "node/2397497118",
+    "website": "https://www.robotvsloth.com",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3407292,
+     47.608632
+    ]
+   },
+   "properties": {
+    "name": "Pike Place Fish Market",
+    "kind": "seafood",
+    "level": null,
+    "osm": "node/2397497121",
+    "website": "https://www.pikeplacefish.com",
+    "hours": "Mo-Sa 06:30-18:00; Su 07:00-17:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3407242,
+     47.6089486
+    ]
+   },
+   "properties": {
+    "name": "Pike Place Bar & Grill",
+    "kind": "restaurant",
+    "level": "1",
+    "osm": "node/2397497123",
+    "website": null,
+    "hours": "09:00-22:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340419,
+     47.6088778
+    ]
+   },
+   "properties": {
+    "name": "Left Bank Book Collective",
+    "kind": "books",
+    "level": null,
+    "osm": "node/2397497125",
+    "website": "https://leftbankbooks.com",
+    "hours": "Mo-Sa 10:00-19:00; Su 11:00-18:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340379,
+     47.6084169
+    ]
+   },
+   "properties": {
+    "name": "Gum Wall",
+    "kind": "artwork",
+    "level": null,
+    "osm": "node/2443738130",
+    "website": null,
+    "hours": "24/7",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3413506,
+     47.6098342
+    ]
+   },
+   "properties": {
+    "name": "Shine in the Market",
+    "kind": "hairdresser",
+    "level": null,
+    "osm": "node/2551458119",
+    "website": "http://www.shineinthemarket.com/",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3403898,
+     47.6089676
+    ]
+   },
+   "properties": {
+    "name": "The Crumpet Shop",
+    "kind": "cafe",
+    "level": null,
+    "osm": "node/2561809378",
+    "website": "https://thecrumpetshop.com/",
+    "hours": "Mo,We,Th 07:00-15:00; Fr-Su 07:00-16:00; PH off",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3438283,
+     47.6099633
+    ]
+   },
+   "properties": {
+    "name": "Farmer's Pole",
+    "kind": "artwork",
+    "level": null,
+    "osm": "node/3211770167",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3441304,
+     47.6101451
+    ]
+   },
+   "properties": {
+    "name": "Untitled Totem Pole",
+    "kind": "artwork",
+    "level": null,
+    "osm": "node/3211770169",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3406064,
+     47.6086279
+    ]
+   },
+   "properties": {
+    "name": "Rachel the Piggy Bank",
+    "kind": "artwork",
+    "level": null,
+    "osm": "node/3559896932",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3405657,
+     47.608856
+    ]
+   },
+   "properties": {
+    "name": "Matt's in the Market",
+    "kind": "restaurant",
+    "level": "2",
+    "osm": "node/3599790535",
+    "website": "https://mattsinthemarket.com/",
+    "hours": "Mo-Sa 11:30-14:30,17:30-22:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3403961,
+     47.608922
+    ]
+   },
+   "properties": {
+    "name": "Radiator Whiskey",
+    "kind": "restaurant",
+    "level": "2",
+    "osm": "node/3599790536",
+    "website": "https://www.radiatorwhiskey.com/",
+    "hours": "Mo-Sa 16:00-24:00; PH off",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340307,
+     47.6087009
+    ]
+   },
+   "properties": {
+    "name": "Chase",
+    "kind": "atm",
+    "level": null,
+    "osm": "node/3675688659",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3411699,
+     47.6094671
+    ]
+   },
+   "properties": {
+    "name": "Jasmine Thai Restaurant",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/3723805732",
+    "website": "http://jasminethaiseattle.com",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341126,
+     47.608515
+    ]
+   },
+   "properties": {
+    "name": "Sound View Cafe",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/3735298725",
+    "website": "http://soundviewcafe.com",
+    "hours": "Su-Th 08:00-18:00; Fr-Sa 08:00-20:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3414556,
+     47.6099627
+    ]
+   },
+   "properties": {
+    "name": "Inn at the Market",
+    "kind": "hotel",
+    "level": null,
+    "osm": "node/3874094357",
+    "website": "https://www.innatthemarket.com/",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341426,
+     47.6097739
+    ]
+   },
+   "properties": {
+    "name": "Sushi Kashiba",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/3874094358",
+    "website": "https://sushikashiba.com/",
+    "hours": "17:00-22:30",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3413869,
+     47.6100512
+    ]
+   },
+   "properties": {
+    "name": "Bacco Cafe",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/4137555551",
+    "website": "https://www.baccocafe.com",
+    "hours": "Mo-Su 07:00-15:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3412173,
+     47.6098918
+    ]
+   },
+   "properties": {
+    "name": "Beyond Threads",
+    "kind": "clothes",
+    "level": null,
+    "osm": "node/4137555552",
+    "website": "https://beyondthreads.com",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3411843,
+     47.6098522
+    ]
+   },
+   "properties": {
+    "name": "Isadora's Antique Jewlery",
+    "kind": "jewelry",
+    "level": null,
+    "osm": "node/4137555555",
+    "website": "https://isadoras.com/",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3416411,
+     47.6102184
+    ]
+   },
+   "properties": {
+    "name": "Kastoori Grill",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/4137555557",
+    "website": null,
+    "hours": "Mo, We-Sa 11:00-21:30; Su 11:00-20:30",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3406591,
+     47.6085383
+    ]
+   },
+   "properties": {
+    "name": "Public Market Clock",
+    "kind": "clock",
+    "level": "1",
+    "osm": "node/4217400413",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3409804,
+     47.6095107
+    ]
+   },
+   "properties": {
+    "name": "Sanitary Market Building",
+    "kind": "attraction",
+    "level": null,
+    "osm": "node/4217428597",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3413569,
+     47.609505
+    ]
+   },
+   "properties": {
+    "name": "Rachel's Ginger Beer - Pike Place Market",
+    "kind": "bar",
+    "level": null,
+    "osm": "node/4249290890",
+    "website": "https://rachelsgingerbeer.com/pages/pike-place-market",
+    "hours": "Su-Th 10:00-20:00; Fr-Sa 10:00-22:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3410742,
+     47.6092106
+    ]
+   },
+   "properties": {
+    "name": "El Mercado Latino",
+    "kind": "convenience",
+    "level": null,
+    "osm": "node/4287062122",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342658,
+     47.6101084
+    ]
+   },
+   "properties": {
+    "name": "The Souk Mid East Grocery & Gifts",
+    "kind": "convenience",
+    "level": null,
+    "osm": "node/4287062129",
+    "website": null,
+    "hours": "Mo-Su 10:00-18:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3409283,
+     47.6090569
+    ]
+   },
+   "properties": {
+    "name": "Jack's Fish Spot",
+    "kind": "seafood",
+    "level": null,
+    "osm": "node/4331174951",
+    "website": "https://jacksfishspot.com/",
+    "hours": "Mo-Sa 07:30-18:00; Su 08:00-17:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3406549,
+     47.6090142
+    ]
+   },
+   "properties": {
+    "name": "Shy Giant Frozen Yogurt",
+    "kind": "ice_cream",
+    "level": "0",
+    "osm": "node/4331174952",
+    "website": null,
+    "hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3406021,
+     47.6089737
+    ]
+   },
+   "properties": {
+    "name": "Storyville Coffee",
+    "kind": "cafe",
+    "level": "2",
+    "osm": "node/4331174953",
+    "website": "https://www.storyville.com",
+    "hours": "Mo,We,Th 07:59-18:00; Fr-Su 07:59-16:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3425988,
+     47.6101603
+    ]
+   },
+   "properties": {
+    "name": "Wanderers' Mail Service",
+    "kind": "post_office",
+    "level": null,
+    "osm": "node/4484374414",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3425403,
+     47.6102038
+    ]
+   },
+   "properties": {
+    "name": "The Soap Box",
+    "kind": "",
+    "level": null,
+    "osm": "node/4484429303",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3424868,
+     47.6102414
+    ]
+   },
+   "properties": {
+    "name": "Seattle Dumpling Company",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/4484429404",
+    "website": null,
+    "hours": "Mo-Su 10:00-17:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340197,
+     47.6086273
+    ]
+   },
+   "properties": {
+    "name": "Il Bistro",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/4573564195",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3428229,
+     47.6106589
+    ]
+   },
+   "properties": {
+    "name": "Pike Market Medical Clinic",
+    "kind": "clinic",
+    "level": null,
+    "osm": "node/4639109916",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3424401,
+     47.6104974
+    ]
+   },
+   "properties": {
+    "name": "The Tasting Room",
+    "kind": "wine",
+    "level": null,
+    "osm": "node/4919957821",
+    "website": "http://www.tastingroomseattle.com",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3425312,
+     47.6103875
+    ]
+   },
+   "properties": {
+    "name": "The Pink Door",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/4919958621",
+    "website": "https://www.thepinkdoor.net",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3408915,
+     47.6091638
+    ]
+   },
+   "properties": {
+    "name": "Los Agaves",
+    "kind": "fast_food",
+    "level": null,
+    "osm": "node/5027183937",
+    "website": "https://losagaves.net/",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3407476,
+     47.6092209
+    ]
+   },
+   "properties": {
+    "name": "Kitchen Basics",
+    "kind": "kitchen",
+    "level": null,
+    "osm": "node/5027183938",
+    "website": null,
+    "hours": "Mo-Su 10:00-17:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3406969,
+     47.609158
+    ]
+   },
+   "properties": {
+    "name": "Earth Wind and Fire",
+    "kind": "clothes",
+    "level": null,
+    "osm": "node/5027183939",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3406586,
+     47.6091159
+    ]
+   },
+   "properties": {
+    "name": "Lamplight Books",
+    "kind": "books",
+    "level": null,
+    "osm": "node/5027183940",
+    "website": null,
+    "hours": "Mo-Su 10:00-17:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3432701,
+     47.6096573
+    ]
+   },
+   "properties": {
+    "name": "Honest Biscuits",
+    "kind": "bakery",
+    "level": null,
+    "osm": "node/5148653621",
+    "website": "https://www.honestbiscuits.com/",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3428497,
+     47.6094952
+    ]
+   },
+   "properties": {
+    "name": "Old Stove Brewing Co. Marketfront",
+    "kind": "pub",
+    "level": null,
+    "osm": "node/5148653622",
+    "website": "https://www.oldstove.com/",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3411986,
+     47.6095087
+    ]
+   },
+   "properties": {
+    "name": "Farvahar Cafe",
+    "kind": "cafe",
+    "level": null,
+    "osm": "node/5150754654",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340354,
+     47.6088825
+    ]
+   },
+   "properties": {
+    "name": "The Rabbit Box",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/5236468223",
+    "website": "https://www.therabbitboxseattle.com/",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3403644,
+     47.6082567
+    ]
+   },
+   "properties": {
+    "name": "Alibi Room",
+    "kind": "bar",
+    "level": null,
+    "osm": "node/5272454120",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3407888,
+     47.6094235
+    ]
+   },
+   "properties": {
+    "name": "Shug's Soda Fountain & Ice Cream",
+    "kind": "",
+    "level": null,
+    "osm": "node/5454862701",
+    "website": "https://www.shugssodafountain.com/",
+    "hours": "Mo,Th,Su 13:00-21:00; Tu-We off; Fr-Sa 13:00-22:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3402323,
+     47.6085368
+    ]
+   },
+   "properties": {
+    "name": "Pasta Casalinga",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/5681016321",
+    "website": "https://pastacasalingaseattle.com",
+    "hours": "Mo-Su 11:00-16:45",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3420495,
+     47.6101993
+    ]
+   },
+   "properties": {
+    "name": "White Horse Trading Co.",
+    "kind": "bar",
+    "level": null,
+    "osm": "node/5948047343",
+    "website": null,
+    "hours": "Mo-Su 17:00-02:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3412989,
+     47.6088145
+    ]
+   },
+   "properties": {
+    "name": "The Athenian Seafood Restaurant and Bar",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/6240206585",
+    "website": "https://www.athenianseattle.com/",
+    "hours": "Mo-Th 08:00-20:00; Fr-Sa 08:00-21:00; Su 09:00-16:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3411767,
+     47.6095721
+    ]
+   },
+   "properties": {
+    "name": "Can Can Culinary Cabaret",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/8815044491",
+    "website": "https://www.thecancan.com",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3429832,
+     47.6102585
+    ]
+   },
+   "properties": {
+    "name": "Kitchen & Market",
+    "kind": "kitchen",
+    "level": null,
+    "osm": "node/8815044494",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3432257,
+     47.609776
+    ]
+   },
+   "properties": {
+    "name": "Indi Chocolate",
+    "kind": "chocolate",
+    "level": null,
+    "osm": "node/9721756911",
+    "website": "https://indichocolate.com/",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3412133,
+     47.6089078
+    ]
+   },
+   "properties": {
+    "name": "Lina's Fruit and Produce",
+    "kind": "greengrocer",
+    "level": null,
+    "osm": "node/9945354884",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3410597,
+     47.6093638
+    ]
+   },
+   "properties": {
+    "name": "Made in Washington",
+    "kind": "gift",
+    "level": null,
+    "osm": "node/11125983605",
+    "website": "https://madeinwashington.com",
+    "hours": "Mo-Sa 09:00-18:00; Su 09:00-17:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3415547,
+     47.6099081
+    ]
+   },
+   "properties": {
+    "name": "Watson Kennedy",
+    "kind": "houseware",
+    "level": null,
+    "osm": "node/11214850365",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3414747,
+     47.6093988
+    ]
+   },
+   "properties": {
+    "name": "The Alabaster Owl",
+    "kind": "antiques",
+    "level": "0",
+    "osm": "node/11660240468",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3408289,
+     47.6091977
+    ]
+   },
+   "properties": {
+    "name": "Market Diner",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/11660267688",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3421511,
+     47.6106015
+    ]
+   },
+   "properties": {
+    "name": "Karoo",
+    "kind": "bar",
+    "level": null,
+    "osm": "node/11660342224",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3420767,
+     47.6105623
+    ]
+   },
+   "properties": {
+    "name": "Sonya's",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/11660342225",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3410705,
+     47.6087484
+    ]
+   },
+   "properties": {
+    "name": "Uli’s Famous Sausage",
+    "kind": "butcher",
+    "level": null,
+    "osm": "node/11891775871",
+    "website": null,
+    "hours": "10:00-18:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3419398,
+     47.6089859
+    ]
+   },
+   "properties": {
+    "name": "Kubode",
+    "kind": "florist",
+    "level": null,
+    "osm": "node/12021390358",
+    "website": "https://www.thekubode.com/",
+    "hours": "Mo-We off; Th-Su 13:00-17:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3422191,
+     47.6089817
+    ]
+   },
+   "properties": {
+    "name": "Valley Cities",
+    "kind": "therapist",
+    "level": null,
+    "osm": "node/12021390359",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3421412,
+     47.6089338
+    ]
+   },
+   "properties": {
+    "name": "Providence Heritage House at the Market",
+    "kind": "clinic",
+    "level": null,
+    "osm": "node/12021390360",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3421848,
+     47.6089417
+    ]
+   },
+   "properties": {
+    "name": "Pike Market Food Bank",
+    "kind": "social_facility",
+    "level": null,
+    "osm": "node/12021390361",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3410971,
+     47.609267
+    ]
+   },
+   "properties": {
+    "name": "Atelier Sanitary Public",
+    "kind": "",
+    "level": null,
+    "osm": "node/12767008481",
+    "website": "https://drive.google.com/file/d/1lHXCV7_aCv8nHcyYF8UK9yg1a0O6aOYj/view?usp=sharing",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3410777,
+     47.6095003
+    ]
+   },
+   "properties": {
+    "name": "Sergio's Barber Shop",
+    "kind": "hairdresser",
+    "level": null,
+    "osm": "node/13525122730",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3411298,
+     47.6094177
+    ]
+   },
+   "properties": {
+    "name": "Pizza Pasta Bar",
+    "kind": "restaurant",
+    "level": null,
+    "osm": "node/13525122731",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3400773,
+     47.6083642
+    ]
+   },
+   "properties": {
+    "name": "Crêpe de France",
+    "kind": "cafe",
+    "level": null,
+    "osm": "node/13816803961",
+    "website": "https://www.crepedefranceseattle.com/",
+    "hours": "Mo-Su 10:00-17:30",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34385859117737,
+     47.61016394834945
+    ]
+   },
+   "properties": {
+    "name": "Victor Steinbrueck Park",
+    "kind": "park",
+    "level": null,
+    "osm": "way/14026690",
+    "website": "https://www.seattle.gov/parks/allparks/victor-steinbrueck-park",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34224204561093,
+     47.60885138404979
+    ]
+   },
+   "properties": {
+    "name": "Pike Place Market Parking",
+    "kind": "parking",
+    "level": null,
+    "osm": "way/184870422",
+    "website": null,
+    "hours": "05:00-02:00",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34286073414485,
+     47.60946541427538
+    ]
+   },
+   "properties": {
+    "name": "MarketFront",
+    "kind": "",
+    "level": null,
+    "osm": "way/184870424",
+    "website": "https://www.pikeplacemarket.org/marketfront",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3404510908,
+     47.60891086880944
+    ]
+   },
+   "properties": {
+    "name": "Corner Market",
+    "kind": "marketplace",
+    "level": null,
+    "osm": "way/206858876",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34082220606062,
+     47.609189128008566
+    ]
+   },
+   "properties": {
+    "name": "Sanitary Public Market",
+    "kind": "marketplace",
+    "level": null,
+    "osm": "way/206858888",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34248128970098,
+     47.61067604645513
+    ]
+   },
+   "properties": {
+    "name": "Landes Block",
+    "kind": "",
+    "level": null,
+    "osm": "way/206877616",
+    "website": "https://viaducthistory.com/neighborhood/VirginiaInn.htm",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34459182148203,
+     47.61057320671787
+    ]
+   },
+   "properties": {
+    "name": "Market Place Two",
+    "kind": "",
+    "level": null,
+    "osm": "way/231355696",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34219829467243,
+     47.60951314548188
+    ]
+   },
+   "properties": {
+    "name": "North Arcade",
+    "kind": "",
+    "level": null,
+    "osm": "way/231357659",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34081455508476,
+     47.60850091985034
+    ]
+   },
+   "properties": {
+    "name": "Main Arcade",
+    "kind": "",
+    "level": null,
+    "osm": "way/231357660",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34136052775933,
+     47.60837598171381
+    ]
+   },
+   "properties": {
+    "name": "Fix Building",
+    "kind": "",
+    "level": null,
+    "osm": "way/231359020",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34052053826797,
+     47.60854880356009
+    ]
+   },
+   "properties": {
+    "name": "Market Heritage Center",
+    "kind": "information",
+    "level": null,
+    "osm": "way/231359028",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3421770678494,
+     47.609827342255365
+    ]
+   },
+   "properties": {
+    "name": "Garden Center Building",
+    "kind": "",
+    "level": null,
+    "osm": "way/231360587",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34112991149289,
+     47.60949806365551
+    ]
+   },
+   "properties": {
+    "name": "First & Pine Building",
+    "kind": "",
+    "level": null,
+    "osm": "way/231362204",
+    "website": "https://www.teutsch.com/retail_firstpine.htm",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34264634753092,
+     47.60938982538825
+    ]
+   },
+   "properties": {
+    "name": "SkyBridge",
+    "kind": "",
+    "level": null,
+    "osm": "way/296789534",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34215846343726,
+     47.610439604905764
+    ]
+   },
+   "properties": {
+    "name": "Alaska Trade Building",
+    "kind": "",
+    "level": null,
+    "osm": "way/360950561",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341986513556,
+     47.610382324846995
+    ]
+   },
+   "properties": {
+    "name": "Fairmount Apartments",
+    "kind": "",
+    "level": null,
+    "osm": "way/360950564",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34165283908095,
+     47.609545544803495
+    ]
+   },
+   "properties": {
+    "name": "Pike Place Market",
+    "kind": "attraction",
+    "level": null,
+    "osm": "way/363400641",
+    "website": "https://www.pikeplacemarket.org/",
+    "hours": "Mo-Sa 09:00-18:00; Su 09:00-17:00; Nov Th[4] off; Dec 25 off",
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3422625147195,
+     47.609910795366545
+    ]
+   },
+   "properties": {
+    "name": "Stewart House",
+    "kind": "social_facility",
+    "level": null,
+    "osm": "way/367894552",
+    "website": "https://www.pikeplacemarket.org/residential",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34315202362,
+     47.61047434677774
+    ]
+   },
+   "properties": {
+    "name": "Champion Building",
+    "kind": "",
+    "level": null,
+    "osm": "way/367894555",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34257947305183,
+     47.61027190176401
+    ]
+   },
+   "properties": {
+    "name": "Pike & Virginia Building",
+    "kind": "",
+    "level": null,
+    "osm": "way/367894556",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34137980886098,
+     47.609870789451136
+    ]
+   },
+   "properties": {
+    "name": "Inn at the Market Building",
+    "kind": "hotel",
+    "level": null,
+    "osm": "way/409363106",
+    "website": "https://www.innatthemarket.com/",
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3429872890057,
+     47.60975496330175
+    ]
+   },
+   "properties": {
+    "name": "Joe Desimone Bridge",
+    "kind": "",
+    "level": "1",
+    "osm": "way/415327716",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34144883996588,
+     47.6093710229045
+    ]
+   },
+   "properties": {
+    "name": "Triangle Building",
+    "kind": "",
+    "level": null,
+    "osm": "way/1190291980",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34069848068232,
+     47.60850474848358
+    ]
+   },
+   "properties": {
+    "name": "Leland Hotel",
+    "kind": "",
+    "level": null,
+    "osm": "way/1271653800",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34098114480894,
+     47.60876928274245
+    ]
+   },
+   "properties": {
+    "name": "Main Arcade",
+    "kind": "",
+    "level": null,
+    "osm": "way/1271653801",
+    "website": null,
+    "hours": null,
+    "source": "osm"
+   }
+  }
+ ],
+ "note": "OpenStreetMap, ODbL 1.0"
+}

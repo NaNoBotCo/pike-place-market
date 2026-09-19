@@ -1,0 +1,70 @@
+{
+ "source": "Pike Place Market PDA — Plan Your Visit",
+ "url": "https://www.pikeplacemarket.org/plan-your-visit/",
+ "fetched": "2026-09-19T16:48:11Z",
+ "licence": "text and images are the Market's and its vendors'; held here as facts about who trades where, quoted short and linked back, nothing rehosted",
+ "active_band": "10 a.m. to 5 p.m.",
+ "closed_days": "Thanksgiving and Christmas Day",
+ "self_description": "10-level, 9-acre",
+ "count": 14,
+ "hours": [
+  {
+   "what": "Breakfast",
+   "when": "7 a.m."
+  },
+  {
+   "what": "Fresh Produce & Seafood",
+   "when": "7 a.m."
+  },
+  {
+   "what": "Crafts Market",
+   "when": "11 a.m. – 4 p.m."
+  },
+  {
+   "what": "Farm Tables",
+   "when": "9 a.m. – 4 p.m."
+  },
+  {
+   "what": "Artisanal Food Program",
+   "when": "11 a.m. – 4 p.m. (Fri – Sun)"
+  },
+  {
+   "what": "Open daily",
+   "when": "9 a.m. – 7 p.m."
+  },
+  {
+   "what": "Restrooms",
+   "when": "8:30 a.m. – 6 p.m. (North restroom open until 7 p.m.)"
+  },
+  {
+   "what": "Restaurants",
+   "when": "7 a.m. – 2 a.m.; varies"
+  },
+  {
+   "what": "Secret Garden",
+   "when": "9:30 a.m. – 5 p.m."
+  }
+ ],
+ "figures": [
+  {
+   "count": "220+",
+   "what": "independently owned shops"
+  },
+  {
+   "count": "180+",
+   "what": "craftspeople"
+  },
+  {
+   "count": "70+",
+   "what": "farmers"
+  },
+  {
+   "count": "60+",
+   "what": "permitted buskers"
+  },
+  {
+   "count": "450+",
+   "what": "residents in affordable housing"
+  }
+ ]
+}

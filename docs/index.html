@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en" class="">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Pike Place Market — twelve acres, counted</title>
+<meta name="description" content="Every licensed business inside the Pike Place Market Historical District, when each started, and a map drawn from open data.">
+<link rel="canonical" href="https://nanobotco.github.io/pike-place-market/">
+<meta property="og:title" content="Pike Place Market — twelve acres, counted">
+<meta property="og:description" content="Every licensed business inside the Pike Place Market Historical District, when each started, and a map drawn from open data.">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#14100d">
+<link rel="stylesheet" href="site.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "Pike Place Market", "url": "https://nanobotco.github.io/pike-place-market/", "description": "A geofenced directory and GIS map of the Pike Place Market Historical District, Seattle.", "publisher": {"@type": "Organization", "name": "NaNoBotCo"}}</script>
+<a class="skip" href="#main">Skip to the page</a>
+<header class="top"><nav class="bar"><a href="" class="on">Front</a><a href="map/">Map</a><a href="directory/">Directory</a><a href="trades/">Trades</a><a href="age/">Age</a><a href="fence/">The line</a><a href="daniel-fleming/">Daniel Fleming</a><a href="sources/">Sources</a></nav></header>
+<div class="backdrop" aria-hidden="true"><picture class="bg on" data-scene="hero"><img src="images/hero.jpg" alt="" fetchpriority="high" decoding="async"></picture><picture class="bg" data-scene="here"><img src="images/near.jpg" alt="" loading="lazy" decoding="async"></picture><picture class="bg" data-scene="who"><img src="images/now.jpg" alt="" loading="lazy" decoding="async"></picture><picture class="bg" data-scene="age"><img src="images/tenure.jpg" alt="" loading="lazy" decoding="async"></picture><picture class="bg" data-scene="daniel"><img src="images/daniel.jpg" alt="" loading="lazy" decoding="async"></picture><picture class="bg" data-scene="doors"><img src="images/directory.jpg" alt="" loading="lazy" decoding="async"></picture><picture class="bg" data-scene="door"><img src="images/door.jpg" alt="" loading="lazy" decoding="async"></picture><div class="scrim"></div></div>
+<main id="main">
+<section class="s" data-scene="hero"><div class="in"><div class="plate hero">
+<span class="wordmark">Pike Place Market · Seattle · Historical District</span>
+<h1>Twelve acres,<br>counted</h1>
+<p class="lede">Every business inside the line the city drew around Pike Place Market,
+ the date each one started trading, and what the separate records of this place
+ disagree about.</p>
+<p class="nowline"><span class="lamp"><i id="lamp"></i><span id="clock">—</span></span>
+ <span><b class="num">12.827</b> acres</span>
+ <span><b class="num">153</b> with a licence</span>
+ <span><b class="num">473</b> on the Market's roster</span></p>
+<p><a class="btn solid" href="map/">Open the map</a>
+ <a class="btn" href="directory/">The directory</a></p>
+</div></div>
+ <a class="down" href="#here" aria-label="Down">&#8595;</a></section>
+<section class="s" id="here" data-scene="here"><div class="in"><div class="plate ">
+<h2 class="kick">Are you inside it?</h2>
+<p class="lede">The district is a 30-cornered polygon with an area of 12.827 acres and
+ 1,101 metres of edge. Standing anywhere near Pike Place, a step either way changes the
+ answer.</p>
+<p><button class="btn" id="locate">Ask my device</button></p>
+<p class="where" id="whereami"></p>
+<div id="nearlist"></div>
+<p class="small">The device's position is compared in the browser against the
+ boundary file on this page. <a href="fence/">How the line is drawn</a>.</p>
+</div></div></section>
+<section class="s" data-scene="who"><div class="in"><div class="plate ">
+<h2 class="kick">Five counts of one place</h2>
+<ul class="counters"><li><a href="directory/"><span class="big">153</span><span class="lbl"><span class="t">hold a city business licence inside the line</span><small>the only dated, address-level record of who trades here</small></span></a></li><li><a href="directory/#roster"><span class="big">473</span><span class="lbl"><span class="t">are on the Market&#x27;s own vendor roster</span><small>including the daystall craftspeople and farmers, who hold no separate city licence</small></span></a></li><li><a href="map/"><span class="big">170</span><span class="lbl"><span class="t">are named in OpenStreetMap</span><small>volunteer survey, which is a fourth answer again</small></span></a></li><li><a href="fence/"><span class="big">215</span><span class="lbl"><span class="t">addresses inside the boundary</span><small>from the city's Master Address File</small></span></a></li><li><a href="fence/"><span class="big">12.827</span><span class="lbl"><span class="t">acres, as the city draws the district</span><small>the Market's own page calls itself a 10-level, 9-acre Market — a difference of 3.83 acres</small></span></a></li></ul>
+<p class="small">The Market's own figures are quoted from its visitor page, read 2026-09-19.
+ The licence count is what the city's file holds at an address the boundary contains.
+ <a href="sources/">Each source, with the hour it was read</a>.</p>
+</div></div></section>
+<section class="s" data-scene="age"><div class="in"><div class="plate ">
+<h2 class="kick">How long they stay</h2>
+<p class="lede">Median time inside the line, on the same licence: <b class="num">24.7
+ years</b>. In the hundred and fifty metres outside it: <b class="num">18.7 years</b>.</p>
+<figure class="chart"><svg viewBox="0 0 760 202" role="img" aria-label="Inside the historical district (153 licences) against licensed businesses within 150 m of it and outside (46). The three"><text class="t" x="200" y="12">inside the line</text><text class="t" x="430" y="12" fill="#6a8fb5">outside, within 150 m</text><text x="190" y="38" text-anchor="end">median years</text><rect class="bar" x="200" y="24" width="178.0" height="13" rx="2"/><text class="v" x="386.0" y="35">24.7</text><rect class="bar alt" x="200" y="40" width="134.8" height="13" rx="2"/><text class="v" x="342.8" y="51">18.7</text><text x="190" y="80" text-anchor="end">past twenty, %</text><rect class="bar" x="200" y="66" width="490.0" height="13" rx="2"/><text class="v" x="698.0" y="77">68</text><rect class="bar alt" x="200" y="82" width="331.5" height="13" rx="2"/><text class="v" x="539.5" y="93">46</text><text x="190" y="122" text-anchor="end">past forty, %</text><rect class="bar" x="200" y="108" width="158.5" height="13" rx="2"/><text class="v" x="366.5" y="119">22</text><rect class="bar alt" x="200" y="124" width="28.8" height="13" rx="2"/><text class="v" x="236.8" y="135">4</text><text x="190" y="164" text-anchor="end">under five, %</text><rect class="bar" x="200" y="150" width="36.0" height="13" rx="2"/><text class="v" x="244.0" y="161">5</text><rect class="bar alt" x="200" y="166" width="108.1" height="13" rx="2"/><text class="v" x="316.1" y="177">15</text></svg><figcaption>Inside the historical district (153 licences) against licensed businesses within 150 m of it and outside (46). The three shares are percentages of each group, because the groups are different sizes. Active licences only: a business that closed is in neither column.</figcaption></figure>
+<p>34 of the 153 businesses inside the boundary have held the same licence for more than
+ forty years. Among the 46 licensed businesses within 150 m of the line and outside it,
+ 2 have.</p>
+<p><a class="btn" href="age/">The whole distribution</a></p>
+</div></div></section>
+<section class="s" data-scene="daniel"><div class="in"><div class="plate ">
+<h2 class="kick">One stall, in three records</h2>
+<h3 style="margin-top:0">Isellpictures.com</h3>
+<p class="lede">Fodoughgrafiks (Isellpictures.com) has been selling digital art in Pike Place Market since 2007. Owner Daniel T. Fleming shoots, edits, prints coats, trims, mounts, signs, and sells a body of work that celebrates the most iconic scenes and situations from the Greater PNW and beyond.</p>
+<p>The city licensed <b>FODOUGHGRAFIKS</b> to <b>FLEMING DANIEL T</b> on <b>10 March 2006</b> — 20.53 years ago. The Market's
+ own roster says the business has sold here since 2007. In May 2024 he put it at
+ eighteen years. Three sources, two dates, one stall.</p>
+<p><a class="btn solid" href="daniel-fleming/">His page</a>
+ <a class="btn" href="https://isellpictures.com/">isellpictures.com</a></p>
+</div></div></section>
+<section class="s flow" data-scene="doors"><div class="in"><div class="plate wide">
+<h2 class="kick">Every door</h2>
+<ul class="tiles four"><li><figure class="thumb"><h3><a class="shot" href="map/"><span class="bg" style="background-image:url(images/signage.thumb.jpg)"></span><span class="scrim"></span><span class="sp"></span><span class="tx"><span class="kk">153 points on one polygon</span>The map</span></a></h3><span class="cred"><a href="https://commons.wikimedia.org/wiki/File%3ANeon_Signage_at_Pike_Place_Market%2C_Seattle%2C_Washington%2C_2025.jpg">Julian Lupyan</a> · <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="license">CC0</a> · Wikimedia Commons</span></figure></li><li><figure class="thumb"><h3><a class="shot" href="directory/"><span class="bg" style="background-image:url(images/flowerrow.thumb.jpg)"></span><span class="scrim"></span><span class="sp"></span><span class="tx"><span class="kk">31 places, 14 trades</span>The directory</span></a></h3><span class="cred"><a href="https://commons.wikimedia.org/wiki/File%3APike_Place_Market_-_Flower_Row_01.jpg">Joe Mabel</a> · <a href="http://creativecommons.org/licenses/by-sa/3.0/" rel="license">CC BY-SA 3.0</a> · Wikimedia Commons</span></figure></li><li><figure class="thumb"><h3><a class="shot" href="age/"><span class="bg" style="background-image:url(images/stalls1968.thumb.jpg)"></span><span class="scrim"></span><span class="sp"></span><span class="tx"><span class="kk">1965 to this year</span>Age</span></a></h3><span class="cred"><a href="https://commons.wikimedia.org/wiki/File%3APike_Place_Market_stalls%2C_1968.jpg">W.L. Dahl via Seattle Municipal Archives from Seattle, WA</a> · <a href="https://creativecommons.org/licenses/by/4.0" rel="license">CC BY 4.0</a> · Wikimedia Commons</span></figure></li><li><figure class="thumb"><h3><a class="shot" href="fence/"><span class="bg" style="background-image:url(images/postalley.thumb.jpg)"></span><span class="scrim"></span><span class="sp"></span><span class="tx"><span class="kk">12.827 acres, 30 corners</span>The line</span></a></h3><span class="cred"><a href="https://commons.wikimedia.org/wiki/File%3APost_Alley%2C_Pike_Place_Market_%282026%29.jpeg">Iiii I I I</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="license">CC BY-SA 4.0</a> · Wikimedia Commons</span></figure></li><li><figure class="thumb"><h3><a class="shot" href="trades/"><span class="bg" style="background-image:url(images/fish.thumb.jpg)"></span><span class="scrim"></span><span class="sp"></span><span class="tx"><span class="kk">what the codes say</span>Trades</span></a></h3><span class="cred"><a href="https://commons.wikimedia.org/wiki/File%3APike_Place_Market_fish_2.jpg">dschwen</a> · <a href="https://creativecommons.org/licenses/by-sa/3.0" rel="license">CC BY-SA 3.0</a> · Wikimedia Commons · 2015</span></figure></li><li><figure class="thumb"><h3><a class="shot" href="daniel-fleming/"><span class="bg" style="background-image:url(images/daniel.thumb.jpg)"></span><span class="scrim"></span><span class="sp"></span><span class="tx"><span class="kk">20 years</span>Daniel Fleming</span></a></h3><span class="cred"><a href="https://commons.wikimedia.org/wiki/File%3AFish_market_at_Pike_Place_in_Seattle.jpg">Kissmykumbaya</a> · <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="license">CC0</a> · Wikimedia Commons · 2012</span></figure></li><li><figure class="thumb"><h3><a class="shot" href="sources/"><span class="bg" style="background-image:url(images/advert1909.thumb.jpg)"></span><span class="scrim"></span><span class="sp"></span><span class="tx"><span class="kk">every fetch, dated</span>Sources</span></a></h3><span class="cred"><a href="https://commons.wikimedia.org/wiki/File%3APike_Place_Market_%281909%29_%28ADVERT_116%29.jpeg">unidentified</a> · Public domain · Wikimedia Commons · 1909</span></figure></li><li><figure class="thumb"><h3><a class="shot" href="api/"><span class="bg" style="background-image:url(images/interior1968.thumb.jpg)"></span><span class="scrim"></span><span class="sp"></span><span class="tx"><span class="kk">GeoJSON and JSON</span>The data</span></a></h3><span class="cred"><a href="https://commons.wikimedia.org/wiki/File%3APike_Place_Market_interior%2C_1968_%2853086979460%29.jpg">W.L. Dahl (city photographer) via Seattle Municipal Archives</a> · <a href="https://creativecommons.org/licenses/by/2.0" rel="license">CC BY 2.0</a> · Wikimedia Commons</span></figure></li></ul>
+</div></div></section>
+</main>
+<footer class="door" data-scene="door">
+ <div class="in"><div class="plate">
+  <p class="sig"><b>Pike Place Market</b> · the twelve acres, counted</p>
+  <nav class="fnav"><a href="">Front</a><a href="map/">Map</a><a href="directory/">Directory</a><a href="trades/">Trades</a><a href="age/">Age</a><a href="fence/">The line</a><a href="daniel-fleming/">Daniel Fleming</a><a href="sources/">Sources</a></nav>
+  <p class="src">Built from the City of Seattle's open data, OpenStreetMap under ODbL 1.0,
+   the Market's own vendor roster, and freely licensed photographs from Wikimedia Commons.
+   <a href="sources/">Every source, with the hour it was read</a>.</p>
+  
+  <p class="lic">Code MIT. Text and figures CC BY 4.0. The data keeps the licence it
+   arrived with. <a href="https://github.com/NaNoBotCo/pike-place-market">Repository</a>.</p>
+ </div></div>
+</footer>
+<script>
+(function(){
+/* The clock is Seattle's, wherever the reader is. The lamp is the Market's own
+   published band for when most of it is trading, quoted on the visitor page. */
+var band=[10,17];
+function tick(){
+ var d=new Date(),f=new Intl.DateTimeFormat('en-GB',{timeZone:'America/Los_Angeles',
+  hour:'2-digit',minute:'2-digit',weekday:'short',hour12:false});
+ var p={};f.formatToParts(d).forEach(function(x){p[x.type]=x.value});
+ var h=+p.hour+ (+p.minute)/60;
+ var el=document.getElementById('clock'),lamp=document.getElementById('lamp');
+ if(el)el.textContent=p.weekday+' '+p.hour+':'+p.minute+' in Seattle';
+ if(lamp)lamp.className=(h>=band[0]&&h<band[1])?'open':'shut';
+}
+tick();setInterval(tick,20000);
+
+var btn=document.getElementById('locate');
+if(btn)btn.addEventListener('click',function(){
+ var out=document.getElementById('whereami');
+ if(!navigator.geolocation){out.textContent='This browser offers no position.';return}
+ out.textContent='asking the device…';
+ navigator.geolocation.getCurrentPosition(function(pos){
+  var lon=pos.coords.longitude,lat=pos.coords.latitude;
+  Promise.all([fetch('data/fence.geojson').then(function(r){return r.json()}),
+               fetch('data/vendors.geojson').then(function(r){return r.json()})])
+  .then(function(d){
+   var g=d[0].features[0].geometry,ins=ptIn([lon,lat],g),m=Math.round(distTo([lon,lat],g));
+   out.textContent=ins?('inside the district, '+m+' m from the nearest edge')
+     :(m<4000?(m+' m outside the district'):'well outside the district');
+   var rows=d[1].features.map(function(f){
+    return {n:f.properties.name,t:f.properties.trade,y:f.properties.years,
+            d:hav(lat,lon,f.geometry.coordinates[1],f.geometry.coordinates[0])}})
+    .sort(function(a,b){return a.d-b.d}).slice(0,8);
+   document.getElementById('nearlist').innerHTML='<ul class="rows">'+rows.map(function(r){
+    return '<li><span class="nm">'+esc(r.n)+'<span class="meta">'+esc(r.t||'')+'</span></span>'+
+     '<span class="yr">'+Math.round(r.d)+' m</span></li>'}).join('')+'</ul>';
+  });
+ },function(){out.textContent='the device declined'},{enableHighAccuracy:true,timeout:9000});
+});
+function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){
+ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+function hav(la1,lo1,la2,lo2){var R=6371008.8,p=Math.PI/180;
+ var a=Math.sin((la2-la1)*p/2),b=Math.sin((lo2-lo1)*p/2);
+ var h=a*a+Math.cos(la1*p)*Math.cos(la2*p)*b*b;return 2*R*Math.asin(Math.sqrt(h))}
+function ptIn(pt,g){var ps=g.type==='Polygon'?[g.coordinates]:g.coordinates;
+ for(var i=0;i<ps.length;i++)if(ring(pt,ps[i][0]))return true;return false}
+function ring(pt,r){var x=pt[0],y=pt[1],o=false;
+ for(var i=0,j=r.length-1;i<r.length;j=i++){var xi=r[i][0],yi=r[i][1],xj=r[j][0],yj=r[j][1];
+  if((yi>y)!==(yj>y)&&x<(xj-xi)*(y-yi)/((yj-yi)||1e-18)+xi)o=!o}return o}
+function distTo(pt,g){var ps=g.type==='Polygon'?[g.coordinates]:g.coordinates,best=1e12;
+ var k=Math.cos(pt[1]*Math.PI/180);
+ ps.forEach(function(p){p.forEach(function(r){for(var i=0;i<r.length-1;i++){
+  var a=r[i],b=r[i+1],px=pt[0]*k,py=pt[1],ax=a[0]*k,ay=a[1],bx=b[0]*k,by=b[1];
+  var dx=bx-ax,dy=by-ay,L=dx*dx+dy*dy;
+  var t=L?Math.max(0,Math.min(1,((px-ax)*dx+(py-ay)*dy)/L)):0;
+  best=Math.min(best,Math.hypot(px-(ax+t*dx),py-(ay+t*dy))*Math.PI/180*6371008.8)}})});
+ return best}
+})();
+</script><script>
+/* Which frame is showing is decided by whichever scene holds most of the screen.
+   An IntersectionObserver, not a scroll listener: a scroll listener is throttled to
+   nothing when the tab is in the background. The backdrop's own frames carry
+   data-scene too, so the observer is given the sections only. */
+(function(){
+var bgs=document.querySelectorAll('.backdrop .bg');
+if(!bgs.length)return;
+var seen={},shown=null;
+function show(s){
+ if(s===shown)return;shown=s;
+ bgs.forEach(function(b){b.classList.toggle('on',b.dataset.scene===s)});
+}
+var io=new IntersectionObserver(function(es){
+ es.forEach(function(e){if(e.target.dataset.scene)seen[e.target.dataset.scene]=e.intersectionRatio});
+ var best=null,v=0;
+ for(var k in seen){if(seen[k]>v){v=seen[k];best=k}}
+ if(best&&v>0.12)show(best);
+},{threshold:[0,.12,.25,.5,.75,1]});
+document.querySelectorAll('main>[data-scene],footer[data-scene]').forEach(function(el){io.observe(el)});
+})();
+</script>

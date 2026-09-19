@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en" class="">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Sources — Pike Place Market</title>
+<meta name="description" content="Every dataset behind this site, its licence, and the hour it was read.">
+<link rel="canonical" href="https://nanobotco.github.io/pike-place-market/sources/">
+<meta property="og:title" content="Sources — Pike Place Market">
+<meta property="og:description" content="Every dataset behind this site, its licence, and the hour it was read.">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#14100d">
+<link rel="stylesheet" href="../site.css">
+
+<a class="skip" href="#main">Skip to the page</a>
+<header class="top"><nav class="bar"><a href="../">Front</a><a href="../map/">Map</a><a href="../directory/">Directory</a><a href="../trades/">Trades</a><a href="../age/">Age</a><a href="../fence/">The line</a><a href="../daniel-fleming/">Daniel Fleming</a><a href="../sources/" class="on">Sources</a></nav></header>
+
+<main id="main"><div class="in"><div class="paper">
+<h1>Sources</h1>
+<p class="lede">Every file this site is built from, what it came from, under what
+ licence, and the hour it was read. A harvest file is never a record: it keeps its own
+ provenance, so an absence reads as "not in that source on that date".</p>
+<div class="scroll"><table class="n"><thead><tr><th>File</th><th>Source</th><th>Licence</th><th>Rows</th><th>Read (UTC)</th></tr></thead><tbody><tr><td>gis-addresses.json</td><td>City of Seattle Open Data — Active_Addresses_(MAF)NEW</td><td>City of Seattle Open Data — open / public domain</td><td><span class="num">898</span></td><td>2026-09-19 16:06</td></tr><tr><td>gis-buildings.json</td><td>City of Seattle Open Data — Building_Outlines_2023</td><td>City of Seattle Open Data — open / public domain</td><td><span class="num">96</span></td><td>2026-09-19 16:06</td></tr><tr><td>gis-crosswalks.json</td><td>City of Seattle Open Data — Marked_Crosswalks_(Active)</td><td>City of Seattle Open Data — open / public domain</td><td><span class="num">91</span></td><td>2026-09-19 16:06</td></tr><tr><td>gis-garages.json</td><td>City of Seattle Open Data — Public_Garages_and_Parking_Lots</td><td>City of Seattle Open Data — open / public domain</td><td><span class="num">36</span></td><td>2026-09-19 16:06</td></tr><tr><td>gis-landmarks.json</td><td>City of Seattle Open Data — Landmarks</td><td>City of Seattle Open Data — open / public domain</td><td><span class="num">24</span></td><td>2026-09-19 16:06</td></tr><tr><td>gis-parcels.json</td><td>City of Seattle Open Data — Parcel_Boundary</td><td>City of Seattle Open Data — open / public domain</td><td><span class="num">215</span></td><td>2026-09-19 16:06</td></tr><tr><td>gis-publicart.json</td><td>City of Seattle Open Data — Public_Art</td><td>City of Seattle Open Data — open / public domain</td><td><span class="num">26</span></td><td>2026-09-19 16:06</td></tr><tr><td>gis-streetpark.json</td><td>City of Seattle Open Data — Parking_Features</td><td>City of Seattle Open Data — open / public domain</td><td><span class="num">175</span></td><td>2026-09-19 16:06</td></tr><tr><td>gis-trees.json</td><td>City of Seattle Open Data — Combined_Tree_Point</td><td>City of Seattle Open Data — open / public domain</td><td><span class="num">734</span></td><td>2026-09-19 16:06</td></tr><tr><td>gis-zoning.json</td><td>City of Seattle Open Data — Current_Land_Use_Zoning_Detail_2</td><td>City of Seattle Open Data — open / public domain</td><td><span class="num">25</span></td><td>2026-09-19 16:06</td></tr><tr><td>licences.json</td><td>City of Seattle — active business license tax certificates</td><td>City of Seattle Open Data — open, no licence asserted</td><td><span class="num">348</span></td><td>2026-09-19 16:09</td></tr><tr><td>osm-pois.json</td><td>OpenStreetMap</td><td>OpenStreetMap contributors, ODbL 1.0</td><td><span class="num">914</span></td><td>2026-09-19 16:07</td></tr><tr><td>osm-shapes.json</td><td>OpenStreetMap</td><td>OpenStreetMap contributors, ODbL 1.0</td><td><span class="num">1,416</span></td><td>2026-09-19 16:07</td></tr><tr><td>pda-categories.json</td><td>Pike Place Market PDA — pikeplacemarket.org, WordPress REST API and vendor pages</td><td></td><td><span class="num">75</span></td><td></td></tr><tr><td>pda-tags.json</td><td>Pike Place Market PDA — pikeplacemarket.org, WordPress REST API and vendor pages</td><td></td><td><span class="num">3,252</span></td><td></td></tr><tr><td>pda-vendors.json</td><td>Pike Place Market PDA — pikeplacemarket.org, WordPress REST API and vendor pages</td><td>text and images are the Market&#x27;s and its vendors&#x27;; held here as facts about who trades where, quoted</td><td><span class="num">473</span></td><td>2026-09-19 16:12</td></tr><tr><td>pda-visit.json</td><td>Pike Place Market PDA — Plan Your Visit</td><td>text and images are the Market&#x27;s and its vendors&#x27;; held here as facts about who trades where, quoted</td><td><span class="num">14</span></td><td>2026-09-19 16:48</td></tr></tbody></table></div>
+<h2>The four bodies that describe this place</h2>
+<ul>
+ <li><b>The City of Seattle</b> draws the historical district boundary (Land Use Code
+  chapter 25.24, overlay PP) and publishes the business licence file, the Master Address
+  File, building outlines, public art, trees and kerb space as open data.</li>
+ <li><b>The Pike Place Market Preservation and Development Authority</b> runs the Market
+  and publishes its own vendor roster, its categories and its hours. Its robots.txt
+  permits this and asks ten seconds between requests, which is what the crawler waits.</li>
+ <li><b>OpenStreetMap contributors</b> mapped the buildings, the arcades, the stairs and
+  a few hundred of the shops. ODbL 1.0, share-alike, attributed on every map.</li>
+ <li><b>Wikimedia Commons</b> holds the photographs. The harvester takes CC0, public
+  domain, CC BY, CC BY-SA and Free Art Licence files and lists the rest without taking
+  them; a picture's author and licence print beside it.</li>
+</ul>
+<h2>What the Market publishes about its hours</h2>
+<p>Quoted from its visitor page, read 2026-09-19. Most of the Market is active from
+ <b>10 a.m. to 5 p.m.</b>; it trades seven days a week, closed on <b>Thanksgiving and Christmas Day</b>.</p>
+<div class="scroll"><table class=""><thead><tr><th>What</th><th>When</th></tr></thead><tbody><tr><td>Breakfast</td><td>7 a.m.</td></tr><tr><td>Fresh Produce &amp; Seafood</td><td>7 a.m.</td></tr><tr><td>Crafts Market</td><td>11 a.m. – 4 p.m.</td></tr><tr><td>Farm Tables</td><td>9 a.m. – 4 p.m.</td></tr><tr><td>Artisanal Food Program</td><td>11 a.m. – 4 p.m. (Fri – Sun)</td></tr><tr><td>Open daily</td><td>9 a.m. – 7 p.m.</td></tr><tr><td>Restrooms</td><td>8:30 a.m. – 6 p.m. (North restroom open until 7 p.m.)</td></tr><tr><td>Restaurants</td><td>7 a.m. – 2 a.m.; varies</td></tr><tr><td>Secret Garden</td><td>9:30 a.m. – 5 p.m.</td></tr></tbody></table></div>
+<p><a class="btn" href="../api/">The data files</a></p>
+</div></div></main>
+
+<footer class="door">
+ <div class="in"><div class="plate">
+  <p class="sig"><b>Pike Place Market</b> · the twelve acres, counted</p>
+  <nav class="fnav"><a href="../">Front</a><a href="../map/">Map</a><a href="../directory/">Directory</a><a href="../trades/">Trades</a><a href="../age/">Age</a><a href="../fence/">The line</a><a href="../daniel-fleming/">Daniel Fleming</a><a href="../sources/">Sources</a></nav>
+  <p class="src">Built from the City of Seattle's open data, OpenStreetMap under ODbL 1.0,
+   the Market's own vendor roster, and freely licensed photographs from Wikimedia Commons.
+   <a href="../sources/">Every source, with the hour it was read</a>.</p>
+  
+  <p class="lic">Code MIT. Text and figures CC BY 4.0. The data keeps the licence it
+   arrived with. <a href="https://github.com/NaNoBotCo/pike-place-market">Repository</a>.</p>
+ </div></div>
+</footer>

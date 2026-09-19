@@ -1,0 +1,162 @@
+{
+ "type": "Feature",
+ "id": 32,
+ "geometry": {
+  "type": "Polygon",
+  "coordinates": [
+   [
+    [
+     -122.339687069447,
+     47.6084641651203
+    ],
+    [
+     -122.340801264543,
+     47.607998418418
+    ],
+    [
+     -122.341450841207,
+     47.6087127944638
+    ],
+    [
+     -122.342189535945,
+     47.6084041033088
+    ],
+    [
+     -122.342234944707,
+     47.6084495810636
+    ],
+    [
+     -122.342703948099,
+     47.6089618072765
+    ],
+    [
+     -122.342767976815,
+     47.6090317326575
+    ],
+    [
+     -122.342722639184,
+     47.6090603463579
+    ],
+    [
+     -122.342801926148,
+     47.6091471373847
+    ],
+    [
+     -122.342875491724,
+     47.6092276627891
+    ],
+    [
+     -122.343014640986,
+     47.6093700300988
+    ],
+    [
+     -122.343072819925,
+     47.6094117132028
+    ],
+    [
+     -122.343134365968,
+     47.6094590732477
+    ],
+    [
+     -122.34322462091,
+     47.6095220744638
+    ],
+    [
+     -122.343358359523,
+     47.6096042361687
+    ],
+    [
+     -122.343541500442,
+     47.6097126213652
+    ],
+    [
+     -122.343710742191,
+     47.6098317446897
+    ],
+    [
+     -122.343879980504,
+     47.6099508657123
+    ],
+    [
+     -122.343930734024,
+     47.609986589084
+    ],
+    [
+     -122.344077198061,
+     47.6100732174576
+    ],
+    [
+     -122.344199190036,
+     47.6101453719431
+    ],
+    [
+     -122.344260279073,
+     47.6101815033575
+    ],
+    [
+     -122.344446057122,
+     47.6102876613247
+    ],
+    [
+     -122.343931737719,
+     47.6106853342269
+    ],
+    [
+     -122.343468528235,
+     47.6104121173022
+    ],
+    [
+     -122.342612495365,
+     47.6110682246785
+    ],
+    [
+     -122.341897172011,
+     47.6106451670733
+    ],
+    [
+     -122.341429278293,
+     47.6103686031194
+    ],
+    [
+     -122.33985002604,
+     47.6086423211636
+    ],
+    [
+     -122.339687069447,
+     47.6084641651203
+    ]
+   ]
+  ]
+ },
+ "properties": {
+  "OBJECTID": 32,
+  "OVERLAY": "PP",
+  "DESCRIPTION": "Pike Place Market Historical District",
+  "PUBLIC_DESCRIPTION": "In order to promote the educational, cultural, farming, marketing, other economic resources, and the general welfare; and to assure the harmonious, orderly, and efficient growth and development of the municipality, it is deemed essential by the people of the City that the cultural, economic, and historical qualities relating to the Pike Place Markets and the surrounding area, and an harmonious outward appearance and market uses which preserve property values and attracts residents and tourists be preserved and encouraged; some of the qualities being: the continued existence and preservation of historical areas and buildings; continued construction and use of buildings for market activities, especially on street levels; and a general harmony as to style, form, color, proportion, texture, material, occupancy and use between existing buildings and new construction.",
+  "TYPE": "HISTORIC",
+  "CHAPTER": "Chapter 25.24",
+  "CHAPTER_LINK": "https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT25ENPRHIPR_CH25.24PIPLMAHIDI",
+  "SE_ANNO_CAD_DATA": "",
+  "Shape__Area": 560305.2035522461,
+  "Shape__Length": 3617.388848248868,
+  "fetched": "2026-09-19T16:05:10Z",
+  "source": "City of Seattle zoning overlays, layer 23, OVERLAY='PP'",
+  "licence": "City of Seattle Open Data — open / public domain",
+  "portal": "https://data-seattlecitygis.opendata.arcgis.com/",
+  "area_m2": 51908.6,
+  "area_acres": 12.827,
+  "perimeter_m": 1101.2,
+  "centroid": [
+   -122.341978,
+   47.609558
+  ],
+  "bbox": [
+   -122.344446,
+   47.607998,
+   -122.339687,
+   47.611068
+  ],
+  "rings": 1,
+  "vertices": 30
+ }
+}

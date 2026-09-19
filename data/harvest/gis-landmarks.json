@@ -1,0 +1,707 @@
+{
+ "source": "City of Seattle Open Data — Landmarks",
+ "licence": "City of Seattle Open Data — open / public domain",
+ "url": "https://services.arcgis.com/ZOyb2t4B0UYuYNYH/arcgis/rest/services/Landmarks/FeatureServer/0",
+ "query": "envelope (47.6055, -122.346, 47.613, -122.338)",
+ "note": "individually designated city landmarks",
+ "fetched": "2026-09-19T16:06:24Z",
+ "count": 24,
+ "rows": [
+  {
+   "type": "Feature",
+   "id": 311931,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.339375308457,
+     47.6094315780175
+    ]
+   },
+   "properties": {
+    "OBJECTID": 311931,
+    "NAME": "Eitel Building",
+    "ADDRESS": "1501 2nd Ave",
+    "ORIG_ADDRE": "1501 Second Ave",
+    "PIN": "1975700645",
+    "LANDNO": 299,
+    "ORDINANCE": 123534,
+    "EFF_DATE": null,
+    "SE_ANNO_CAD_DATA": "",
+    "PHOTO": "eitelbldg.jpg",
+    "DOCUMENT": "DesRptEitelBuilding.pdf",
+    "_pt": [
+     -122.339375,
+     47.609432
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 311938,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341155897256,
+     47.606054766843
+    ]
+   },
+   "properties": {
+    "OBJECTID": 311938,
+    "NAME": "Pier 57",
+    "ADDRESS": "1301 Alaskan Way",
+    "ORIG_ADDRE": "1301 Alaskan Way",
+    "PIN": "7666202435",
+    "LANDNO": 307,
+    "ORDINANCE": 123861,
+    "EFF_DATE": null,
+    "SE_ANNO_CAD_DATA": "",
+    "PHOTO": "Pier57.bmp",
+    "DOCUMENT": "piers-waterfront-designation.pdf",
+    "_pt": [
+     -122.341156,
+     47.606055
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 311943,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341673048954,
+     47.6114377102074
+    ]
+   },
+   "properties": {
+    "OBJECTID": 311943,
+    "NAME": "Terminal Sales Annex",
+    "ADDRESS": "1931 Second Ave",
+    "ORIG_ADDRE": "1931 Second Ave",
+    "PIN": "1977200926",
+    "LANDNO": 312,
+    "ORDINANCE": 122981,
+    "EFF_DATE": 1245888000000,
+    "SE_ANNO_CAD_DATA": "",
+    "PHOTO": "TerminalSalesAnnex.bmp",
+    "DOCUMENT": "terminal-sales-annex-designation.pdf",
+    "_pt": [
+     -122.341673,
+     47.611438
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 311951,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.338587598402,
+     47.6101917260533
+    ]
+   },
+   "properties": {
+    "OBJECTID": 311951,
+    "NAME": "Fischer Studio Building",
+    "ADDRESS": "1519 3RD AVE",
+    "ORIG_ADDRE": "1519 3RD AVE",
+    "PIN": "2568000000",
+    "LANDNO": 320,
+    "ORDINANCE": 123382,
+    "EFF_DATE": null,
+    "SE_ANNO_CAD_DATA": "",
+    "PHOTO": "FischerStudioBuilding.bmp",
+    "DOCUMENT": "fischer-studio-designation.pdf",
+    "_pt": [
+     -122.338588,
+     47.610192
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 311954,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.339359634941,
+     47.6120814824359
+    ]
+   },
+   "properties": {
+    "OBJECTID": 311954,
+    "NAME": "Securities Building",
+    "ADDRESS": "1904 Third Ave",
+    "ORIG_ADDRE": "1904 Third Ave",
+    "PIN": "1977201315",
+    "LANDNO": 323,
+    "ORDINANCE": 123204,
+    "EFF_DATE": 1263945600000,
+    "SE_ANNO_CAD_DATA": "",
+    "PHOTO": "WashingtonSecuritiesBuilding.bmp",
+    "DOCUMENT": "securities-building-designation.pdf",
+    "_pt": [
+     -122.33936,
+     47.612081
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 311961,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340164507631,
+     47.6116655809324
+    ]
+   },
+   "properties": {
+    "OBJECTID": 311961,
+    "NAME": "Donahoe Building / Bergman Luggage",
+    "ADDRESS": "1901 - 1911 3rd Avenue",
+    "ORIG_ADDRE": null,
+    "PIN": null,
+    "LANDNO": 495,
+    "ORDINANCE": null,
+    "EFF_DATE": null,
+    "SE_ANNO_CAD_DATA": "",
+    "PHOTO": "Donahoe Building.jpg",
+    "DOCUMENT": "DesRptDonahoe.pdf",
+    "_pt": [
+     -122.340165,
+     47.611666
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 311996,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340402834208,
+     47.6117903660105
+    ]
+   },
+   "properties": {
+    "OBJECTID": 311996,
+    "NAME": "White Garage",
+    "ADDRESS": "1915 3rd Ave",
+    "ORIG_ADDRE": "1915 3rd Ave",
+    "PIN": "1977201055",
+    "LANDNO": 484,
+    "ORDINANCE": null,
+    "EFF_DATE": -2209161600000,
+    "SE_ANNO_CAD_DATA": "",
+    "PHOTO": "White_Garage.jpg",
+    "DOCUMENT": "DesRptWhiteGarage.pdf",
+    "_pt": [
+     -122.340403,
+     47.61179
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 312027,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.339476707339,
+     47.606036706955
+    ]
+   },
+   "properties": {
+    "OBJECTID": 312027,
+    "NAME": "Pacific Net & Twine Building",
+    "ADDRESS": "51 University St",
+    "ORIG_ADDRE": " ",
+    "PIN": "2539070000",
+    "LANDNO": 363,
+    "ORDINANCE": 124291,
+    "EFF_DATE": -2209161600000,
+    "SE_ANNO_CAD_DATA": "",
+    "PHOTO": "PacificNetandTwineBuilding.jpg",
+    "DOCUMENT": "pacific-net-and-twine-designation.pdf",
+    "_pt": [
+     -122.339477,
+     47.606037
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 312029,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341648398177,
+     47.612032162121
+    ]
+   },
+   "properties": {
+    "OBJECTID": 312029,
+    "NAME": "Palladian Apartments",
+    "ADDRESS": "2000 Second Ave",
+    "ORIG_ADDRE": " ",
+    "PIN": "1977201140",
+    "LANDNO": 365,
+    "ORDINANCE": 124376,
+    "EFF_DATE": -2209161600000,
+    "SE_ANNO_CAD_DATA": "",
+    "PHOTO": "PalladianApartments.bmp",
+    "DOCUMENT": "DesRptPalladianApartments.pdf",
+    "_pt": [
+     -122.341648,
+     47.612032
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 312041,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.346110006743,
+     47.6122982074215
+    ]
+   },
+   "properties": {
+    "OBJECTID": 312041,
+    "NAME": "Union Stables",
+    "ADDRESS": "2200 Western Ave",
+    "ORIG_ADDRE": " ",
+    "PIN": "1977200605",
+    "LANDNO": 380,
+    "ORDINANCE": 124495,
+    "EFF_DATE": 1405209600000,
+    "SE_ANNO_CAD_DATA": "",
+    "PHOTO": "UnionStables.png",
+    "DOCUMENT": "union-stables-designation.pdf",
+    "_pt": [
+     -122.34611,
+     47.612298
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 312089,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342093339184,
+     47.6111025469991
+    ]
+   },
+   "properties": {
+    "OBJECTID": 312089,
+    "NAME": "Terminal Sales Building",
+    "ADDRESS": "1932 1st Ave",
+    "ORIG_ADDRE": "1932 First Ave",
+    "PIN": "1977200920",
+    "LANDNO": 106,
+    "ORDINANCE": 114774,
+    "EFF_DATE": 624499200000,
+    "SE_ANNO_CAD_DATA": "",
+    "PHOTO": "TerminalSalesBldg3DON.jpg",
+    "DOCUMENT": "terminal-sales-building-designation.pdf",
+    "_pt": [
+     -122.342093,
+     47.611103
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 312090,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340472819459,
+     47.6113621490265
+    ]
+   },
+   "properties": {
+    "OBJECTID": 312090,
+    "NAME": "Josephinum/New Washington Hotel",
+    "ADDRESS": "1902 2nd Ave",
+    "ORIG_ADDRE": "1902 2nd Ave",
+    "PIN": "1977201060",
+    "LANDNO": 107,
+    "ORDINANCE": 114770,
+    "EFF_DATE": 624499200000,
+    "SE_ANNO_CAD_DATA": "",
+    "PHOTO": "JosephinumHotel1DON.jpg",
+    "DOCUMENT": "josephinum-designation.pdf",
+    "_pt": [
+     -122.340473,
+     47.611362
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 312091,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.338595838997,
+     47.6114650561413
+    ]
+   },
+   "properties": {
+    "OBJECTID": 312091,
+    "NAME": "Bon Marche",
+    "ADDRESS": "300 Pine St",
+    "ORIG_ADDRE": "300 Pine St",
+    "PIN": "1977201320",
+    "LANDNO": 108,
+    "ORDINANCE": 114772,
+    "EFF_DATE": 624499200000,
+    "SE_ANNO_CAD_DATA": "",
+    "PHOTO": "BonMarche5DON.jpg",
+    "DOCUMENT": "bonmarche-designation.pdf",
+    "_pt": [
+     -122.338596,
+     47.611465
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 312094,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.338850092774,
+     47.6103722986953
+    ]
+   },
+   "properties": {
+    "OBJECTID": 312094,
+    "NAME": "Olympic Tower",
+    "ADDRESS": "217 Pine St",
+    "ORIG_ADDRE": "217 Pine St",
+    "PIN": "6385300005",
+    "LANDNO": 114,
+    "ORDINANCE": 113425,
+    "EFF_DATE": 547689600000,
+    "SE_ANNO_CAD_DATA": "",
+    "PHOTO": "OlympicTower1DON.jpg",
+    "DOCUMENT": "olympic-tower-designation.pdf",
+    "_pt": [
+     -122.33885,
+     47.610372
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 312138,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.344442062029,
+     47.6118155810895
+    ]
+   },
+   "properties": {
+    "OBJECTID": 312138,
+    "NAME": "Guiry Hotel",
+    "ADDRESS": "2104 1st Ave",
+    "ORIG_ADDRE": "2101-2105-1/2 1st Ave",
+    "PIN": "2953708888",
+    "LANDNO": 113,
+    "ORDINANCE": 113422,
+    "EFF_DATE": 547689600000,
+    "SE_ANNO_CAD_DATA": "",
+    "PHOTO": "GuiryHotel5DON.jpg",
+    "DOCUMENT": "guiry-hotel-designation.pdf",
+    "_pt": [
+     -122.344442,
+     47.611816
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 312152,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342523719282,
+     47.6074014725917
+    ]
+   },
+   "properties": {
+    "OBJECTID": 312152,
+    "NAME": "Pier 59",
+    "ADDRESS": "1415 Alaskan Way",
+    "ORIG_ADDRE": "1415 Alaskan Way",
+    "PIN": "7666202422",
+    "LANDNO": 236,
+    "ORDINANCE": 123862,
+    "EFF_DATE": 1067126400000,
+    "SE_ANNO_CAD_DATA": "",
+    "PHOTO": "Pier59aDON.jpg",
+    "DOCUMENT": "piers-waterfront-designation.pdf",
+    "_pt": [
+     -122.342524,
+     47.607401
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 312226,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.344692386445,
+     47.6119877029198
+    ]
+   },
+   "properties": {
+    "OBJECTID": 312226,
+    "NAME": "Schillestad Building",
+    "ADDRESS": "2111 1st Ave",
+    "ORIG_ADDRE": "2111 1st Ave",
+    "PIN": "1977200535",
+    "LANDNO": 101,
+    "ORDINANCE": 113460,
+    "EFF_DATE": 549504000000,
+    "SE_ANNO_CAD_DATA": "",
+    "PHOTO": "SchillestadBldg2DON.jpg",
+    "DOCUMENT": "schillestad-building-designation-nomination.pdf",
+    "_pt": [
+     -122.344692,
+     47.611988
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 312227,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341085816095,
+     47.6117363254431
+    ]
+   },
+   "properties": {
+    "OBJECTID": 312227,
+    "NAME": "Moore Theatre and Hotel Building",
+    "ADDRESS": "1932 2nd Ave",
+    "ORIG_ADDRE": "1932 2nd Ave",
+    "PIN": "1977201035",
+    "LANDNO": 102,
+    "ORDINANCE": 114773,
+    "EFF_DATE": 624499200000,
+    "SE_ANNO_CAD_DATA": "",
+    "PHOTO": "MooreTheatre4DON.jpg",
+    "DOCUMENT": "moore-theater-designation-data-sheet.pdf",
+    "_pt": [
+     -122.341086,
+     47.611736
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 312233,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340009963098,
+     47.6099761920082
+    ]
+   },
+   "properties": {
+    "OBJECTID": 312233,
+    "NAME": "J.S. Graham Store/Doyle Building",
+    "ADDRESS": "119 Pine St",
+    "ORIG_ADDRE": "119 Pine St",
+    "PIN": "1975700605",
+    "LANDNO": 117,
+    "ORDINANCE": 113987,
+    "EFF_DATE": 581040000000,
+    "SE_ANNO_CAD_DATA": "",
+    "PHOTO": "GrahamDoyle1DON.jpg",
+    "DOCUMENT": "DesRptJSGrahamStore-DoyleBldg.pdf",
+    "_pt": [
+     -122.34001,
+     47.609976
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 312236,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.339993495865,
+     47.6076570077188
+    ]
+   },
+   "properties": {
+    "OBJECTID": 312236,
+    "NAME": "84 Union Building/U.S. Immigration Building",
+    "ADDRESS": "84 Union St",
+    "ORIG_ADDRE": "84 Union St",
+    "PIN": "1976200160",
+    "LANDNO": 129,
+    "ORDINANCE": 113990,
+    "EFF_DATE": 581040000000,
+    "SE_ANNO_CAD_DATA": "",
+    "PHOTO": "USImmigrationBldg1DON.jpg",
+    "DOCUMENT": "us-immigration-building-designation.pdf",
+    "_pt": [
+     -122.339993,
+     47.607657
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 312237,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.339271838648,
+     47.6057853679418
+    ]
+   },
+   "properties": {
+    "OBJECTID": 312237,
+    "NAME": "Olympic Warehouse and Cold Storage Building",
+    "ADDRESS": "1205 Western Ave",
+    "ORIG_ADDRE": "1203-7 Western Ave",
+    "PIN": "7666202480",
+    "LANDNO": 134,
+    "ORDINANCE": 113429,
+    "EFF_DATE": 547689600000,
+    "SE_ANNO_CAD_DATA": "",
+    "PHOTO": "OlympicWarehouse1DON.jpg",
+    "DOCUMENT": "olympic-warehouse-designation.pdf",
+    "_pt": [
+     -122.339272,
+     47.605785
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 312252,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340375745805,
+     47.6097255521489
+    ]
+   },
+   "properties": {
+    "OBJECTID": 312252,
+    "NAME": "Colonnade Hotel/Gatewood Apartments",
+    "ADDRESS": "107 Pine St",
+    "ORIG_ADDRE": "107 Pine St",
+    "PIN": "1975700600",
+    "LANDNO": 468,
+    "ORDINANCE": 125673,
+    "EFF_DATE": 1497916800000,
+    "SE_ANNO_CAD_DATA": "",
+    "PHOTO": "Colonnade.jpg ",
+    "DOCUMENT": "DesRptColonnade_Hotel.pdf",
+    "_pt": [
+     -122.340376,
+     47.609726
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 312264,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.339228279529,
+     47.6084986595521
+    ]
+   },
+   "properties": {
+    "OBJECTID": 312264,
+    "NAME": "The Showbox",
+    "ADDRESS": "1426 1st Avenue",
+    "ORIG_ADDRE": null,
+    "PIN": null,
+    "LANDNO": 536,
+    "ORDINANCE": null,
+    "EFF_DATE": null,
+    "SE_ANNO_CAD_DATA": "",
+    "PHOTO": "Showbox.jpg",
+    "DOCUMENT": "DesRptShowbox.pdf",
+    "_pt": [
+     -122.339228,
+     47.608499
+    ],
+    "_inside": false
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 312289,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33960211969,
+     47.6088171990819
+    ]
+   },
+   "properties": {
+    "OBJECTID": 312289,
+    "NAME": "Hotel Elliott / Hahn Building",
+    "ADDRESS": "103 Pike Street",
+    "ORIG_ADDRE": null,
+    "PIN": null,
+    "LANDNO": 637,
+    "ORDINANCE": null,
+    "EFF_DATE": null,
+    "SE_ANNO_CAD_DATA": "",
+    "PHOTO": "Hahn.jpg",
+    "DOCUMENT": "DesRpt_Hahn.pdf",
+    "_pt": [
+     -122.339602,
+     47.608817
+    ],
+    "_inside": false
+   }
+  }
+ ]
+}

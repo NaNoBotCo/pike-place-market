@@ -1,0 +1,766 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34037,
+     47.608055
+    ]
+   },
+   "properties": {
+    "name": "THE SPANISH TABLE DBA PARIS MADRID GROCERY",
+    "trade": "All Other Miscellaneous Retailers",
+    "start": "19951002",
+    "years": 30.97,
+    "edge_m": 11.7,
+    "address": "1418 WESTERN AVE",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34037,
+     47.608055
+    ]
+   },
+   "properties": {
+    "name": "ABDULKARIM AHMED H",
+    "trade": "Taxi and Ridesharing Services",
+    "start": "20001115",
+    "years": 25.84,
+    "edge_m": 11.7,
+    "address": "1420 WESTERN AVE # 304",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341671,
+     47.608463
+    ]
+   },
+   "properties": {
+    "name": "NAN JOY PSYCHOTHERAPY",
+    "trade": "Administrative Management and General Management Consulting Services",
+    "start": "19991101",
+    "years": 26.88,
+    "edge_m": 14.9,
+    "address": "1507 WESTERN AVE #603",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341671,
+     47.608463
+    ]
+   },
+   "properties": {
+    "name": "PERLAGE SYSTEMS INC",
+    "trade": "All Other Miscellaneous Manufacturing",
+    "start": "20070915",
+    "years": 19.01,
+    "edge_m": 14.9,
+    "address": "1507 WESTERN AVE # 606",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342238,
+     47.611078
+    ]
+   },
+   "properties": {
+    "name": "CASTANES ARCHITECTS PS AIA",
+    "trade": "Architectural Services",
+    "start": "19850801",
+    "years": 41.13,
+    "edge_m": 19.3,
+    "address": "1932 1ST AVE # 828",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342238,
+     47.611078
+    ]
+   },
+   "properties": {
+    "name": "BOHLIN CYWINSKI JACKSON",
+    "trade": "Architectural Services",
+    "start": "19960801",
+    "years": 30.13,
+    "edge_m": 19.3,
+    "address": "1932 1ST AVE # 916",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342238,
+     47.611078
+    ]
+   },
+   "properties": {
+    "name": "SISALCARPET.COM",
+    "trade": "Floor Covering Retailers",
+    "start": "19990301",
+    "years": 27.55,
+    "edge_m": 19.3,
+    "address": "1932 1ST AVE # 800",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342238,
+     47.611078
+    ]
+   },
+   "properties": {
+    "name": "LPD ENGINEERING PLLC",
+    "trade": "Other Management Consulting Services",
+    "start": "20000101",
+    "years": 26.72,
+    "edge_m": 19.3,
+    "address": "1932 1ST AVE # 500",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342238,
+     47.611078
+    ]
+   },
+   "properties": {
+    "name": "CURRAN",
+    "trade": "Direct Mail Advertising",
+    "start": "20010401",
+    "years": 25.47,
+    "edge_m": 19.3,
+    "address": "1932 1ST AVE # 800",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342238,
+     47.611078
+    ]
+   },
+   "properties": {
+    "name": "NB DESIGN GROUP INC",
+    "trade": "All Other Personal Services",
+    "start": "20020101",
+    "years": 24.72,
+    "edge_m": 19.3,
+    "address": "1932 1ST AVE # 826",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342238,
+     47.611078
+    ]
+   },
+   "properties": {
+    "name": "BABY & COMPANY ACQUISITION CORPORATION",
+    "trade": "Clothing and Clothing Accessories Retailers",
+    "start": "20100101",
+    "years": 16.71,
+    "edge_m": 19.3,
+    "address": "1936 1ST AVE",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342238,
+     47.611078
+    ]
+   },
+   "properties": {
+    "name": "POP THE SALON LLC",
+    "trade": "Beauty Salons",
+    "start": "20130701",
+    "years": 13.22,
+    "edge_m": 19.3,
+    "address": "113 VIRGINIA ST",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342238,
+     47.611078
+    ]
+   },
+   "properties": {
+    "name": "NITEO",
+    "trade": "Interior Design Services",
+    "start": "20150601",
+    "years": 11.3,
+    "edge_m": 19.3,
+    "address": "1932 1ST AVE # 605",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.339432,
+     47.608669
+    ]
+   },
+   "properties": {
+    "name": "DIAMOND PARKING A717",
+    "trade": "Parking Lots and Garages",
+    "start": "20190501",
+    "years": 7.39,
+    "edge_m": 28.2,
+    "address": "1430 1ST AVE",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341573,
+     47.608359
+    ]
+   },
+   "properties": {
+    "name": "ZIG ZAG CAFE",
+    "trade": "Limited-Service Restaurants",
+    "start": "20020805",
+    "years": 24.12,
+    "edge_m": 28.4,
+    "address": "1501 WESTERN AVE #202",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341573,
+     47.608359
+    ]
+   },
+   "properties": {
+    "name": "KASALA",
+    "trade": "Furniture Retailers",
+    "start": "20060101",
+    "years": 20.72,
+    "edge_m": 28.4,
+    "address": "1505 WESTERN AVE #400",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341573,
+     47.608359
+    ]
+   },
+   "properties": {
+    "name": "NINTH & STEWART LLC",
+    "trade": "Nonresidential Property Managers",
+    "start": "20080905",
+    "years": 18.04,
+    "edge_m": 28.4,
+    "address": "1501 WESTERN AVE # 600",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341573,
+     47.608359
+    ]
+   },
+   "properties": {
+    "name": "SIRENA AGLW LLC",
+    "trade": "Clothing and Clothing Accessories Retailers",
+    "start": "20160101",
+    "years": 10.72,
+    "edge_m": 28.4,
+    "address": "1501 WESTERN AVE # 201",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340376,
+     47.609726
+    ]
+   },
+   "properties": {
+    "name": "PYRAMID IMPORTS",
+    "trade": "All Other Miscellaneous Retailers",
+    "start": "19890501",
+    "years": 37.39,
+    "edge_m": 29.7,
+    "address": "111 PINE ST",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340376,
+     47.609726
+    ]
+   },
+   "properties": {
+    "name": "THOMAS MICHAEL",
+    "trade": "Taxi and Ridesharing Services",
+    "start": "19971008",
+    "years": 28.95,
+    "edge_m": 29.7,
+    "address": "107 PINE ST # 208",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340376,
+     47.609726
+    ]
+   },
+   "properties": {
+    "name": "FJALLRAVEN",
+    "trade": "Clothing and Clothing Accessories Retailers",
+    "start": "20131219",
+    "years": 12.75,
+    "edge_m": 29.7,
+    "address": "101 PINE ST",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340889,
+     47.610292
+    ]
+   },
+   "properties": {
+    "name": "SYNCHRONOSS TECHNOLOGIES INC",
+    "trade": "Other Management Consulting Services",
+    "start": "20130403",
+    "years": 13.46,
+    "edge_m": 30.0,
+    "address": "101 STEWART ST # 301",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340889,
+     47.610292
+    ]
+   },
+   "properties": {
+    "name": "FIRST AND STEWART # 83009",
+    "trade": "Parking Lots and Garages",
+    "start": "20220101",
+    "years": 4.71,
+    "edge_m": 30.0,
+    "address": "101 STEWART ST",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340889,
+     47.610292
+    ]
+   },
+   "properties": {
+    "name": "ARTLY COFFEE",
+    "trade": "Limited-Service Restaurants",
+    "start": "20230201",
+    "years": 3.63,
+    "edge_m": 30.0,
+    "address": "101 STEWART ST # 102",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341361,
+     47.6107
+    ]
+   },
+   "properties": {
+    "name": "SERENITY STAYS LLC",
+    "trade": "All Other Traveler Accommodation",
+    "start": "20220608",
+    "years": 4.28,
+    "edge_m": 31.1,
+    "address": "1900 1ST AVE # 803",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.339911,
+     47.609266
+    ]
+   },
+   "properties": {
+    "name": "SILVER",
+    "trade": "Independent Artists, Writers, and Performers",
+    "start": "19930309",
+    "years": 33.53,
+    "edge_m": 32.5,
+    "address": "1510 1ST AVE # 1ST FL",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.339513,
+     47.60883
+    ]
+   },
+   "properties": {
+    "name": "GREEN TORTOISE BACKPACKERS GUESTHOUSE INC",
+    "trade": "Hotels (except Casino Hotels) and Motels",
+    "start": "19960701",
+    "years": 30.22,
+    "edge_m": 32.5,
+    "address": "105 B PIKE ST",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.339513,
+     47.60883
+    ]
+   },
+   "properties": {
+    "name": "SMOKE PLUS",
+    "trade": "Tobacco, Electronic Cigarette, and Other Smoking Supplies Retailers",
+    "start": "19970703",
+    "years": 29.21,
+    "edge_m": 32.5,
+    "address": "1432 1ST AVE",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.339513,
+     47.60883
+    ]
+   },
+   "properties": {
+    "name": "SEATTLE SHIRT COMPANY",
+    "trade": "All Other General Merchandise Retailers",
+    "start": "20020101",
+    "years": 24.72,
+    "edge_m": 32.5,
+    "address": "103 PIKE ST",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.339911,
+     47.609266
+    ]
+   },
+   "properties": {
+    "name": "JARIKA",
+    "trade": "Independent Artists, Writers, and Performers",
+    "start": "20091104",
+    "years": 16.87,
+    "edge_m": 32.5,
+    "address": "1510 1ST AVE # FL 2",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.339911,
+     47.609266
+    ]
+   },
+   "properties": {
+    "name": "BARON SKIN",
+    "trade": "Independent Artists, Writers, and Performers",
+    "start": "20150617",
+    "years": 11.26,
+    "edge_m": 32.5,
+    "address": "1510 1ST AVE # FL 1",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.339911,
+     47.609266
+    ]
+   },
+   "properties": {
+    "name": "MILA ROSE",
+    "trade": "Independent Artists, Writers, and Performers",
+    "start": "20260805",
+    "years": 0.12,
+    "edge_m": 32.5,
+    "address": "1510 1ST AVE",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.339782,
+     47.60913
+    ]
+   },
+   "properties": {
+    "name": "SEATTLE SNEAKER CITY",
+    "trade": "Shoe Retailers",
+    "start": "19971001",
+    "years": 28.97,
+    "edge_m": 32.8,
+    "address": "110 PIKE ST",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.339782,
+     47.60913
+    ]
+   },
+   "properties": {
+    "name": "STARBUCKS COFFEE   14870",
+    "trade": "Snack and Nonalcoholic Beverage Bars",
+    "start": "20090205",
+    "years": 17.62,
+    "edge_m": 32.8,
+    "address": "102 PIKE ST",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.339245,
+     47.608492
+    ]
+   },
+   "properties": {
+    "name": "SHOWBOX AT THE MARKET",
+    "trade": "Independent Artists, Writers, and Performers",
+    "start": "20080101",
+    "years": 18.72,
+    "edge_m": 33.3,
+    "address": "1426 1ST AVE AV",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.339776,
+     47.608047
+    ]
+   },
+   "properties": {
+    "name": "PIRKKO",
+    "trade": "Cut and Sew Apparel Contractors",
+    "start": "20100701",
+    "years": 16.22,
+    "edge_m": 35.9,
+    "address": "1407 1ST AVE",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.339776,
+     47.608047
+    ]
+   },
+   "properties": {
+    "name": "DE'CORE OF SEATTLE",
+    "trade": "All Other Miscellaneous Retailers",
+    "start": "20230615",
+    "years": 3.26,
+    "edge_m": 35.9,
+    "address": "1417 1ST AVE",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340968,
+     47.607646
+    ]
+   },
+   "properties": {
+    "name": "ECH ARCHITECTURE PS",
+    "trade": "Architectural Services",
+    "start": "19960101",
+    "years": 30.72,
+    "edge_m": 41.1,
+    "address": "1415 WESTERN AVE # 418",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340968,
+     47.607646
+    ]
+   },
+   "properties": {
+    "name": "ARDENT LAW GROUP PLLC",
+    "trade": "Offices of Lawyers",
+    "start": "20190603",
+    "years": 7.3,
+    "edge_m": 41.1,
+    "address": "1415 WESTERN AVE # 700",
+    "source": "near"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340968,
+     47.607646
+    ]
+   },
+   "properties": {
+    "name": "POPULOUS LAW PLLC",
+    "trade": "Offices of Lawyers",
+    "start": "20211103",
+    "years": 4.88,
+    "edge_m": 41.1,
+    "address": "1415 WESTERN AVE # 700",
+    "source": "near"
+   }
+  }
+ ],
+ "note": "licensed businesses within 150 m of the line, and outside it"
+}

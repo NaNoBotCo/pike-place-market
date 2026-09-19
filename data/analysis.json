@@ -1,0 +1,1399 @@
+{
+ "built": "2026-09-19",
+ "fence": {
+  "acres": 12.827,
+  "m2": 51908.6,
+  "perimeter_m": 1101.2,
+  "vertices": 30,
+  "centroid": [
+   -122.341978,
+   47.609558
+  ],
+  "bbox": [
+   -122.344446,
+   47.607998,
+   -122.339687,
+   47.611068
+  ],
+  "chapter": "Seattle Municipal Code chapter 25.24",
+  "source": "City of Seattle zoning overlays, layer 23, OVERLAY='PP'",
+  "fetched": "2026-09-19T16:05:10Z",
+  "longest_m": 530.0
+ },
+ "gis": {
+  "addresses": {
+   "in_fence": 215,
+   "in_box": 898
+  },
+  "buildings": {
+   "in_fence": 8,
+   "in_box": 96
+  },
+  "parcels": {
+   "in_fence": 32,
+   "in_box": 215
+  },
+  "trees": {
+   "in_fence": 25,
+   "in_box": 734
+  },
+  "crosswalks": {
+   "in_fence": 9,
+   "in_box": 91
+  },
+  "publicart": {
+   "in_fence": 5,
+   "in_box": 26
+  },
+  "landmarks": {
+   "in_fence": 0,
+   "in_box": 24
+  },
+  "streetpark": {
+   "in_fence": 36,
+   "in_box": 175
+  },
+  "garages": {
+   "in_fence": 2,
+   "in_box": 36
+  }
+ },
+ "licences": {
+  "pulled": 348,
+  "placed": 213,
+  "inside": 153,
+  "outside_placed": 60,
+  "within_150m": 46,
+  "unplaced": 135,
+  "nearest_matched": 1,
+  "per_acre": 11.9,
+  "in_a_named_building": 98,
+  "building_within": 98,
+  "building_nearest": 41,
+  "tenure_in": {
+   "n": 153,
+   "median": 24.7,
+   "mean": 26.9,
+   "over_20": 104,
+   "over_40": 34,
+   "under_5": 7,
+   "oldest": 61.6
+  },
+  "tenure_near": {
+   "n": 46,
+   "median": 18.7,
+   "mean": 19.1,
+   "over_20": 21,
+   "over_40": 2,
+   "under_5": 7,
+   "oldest": 41.2
+  },
+  "decades": {
+   "1960s": 3,
+   "1970s": 7,
+   "1980s": 34,
+   "1990s": 25,
+   "2000s": 51,
+   "2010s": 23,
+   "2020s": 10
+  },
+  "by_year": {
+   "1965": 1,
+   "1966": 1,
+   "1968": 1,
+   "1973": 1,
+   "1975": 3,
+   "1977": 1,
+   "1978": 1,
+   "1979": 1,
+   "1980": 3,
+   "1981": 4,
+   "1982": 4,
+   "1983": 1,
+   "1984": 6,
+   "1985": 5,
+   "1986": 1,
+   "1987": 2,
+   "1988": 5,
+   "1989": 3,
+   "1990": 2,
+   "1994": 5,
+   "1995": 4,
+   "1996": 4,
+   "1997": 3,
+   "1998": 2,
+   "1999": 5,
+   "2000": 3,
+   "2001": 3,
+   "2002": 7,
+   "2003": 6,
+   "2004": 1,
+   "2005": 6,
+   "2006": 10,
+   "2007": 5,
+   "2008": 4,
+   "2009": 6,
+   "2010": 2,
+   "2011": 2,
+   "2012": 4,
+   "2013": 2,
+   "2014": 1,
+   "2015": 2,
+   "2016": 1,
+   "2017": 1,
+   "2018": 5,
+   "2019": 3,
+   "2021": 3,
+   "2022": 2,
+   "2023": 2,
+   "2024": 1,
+   "2026": 2
+  },
+  "sectors": [
+   [
+    "Retail",
+    72
+   ],
+   [
+    "Food and lodging",
+    30
+   ],
+   [
+    "Making",
+    13
+   ],
+   [
+    "Other services",
+    9
+   ],
+   [
+    "Professional services",
+    8
+   ],
+   [
+    "Wholesale",
+    7
+   ],
+   [
+    "Health and care",
+    3
+   ],
+   [
+    "Arts and recreation",
+    3
+   ],
+   [
+    "Teaching",
+    2
+   ],
+   [
+    "Farming",
+    2
+   ],
+   [
+    "Public bodies",
+    1
+   ],
+   [
+    "Publishing and broadcast",
+    1
+   ],
+   [
+    "Admin and support",
+    1
+   ],
+   [
+    "Property and rental",
+    1
+   ]
+  ],
+  "trades": [
+   [
+    "Limited-Service Restaurants",
+    22
+   ],
+   [
+    "All Other Miscellaneous Retailers",
+    20
+   ],
+   [
+    "Clothing and Clothing Accessories Retailers",
+    6
+   ],
+   [
+    "Jewelry Retailers",
+    5
+   ],
+   [
+    "Used Merchandise Retailers",
+    5
+   ],
+   [
+    "Fruit and Vegetable Retailers",
+    5
+   ],
+   [
+    "Beauty Salons",
+    5
+   ],
+   [
+    "Supermarkets and Other Grocery Retailers (except Convenience Retailers)",
+    4
+   ],
+   [
+    "All Other Specialty Food Retailers",
+    4
+   ],
+   [
+    "Gift, Novelty, and Souvenir Retailers",
+    4
+   ],
+   [
+    "Snack and Nonalcoholic Beverage Bars",
+    4
+   ],
+   [
+    "Art Dealers",
+    3
+   ],
+   [
+    "All Other Professional, Scientific, and Technical Services",
+    3
+   ],
+   [
+    "All Other Personal Services",
+    3
+   ]
+  ],
+  "addresses": [
+   [
+    "1501 PIKE PL",
+    32
+   ],
+   [
+    "85 PIKE ST",
+    20
+   ],
+   [
+    "1916 PIKE PL",
+    10
+   ],
+   [
+    "93 PIKE ST",
+    8
+   ],
+   [
+    "1511 PIKE PL",
+    6
+   ],
+   [
+    "86 PINE ST",
+    6
+   ],
+   [
+    "1514 PIKE PL",
+    4
+   ],
+   [
+    "1906 PIKE PL",
+    4
+   ],
+   [
+    "97 PIKE ST",
+    2
+   ],
+   [
+    "88 PIKE ST",
+    2
+   ],
+   [
+    "1902 PIKE PL",
+    2
+   ],
+   [
+    "1519 PIKE PL",
+    2
+   ]
+  ],
+  "oldest": [
+   {
+    "name": "THE ART STALL GALLERY",
+    "start": "19650219",
+    "years": 61.58,
+    "trade": "Art Dealers",
+    "address": "97 PIKE ST",
+    "building": null
+   },
+   {
+    "name": "ATHENIAN INN",
+    "start": "19660906",
+    "years": 60.04,
+    "trade": "Limited-Service Restaurants",
+    "address": "1517 PIKE PL",
+    "building": "main-arcade"
+   },
+   {
+    "name": "PURE FOOD FISH MARKET",
+    "start": "19680801",
+    "years": 58.13,
+    "trade": "Meat Retailers",
+    "address": "1511 PIKE PL",
+    "building": "main-arcade"
+   },
+   {
+    "name": "DE LAURENTI ITALIAN & INTL FOODS INC",
+    "start": "19730401",
+    "years": 53.47,
+    "trade": "Supermarkets and Other Grocery Retailers (except Convenience Retailers)",
+    "address": "1435 1ST AVE",
+    "building": null
+   },
+   {
+    "name": "COPACABANA CAFE",
+    "start": "19750215",
+    "years": 51.59,
+    "trade": "Limited-Service Restaurants",
+    "address": "1520 1/2 PIKE PL",
+    "building": "triangle-building"
+   },
+   {
+    "name": "PIKE & WESTERN CO",
+    "start": "19750716",
+    "years": 51.18,
+    "trade": "Beer, Wine, and Liquor Retailers",
+    "address": "1934 PIKE PL",
+    "building": "pike-virginia-building"
+   },
+   {
+    "name": "FRANTIC ART",
+    "start": "19751208",
+    "years": 50.78,
+    "trade": "All Other Miscellaneous Retailers",
+    "address": "1511 PIKE PL",
+    "building": "main-arcade"
+   },
+   {
+    "name": "ARTAS USUWIL",
+    "start": "19771106",
+    "years": 48.87,
+    "trade": "All Other Miscellaneous Retailers",
+    "address": "85 PIKE ST",
+    "building": null
+   },
+   {
+    "name": "PIKE PLACE FISH MARKET INC",
+    "start": "19780601",
+    "years": 48.3,
+    "trade": "Fish and Seafood Retailers",
+    "address": "86 PIKE ST",
+    "building": "corner-market"
+   },
+   {
+    "name": "MATHERS JACK S",
+    "start": "19790806",
+    "years": 47.12,
+    "trade": "Fish and Seafood Merchant Wholesalers",
+    "address": "1514 PIKE PL # 2",
+    "building": "sanitary-public-market"
+   },
+   {
+    "name": "HOUSE OF JADE",
+    "start": "19800101",
+    "years": 46.72,
+    "trade": "All Other Miscellaneous Retailers",
+    "address": "1501 PIKE PL # 433",
+    "building": "main-arcade"
+   },
+   {
+    "name": "PIKE PL MARKET CREAMERY",
+    "start": "19800401",
+    "years": 46.47,
+    "trade": "All Other Specialty Food Retailers",
+    "address": "1514 PIKE PL # 3",
+    "building": "sanitary-public-market"
+   },
+   {
+    "name": "TOTEM SMOKEHOUSE INC",
+    "start": "19801015",
+    "years": 45.93,
+    "trade": "Supermarkets and Other Grocery Retailers (except Convenience Retailers)",
+    "address": "1906 PIKE PL",
+    "building": "stewart-house"
+   },
+   {
+    "name": "NATURES CORNER",
+    "start": "19810711",
+    "years": 45.19,
+    "trade": "All Other Miscellaneous Retailers",
+    "address": "85 PIKE ST",
+    "building": null
+   },
+   {
+    "name": "MARKET COINS",
+    "start": "19810901",
+    "years": 45.05,
+    "trade": "All Other Miscellaneous Retailers",
+    "address": "1501 PIKE PL # 422",
+    "building": "main-arcade"
+   },
+   {
+    "name": "RUBYS SEATTLE GIFT GALLERY",
+    "start": "19810904",
+    "years": 45.04,
+    "trade": "Gift, Novelty, and Souvenir Retailers",
+    "address": "1501 PIKE PL # 505",
+    "building": "main-arcade"
+   }
+  ],
+  "newest": [
+   {
+    "name": "JOS FLOWER FARM LLC",
+    "start": "20260401",
+    "trade": "Florists"
+   },
+   {
+    "name": "INTERNATIONAL NEWS INC",
+    "start": "20260101",
+    "trade": "Clothing and Clothing Accessories Retailers"
+   },
+   {
+    "name": "J&J GIFT & SPORTS WEAR",
+    "start": "20240401",
+    "trade": "Clothing and Clothing Accessories Retailers"
+   },
+   {
+    "name": "AIIDEN",
+    "start": "20230301",
+    "trade": "Clothing and Clothing Accessories Retailers"
+   },
+   {
+    "name": "OUR FABRIC STASH",
+    "start": "20230201",
+    "trade": "Clothing and Clothing Accessories Retailers"
+   },
+   {
+    "name": "ARMISTICE COFFEE",
+    "start": "20220808",
+    "trade": "Limited-Service Restaurants"
+   },
+   {
+    "name": "THE BALCONY SHOP",
+    "start": "20220805",
+    "trade": "Beauty Salons"
+   },
+   {
+    "name": "THE CHAPEL LOUNGE",
+    "start": "20210703",
+    "trade": "Drinking Places (Alcoholic Beverages)"
+   }
+  ]
+ },
+ "pda": {
+  "vendors": 473,
+  "categories": 75,
+  "matched_to_licence": 90,
+  "unmatched": 383,
+  "top_categories": [
+   {
+    "name": "Shopping",
+    "count": 193,
+    "parent": 0,
+    "id": 47,
+    "slug": "shopping"
+   },
+   {
+    "name": "Crafts Market",
+    "count": 176,
+    "parent": 0,
+    "id": 261,
+    "slug": "crafts-market"
+   },
+   {
+    "name": "Independent Shops",
+    "count": 172,
+    "parent": 0,
+    "id": 425,
+    "slug": "independent-shops"
+   },
+   {
+    "name": "Market Gift Card",
+    "count": 150,
+    "parent": 0,
+    "id": 3484,
+    "slug": "market-gift-card"
+   },
+   {
+    "name": "Handmade",
+    "count": 113,
+    "parent": 47,
+    "id": 53,
+    "slug": "handmade"
+   },
+   {
+    "name": "Where To Eat",
+    "count": 78,
+    "parent": 0,
+    "id": 104,
+    "slug": "where-to-eat"
+   },
+   {
+    "name": "Farmers Market",
+    "count": 69,
+    "parent": 0,
+    "id": 263,
+    "slug": "farmers-market"
+   },
+   {
+    "name": "Takeout",
+    "count": 58,
+    "parent": 104,
+    "id": 55,
+    "slug": "takeout"
+   },
+   {
+    "name": "Specialty Foods",
+    "count": 57,
+    "parent": 0,
+    "id": 65,
+    "slug": "specialty-foods"
+   },
+   {
+    "name": "Shopping",
+    "count": 46,
+    "parent": 3484,
+    "id": 3487,
+    "slug": "shopping-market-gift-card"
+   },
+   {
+    "name": "Eateries",
+    "count": 45,
+    "parent": 104,
+    "id": 66,
+    "slug": "eateries"
+   },
+   {
+    "name": "Apparel & Accessories",
+    "count": 44,
+    "parent": 3484,
+    "id": 3493,
+    "slug": "apparel-accessorieds"
+   },
+   {
+    "name": "Art",
+    "count": 44,
+    "parent": 261,
+    "id": 2343,
+    "slug": "art"
+   },
+   {
+    "name": "Seasonal Flowers",
+    "count": 44,
+    "parent": 263,
+    "id": 1917,
+    "slug": "seasonal-flowers"
+   },
+   {
+    "name": "Jewelry",
+    "count": 39,
+    "parent": 47,
+    "id": 51,
+    "slug": "jewelry"
+   },
+   {
+    "name": "Dine-In",
+    "count": 37,
+    "parent": 104,
+    "id": 54,
+    "slug": "dine-in"
+   },
+   {
+    "name": "Jewelry",
+    "count": 37,
+    "parent": 261,
+    "id": 2350,
+    "slug": "jewelry-crafts-market"
+   },
+   {
+    "name": "Apparel",
+    "count": 36,
+    "parent": 47,
+    "id": 50,
+    "slug": "apparel"
+   },
+   {
+    "name": "Apparel",
+    "count": 35,
+    "parent": 261,
+    "id": 2346,
+    "slug": "apparel-crafts-market"
+   },
+   {
+    "name": "International Cuisine",
+    "count": 35,
+    "parent": 104,
+    "id": 73,
+    "slug": "international-cuisine"
+   },
+   {
+    "name": "Home & Kitchen",
+    "count": 33,
+    "parent": 47,
+    "id": 87,
+    "slug": "home-kitchen"
+   },
+   {
+    "name": "Art & Photography",
+    "count": 31,
+    "parent": 47,
+    "id": 52,
+    "slug": "art-photography"
+   },
+   {
+    "name": "Art & Décor",
+    "count": 30,
+    "parent": 3484,
+    "id": 3494,
+    "slug": "art-decor"
+   },
+   {
+    "name": "Home & Kitchen",
+    "count": 28,
+    "parent": 261,
+    "id": 2347,
+    "slug": "home-kitchen-crafts-market"
+   },
+   {
+    "name": "Entertainment & Attractions",
+    "count": 25,
+    "parent": 0,
+    "id": 241,
+    "slug": "entertainment-and-attractions"
+   },
+   {
+    "name": "Restaurants",
+    "count": 25,
+    "parent": 104,
+    "id": 57,
+    "slug": "restaurants"
+   },
+   {
+    "name": "Home, Bath & Kitchen",
+    "count": 24,
+    "parent": 3484,
+    "id": 3492,
+    "slug": "home-kitchen-market-gift-card"
+   },
+   {
+    "name": "Restaurants & Eateries",
+    "count": 23,
+    "parent": 3484,
+    "id": 3488,
+    "slug": "restaurants-market-gift-card"
+   },
+   {
+    "name": "Specialty Foods",
+    "count": 23,
+    "parent": 3484,
+    "id": 3489,
+    "slug": "specialty-foods-market-gift-card"
+   },
+   {
+    "name": "Books, Music & Toys",
+    "count": 23,
+    "parent": 47,
+    "id": 101,
+    "slug": "books-music-toys"
+   }
+  ]
+ },
+ "osm": {
+  "named_in_fence": 170,
+  "trading_in_fence": 136,
+  "buildings": 21,
+  "levels_known": 11,
+  "footways_m": 4450.0
+ },
+ "buildings": [
+  {
+   "id": "marketfront",
+   "name": "MarketFront",
+   "osm": "way/184870424",
+   "kind": "retail",
+   "levels": 1,
+   "start": null,
+   "wikidata": "Q115111291",
+   "addr": "",
+   "area_m2": 3778.7,
+   "pt": [
+    -122.3428607,
+    47.6094654
+   ]
+  },
+  {
+   "id": "pike-place-market-parking",
+   "name": "Pike Place Market Parking",
+   "osm": "way/184870422",
+   "kind": "parking",
+   "levels": null,
+   "start": null,
+   "wikidata": null,
+   "addr": "1531 Western Avenue",
+   "area_m2": 3592.4,
+   "pt": [
+    -122.342242,
+    47.6088514
+   ]
+  },
+  {
+   "id": "north-arcade",
+   "name": "North Arcade",
+   "osm": "way/231357659",
+   "kind": "retail",
+   "levels": 2,
+   "start": null,
+   "wikidata": null,
+   "addr": "",
+   "area_m2": 1460.3,
+   "pt": [
+    -122.3421983,
+    47.6095131
+   ]
+  },
+  {
+   "id": "main-arcade",
+   "name": "Main Arcade",
+   "osm": "way/1271653801",
+   "kind": "retail",
+   "levels": null,
+   "start": null,
+   "wikidata": null,
+   "addr": "",
+   "area_m2": 1333.7,
+   "pt": [
+    -122.3409811,
+    47.6087693
+   ]
+  },
+  {
+   "id": "sanitary-public-market",
+   "name": "Sanitary Public Market",
+   "osm": "way/206858888",
+   "kind": "yes",
+   "levels": 3,
+   "start": null,
+   "wikidata": "Q114857469",
+   "addr": "Post Alley",
+   "area_m2": 1229.7,
+   "pt": [
+    -122.3408222,
+    47.6091891
+   ]
+  },
+  {
+   "id": "first-pine-building",
+   "name": "First & Pine Building",
+   "osm": "way/231362204",
+   "kind": "retail",
+   "levels": 5,
+   "start": "1982",
+   "wikidata": null,
+   "addr": "1530 Post Alley",
+   "area_m2": 1218.6,
+   "pt": [
+    -122.3411299,
+    47.6094981
+   ]
+  },
+  {
+   "id": "market-place-two",
+   "name": "Market Place Two",
+   "osm": "way/231355696",
+   "kind": "yes",
+   "levels": 5,
+   "start": "1981",
+   "wikidata": null,
+   "addr": "2001 Western Avenue",
+   "area_m2": 1130.4,
+   "pt": [
+    -122.3445918,
+    47.6105732
+   ]
+  },
+  {
+   "id": "inn-at-the-market-building",
+   "name": "Inn at the Market Building",
+   "osm": "way/409363106",
+   "kind": "retail",
+   "levels": null,
+   "start": "1985",
+   "wikidata": null,
+   "addr": "86 Pine Street",
+   "area_m2": 929.1,
+   "pt": [
+    -122.3413798,
+    47.6098708
+   ]
+  },
+  {
+   "id": "corner-market",
+   "name": "Corner Market",
+   "osm": "way/206858876",
+   "kind": "yes",
+   "levels": 3,
+   "start": null,
+   "wikidata": "Q114854470",
+   "addr": "1530 Post Alley",
+   "area_m2": 793.4,
+   "pt": [
+    -122.3404511,
+    47.6089109
+   ]
+  },
+  {
+   "id": "fairmount-apartments",
+   "name": "Fairmount Apartments",
+   "osm": "way/360950564",
+   "kind": "apartments",
+   "levels": null,
+   "start": "1914",
+   "wikidata": null,
+   "addr": "",
+   "area_m2": 768.9,
+   "pt": [
+    -122.3419865,
+    47.6103823
+   ]
+  },
+  {
+   "id": "stewart-house",
+   "name": "Stewart House",
+   "osm": "way/367894552",
+   "kind": "apartments",
+   "levels": 3,
+   "start": "1984",
+   "wikidata": null,
+   "addr": "80 Stewart Street",
+   "area_m2": 739.1,
+   "pt": [
+    -122.3422625,
+    47.6099108
+   ]
+  },
+  {
+   "id": "champion-building",
+   "name": "Champion Building",
+   "osm": "way/367894555",
+   "kind": "yes",
+   "levels": 3,
+   "start": null,
+   "wikidata": null,
+   "addr": "",
+   "area_m2": 717.1,
+   "pt": [
+    -122.343152,
+    47.6104743
+   ]
+  },
+  {
+   "id": "pike-virginia-building",
+   "name": "Pike & Virginia Building",
+   "osm": "way/367894556",
+   "kind": "apartments",
+   "levels": 3,
+   "start": null,
+   "wikidata": null,
+   "addr": "",
+   "area_m2": 681.4,
+   "pt": [
+    -122.3425795,
+    47.6102719
+   ]
+  },
+  {
+   "id": "alaska-trade-building",
+   "name": "Alaska Trade Building",
+   "osm": "way/360950561",
+   "kind": "retail",
+   "levels": 5,
+   "start": null,
+   "wikidata": "Q4708626",
+   "addr": "",
+   "area_m2": 619.4,
+   "pt": [
+    -122.3421585,
+    47.6104396
+   ]
+  },
+  {
+   "id": "leland-hotel",
+   "name": "Leland Hotel",
+   "osm": "way/1271653800",
+   "kind": "retail",
+   "levels": null,
+   "start": null,
+   "wikidata": "Q125420948",
+   "addr": "",
+   "area_m2": 592.7,
+   "pt": [
+    -122.3406985,
+    47.6085047
+   ]
+  },
+  {
+   "id": "landes-block",
+   "name": "Landes Block",
+   "osm": "way/206877616",
+   "kind": "yes",
+   "levels": 5,
+   "start": "1901",
+   "wikidata": null,
+   "addr": "1st Avenue",
+   "area_m2": 591.6,
+   "pt": [
+    -122.3424813,
+    47.610676
+   ]
+  },
+  {
+   "id": "fix-building",
+   "name": "Fix Building",
+   "osm": "way/231359020",
+   "kind": "yes",
+   "levels": null,
+   "start": null,
+   "wikidata": null,
+   "addr": "",
+   "area_m2": 539.4,
+   "pt": [
+    -122.3413605,
+    47.608376
+   ]
+  },
+  {
+   "id": "garden-center-building",
+   "name": "Garden Center Building",
+   "osm": "way/231360587",
+   "kind": "yes",
+   "levels": null,
+   "start": "1908",
+   "wikidata": null,
+   "addr": "",
+   "area_m2": 468.3,
+   "pt": [
+    -122.3421771,
+    47.6098273
+   ]
+  },
+  {
+   "id": "triangle-building",
+   "name": "Triangle Building",
+   "osm": "way/1190291980",
+   "kind": "yes",
+   "levels": null,
+   "start": null,
+   "wikidata": "Q115210417",
+   "addr": "",
+   "area_m2": 358.3,
+   "pt": [
+    -122.3414488,
+    47.609371
+   ]
+  },
+  {
+   "id": "skybridge",
+   "name": "SkyBridge",
+   "osm": "way/296789534",
+   "kind": "roof",
+   "levels": null,
+   "start": null,
+   "wikidata": null,
+   "addr": "",
+   "area_m2": 189.0,
+   "pt": [
+    -122.3426463,
+    47.6093898
+   ]
+  },
+  {
+   "id": "market-heritage-center",
+   "name": "Market Heritage Center",
+   "osm": "way/231359028",
+   "kind": "yes",
+   "levels": null,
+   "start": null,
+   "wikidata": null,
+   "addr": "",
+   "area_m2": 137.8,
+   "pt": [
+    -122.3405205,
+    47.6085488
+   ]
+  }
+ ],
+ "per_building": [
+  [
+   "main-arcade",
+   53
+  ],
+  [
+   "inn-at-the-market-building",
+   9
+  ],
+  [
+   "corner-market",
+   8
+  ],
+  [
+   "stewart-house",
+   7
+  ],
+  [
+   "sanitary-public-market",
+   6
+  ],
+  [
+   "triangle-building",
+   3
+  ],
+  [
+   "first-pine-building",
+   3
+  ],
+  [
+   "pike-virginia-building",
+   2
+  ],
+  [
+   "alaska-trade-building",
+   2
+  ],
+  [
+   "marketfront",
+   2
+  ],
+  [
+   "garden-center-building",
+   1
+  ],
+  [
+   "pike-place-market-parking",
+   1
+  ],
+  [
+   "fairmount-apartments",
+   1
+  ]
+ ],
+ "per_place": [
+  [
+   "main-arcade",
+   53,
+   "Main Arcade",
+   "building"
+  ],
+  [
+   "85-pike-st",
+   20,
+   "85 Pike St",
+   "address"
+  ],
+  [
+   "1916-pike-pl",
+   10,
+   "1916 Pike Pl",
+   "address"
+  ],
+  [
+   "inn-at-the-market-building",
+   9,
+   "Inn at the Market Building",
+   "building"
+  ],
+  [
+   "corner-market",
+   8,
+   "Corner Market",
+   "building"
+  ],
+  [
+   "93-pike-st",
+   8,
+   "93 Pike St",
+   "address"
+  ],
+  [
+   "stewart-house",
+   7,
+   "Stewart House",
+   "building"
+  ],
+  [
+   "sanitary-public-market",
+   6,
+   "Sanitary Public Market",
+   "building"
+  ],
+  [
+   "triangle-building",
+   3,
+   "Triangle Building",
+   "building"
+  ],
+  [
+   "first-pine-building",
+   3,
+   "First & Pine Building",
+   "building"
+  ],
+  [
+   "97-pike-st",
+   2,
+   "97 Pike St",
+   "address"
+  ],
+  [
+   "pike-virginia-building",
+   2,
+   "Pike & Virginia Building",
+   "building"
+  ],
+  [
+   "alaska-trade-building",
+   2,
+   "Alaska Trade Building",
+   "building"
+  ],
+  [
+   "81-pike-st",
+   2,
+   "81 Pike St",
+   "address"
+  ],
+  [
+   "marketfront",
+   2,
+   "MarketFront",
+   "building"
+  ],
+  [
+   "1435-1st-ave",
+   1,
+   "1435 1st Ave",
+   "address"
+  ],
+  [
+   "1919-post-alley",
+   1,
+   "1919 Post Alley",
+   "address"
+  ],
+  [
+   "1916-post-alley",
+   1,
+   "1916 Post Alley",
+   "address"
+  ],
+  [
+   "1428-post-alley",
+   1,
+   "1428 Post Alley",
+   "address"
+  ],
+  [
+   "1912-pike-pl",
+   1,
+   "1912 Pike Pl",
+   "address"
+  ],
+  [
+   "1918-pike-pl",
+   1,
+   "1918 Pike Pl",
+   "address"
+  ],
+  [
+   "1927-1st-ave",
+   1,
+   "1927 1st Ave",
+   "address"
+  ],
+  [
+   "1924-post-alley",
+   1,
+   "1924 Post Alley",
+   "address"
+  ],
+  [
+   "garden-center-building",
+   1,
+   "Garden Center Building",
+   "building"
+  ],
+  [
+   "1429-1st-ave",
+   1,
+   "1429 1st Ave",
+   "address"
+  ],
+  [
+   "1908-post-alley",
+   1,
+   "1908 Post Alley",
+   "address"
+  ],
+  [
+   "pike-place-market-parking",
+   1,
+   "Pike Place Market Parking",
+   "building"
+  ],
+  [
+   "1925-1st-ave",
+   1,
+   "1925 1st Ave",
+   "address"
+  ],
+  [
+   "1921-1st-ave",
+   1,
+   "1921 1st Ave",
+   "address"
+  ],
+  [
+   "1427-1st-ave",
+   1,
+   "1427 1st Ave",
+   "address"
+  ],
+  [
+   "fairmount-apartments",
+   1,
+   "Fairmount Apartments",
+   "building"
+  ]
+ ],
+ "counts": {
+  "city_licences": 153,
+  "market_roster": 473,
+  "openstreetmap": 170,
+  "market_self": [
+   {
+    "count": "220+",
+    "what": "independently owned shops"
+   },
+   {
+    "count": "180+",
+    "what": "craftspeople"
+   },
+   {
+    "count": "70+",
+    "what": "farmers"
+   },
+   {
+    "count": "60+",
+    "what": "permitted buskers"
+   },
+   {
+    "count": "450+",
+    "what": "residents in affordable housing"
+   }
+  ],
+  "city_addresses": 215
+ },
+ "visit": {
+  "source": "Pike Place Market PDA — Plan Your Visit",
+  "url": "https://www.pikeplacemarket.org/plan-your-visit/",
+  "fetched": "2026-09-19T16:48:11Z",
+  "licence": "text and images are the Market's and its vendors'; held here as facts about who trades where, quoted short and linked back, nothing rehosted",
+  "active_band": "10 a.m. to 5 p.m.",
+  "closed_days": "Thanksgiving and Christmas Day",
+  "self_description": "10-level, 9-acre",
+  "count": 14,
+  "hours": [
+   {
+    "what": "Breakfast",
+    "when": "7 a.m."
+   },
+   {
+    "what": "Fresh Produce & Seafood",
+    "when": "7 a.m."
+   },
+   {
+    "what": "Crafts Market",
+    "when": "11 a.m. – 4 p.m."
+   },
+   {
+    "what": "Farm Tables",
+    "when": "9 a.m. – 4 p.m."
+   },
+   {
+    "what": "Artisanal Food Program",
+    "when": "11 a.m. – 4 p.m. (Fri – Sun)"
+   },
+   {
+    "what": "Open daily",
+    "when": "9 a.m. – 7 p.m."
+   },
+   {
+    "what": "Restrooms",
+    "when": "8:30 a.m. – 6 p.m. (North restroom open until 7 p.m.)"
+   },
+   {
+    "what": "Restaurants",
+    "when": "7 a.m. – 2 a.m.; varies"
+   },
+   {
+    "what": "Secret Garden",
+    "when": "9:30 a.m. – 5 p.m."
+   }
+  ],
+  "figures": [
+   {
+    "count": "220+",
+    "what": "independently owned shops"
+   },
+   {
+    "count": "180+",
+    "what": "craftspeople"
+   },
+   {
+    "count": "70+",
+    "what": "farmers"
+   },
+   {
+    "count": "60+",
+    "what": "permitted buskers"
+   },
+   {
+    "count": "450+",
+    "what": "residents in affordable housing"
+   }
+  ]
+ },
+ "acres": {
+  "district": 12.827,
+  "market_says": 9.0,
+  "difference": 3.83
+ },
+ "daniel": {
+  "licence_name": "FLEMING DANIEL T",
+  "trade_name": "FODOUGHGRAFIKS",
+  "licence_start": "20060310",
+  "licence_years": 20.53,
+  "licence_address": "85 PIKE ST # 125",
+  "licence_trade": "All Other Professional, Scientific, and Technical Services",
+  "building": null,
+  "pda_name": "Isellpictures.com",
+  "pda_blurb": "Fodoughgrafiks (Isellpictures.com) has been selling digital art in Pike Place Market since 2007. Owner Daniel T. Fleming shoots, edits, prints coats, trims, mounts, signs, and sells a body of work that celebrates the most iconic scenes and situations from the Greater PNW and beyond.",
+  "pda_link": "https://www.pikeplacemarket.org/vendor/isellpictures-com/",
+  "pda_cats": [
+   "Art & Photography",
+   "Crafts Market",
+   "Shopping",
+   "Handmade",
+   "Photography"
+  ],
+  "pda_says_since": 2007,
+  "own_brief_2024": "eighteen years at the market, said in May 2024"
+ }
+}

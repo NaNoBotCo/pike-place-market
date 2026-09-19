@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "Pike Place Market — the twelve acres, counted"
+message: "If you use the tenure figures or the inside-and-outside comparison, please cite this."
+type: dataset
+authors:
+  - name: "NaNoBotCo"
+    website: "https://nanobotco.github.io/"
+url: "https://nanobotco.github.io/pike-place-market/"
+license: CC-BY-4.0
+abstract: >-
+  A directory and GIS map of the Pike Place Market Historical District, Seattle,
+  bounded by the district's own polygon (Seattle Land Use Code chapter 25.24, overlay
+  PP). Every active city business licence on the district's streets is placed against
+  the city's Master Address File and tested against that polygon, giving a dated,
+  address-level record of who trades inside the line. Includes a comparison of licence
+  tenure inside the district against licensed businesses within 150 m of it and outside,
+  and a reconciliation of five separate counts of the same place. Building outlines,
+  paths and points of interest are ODbL 1.0, © OpenStreetMap contributors.
+keywords:
+  - Pike Place Market
+  - Seattle
+  - historic district
+  - business licences
+  - GIS
+  - OpenStreetMap
+  - open data
+  - vendor directory
