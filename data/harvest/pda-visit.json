@@ -1,8 +1,8 @@
 {
  "source": "Pike Place Market PDA — Plan Your Visit",
  "url": "https://www.pikeplacemarket.org/plan-your-visit/",
- "fetched": "2026-09-19T16:48:11Z",
- "licence": "text and images are the Market's and its vendors'; held here as facts about who trades where, quoted short and linked back, nothing rehosted",
+ "fetched": "2026-09-19T17:01:05Z",
+ "licence": "text and images belong to the Market and its vendors; held here as facts about who trades where, quoted short, with a link back to the page each came from",
  "active_band": "10 a.m. to 5 p.m.",
  "closed_days": "Thanksgiving and Christmas Day",
  "self_description": "10-level, 9-acre",
@@ -29,7 +29,7 @@
    "when": "11 a.m. – 4 p.m. (Fri – Sun)"
   },
   {
-   "what": "Open daily",
+   "what": "Merchant buildings",
    "when": "9 a.m. – 7 p.m."
   },
   {

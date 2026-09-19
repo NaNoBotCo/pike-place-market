@@ -1,5 +1,5 @@
 {
- "built": "2026-09-19",
+ "built": "2026-09-20",
  "fence": {
   "acres": 12.827,
   "m2": 51908.6,
@@ -82,7 +82,7 @@
   "tenure_near": {
    "n": 46,
    "median": 18.7,
-   "mean": 19.1,
+   "mean": 19.2,
    "over_20": 21,
    "over_40": 2,
    "under_5": 7,
@@ -335,7 +335,7 @@
    {
     "name": "PURE FOOD FISH MARKET",
     "start": "19680801",
-    "years": 58.13,
+    "years": 58.14,
     "trade": "Meat Retailers",
     "address": "1511 PIKE PL",
     "building": "main-arcade"
@@ -351,7 +351,7 @@
    {
     "name": "COPACABANA CAFE",
     "start": "19750215",
-    "years": 51.59,
+    "years": 51.6,
     "trade": "Limited-Service Restaurants",
     "address": "1520 1/2 PIKE PL",
     "building": "triangle-building"
@@ -367,7 +367,7 @@
    {
     "name": "FRANTIC ART",
     "start": "19751208",
-    "years": 50.78,
+    "years": 50.79,
     "trade": "All Other Miscellaneous Retailers",
     "address": "1511 PIKE PL",
     "building": "main-arcade"
@@ -1303,8 +1303,8 @@
  "visit": {
   "source": "Pike Place Market PDA — Plan Your Visit",
   "url": "https://www.pikeplacemarket.org/plan-your-visit/",
-  "fetched": "2026-09-19T16:48:11Z",
-  "licence": "text and images are the Market's and its vendors'; held here as facts about who trades where, quoted short and linked back, nothing rehosted",
+  "fetched": "2026-09-19T17:01:05Z",
+  "licence": "text and images belong to the Market and its vendors; held here as facts about who trades where, quoted short, with a link back to the page each came from",
   "active_band": "10 a.m. to 5 p.m.",
   "closed_days": "Thanksgiving and Christmas Day",
   "self_description": "10-level, 9-acre",
@@ -1331,7 +1331,7 @@
     "when": "11 a.m. – 4 p.m. (Fri – Sun)"
    },
    {
-    "what": "Open daily",
+    "what": "Merchant buildings",
     "when": "9 a.m. – 7 p.m."
    },
    {
@@ -1370,6 +1370,75 @@
    }
   ]
  },
+ "hours": [
+  {
+   "what": "Breakfast",
+   "when": "7 a.m.",
+   "open": 7.0,
+   "close": null,
+   "days": []
+  },
+  {
+   "what": "Fresh Produce & Seafood",
+   "when": "7 a.m.",
+   "open": 7.0,
+   "close": null,
+   "days": []
+  },
+  {
+   "what": "Crafts Market",
+   "when": "11 a.m. – 4 p.m.",
+   "open": 11.0,
+   "close": 16.0,
+   "days": []
+  },
+  {
+   "what": "Farm Tables",
+   "when": "9 a.m. – 4 p.m.",
+   "open": 9.0,
+   "close": 16.0,
+   "days": []
+  },
+  {
+   "what": "Artisanal Food Program",
+   "when": "11 a.m. – 4 p.m. (Fri – Sun)",
+   "open": 11.0,
+   "close": 16.0,
+   "days": [
+    4,
+    5,
+    6
+   ]
+  },
+  {
+   "what": "Merchant buildings",
+   "when": "9 a.m. – 7 p.m.",
+   "open": 9.0,
+   "close": 19.0,
+   "days": []
+  },
+  {
+   "what": "Restrooms",
+   "when": "8:30 a.m. – 6 p.m. (North restroom open until 7 p.m.)",
+   "open": 8.5,
+   "close": 18.0,
+   "days": []
+  },
+  {
+   "what": "Restaurants",
+   "when": "7 a.m. – 2 a.m.; varies",
+   "open": 7.0,
+   "close": 26.0,
+   "days": []
+  },
+  {
+   "what": "Secret Garden",
+   "when": "9:30 a.m. – 5 p.m.",
+   "open": 9.5,
+   "close": 17.0,
+   "days": []
+  }
+ ],
  "acres": {
   "district": 12.827,
   "market_says": 9.0,

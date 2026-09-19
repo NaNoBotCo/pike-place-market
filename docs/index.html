@@ -13,7 +13,7 @@
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "Pike Place Market", "url": "https://nanobotco.github.io/pike-place-market/", "description": "A geofenced directory and GIS map of the Pike Place Market Historical District, Seattle.", "publisher": {"@type": "Organization", "name": "NaNoBotCo"}}</script>
 <a class="skip" href="#main">Skip to the page</a>
 <header class="top"><nav class="bar"><a href="" class="on">Front</a><a href="map/">Map</a><a href="directory/">Directory</a><a href="trades/">Trades</a><a href="age/">Age</a><a href="fence/">The line</a><a href="daniel-fleming/">Daniel Fleming</a><a href="sources/">Sources</a></nav></header>
-<div class="backdrop" aria-hidden="true"><picture class="bg on" data-scene="hero"><img src="images/hero.jpg" alt="" fetchpriority="high" decoding="async"></picture><picture class="bg" data-scene="here"><img src="images/near.jpg" alt="" loading="lazy" decoding="async"></picture><picture class="bg" data-scene="who"><img src="images/now.jpg" alt="" loading="lazy" decoding="async"></picture><picture class="bg" data-scene="age"><img src="images/tenure.jpg" alt="" loading="lazy" decoding="async"></picture><picture class="bg" data-scene="daniel"><img src="images/daniel.jpg" alt="" loading="lazy" decoding="async"></picture><picture class="bg" data-scene="doors"><img src="images/directory.jpg" alt="" loading="lazy" decoding="async"></picture><picture class="bg" data-scene="door"><img src="images/door.jpg" alt="" loading="lazy" decoding="async"></picture><div class="scrim"></div></div>
+<div class="backdrop" aria-hidden="true"><picture class="bg on" data-scene="hero"><img src="images/hero.jpg" alt="" fetchpriority="high" decoding="async"></picture><picture class="bg" data-scene="hour"><img src="images/now.jpg" alt="" loading="lazy" decoding="async"></picture><picture class="bg" data-scene="here"><img src="images/near.jpg" alt="" loading="lazy" decoding="async"></picture><picture class="bg" data-scene="who"><img src="images/peppers.jpg" alt="" loading="lazy" decoding="async"></picture><picture class="bg" data-scene="age"><img src="images/tenure.jpg" alt="" loading="lazy" decoding="async"></picture><picture class="bg" data-scene="daniel"><img src="images/daniel.jpg" alt="" loading="lazy" decoding="async"></picture><picture class="bg" data-scene="doors"><img src="images/directory.jpg" alt="" loading="lazy" decoding="async"></picture><picture class="bg" data-scene="door"><img src="images/door.jpg" alt="" loading="lazy" decoding="async"></picture><div class="scrim"></div></div>
 <main id="main">
 <section class="s" data-scene="hero"><div class="in"><div class="plate hero">
 <span class="wordmark">Pike Place Market · Seattle · Historical District</span>
@@ -29,6 +29,16 @@
  <a class="btn" href="directory/">The directory</a></p>
 </div></div>
  <a class="down" href="#here" aria-label="Down">&#8595;</a></section>
+<section class="s" data-scene="hour"><div class="in"><div class="plate ">
+<h2 class="kick">At this hour</h2>
+<p class="lede">The Market publishes an hour for each part of itself, and the parts keep
+ different hours. Read against the clock in Seattle, where it is <span id="clock2"
+ class="num">—</span>.</p>
+<ul class="hours" id="hours"><li data-o="7.0" data-c="" data-d=""><i></i><span class="w">Breakfast</span><span class="t num">7 a.m.</span></li><li data-o="7.0" data-c="" data-d=""><i></i><span class="w">Fresh Produce &amp; Seafood</span><span class="t num">7 a.m.</span></li><li data-o="11.0" data-c="16.0" data-d=""><i></i><span class="w">Crafts Market</span><span class="t num">11 a.m. – 4 p.m.</span></li><li data-o="9.0" data-c="16.0" data-d=""><i></i><span class="w">Farm Tables</span><span class="t num">9 a.m. – 4 p.m.</span></li><li data-o="11.0" data-c="16.0" data-d="4,5,6"><i></i><span class="w">Artisanal Food Program</span><span class="t num">11 a.m. – 4 p.m. (Fri – Sun)</span></li><li data-o="9.0" data-c="19.0" data-d=""><i></i><span class="w">Merchant buildings</span><span class="t num">9 a.m. – 7 p.m.</span></li><li data-o="8.5" data-c="18.0" data-d=""><i></i><span class="w">Restrooms</span><span class="t num">8:30 a.m. – 6 p.m. (North restroom open until 7 p.m.)</span></li><li data-o="7.0" data-c="26.0" data-d=""><i></i><span class="w">Restaurants</span><span class="t num">7 a.m. – 2 a.m.; varies</span></li><li data-o="9.5" data-c="17.0" data-d=""><i></i><span class="w">Secret Garden</span><span class="t num">9:30 a.m. – 5 p.m.</span></li></ul>
+<p class="small">Quoted from the Market's visitor page, read 2026-09-19. It trades seven days a
+ week and closes on <b>Thanksgiving and Christmas Day</b>. Individual shops set their own hours; this is the
+ Market's own band for each part, not a promise about any one stall.</p>
+</div></div></section>
 <section class="s" id="here" data-scene="here"><div class="in"><div class="plate ">
 <h2 class="kick">Are you inside it?</h2>
 <p class="lede">The district is a 30-cornered polygon with an area of 12.827 acres and
@@ -90,14 +100,30 @@
 /* The clock is Seattle's, wherever the reader is. The lamp is the Market's own
    published band for when most of it is trading, quoted on the visitor page. */
 var band=[10,17];
+var DAY={Mon:0,Tue:1,Wed:2,Thu:3,Fri:4,Sat:5,Sun:6};
 function tick(){
  var d=new Date(),f=new Intl.DateTimeFormat('en-GB',{timeZone:'America/Los_Angeles',
   hour:'2-digit',minute:'2-digit',weekday:'short',hour12:false});
  var p={};f.formatToParts(d).forEach(function(x){p[x.type]=x.value});
- var h=+p.hour+ (+p.minute)/60;
+ var h=+p.hour+ (+p.minute)/60, wd=DAY[p.weekday];
  var el=document.getElementById('clock'),lamp=document.getElementById('lamp');
  if(el)el.textContent=p.weekday+' '+p.hour+':'+p.minute+' in Seattle';
+ var el2=document.getElementById('clock2');
+ if(el2)el2.textContent=p.hour+':'+p.minute+', '+p.weekday;
  if(lamp)lamp.className=(h>=band[0]&&h<band[1])?'open':'shut';
+ /* Each row carries the Market's own published band. A row with no closing hour
+    published cannot be called shut, so it is left unlit rather than guessed at. */
+ [].forEach.call(document.querySelectorAll('#hours li'),function(li){
+  var o=li.dataset.o===''?null:+li.dataset.o,
+      c=li.dataset.c===''?null:+li.dataset.c,
+      days=li.dataset.d?li.dataset.d.split(',').map(Number):null;
+  li.classList.remove('on','off');
+  if(days&&days.length&&days.indexOf(wd)<0){li.classList.add('off');return}
+  if(o===null)return;
+  var now=h<6?h+24:h;                       /* a 2 a.m. close belongs to last night */
+  if(c===null){li.classList.add(now>=o?'on':'off');return}
+  li.classList.add(now>=o&&now<c?'on':'off');
+ });
 }
 tick();setInterval(tick,20000);
 

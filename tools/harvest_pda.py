@@ -160,9 +160,12 @@ def pages(limit: int) -> None:
 
 VISIT = SITE + "/plan-your-visit/"
 
+# The visitor page's own labels, with the one that reads as a fragment out of context
+# given the heading it sits under.
 HOUR_KEYS = ["Breakfast", "Fresh Produce | & | Seafood", "Crafts Market", "Farm Tables",
              "Artisanal Food Program", "Open daily", "Restrooms", "Restaurants",
              "Secret Garden"]
+RELABEL = {"Open daily": "Merchant buildings"}
 
 
 def visit() -> None:
@@ -180,7 +183,9 @@ def visit() -> None:
     for k in HOUR_KEYS:
         m = re.search(re.escape(k) + r"\s*\|?\s*:?\s*\|?\s*([^|]{2,60})", t)
         if m:
-            hours.append({"what": k.replace(" | ", " "), "when": m.group(1).strip(" :|")})
+            label = k.replace(" | ", " ")
+            hours.append({"what": RELABEL.get(label, label),
+                          "when": m.group(1).strip(" :|")})
 
     figs = []
     for m in re.finditer(r"(\d[\d,]*\+?)\s+([a-z][a-z ,\-]{4,60}?)(?=,| and |\.|\|)", t):

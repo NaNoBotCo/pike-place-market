@@ -86,8 +86,9 @@ def year(start) -> str:
 
 # ------------------------------------------------------------------ the front
 
-SCENES = [("hero", "hero"), ("here", "near"), ("who", "now"), ("age", "tenure"),
-          ("daniel", "daniel"), ("doors", "directory"), ("door", "door")]
+SCENES = [("hero", "hero"), ("hour", "now"), ("here", "near"), ("who", "peppers"),
+          ("age", "tenure"), ("daniel", "daniel"), ("doors", "directory"),
+          ("door", "door")]
 
 
 def home() -> str:
@@ -110,6 +111,25 @@ def home() -> str:
 <p><a class="btn solid" href="map/">Open the map</a>
  <a class="btn" href="directory/">The directory</a></p>
 """ % (ac["district"], n(C["city_licences"]), n(C["market_roster"])), "hero")
+
+    hour = plate("""
+<h2 class="kick">At this hour</h2>
+<p class="lede">The Market publishes an hour for each part of itself, and the parts keep
+ different hours. Read against the clock in Seattle, where it is <span id="clock2"
+ class="num">—</span>.</p>
+<ul class="hours" id="hours">%s</ul>
+<p class="small">Quoted from the Market's visitor page, read %s. It trades seven days a
+ week and closes on <b>%s</b>. Individual shops set their own hours; this is the
+ Market's own band for each part, not a promise about any one stall.</p>
+""" % ("".join(
+        '<li data-o="%s" data-c="%s" data-d="%s"><i></i>'
+        '<span class="w">%s</span><span class="t num">%s</span></li>'
+        % ("" if h["open"] is None else h["open"],
+           "" if h["close"] is None else h["close"],
+           ",".join(str(x) for x in h["days"]),
+           E(h["what"]), E(h["when"]))
+        for h in A.get("hours", [])),
+       E(VISIT.get("fetched", "")[:10]), E(VISIT.get("closed_days", ""))))
 
     here = plate("""
 <h2 class="kick">Are you inside it?</h2>
@@ -198,13 +218,14 @@ def home() -> str:
 <main id="main">
 <section class="s" data-scene="hero"><div class="in">%s</div>
  <a class="down" href="#here" aria-label="Down">&#8595;</a></section>
+<section class="s" data-scene="hour"><div class="in">%s</div></section>
 <section class="s" id="here" data-scene="here"><div class="in">%s</div></section>
 <section class="s" data-scene="who"><div class="in">%s</div></section>
 <section class="s" data-scene="age"><div class="in">%s</div></section>
 <section class="s" data-scene="daniel"><div class="in">%s</div></section>
 <section class="s flow" data-scene="doors"><div class="in">%s</div></section>
 </main>
-""" % (hero, here, who, age, dan, doors)
+""" % (hero, hour, here, who, age, dan, doors)
 
     ld = jsonld({
         "@context": "https://schema.org", "@type": "WebSite", "name": NAME,
@@ -241,14 +262,30 @@ HOME_JS = r"""
 /* The clock is Seattle's, wherever the reader is. The lamp is the Market's own
    published band for when most of it is trading, quoted on the visitor page. */
 var band=[10,17];
+var DAY={Mon:0,Tue:1,Wed:2,Thu:3,Fri:4,Sat:5,Sun:6};
 function tick(){
  var d=new Date(),f=new Intl.DateTimeFormat('en-GB',{timeZone:'America/Los_Angeles',
   hour:'2-digit',minute:'2-digit',weekday:'short',hour12:false});
  var p={};f.formatToParts(d).forEach(function(x){p[x.type]=x.value});
- var h=+p.hour+ (+p.minute)/60;
+ var h=+p.hour+ (+p.minute)/60, wd=DAY[p.weekday];
  var el=document.getElementById('clock'),lamp=document.getElementById('lamp');
  if(el)el.textContent=p.weekday+' '+p.hour+':'+p.minute+' in Seattle';
+ var el2=document.getElementById('clock2');
+ if(el2)el2.textContent=p.hour+':'+p.minute+', '+p.weekday;
  if(lamp)lamp.className=(h>=band[0]&&h<band[1])?'open':'shut';
+ /* Each row carries the Market's own published band. A row with no closing hour
+    published cannot be called shut, so it is left unlit rather than guessed at. */
+ [].forEach.call(document.querySelectorAll('#hours li'),function(li){
+  var o=li.dataset.o===''?null:+li.dataset.o,
+      c=li.dataset.c===''?null:+li.dataset.c,
+      days=li.dataset.d?li.dataset.d.split(',').map(Number):null;
+  li.classList.remove('on','off');
+  if(days&&days.length&&days.indexOf(wd)<0){li.classList.add('off');return}
+  if(o===null)return;
+  var now=h<6?h+24:h;                       /* a 2 a.m. close belongs to last night */
+  if(c===null){li.classList.add(now>=o?'on':'off');return}
+  li.classList.add(now>=o&&now<c?'on':'off');
+ });
 }
 tick();setInterval(tick,20000);
 

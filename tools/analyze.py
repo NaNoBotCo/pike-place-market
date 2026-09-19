@@ -218,6 +218,32 @@ def main() -> None:
                                         if f["properties"].get("_inside")),
                         "in_box": len((d or {"rows": []})["rows"])} if d else None
 
+    # -------- the Market's published hours, turned into something a clock can answer
+    def parse_band(txt):
+        """'11 a.m. - 4 p.m.' -> (11.0, 16.0). '7 a.m.' -> (7.0, None), because the
+        Market publishes an opening hour for some things and no closing one."""
+        t = (txt or "").replace("\u2013", "-").replace("\u2014", "-")
+        times = re.findall(r"(\d{1,2})(?::(\d{2}))?\s*([ap])\.?\s*m", t, re.I)
+        out = []
+        for h, m, ap in times[:2]:
+            v = int(h) % 12 + (12 if ap.lower() == "p" else 0) + (int(m or 0) / 60.0)
+            out.append(round(v, 3))
+        if not out:
+            return (None, None, [])
+        days = []
+        dm = re.search(r"\(([A-Za-z]{3})\s*-\s*([A-Za-z]{3})\)", t)
+        if dm:
+            names = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+            try:
+                a, b = names.index(dm.group(1)[:3].title()), names.index(dm.group(2)[:3].title())
+                days = [(a + i) % 7 for i in range((b - a) % 7 + 1)]
+            except ValueError:
+                days = []
+        close = out[1] if len(out) > 1 else None
+        if close is not None and close < out[0]:      # restaurants run to 2 a.m.
+            close += 24
+        return (out[0], close, days)
+
     # -------- what the Market says about itself
     visit = jload(HARVEST / "pda-visit.json") or {}
     m = re.search(r"([\d.]+)-acre", visit.get("self_description") or "")
@@ -296,6 +322,10 @@ def main() -> None:
             "city_addresses": counts["addresses"]["in_fence"] if counts.get("addresses") else None,
         },
         "visit": visit,
+        "hours": [dict(h, open=parse_band(h["when"])[0],
+                       close=parse_band(h["when"])[1],
+                       days=parse_band(h["when"])[2])
+                  for h in visit.get("hours", [])],
         "acres": {
             "district": acres,
             "market_says": market_acres,
