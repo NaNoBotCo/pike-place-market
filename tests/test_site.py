@@ -84,7 +84,9 @@ class Links(unittest.TestCase):
         bad = []
         for p in PAGES:
             base = p.parent
-            for href in re.findall(r'href="([^"#?]+)"', p.read_text()):
+            # an href built inside a popup template is a string, not a link
+            body = re.sub(r"(?is)<script[^>]*>.*?</script>", " ", p.read_text())
+            for href in re.findall(r'href="([^"#?]+)"', body):
                 if href.startswith(("http", "mailto:", "//", "/")):
                     continue
                 t = (base / href).resolve()

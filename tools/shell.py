@@ -443,8 +443,8 @@ function j(n){return fetch(D+n).then(function(r){return r.json()})}
 
 map.on('load',function(){
  Promise.all(['ground.geojson','buildings.geojson','fence.geojson','vendors.geojson',
-  'near.geojson','osm.geojson','extras.geojson'].map(j)).then(function(d){
-  var ground=d[0],blds=d[1],fence=d[2],vend=d[3],near=d[4],osm=d[5],extra=d[6];
+  'near.geojson','osm.geojson','extras.geojson','roster.geojson'].map(j)).then(function(d){
+  var ground=d[0],blds=d[1],fence=d[2],vend=d[3],near=d[4],osm=d[5],extra=d[6],roster=d[7];
   map.addSource('ground',{type:'geojson',data:ground});
   map.addSource('blds',{type:'geojson',data:blds});
   map.addSource('fence',{type:'geojson',data:fence});
@@ -453,6 +453,7 @@ map.on('load',function(){
   map.addSource('near',{type:'geojson',data:near});
   map.addSource('osm',{type:'geojson',data:osm});
   map.addSource('extra',{type:'geojson',data:extra});
+  map.addSource('roster',{type:'geojson',data:roster});
 
   map.addLayer({id:'water',type:'fill',source:'ground',filter:['==',['get','kind'],'water'],
    paint:{'fill-color':'#16303f'}});
@@ -484,6 +485,10 @@ map.on('load',function(){
    paint:{'circle-radius':3.5,'circle-color':'#7a9c6a','circle-opacity':.9}});
   map.addLayer({id:'osm-dot',type:'circle',source:'osm',layout:{visibility:'none'},
    paint:{'circle-radius':4,'circle-color':'#f0bf4c','circle-opacity':.85}});
+  map.addLayer({id:'roster-dot',type:'circle',source:'roster',layout:{visibility:'none'},
+   paint:{'circle-radius':['interpolate',['linear'],['zoom'],15,3,19,7.5],
+    'circle-color':['case',['get','licence'],'#8f7bb5','#5fb3a1'],
+    'circle-stroke-width':1,'circle-stroke-color':'#120e0b'}});
   map.addLayer({id:'vend-dot',type:'circle',source:'vend',
    paint:{'circle-radius':['interpolate',['linear'],['zoom'],15,3.4,19,9],
     'circle-color':['interpolate',['linear'],['get','years'],0,'#f3e7c6',10,'#efc75c',
@@ -549,6 +554,14 @@ function wire(vend,near,osm){
   pop(e,'<h4>'+esc(p.name)+'</h4><p>'+esc(p.trade||'')+'</p><p class="small">'+
    esc(p.address)+'<br>'+esc(p.edge_m)+' m outside the line</p>');
  });
+ map.on('click','roster-dot',function(e){
+  var p=e.features[0].properties;
+  pop(e,'<h4>'+esc(p.name)+'</h4><p>'+esc(p.blurb||'')+'</p><p class="small">'+
+   esc(p.cats||'')+'<br>'+esc(p.address||'')+
+   (p.licence?'<br>holds a city licence too':'<br>no city licence at a market address')+
+   '</p><p class="small"><a href="'+esc(p.link)+'">the Market\'s page</a>'+
+   (p.site?' &middot; <a href="'+esc(p.site)+'" rel="nofollow">their own site</a>':'')+'</p>');
+ });
  map.on('click','osm-dot',function(e){
   var p=e.features[0].properties;
   pop(e,'<h4>'+esc(p.name)+'</h4><p class="small">'+esc(p.kind||'')+
@@ -558,7 +571,7 @@ function wire(vend,near,osm){
   var p=e.features[0].properties;
   pop(e,'<h4>'+esc(p.name)+'</h4><p class="small">'+esc(p.kind)+'</p>');
  });
- ['vend-dot','near-dot','osm-dot','extra-dot'].forEach(function(l){
+ ['vend-dot','near-dot','osm-dot','extra-dot','roster-dot'].forEach(function(l){
   map.on('mouseenter',l,function(){map.getCanvas().style.cursor='pointer'});
   map.on('mouseleave',l,function(){map.getCanvas().style.cursor=''});
  });

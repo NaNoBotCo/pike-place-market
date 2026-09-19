@@ -491,6 +491,9 @@
  "pda": {
   "vendors": 473,
   "categories": 75,
+  "with_address": 206,
+  "on_the_map": 202,
+  "with_own_link": 308,
   "matched_to_licence": 90,
   "unmatched": 383,
   "top_categories": [

@@ -1,0 +1,4248 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Baiana",
+    "blurb": "Baiana is a Brazilian restaurant in Pike Place Market owned and operated by Food Network champion Chef Emme Ribeiro Collins.",
+    "cats": "Eateries, Dine-In, International Cuisine, Where To Eat",
+    "address": "1505 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/baiana/",
+    "site": "https://BaianaKitchen.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Riccio’s Sausage Co.",
+    "blurb": "Built on generations of family tradition, Riccio’s Sausage Company brings a taste of Calabria to Pike Place Market.",
+    "cats": "Restaurants & Eateries, Eateries, Dine-In, Specialty Foods",
+    "address": "1511 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/riccios-sausage-co/",
+    "site": "https://Ricciosco.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "Jacobs Agro",
+    "blurb": "Jacobs Agro is a highstall at Pike Place Market offering chemical-free fruits, vegetables, eggs, and seasonal plant starts sourced from Washington farms.",
+    "cats": "Fresh Produce, Specialty Foods",
+    "address": "1431 1st Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/jacobs-agro/",
+    "site": "https://JacobsAgro.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342335,
+     47.609944
+    ]
+   },
+   "properties": {
+    "name": "Stoll & Heart",
+    "blurb": "Stoll & Heart is a boutique jewelry store at Pike Place Market, featuring a mix of handcrafted jewelry by owner Andrea Stoll alongside thoughtfully curated pieces.",
+    "cats": "Shopping, Apparel, Jewelry",
+    "address": "1908 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/stoll-heart/",
+    "site": "https://StollAndHeart.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340523,
+     47.608955
+    ]
+   },
+   "properties": {
+    "name": "Mutual Arts Collective",
+    "blurb": "Mutual Arts Collective (MAC) is a multi-use event and gallery space with a commitment to showcasing and selling work by artists who are impacted by structural inequities and systemic barriers.",
+    "cats": "Services",
+    "address": "94 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/mutual-arts-collective/",
+    "site": "https://MutualArtsCollective.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "Golesh Architecture",
+    "blurb": "Being in Pike Place Market reminds Golesh Architecture of the richness of artesian craft and the potential for architecture to connect the human experience.",
+    "cats": "Architect, Services",
+    "address": "93 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/golesh-architecture/",
+    "site": "https://Golesh.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Lonely Siren",
+    "blurb": "Lonely Siren is a Portuguese-inspired tapas and cocktail bar in Pike Place Market. Tucked alongside the Pike Street Hill Climb, Lonely Siren features a delicious small-bites menu.",
+    "cats": "Bars & Breweries, Dine-In, International Cuisine, Where To Eat",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/lonely-siren/",
+    "site": "http://lonelysiren.com/directions",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342506,
+     47.610139
+    ]
+   },
+   "properties": {
+    "name": "Hellenika Cultured Creamery",
+    "blurb": "Hellenika Cultured Creamery is a Greek creamery created by the founding family of Ellenos. Come savor their small-batch handcrafted cultured products.",
+    "cats": "Specialty Foods, Specialty Foods, Meat & Dairy, International Cuisine",
+    "address": "1920a Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/hellenika-cultured-creamery/",
+    "site": "https://Hellenika.us",
+    "licence": false,
+    "placed": "nearest",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340523,
+     47.608955
+    ]
+   },
+   "properties": {
+    "name": "Aditi Chai",
+    "blurb": "Pike Place Market's Aditi Chai is the original authentic Masala Chai company. Founded in 2018 using a hundred-year-old multi-generational family recipe.",
+    "cats": "Specialty Foods, Coffee, Tea & Spices, Specialty Foods, International Cuisine",
+    "address": "1500 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/aditi-chai/",
+    "site": "https://AditiChai.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342857,
+     47.609459
+    ]
+   },
+   "properties": {
+    "name": "Artisan & Prepared Foods Program Vendors",
+    "blurb": "The Artisan & Prepared Foods Program aims to help local independent businesses that do not have a storefront in Seattle.",
+    "cats": "Specialty Foods, International Cuisine, Where To Eat, Sweets",
+    "address": "1901 Western Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/artisan-prepared-foods-program-vendors/",
+    "site": "https://rainbowfreshfood.com/",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34135,
+     47.609325
+    ]
+   },
+   "properties": {
+    "name": "The Alabaster Owl",
+    "blurb": "The Alabaster Owl is your destination for wizard home décor and castle-worthy antiques. This Harry Potter-inspired shop is as secretive as Diagon Alley.",
+    "cats": "Antiques & Collectibles, Shopping, Home & Kitchen",
+    "address": "1532 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/the-alabaster-owl/",
+    "site": null,
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34135,
+     47.609325
+    ]
+   },
+   "properties": {
+    "name": "Lands of Origin",
+    "blurb": "Lands of Origin makes custom spices, rubs, simmer sauces, teas, and more from different regions of Africa. Stop by for a free sample of their African pastries.",
+    "cats": "Specialty Foods, Coffee, Tea & Spices, Eateries, Specialty Foods",
+    "address": "1532 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/lands-of-origin/",
+    "site": "https://www.landsoforigin.com/",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "BITE SOCIETY",
+    "blurb": "BITE SOCIETY offers curated modern foods & gift baskets. Find their tasty treats and savory eats in Tattoo-themed, reusable packaging.",
+    "cats": "Specialty Foods, Shopping, Specialty Foods, Sweets",
+    "address": "1519 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/bite-society/",
+    "site": "https://HelloBiteSociety.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Oceanside Nurseries",
+    "blurb": "Oceanside Nurseries brings its fresh produce, lavender products, and plant starts to Pike Place Market from Sequim, Washington.",
+    "cats": "Shopping, Fresh Produce, Specialty Foods",
+    "address": "1519 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/oceanside-nurseries/",
+    "site": "https://OceansideNurseries.com/",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Magpie Mouse Studios",
+    "blurb": "Magpie Mouse Studios is an enamel jewelry business started by Sarah Meranda. Each piece in her colorful and vibrant jewelry line is one-of-a-kind.",
+    "cats": "Apparel & Accessories, Shopping, Handmade, Jewelry",
+    "address": "1516 Western Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/magpie-mouse-studios/",
+    "site": "http://MagpieMouseStudios.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342335,
+     47.609944
+    ]
+   },
+   "properties": {
+    "name": "Market Rummage Hall",
+    "blurb": "Pike Place Market's Rummage Hall has returned! A business specializing in second-hand household items, clothing, and accessories in this space.",
+    "cats": "Shopping, Apparel, Home & Kitchen",
+    "address": "1906 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/market-rummage-hall/",
+    "site": null,
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340523,
+     47.608955
+    ]
+   },
+   "properties": {
+    "name": "The Rabbit Box",
+    "blurb": "The Rabbit Box theatre is a performance and events space complete with a restaurant & bar in Seattle's Historic Pike Place Market.",
+    "cats": "Bars & Breweries, Where To Eat, Entertainment & Attractions",
+    "address": "94 Pike Street Unit 11",
+    "link": "https://www.pikeplacemarket.org/vendor/the-rabbit-box/",
+    "site": null,
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "Pike Place Market Guest Vendor",
+    "blurb": "The Guest Vendor Program at Pike Place Market offers a dynamic shopping experience featuring a rotating selection of small, local businesses.",
+    "cats": "Shopping, Home & Kitchen, Jewelry",
+    "address": "1435 1st Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/pike-place-market-guest-vendor/",
+    "site": "http://jordanjeanceramics.etsy.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Balcony Barber Shop",
+    "blurb": "Need a haircut, buzz cut or beard trim? Balcony Barber Shop on Pike Place Market's Mezzanine Level is open 7 days a week. Barber Wendell has decades of experience cutting both men and women. He offered discounts for seni",
+    "cats": "Barber, Services",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/balcony-barber-shop/",
+    "site": null,
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "Leolo Handmade Shoes and Leather Goods",
+    "blurb": "Our handmade shoes are designed, created, and tailored for you... a fully bespoke process. Find us in the Economy Atrium in Pike Place Market.",
+    "cats": "Apparel & Accessories, Shopping, Apparel, Handmade",
+    "address": "93 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/leolo-handmade-shoes-and-leather-goods/",
+    "site": "https://www.LeoloShoes.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Lee Family Farm",
+    "blurb": "Lee Family Farm is a forty-acre mixed vegetable, flower, and berry farm outside Kent, Washington. The Lee Family has been farming for over 15 years in the Kent Valley, slowly expanding their land base and growing their b",
+    "cats": "Fresh Produce, Fruit, Specialty Foods, Seasonal Flowers",
+    "address": "1509 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/lee-family-farm/",
+    "site": "https://LeeFamilyFarm.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Chicken Valley",
+    "blurb": "",
+    "cats": "Where To Eat, Takeout, Independent Shops",
+    "address": "1507 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/chicken-valley/",
+    "site": null,
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342506,
+     47.610139
+    ]
+   },
+   "properties": {
+    "name": "Seattle Dumpling Co.",
+    "blurb": "Seattle Dumpling Co. is a small dumpling and Asian food shop on the north end of Pike Place Market.",
+    "cats": "Eateries, International Cuisine, Where To Eat, Takeout",
+    "address": "1916 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/seattle-dumpling-co/",
+    "site": "https://postmates.com/store/seattle-dumpling-co/NcfyDnVNWP-Zw45eRROPKA",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342506,
+     47.610139
+    ]
+   },
+   "properties": {
+    "name": "Robert Wagner Architects Planners",
+    "blurb": "Wagner Architects and Planners is an architectural and planning office located in Seattle's Pike Place Market.",
+    "cats": "Architect, Services, Independent Shops",
+    "address": "1916 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/robert-wagner-architects-planners/",
+    "site": "http://WagnerArchitects.com/index.html",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340572,
+     47.60819
+    ]
+   },
+   "properties": {
+    "name": "Freya Bakery & Cafe",
+    "blurb": "Named after the Norwegian Goddess of love, Freya Bakery & Café provides daily baked pastries, bread, and specialty coffee drinks.",
+    "cats": "Restaurants & Eateries, Specialty Foods, Bakery & Café, Coffee, Tea & Spices",
+    "address": "1426 Western Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/freya-bakery-cafe/",
+    "site": "https://www.FreyaBakery.com",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "HistoryLink",
+    "blurb": "HistoryLink’s tour explores the nine acres that comprise Pike Place Market with an eye on its architecture.",
+    "cats": "Tours, Services",
+    "address": "93 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/historylink/",
+    "site": "https://historylink.tours/tour/pike-place-market-architecture/",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340523,
+     47.608955
+    ]
+   },
+   "properties": {
+    "name": "roJo Juice",
+    "blurb": "Located on the bustling corner of the Market’s front entrance is the bright and jubilant storefront of rōJō Juice, pouring crafty natural beverages.",
+    "cats": "Fresh Goods, Shopping, Fresh Produce, Specialty Foods",
+    "address": "1500 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/rojo-juice/",
+    "site": null,
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "Bagelbop",
+    "blurb": "Bagelbop serves Seattle's best breakfast sandwiches starting with kettle-boiled bagels from Seattle Bagel Bakery. Try a breakfast bagel sandwich with ham, sausage, bacon, smoked salmon lox, crab melts, Korean beef bulgog",
+    "cats": "Restaurants & Eateries, Bakery & Café, Eateries, Where To Eat",
+    "address": "93 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/bagelbop/",
+    "site": "https://Bagelbop.com",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "Atrium Kitchen — Market to Table Cooking Tour",
+    "blurb": "The Market to Table tour and cooking class is a unique way to explore and fully experience Pike Place Market - perfect for locals and out-of-town visitors alike.",
+    "cats": "Experiences, Tours, Entertainment & Attractions, Independent Shops",
+    "address": "93 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/atrium-kitchen-market-to-table-cooking-tour/",
+    "site": "https://AtriumKitchenpikeplace.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Lowell’s Restaurant & Bar",
+    "blurb": "Lowell’s Restaurant & Bar has been serving the public for close to 100 years with three floors of water view seating and fresh seafood daily.",
+    "cats": "Restaurants & Eateries, Dine-In, Where To Eat, Restaurants",
+    "address": "1519 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/lowells-restaurant-bar/",
+    "site": "https://www.eatatlowells.com/",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Mr. D’s Greek Delicacies",
+    "blurb": "For over 40 years Mr. D’s Greek Delicacies has been the number one spot in Seattle for Greek food.",
+    "cats": "Restaurants & Eateries, Eateries, International Cuisine, Where To Eat",
+    "address": "1505 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/mr-ds-greek-delicacies/",
+    "site": "https://MrDsGreek.com/",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342335,
+     47.609944
+    ]
+   },
+   "properties": {
+    "name": "Friends of Carmela",
+    "blurb": "Friends of Carmela is a family-owned deli in Pike Place Market serving sandwiches, hot lunch, salads, sweets, and much more.",
+    "cats": "Restaurants & Eateries, Bakery & Café, Eateries, Dine-In",
+    "address": "1904 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/friends-of-carmela/",
+    "site": "https://FriendsOfCarmela.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340792,
+     47.60918
+    ]
+   },
+   "properties": {
+    "name": "Metsker Maps",
+    "blurb": "At Metsker Maps, we are proud to have map enthusiasts, explorers, and little ones call us their favorite shop! Metsker Maps offers a wide variety of maps from travel & recreational guide books to globes, art, and even ma",
+    "cats": "Shopping, Shopping, Books, Music & Toys, Independent Shops",
+    "address": "1511 1st Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/metsker-maps/",
+    "site": "https://metskermaps.com/products/puget-sound-san-juan-islands-chart-by-sobay?_pos=1&_sid=89a65ce7e&_ss=r",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340815,
+     47.608328
+    ]
+   },
+   "properties": {
+    "name": "Maximilien",
+    "blurb": "The food is as spectacular as the scenery, which has made Maximilien one of Seattle's best intimate dining settings since 1977.",
+    "cats": "Dine-In, Where To Eat, Outdoor Seating, Restaurants",
+    "address": "81a Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/maximilien/",
+    "site": "https://www.MaximilienRestaurant.com/",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Mick’s Peppourri",
+    "blurb": "In the early 80s Mick's Pepper Jelly, started supplying restaurants all over the country with their award winning pepper jellies.",
+    "cats": "Shopping, Specialty Foods, Independent Shops",
+    "address": "1531 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/micks-peppourri/",
+    "site": "https://www.PepperJelly.com/",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340523,
+     47.608955
+    ]
+   },
+   "properties": {
+    "name": "Matt’s in the Market",
+    "blurb": "Every day, Executive Chef Shane Ryan creates a menu based on the best ingredients the Market currently has to offer, selectively augmented by the choicest fare from around the Pacific Northwest and the world, with unswer",
+    "cats": "Dine-In, Where To Eat, Restaurants, Independent Shops",
+    "address": "94 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/matts-in-the-market/",
+    "site": "https://MattsInTheMarket.com/",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34135,
+     47.609325
+    ]
+   },
+   "properties": {
+    "name": "Mee Sum Pastry",
+    "blurb": "Mee Sum Pastry has been feeding passerby the best of Chinese dim sum since the 1980s.",
+    "cats": "Bakery & Café, Eateries, International Cuisine, Where To Eat",
+    "address": "1530 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/mee-sum-pastry/",
+    "site": "https://MeeSum.com/",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Giant Shoe Museum",
+    "blurb": "Resembling an entrance to a circus sideshow, the Giant Shoe Museum is a flamboyant presence at Pike Place Market. While it is essentially a single exhibit wall, it occupies a sizable chunk outside Old Seattle Paperworks.",
+    "cats": "Entertainment & Attractions",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/giant-shoe-museum/",
+    "site": null,
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340815,
+     47.608328
+    ]
+   },
+   "properties": {
+    "name": "Secret Garden",
+    "blurb": "The Pike Place Secret Garden is a thriving community-led garden and a quiet place to relax, rejuvenate and learn! The garden is run by Market residents and staff from The Market Commons. All produce grown is donated to t",
+    "cats": "Entertainment & Attractions",
+    "address": "81a Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/secret-garden/",
+    "site": null,
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "The Gum Wall",
+    "blurb": "Down an unassuming alleyway in Pike Place Market is a hidden work of art dubbed The Gum Wall. This unexpected and colorful display is an intriguing representation of Seattle’s unique charm and character.",
+    "cats": "Entertainment & Attractions",
+    "address": "1428 Post Alley",
+    "link": "https://www.pikeplacemarket.org/vendor/the-gum-wall/",
+    "site": null,
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341069,
+     47.60947
+    ]
+   },
+   "properties": {
+    "name": "The Dressing Room: Bistro and Bar by Can Can",
+    "blurb": "After opening in 2021, The Dressing Room has quickly established itself as a Seattle must-have for brunch, happy hour, cocktails, and evening dining at Pike Place Market.",
+    "cats": "Bars & Breweries, Dine-In, Where To Eat, Outdoor Seating",
+    "address": "1530 1/2 Post Alley",
+    "link": "https://www.pikeplacemarket.org/vendor/the-dressing-room-bistro-and-bar-by-can-can/",
+    "site": "http://CanCansDressingRoom.com",
+    "licence": false,
+    "placed": "nearest",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342506,
+     47.610139
+    ]
+   },
+   "properties": {
+    "name": "Weird Woods",
+    "blurb": "Kris Sacksteder of Weird Woods sculpts boxes from a single piece of wood, often rare, exotic, or special just for its grain and texture. He then sanded each wooden box to the smoothest finish, oiled, waxed and polished t",
+    "cats": "Shopping, Art & Décor, Crafts Market, Antiques & Collectibles",
+    "address": "1916 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/weird-woods/",
+    "site": "http://weirdwoods.com",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Yarn Dragon",
+    "blurb": "Formerly known as MJ Yarns, Yarn Dragon is the creative venture of Jonathan Berner. He began his knitting journey in 2008 with the intention of creating his own clothing to contribute to environmental sustainability.",
+    "cats": "Apparel & Accessories, Shopping, Apparel, Handmade",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/yarn-dragon/",
+    "site": "https://shop.mjyarns.com/shop/",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342506,
+     47.610139
+    ]
+   },
+   "properties": {
+    "name": "The Souk",
+    "blurb": "The Souk owned by Songul Albayrak is a Middle-Eastern specialty food and gift shop near the First Starbucks along Pike Place.",
+    "cats": "Specialty Foods, Coffee, Tea & Spices, Specialty Foods, Independent Shops",
+    "address": "1916 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/the-souk/",
+    "site": null,
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340523,
+     47.608955
+    ]
+   },
+   "properties": {
+    "name": "Omart’s Lunch Counter",
+    "blurb": "This three-generation, family-owned business operates an 18-seat lunch counter serving Filipino cuisine in the back of its Asian grocery store, which earned a prestigious 2020 James Beard Foundation \"America's Classics\" ",
+    "cats": "Eateries, International Cuisine, Where To Eat, Takeout",
+    "address": "1506 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/omarts-lunch-counter/",
+    "site": "https://www.eater.com/2019/12/13/21009838/no-passport-required-seattle-filipino-marcus-samuelsson-pbs?_gl=1*1bdrlr5*",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342131,
+     47.608979
+    ]
+   },
+   "properties": {
+    "name": "Providence Heritage House at the Market",
+    "blurb": "Heritage House is an assisted living facility that offers private apartments, nursing services, and a rich quality of life to seniors in the heart of our vibrant Marketplace. Staffed 24 hours a day, with nurses on site 1",
+    "cats": "Social Services",
+    "address": "1533 Western Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/providence-heritage-house-at-the-market/",
+    "site": "https://Providence.org",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342857,
+     47.609459
+    ]
+   },
+   "properties": {
+    "name": "The Market Commons",
+    "blurb": "The Market Commons is a welcoming resource center that offers one-on-one support to navigate community resources and provides an array of community activities to bring neighbors together in Pike Place Market.",
+    "cats": "Social Services",
+    "address": "1901 Western Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/the-market-commons/",
+    "site": "http://TheMarketCommons.org",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342857,
+     47.609459
+    ]
+   },
+   "properties": {
+    "name": "Billie the Piggy Bank",
+    "blurb": "Billie the Piggy Bank joined her cousin Rachel at the Market in 2011. She was the mascot for the Pike Place Market Foundation’s Pike Up! campaign, which raised more than $9 million to expand Pike Place Market, creating t",
+    "cats": "Entertainment & Attractions",
+    "address": "1901 Western Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/billie-the-piggy-bank/",
+    "site": null,
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "Rachel the Piggy Bank",
+    "blurb": "Rachel the Piggy Bank is the mascot of Pike Place Market and one of our best public fundraisers for The Market Foundation.",
+    "cats": "Entertainment & Attractions",
+    "address": "93 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/rachel-the-piggy-bank/",
+    "site": "https://PikePlaceMarketFoundation.org",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342649,
+     47.610776
+    ]
+   },
+   "properties": {
+    "name": "Virginia Inn",
+    "blurb": "Located in Seattle’s Historic Pike Place Market, the Virginia Inn has been here serving Seattle fine food and drink since 1903.",
+    "cats": "Dine-In, Where To Eat, Outdoor Seating, Restaurants",
+    "address": "1937 1st Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/virginia-inn/",
+    "site": "https://VirginiaInnSeattle.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340815,
+     47.608328
+    ]
+   },
+   "properties": {
+    "name": "Visit Seattle Information Booth",
+    "blurb": "Need help locating a Market business? Or maybe you want some advice on where to start your Market Day. Stop by the Market Information Booth run by volunteers from Visit Seattle.",
+    "cats": "Services",
+    "address": "85 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/visit-seattle-information-booth/",
+    "site": "https://visitseattle.org/",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342506,
+     47.610139
+    ]
+   },
+   "properties": {
+    "name": "Wanderers’ Mail Service",
+    "blurb": "Wanderers’ Mail Services was established in 1909 to help the men of the sea and prospectors wandering the gold fields have a safe and confidential place to receive their mail.",
+    "cats": "Services, Independent Shops",
+    "address": "1916 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/wanderers-mail-service/",
+    "site": "http://WanderersMailServices.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342506,
+     47.610139
+    ]
+   },
+   "properties": {
+    "name": "Emmett Watson’s Oyster Bar",
+    "blurb": "Emmett Watson and Sam Bryant opened the city's first Oyster bar in 1979. It is cozy and casual spot with fresh oysters, fish and chips with plenty local beers on tap.",
+    "cats": "Dine-In, Where To Eat, Outdoor Seating, Restaurants",
+    "address": "1916 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/watsons-oyster-bar/",
+    "site": null,
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340523,
+     47.608955
+    ]
+   },
+   "properties": {
+    "name": "Wild Fish Poke",
+    "blurb": "Wild Fish Poke has been serving healthy and delicious Hawaiian-Japanese-style poke bowls in Pike Place Market since December 2017.",
+    "cats": "Eateries, Dine-In, International Cuisine, Where To Eat",
+    "address": "94 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/wild-fish-poke/",
+    "site": "http://WildFishPoke.com",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Woodring Northwest",
+    "blurb": "Since 1985, Woodring Northwest has made the finest specialty preserves, marmalades, chutneys, and pickles. This family-owned and operated company sells daily at Pike Place Market and runs their farm stand in Monroe, Wa, ",
+    "cats": "Specialty Foods, Shopping, Specialty Foods, Market Gift Card",
+    "address": "1529 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/woodring-northwest/",
+    "site": "https://woodringnorthwest.com/",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "Studio Solstone",
+    "blurb": "For 30 years, Michael and Sarah Yaeger have been producing \"Watercolors Fresh Daily\" at Studio Solstone.",
+    "cats": "Shopping, Art & Décor, Art & Photography, Shopping",
+    "address": "93 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/studio-solstone/",
+    "site": "http://www.SeattleWatercolors.com",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Sunny Honey Company",
+    "blurb": "Sunny Honey is a small family-owned company specializing in local, raw, unfiltered honey and beeswax goods. Started as part of the Pike Place Market Farm Program in 2010, Sunny Honey Co. is now a permanent part of the Ma",
+    "cats": "Specialty Foods, Home, Bath & Kitchen, Shopping, Specialty Foods",
+    "address": "89 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/sunny-honey-company/",
+    "site": "https://SunnyHoneyCo.com",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Sunshine Jewelry",
+    "blurb": "For 20 years, Sunshine Jewelry proudly provided beautiful jewelry to Seattle residents and visitors alike.",
+    "cats": "Shopping, Jewelry, Independent Shops",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/sunshine-jewelry/",
+    "site": "https://SunshineJewelrySeattle.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Sweetie’s Candy",
+    "blurb": "Sweetie's Candy may be tiny but carries over 200 different products, including gums, liquid candy, gummy candy, hard candy, mints, PEZ, chocolate, nostalgic candies, and, of course, gifts for all your sweeties!",
+    "cats": "Shopping, Specialty Foods, Sweets, Independent Shops",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/sweeties-candy/",
+    "site": null,
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342498,
+     47.610642
+    ]
+   },
+   "properties": {
+    "name": "Taproom at Pike Place",
+    "blurb": "Since 2018, the Taproom at Pike Place has been serving up a rotating selection of local craft beer, wine, and cider, alongside delicious food made from scratch daily.",
+    "cats": "Bars & Breweries, Dine-In, Where To Eat, Restaurants",
+    "address": "1925 1st Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/taproom-at-pike-place/",
+    "site": "https://TaproomAtPikePlace.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "Tenzing Momo",
+    "blurb": "Tenzing Momo is the West Coast’s oldest herb store with more than 400 medicinal herbs and 100 fragrances and essential oils.",
+    "cats": "Shopping, Home, Bath & Kitchen, Specialty Foods, Independent Shops",
+    "address": "93 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/tenzing-momo/",
+    "site": "https://www.TenzingMomo.com",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "The Athenian Seafood Restaurant and Bar",
+    "blurb": "Since 1909, the Athenian Seafood Restaurant and Bar has served delicious food and beverages in one of Seattle's most iconic restaurant settings.",
+    "cats": "Bars & Breweries, Dine-In, Where To Eat, Restaurants",
+    "address": "1517 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/the-athenian-seafood-restaurant-and-bar/",
+    "site": "http://www.AthenianSeattle.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342506,
+     47.610139
+    ]
+   },
+   "properties": {
+    "name": "The First Starbucks",
+    "blurb": "The story of Starbucks begins in 1971 along the cobblestone streets of Seattle’s historic Pike Place Market.",
+    "cats": "Where To Eat, Entertainment & Attractions, Independent Shops",
+    "address": "1912 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/the-first-starbucks/",
+    "site": "https://www.Starbucks.com/about-us/",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340792,
+     47.60918
+    ]
+   },
+   "properties": {
+    "name": "Three Girls Bakery",
+    "blurb": "Selling savory croissants, delicious pastries, and freshly made bread -- Three Girls Bakery is a Pike Place Market staple in more ways than one.",
+    "cats": "Bakery & Café, Specialty Foods, Where To Eat, Sweets",
+    "address": "1514 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/three-girls-bakery/",
+    "site": "https://ThreeGirlsBakery.com",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340792,
+     47.60918
+    ]
+   },
+   "properties": {
+    "name": "Three Girls Bakery’s Lunch Counter",
+    "blurb": "The Three Girls Bakery Lunch Counter serves a wide variety of soups and sandwiches made to order. Don't forget to try their Famous Meatloaf sandwich. They've been making Zelda's meatloaf recipe for over 30 years and it's",
+    "cats": "Eateries, Where To Eat, Takeout, Independent Shops",
+    "address": "1514 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/three-girls-bakery-lunch-counter/",
+    "site": "https://ThreeGirlsBakery.com",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342335,
+     47.609944
+    ]
+   },
+   "properties": {
+    "name": "Totem Smokehouse",
+    "blurb": "Totem Smokehouse is a family-owned business that has been hand crafting wild smoked salmon for over 40 years in Pike Place Market.",
+    "cats": "Shopping, Specialty Foods, Meat & Dairy, Independent Shops",
+    "address": "1906 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/totem-smokehouse/",
+    "site": "https://www.TotemSmokehouse.com/",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Truffle Queen",
+    "blurb": "Whether you’re a Seattle visitor or a local, Truffle Queen is a must visit destination for wine lovers and foodies. They provide unique and delicious specialty foods and wines to customers online and in-store in Pike Pla",
+    "cats": "Specialty Foods, Bars & Breweries, Shopping, Specialty Foods",
+    "address": "1509 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/truffle-queen/",
+    "site": "https://TruffleQueen.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340572,
+     47.60819
+    ]
+   },
+   "properties": {
+    "name": "Ugly Baby",
+    "blurb": "Ugly Baby follows a mantra, \"Unapologetic art for immature adults\". We are Rosalie & Douglas Gale: inventors of Shower Art - waterproof art you can hang in your shower with a suction cup.",
+    "cats": "Shopping, Apparel & Accessories, Art & Décor, Art & Photography",
+    "address": "1430 Western Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/ugly-baby/",
+    "site": "https://UglyBaby.Shop",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "Umai Sushi & Teriyaki",
+    "blurb": "Umai Sushi & Teriyaki focuses on various styles of takeout teriyaki and sushi.",
+    "cats": "Eateries, International Cuisine, Where To Eat, Takeout",
+    "address": "91 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/umai-sushi-teriyaki/",
+    "site": null,
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "Unexpected Productions Improv",
+    "blurb": "For over four decades, Unexpected Productions has been the cornerstone of Seattle's improv scene, blending laughter, creativity, and community.",
+    "cats": "Entertainment & Attractions, Independent Shops",
+    "address": "1428 Post Alley",
+    "link": "https://www.pikeplacemarket.org/vendor/unexpected-productions/",
+    "site": null,
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342335,
+     47.609944
+    ]
+   },
+   "properties": {
+    "name": "Urara",
+    "blurb": "Urara is an authentic Japanese food restaurant dedicated to serve locals and tourists the highest quality foods and services at Pike Place Market.",
+    "cats": "Eateries, Dine-In, International Cuisine, Where To Eat",
+    "address": "82 Stewart St",
+    "link": "https://www.pikeplacemarket.org/vendor/urara/",
+    "site": "https://postmates.com/store/urara/cYP8XJQ9SZiOaQ9v3UjG3w?utm_source=AdWords_NonBrand&utm_campaign=CM2086755-search-google-nonbrand_1_10_US-Seattle_pm-e_web_acq_cpc_en_DSA_Exact__dsa-69773575705_513403406814_124236404527_b_c&campaign_id=12699269217&adg_id=124236404527&fi_id=&match=b&net=g&dev=c&dev_m=&ad_id=513403406814&cre=513403406814&kwid=dsa-69773575705&kw=&placement=&tar=&gclid=CjwKCAjwhOyJBhA4EiwAEcJdcdYu7te8UcUW76zTf1tEiEwz1LzoTriLuWrqMtBtAKUF-lUHZSB2RhoCjA0QAvD_BwE&gclsrc=aw.ds",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Ventures Marketplace",
+    "blurb": "The Ventures Marketplace is an eclectic gift shop in the heart of Pike Place Market featuring jewelry, art, body care products, housewares, food pantry, and more.",
+    "cats": "Shopping, Home, Bath & Kitchen, Apparel & Accessories, Art & Décor",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/ventures-marketplace/",
+    "site": "https://VenturesMarketplace.com",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Ruby’s Seattle Gift Gallery",
+    "blurb": "Ruby's Seattle Gift Gallery offers customized jewelry and repairs. We specialize in diamonds and precious stones. Find Ruby's Seattle Gift Gallery on Level 5 of Pike Place Market’s DownUnder across from Sound View Café.",
+    "cats": "Shopping, Jewelry, Independent Shops",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/rubys-seattle-gift-gallery/",
+    "site": null,
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "Saffron Spice",
+    "blurb": "Saffron Spice seeks to take you on a culinary discovery of Indian food. If you are new to Indian food, try out the usual favorites like Chicken Tikka Masala and Chana Masala.",
+    "cats": "Restaurants & Eateries, Eateries, International Cuisine, Where To Eat",
+    "address": "93 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/saffron-spice/",
+    "site": "https://SaffronSpiceSeattle.com",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342506,
+     47.610139
+    ]
+   },
+   "properties": {
+    "name": "Seattle Cutlery",
+    "blurb": "Seattle Cutlery began in 1978 as a dream to bring better knives to the city of Seattle. They offer high-end specialty knives for culinary use and the outdoors, plus sharpening.",
+    "cats": "Home, Bath & Kitchen, Shopping, Home & Kitchen, Independent Shops",
+    "address": "1920 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/seattle-cutlery/",
+    "site": "https://www.SeaCut.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Seattle Hats",
+    "blurb": "Seattle Hats was established in Seattle in 1998 by local artist Jo Kaseter, whose line of hand-crocheted hats is perfect for newborns to adults.",
+    "cats": "Shopping, Apparel, Books, Music & Toys",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/seattle-hats/",
+    "site": "https://SeattleHats.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Seattle Messenger Cooperative",
+    "blurb": "Opened in 2015, Seattle Messenger Cooperative is a worker-owned and -operated messenger company servicing Seattle, the greater Western Washington area, and beyond.",
+    "cats": "Services, Independent Shops",
+    "address": "1522 Western Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/seattle-messenger-cooperative/",
+    "site": "https://www.SeattleMessengerCooperative.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341069,
+     47.60947
+    ]
+   },
+   "properties": {
+    "name": "Pizza & Pasta Bar",
+    "blurb": "Recently remodeled, Pizza & Pasta Bar offers authentic Italian cuisine in Seattle’s iconic Pike Place Market.",
+    "cats": "Eateries, Dine-In, International Cuisine, Where To Eat",
+    "address": "1530 Post Alley",
+    "link": "https://www.pikeplacemarket.org/vendor/pizza-and-pasta-bar/",
+    "site": "https://www.PizzaAndPastaBar.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341069,
+     47.60947
+    ]
+   },
+   "properties": {
+    "name": "Sergio’s Barber Shop",
+    "blurb": "Mix it up with a haircut at Seattle's Sergio's Barber Shop. Walk-ins are welcome at this shop in Post Alley. The barbers at Sergio’s Barber Shop will get you in and out in a flash, so head on over during your lunch break",
+    "cats": "Barber, Services, Independent Shops",
+    "address": "1530 Post Alley",
+    "link": "https://www.pikeplacemarket.org/vendor/sergios-barber-shop/",
+    "site": null,
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340523,
+     47.608955
+    ]
+   },
+   "properties": {
+    "name": "Shy Giant",
+    "blurb": "Shy Giant, the first frozen yogurt business in Seattle, was opened in 1976.",
+    "cats": "Eateries, Specialty Foods, Where To Eat, Sweets",
+    "address": "1500 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/shy-giant/",
+    "site": null,
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340523,
+     47.608955
+    ]
+   },
+   "properties": {
+    "name": "Simply the Best",
+    "blurb": "The story of Simply The Best began more than 30 years ago when Paul Sweat designed and built an alternative wood fueled dehydrator at his Omak orchard.",
+    "cats": "Shopping, Specialty Foods, Independent Shops",
+    "address": "88 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/simply-the-best/",
+    "site": "https://eSimplyTheBest.net",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341069,
+     47.60947
+    ]
+   },
+   "properties": {
+    "name": "Sisters European Cafe",
+    "blurb": "Sisters European Cafe specializes in European-inspired grilled sandwiches, soups and salads.",
+    "cats": "Eateries, Dine-In, International Cuisine, Where To Eat",
+    "address": "1530 Post Alley",
+    "link": "https://www.pikeplacemarket.org/vendor/sisters-european-cafe/",
+    "site": "https://SistersEuroCafe.com",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341069,
+     47.60947
+    ]
+   },
+   "properties": {
+    "name": "So Much Yarn",
+    "blurb": "So Much Yarn is a local yarn shop offering beautiful yarns, expert instruction, and a friendly knitting and crochet community in the heart of downtown Seattle in Pike.",
+    "cats": "Shopping, Independent Shops",
+    "address": "1525 1st Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/so-much-yarn/",
+    "site": "https://SoMuchYarn.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Solstice Designs by Locals",
+    "blurb": "Solstice Designs by Locals is a bright shop located in Pike Place Market that promotes local artists and is the permanent home of Amy Harris’ beautiful handcrafted jewelry.",
+    "cats": "Shopping, Apparel & Accessories, Shopping, Jewelry",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/solstice-designs-by-locals/",
+    "site": null,
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Sosio’s Produce",
+    "blurb": "Sosio’s Fruit and Produce is the exclusive home of \"Oh My God\" Fruit. Peaches, pears, and melons that are oh so big and juicy get this exclusive label. You'll know it when you have tried a sample of these elite fruits.",
+    "cats": "Specialty Foods, Fresh Goods, Fresh Produce, Specialty Foods",
+    "address": "1527 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/sosios-produce/",
+    "site": "https://SosiosProduce.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Sound View Cafe",
+    "blurb": "Sound View Café is a family eatery whose goal is to provide locally inspired dishes with fair prices coupled with a fantastic view of Puget Sound.",
+    "cats": "Dine-In, Where To Eat, Restaurants, Independent Shops",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/sound-view-cafe/",
+    "site": "https://SoundViewAtPike.com",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340523,
+     47.608955
+    ]
+   },
+   "properties": {
+    "name": "Storyville Coffee Company",
+    "blurb": "Storyville Coffee Company at Pike Place Market is their first retail coffee shop featuring a full espresso menu, fresh baked and handmade Storyville pastries, Storyville Hardware products, and plenty of space for the cus",
+    "cats": "Bakery & Café, Shopping, Independent Shops",
+    "address": "94 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/storyville-coffee-co/",
+    "site": "https://Storyville.com",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Pike Place Nutrition",
+    "blurb": "Located on the 4th floor of the market, Pike Place Nutrition has been serving downtown Seattle with quality natural supplements since 1990.",
+    "cats": "Shopping, Shopping, Healthy & Beauty, Independent Shops",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/pike-place-nutrition/",
+    "site": "https://pikeplacenutrition.com/collections/all",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "Pike Place Nuts",
+    "blurb": "Pike Place Nuts creates artisan nuts crafted in small batches following a Bavarian family recipe.",
+    "cats": "Specialty Foods, Shopping, Specialty Foods, Independent Shops",
+    "address": "97 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/pike-place-nuts/",
+    "site": "https://PikePlaceNuts.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Pipe Palace",
+    "blurb": "Established in 1969, Pipe Palace is the oldest, modern and traditional smoke shop in Downtown Seattle!",
+    "cats": "Shopping, Independent Shops",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/pike-place-pipes/",
+    "site": null,
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342506,
+     47.610139
+    ]
+   },
+   "properties": {
+    "name": "The Pink Door",
+    "blurb": "The Pink Door is a restaurant-cabaret where fun and delicious Italian food makes for a memorable experience.",
+    "cats": "Dine-In, International Cuisine, Where To Eat, Outdoor Seating",
+    "address": "1919 Post Alley",
+    "link": "https://www.pikeplacemarket.org/vendor/the-pink-door/",
+    "site": "https://www.ThePinkDoor.net",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342335,
+     47.609944
+    ]
+   },
+   "properties": {
+    "name": "Piroshky Piroshky",
+    "blurb": "Blending traditional recipes with PNW flavor, Piroshky Piroshky makes 32 different piroshkies daily, both savory and sweet.",
+    "cats": "Bakery & Café, Eateries, Where To Eat, Takeout",
+    "address": "1908 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/piroshky-piroshky/",
+    "site": "https://PiroshkyBakery.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340815,
+     47.608328
+    ]
+   },
+   "properties": {
+    "name": "Place Pigalle",
+    "blurb": "Place Pigalle is a historic restaurant that pairs locally sourced French fare & Puget Sound views.",
+    "cats": "Restaurants & Eateries, Bars & Breweries, Dine-In, International Cuisine",
+    "address": "81 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/place-pigalle/",
+    "site": "https://PlacePigalle-Seattle.com",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Polish Pottery Place",
+    "blurb": "Polish Pottery Place sells authentic Polish pottery made from the most renowned ceramics maker in the region: Ceramika Artystyczna.",
+    "cats": "Antiques & Collectibles, Shopping, Home & Kitchen, Independent Shops",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/polish-pottery-place/",
+    "site": "https://www.polishpotteryplace.com",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "At Random Productions",
+    "blurb": "At Random Productions is a Market stand offering t-shirts, tote bags, and aprons printed with zany graphics and Seattle cityscapes, as well as tie-dyed merchandise.",
+    "cats": "Shopping, Apparel, Independent Shops",
+    "address": "1501 Pike Place",
+    "link": "https://www.pikeplacemarket.org/vendor/productions-at-random/",
+    "site": "http://ShirtsForPerverts.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342498,
+     47.610642
+    ]
+   },
+   "properties": {
+    "name": "Neighborcare Health at Pike Place Market",
+    "blurb": "Neighborcare Health at Pike Place Market provides a range of primary care health services for adults regardless of income or insurance.",
+    "cats": "Social Services",
+    "address": "1930 Post Alley",
+    "link": "https://www.pikeplacemarket.org/vendor/neighborcare-health-at-pike-place-market/",
+    "site": "https://Neighborcare.org/clinics/neighborcare-health-pike-place-market",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340523,
+     47.608955
+    ]
+   },
+   "properties": {
+    "name": "The Cheese Box",
+    "blurb": "Longtime Pike Place Market workers are now the new owners of The Cheese Box. An independent, standalone cheese shop in the Corner Market building.",
+    "cats": "Fresh Goods, Specialty Foods, Meat & Dairy, Independent Shops",
+    "address": "1508 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/the-cheese-box/",
+    "site": "https://TheCheeseBox.Market",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340523,
+     47.608955
+    ]
+   },
+   "properties": {
+    "name": "Frank’s Quality Produce",
+    "blurb": "Frank’s Quality Produce is a family owned and operated fruit and vegetable stand in Pike Place Market that specializes in locally sourced produce.",
+    "cats": "Fresh Produce, Specialty Foods, Independent Shops",
+    "address": "1508 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/quality-produce/",
+    "site": "http://www.FranksProduce.net",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341069,
+     47.60947
+    ]
+   },
+   "properties": {
+    "name": "Rachel’s Ginger Beer",
+    "blurb": "Rachel's Ginger Beer is made in Seattle using fresh lemons, strong roots, organic cane sugar, and top-quality water.",
+    "cats": "Restaurants & Eateries, Eateries, Where To Eat, Takeout",
+    "address": "1530 Post Alley",
+    "link": "https://www.pikeplacemarket.org/vendor/rachels-ginger-beer/",
+    "site": "https://RachelsGingerBeer.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340523,
+     47.608955
+    ]
+   },
+   "properties": {
+    "name": "Radiator Whiskey",
+    "blurb": "Voted one of the best new bars by Seattle Magazine in 2013, Radiator Whiskey opened as an instant classic.",
+    "cats": "Bars & Breweries, Dine-In, Where To Eat, Restaurants",
+    "address": "94 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/radiator-whiskey/",
+    "site": "http://www.radiatorwhiskey.com/food/",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Rings-N-Things",
+    "blurb": "Rings N Things has been selling nice and unusual gifts and jewelry for someone, or yourself, at reasonable prices since 1974.",
+    "cats": "Shopping, Apparel & Accessories, Shopping, Jewelry",
+    "address": "87 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/rings-n-things/",
+    "site": null,
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Rotary Grocery",
+    "blurb": "Rotary Grocery is a full-service convenience store and offers a full line of grocery items.",
+    "cats": "Shopping, Shopping, Specialty Foods, Independent Shops",
+    "address": "1503b Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/rotary-grocery/",
+    "site": null,
+    "licence": true,
+    "placed": "nearest",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "Pasta Casalinga",
+    "blurb": "Pasta Casalinga serves up authentically artisanal pasta dishes in the heart of Pike Place Market. Owner Michela brings her Italian roots and Northwestern experiences together to produce rustic, homestyle cuisine to feed ",
+    "cats": "Restaurants & Eateries, Eateries, Dine-In, International Cuisine",
+    "address": "93 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/pasta-casalinga/",
+    "site": "https://PastaCasalingaSeattle.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342131,
+     47.608979
+    ]
+   },
+   "properties": {
+    "name": "Pike Market Food Bank",
+    "blurb": "The Pike Market Food Bank provides free groceries to downtown Seattle residents experiencing food insecurity.",
+    "cats": "Social Services",
+    "address": "1531 Western Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/pike-market-food-bank/",
+    "site": "https://www.pmsc-fb.org/",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Market Street Bags",
+    "blurb": "Market Street Bags is a luggage store in Pike Place Market selling suitcases, backpacks, shoulder bags, duffle bags, casual luggage, business cases, utility bags, travel accessories, and more.",
+    "cats": "Shopping, Apparel, Independent Shops",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/market-street-bags/",
+    "site": null,
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Pike Place Bakery",
+    "blurb": "Pike Place Bakery is a family-owned market stand selling donuts, bread, retail & custom cakes, and pastries to customers since 1983.",
+    "cats": "Bakery & Café, Eateries, Specialty Foods, Where To Eat",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/pike-place-bakery/",
+    "site": null,
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340523,
+     47.608955
+    ]
+   },
+   "properties": {
+    "name": "Pike Place Bar & Grill",
+    "blurb": "Pike Place Bar & Grill is a great place to have some sea food and wine, try crab cake and enjoy a wonderful view of the market.",
+    "cats": "Bars & Breweries, Dine-In, Where To Eat, Restaurants",
+    "address": "90 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/pike-place-bar-grill/",
+    "site": "https://www.EatAtPikePlace.com/",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Pike Place Chinese Cuisine",
+    "blurb": "Pike Place Chinese Cuisine is a cozy informal eatery in Pike Place Market that offers a roster of Chinese standards in a no-frills setting.",
+    "cats": "Eateries, Dine-In, International Cuisine, Where To Eat",
+    "address": "1533 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/pike-place-chinese-cuisine/",
+    "site": null,
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341069,
+     47.60947
+    ]
+   },
+   "properties": {
+    "name": "Pike Place Chowder",
+    "blurb": "Pike Place Chowder is Seattle’s iconic destination for award-winning chowder, nestled in the heart of Pike Place Market.",
+    "cats": "Restaurants & Eateries, Eateries, Dine-In, Where To Eat",
+    "address": "1530 Post Alley",
+    "link": "https://www.pikeplacemarket.org/vendor/pike-place-chowder/",
+    "site": "https://direct.chownow.com/order/7858/locations/10552",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "Pike Place Dental",
+    "blurb": "Pike Place Dental is committed to helping patients achieve the oral health they desire. Their goal is to provide exemplary dental care in a spirit of tender loving kindness.",
+    "cats": "Services, Independent Shops",
+    "address": "93 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/pike-place-dental/",
+    "site": "https://PikePlaceDental.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340523,
+     47.608955
+    ]
+   },
+   "properties": {
+    "name": "Pike Place Fish Market",
+    "blurb": "\"We're the guys that throw the fish!\" Located in Seattle’s Pike Place Market since 1930, Pike Place Fish Market has endured as the local favorite for fresh, wild, premium Pacific seafood.",
+    "cats": "Specialty Foods, Fresh Goods, Fish Market, Specialty Foods",
+    "address": "86 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/pike-place-fish-market/",
+    "site": "https://pikeplacefish.goldbelly.com/",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340523,
+     47.608955
+    ]
+   },
+   "properties": {
+    "name": "Pike Place Flowers",
+    "blurb": "Located at the gateway to the Market, Pike Place Flowers is a full-service florist on the corner of 1st Avenue and Pike Street.",
+    "cats": "Shopping, Seasonal Flowers, Independent Shops",
+    "address": "1501 1st Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/pike-place-flowers/",
+    "site": "https://PikePlaceBouquets.com",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Pike Place Gifts",
+    "blurb": "For any of your Pike Place Market and Seattle-branded souvenir needs, visit Pike Place Gifts. Take home a gift for for your friends and family from their selection of collectible trinkets. Offerings include printed shot ",
+    "cats": "Shopping, Independent Shops",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/pike-place-gifts/",
+    "site": null,
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340815,
+     47.608328
+    ]
+   },
+   "properties": {
+    "name": "Pike Market Senior Center",
+    "blurb": "The Pike Market Senior Center is accessible to anyone aged older than 55 and is open every day of the week, serving free breakfast and lunch.",
+    "cats": "Social Services",
+    "address": "85 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/pike-market-senior-center/",
+    "site": "https://PMSC-FB.org",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "The Miniature Car Dealer",
+    "blurb": "The Miniature Car Dealer specializes in metal miniature replicas of classic or popular automobiles, airplanes and trucks.",
+    "cats": "Shopping, Antiques & Collectibles, Shopping, Books, Music & Toys",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/miniature-car-dealer/",
+    "site": null,
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341069,
+     47.60947
+    ]
+   },
+   "properties": {
+    "name": "Miss Cafe",
+    "blurb": "Welcome to Miss Café! We offer a home-style, Turkish food experience in the heart of Seattle.",
+    "cats": "Bakery & Café, Eateries, International Cuisine, Where To Eat",
+    "address": "1523 1st Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/miss-cafe/",
+    "site": "https://MissCaffe.com",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342494,
+     47.609601
+    ]
+   },
+   "properties": {
+    "name": "Moon Valley Organics",
+    "blurb": "Moon Valley Organics is a sustainable skincare company created by Kim and Aaron Otto. Their product line started with just 4 bar soaps, a Rejuvenating Rub, Lip Balm, and of course the ever popular Lotion Bar. In 2005, Mo",
+    "cats": "Shopping, Healthy & Beauty, Independent Shops",
+    "address": "1903 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/moon-valley-organics/",
+    "site": "https://MoonValleyOrganics.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342506,
+     47.610139
+    ]
+   },
+   "properties": {
+    "name": "Northwest Tastings",
+    "blurb": "Northwest Tastings is an artisanal food bar and tasting room located in Pike Place Market's DownUnder. Our wines are produced on our family-run vineyard near Quincy, Washington.",
+    "cats": "Restaurants & Eateries, Bars & Breweries, Dine-In, Specialty Foods",
+    "address": "1920 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/northwest-tastings/",
+    "site": "https://WhiteHeronWine.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Old Seattle Paperworks",
+    "blurb": "Old Seattle Paperworks specializes in unique, vintage posters and advertising art and is located next to the world-famous Giant Shoe Museum.",
+    "cats": "Antiques & Collectibles, Shopping, Independent Shops",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/old-seattle-paperworks/",
+    "site": "https://www.OldSeattlePaperworks.com/about-us/",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342857,
+     47.609459
+    ]
+   },
+   "properties": {
+    "name": "Old Stove Brewing",
+    "blurb": "The vision for Old Stove Brewing Co. has always been to carry on Pike Place Market’s “Meet the Producer” tradition by producing amazing beer onsite.",
+    "cats": "Bars & Breweries, Dine-In, Where To Eat, Outdoor Seating",
+    "address": "1901 Western Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/old-stove-brewing/",
+    "site": "https://OldStove.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Orange Dracula",
+    "blurb": "Orange Dracula is a recreation of owner Chad Smith's favorite teenage shops. Imagine a Woolworth’s or an old Five and Dime, now imagine it run by the ADDAMS family. That’s the Orange Dracula!",
+    "cats": "Shopping, Antiques & Collectibles, Shopping, Apparel",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/orange-dracula/",
+    "site": "http://OrangeDracula.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340523,
+     47.608955
+    ]
+   },
+   "properties": {
+    "name": "Oriental Mart",
+    "blurb": "Oriental Mart has been a mainstay of the Market since the 1970s. This three-generation, family-owned business offers a wide selection of traditional Asian spices, sauces and grocery products.",
+    "cats": "Specialty Foods, Independent Shops",
+    "address": "1506 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/oriental-mart/",
+    "site": null,
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Osara Commissary",
+    "blurb": "Osara Commissary features original artwork by Mikako Hamaguchi and offers a variety of cute and unique items from Japan.",
+    "cats": "Antiques & Collectibles, Shopping, Apparel, Books, Music & Toys",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/osara-commissary/",
+    "site": "https://www.OsaraCom.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Our Fabric Stash",
+    "blurb": "Our Fabric Stash is an innovative, eco-friendly fabric consignment shop, designed for today’s Stash-aHOLic.",
+    "cats": "Shopping, Shopping, Independent Shops, Market Gift Card",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/our-fabric-stash/",
+    "site": "https://ourfabricstash.com/",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Pappardelle’s Pasta",
+    "blurb": "A pasta stand located in the historic Pike Place Market in the heart of downtown Seattle.",
+    "cats": "Specialty Foods, Shopping, Specialty Foods, Market Gift Card",
+    "address": "1519 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/pappardelles-pasta/",
+    "site": "https://www.pappardellespasta.com/",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340523,
+     47.608955
+    ]
+   },
+   "properties": {
+    "name": "Left Bank Books Collective",
+    "blurb": "Left Bank Books has been a fixture of Seattle's radical community since 1973 when a group of people split off from the University District’s Red and Black Books to form their own collective bookstore in Pike Place Market",
+    "cats": "Shopping, Books, Music & Toys, Independent Shops",
+    "address": "92 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/left-bank-books-collective/",
+    "site": "https://LeftBankBooks.com",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Pine Books",
+    "blurb": "Step inside the newly remodeled Pine Books! Formerly Lion Heart Book Store, this bookstore in the Lower Levels of Pike Place Market.",
+    "cats": "Shopping, Books, Music & Toys, Independent Shops",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/pine-books/",
+    "site": null,
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340792,
+     47.60918
+    ]
+   },
+   "properties": {
+    "name": "Los Agaves",
+    "blurb": "Los Agaves was founded by Jaime Mendez and his family, and offers authentic Mexican cuisine and world-class Mexican and Mediterranean catering.",
+    "cats": "Eateries, International Cuisine, Where To Eat, Takeout",
+    "address": "1514 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/los-agaves/",
+    "site": "https://LosAgaves.net",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342335,
+     47.609944
+    ]
+   },
+   "properties": {
+    "name": "Lungu Gifts & Antiques",
+    "blurb": "Welcome to Lungu Gifts, our boutique is inspired by the beautiful collection of authentic art, clothing and accessories.",
+    "cats": "Shopping, Apparel & Accessories, Shopping, Apparel",
+    "address": "1906 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/lungu-gifts-antiques/",
+    "site": "https://LunguGift.com",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Madame Lazonga’s Tattoo",
+    "blurb": "Madame Vyvyn Lazonga, also known as “Seattle’s First Lady of Tattoo,” has been considered an icon in the realms of tattoo artistry since 1972.",
+    "cats": "Services, Independent Shops",
+    "address": "1512 Western Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/madame-lazongas-tattoo/",
+    "site": "https://www.MadameLazongasTattoo.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341069,
+     47.60947
+    ]
+   },
+   "properties": {
+    "name": "Made in Washington",
+    "blurb": "Made in Washington is a crucial destination for gifts which celebrate the best of Washington State: our food, our art, our lifestyle.",
+    "cats": "Shopping, Art & Photography, Shopping, Home & Kitchen",
+    "address": "1530 Post Alley",
+    "link": "https://www.pikeplacemarket.org/vendor/made-in-washington/",
+    "site": "https://www.MadeInWashington.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342498,
+     47.610642
+    ]
+   },
+   "properties": {
+    "name": "Maggie’s Shoes",
+    "blurb": "Here at Maggie's Shoes, we offer an exceptional selection of men's and women's shoes that come straight from Europe.",
+    "cats": "Shopping, Apparel, Independent Shops",
+    "address": "1927 1st Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/maggies-shoes/",
+    "site": "http://www.MaggiesShoes.org",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Marakesh Leather",
+    "blurb": "At Marakesh Leather we specialize in handmade leather belts and unique accessories for style and quality conscious men and women.",
+    "cats": "Apparel & Accessories, Shopping, Apparel, Jewelry",
+    "address": "76 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/marakesh-leather/",
+    "site": "https://MarakeshLeatherGoods.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Market Coins",
+    "blurb": "For over 50 years, this unique little shop has offered rare coins, political and sports memorabilia, plus a wide variety of reproduction posters at the famous Pike Place Market.",
+    "cats": "Antiques & Collectibles, Shopping, Independent Shops",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/market-coins/",
+    "site": null,
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340792,
+     47.60918
+    ]
+   },
+   "properties": {
+    "name": "Market Diner",
+    "blurb": "Best burgers in the Market and home of the Seattle cheese steak made with Gorgonzola in a red wine demiglaze.",
+    "cats": "Dine-In, Where To Eat, Restaurants, Independent Shops",
+    "address": "1514 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/market-diner/",
+    "site": null,
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Market Grill",
+    "blurb": "Market Grill has been serving up the best grilled fish in Pike Place Market since 1996.",
+    "cats": "Restaurants & Eateries, Dine-In, Where To Eat, Takeout",
+    "address": "1509 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/market-grill/",
+    "site": "https://marketgrill.hrpos.heartland.us/menu",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Market Magic Shop",
+    "blurb": "Located in Pike Place Market, the Market Magic Shop is the longest-running magic shop in the Pacific Northwest and 3rd oldest in the USA!",
+    "cats": "Shopping, Independent Shops",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/market-magic-shop/",
+    "site": null,
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342335,
+     47.609944
+    ]
+   },
+   "properties": {
+    "name": "Market Optical",
+    "blurb": "Eyewear isn’t just about vision. It’s also about style. Our superb opticians help you select the perfect frame for your face and your lifestyle.",
+    "cats": "Shopping, Services, Independent Shops",
+    "address": "1906 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/market-optical/",
+    "site": "https://seattleeyecaredoctor.com/book-online/",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342335,
+     47.609944
+    ]
+   },
+   "properties": {
+    "name": "Market Tobacco Patch",
+    "blurb": "Market Tobacco Patch offers a wide variety of premium cigars, pipe accessories and vintage tins. The shop offers a well-organized humidor and a very knowledgeable owner who is excited to share his knowledge of tobacco.",
+    "cats": "Shopping, Independent Shops",
+    "address": "1906 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/market-tobacco-patch/",
+    "site": "https://Market-Tobacco-Patch.business.site/",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "MarninSaylor",
+    "blurb": "MarninSaylor is Thomas Marnin and Skye Saylor, two country kids in the big city hand-making Donut Cats, Pastry Pets, and other toys.",
+    "cats": "Shopping, Apparel & Accessories, Shopping, Apparel",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/marninsaylor/",
+    "site": "https://www.MarninSaylor.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Golden Age Collectables",
+    "blurb": "Golden Age Collectables is the oldest comic shop in the world. Founded in 1961, they sell new and vintage comics, manga, collectibles, figurines, Funko toys, board games, movie scripts, vintage Star Wars toys, posters, a",
+    "cats": "Shopping, Antiques & Collectibles, Shopping, Books, Music & Toys",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/golden-age-collectables/",
+    "site": "https://GoldenAgeCollectables.com",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Hands of the World",
+    "blurb": "Hands of the World has an impressive 35-year history in Pike Place Market, matched only by the countries represented in the store—Nepal, Pakistan, Indonesia, Mali, Kenya, Thailand, India—to name a few.",
+    "cats": "Shopping, Home, Bath & Kitchen, Apparel & Accessories, Shopping",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/hands-of-the-world/",
+    "site": "https://HandsOfTheWorld.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Holy Cow Records",
+    "blurb": "Holy Cow Records is a used record store in Seattle’s Pike Place Market. They specialize in rare vinyl LPs and 45s.",
+    "cats": "Shopping, Books, Music & Toys, Independent Shops",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/holy-cow-records/",
+    "site": null,
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342857,
+     47.609459
+    ]
+   },
+   "properties": {
+    "name": "Honest Biscuits",
+    "blurb": "Honest Biscuits was started by Art Stone, who learned biscuit making from his grandmother in rural North Carolina. Head to the Pike Place MarketFront off Western Avenue and grab one of their fried chicken Butterhole Bisc",
+    "cats": "Bakery & Café, Eateries, Dine-In, Where To Eat",
+    "address": "1901 Western Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/honest-biscuits/",
+    "site": "https://HonestBiscuits.com/",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "House of Jade",
+    "blurb": "House of Jade in Pike Place Market's DownUnder offers a wide selection of jewelry and precious stones. They also specialize in stone setting, casting, polishing, and repairs. This jewelry and souvenir shop has been calli",
+    "cats": "Shopping, Jewelry, Independent Shops",
+    "address": "1501 Pike Place",
+    "link": "https://www.pikeplacemarket.org/vendor/house-of-jade/",
+    "site": null,
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "The House of Silver & Gold",
+    "blurb": "Are you looking for some unique jewelry made up of gold or silver? Then stop by the House of Silver & Gold in the Lower Levels of Pike Place Market. This small shop offers a treasure trove of hidden gems.",
+    "cats": "Shopping, Jewelry, Independent Shops",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/house-of-silver-gold/",
+    "site": null,
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "IL Bistro",
+    "blurb": "For nearly 50 years, IL Bistro has offered Seattle regional Italian cuisine in an intimate fine-dining setting.",
+    "cats": "Dine-In, International Cuisine, Where To Eat, Outdoor Seating",
+    "address": "93 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/il-bistro/",
+    "site": "https://www.ILBistro.net",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342857,
+     47.609459
+    ]
+   },
+   "properties": {
+    "name": "indi chocolate",
+    "blurb": "indi chocolate sources cacao beans directly from farmers and cooperatives to make small batch, single origin, dark chocolate.",
+    "cats": "Shopping, Specialty Foods, Bakery & Café, Coffee, Tea & Spices",
+    "address": "1901 Western Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/indi-chocolate/",
+    "site": "https://indichocolate.com/",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340792,
+     47.60918
+    ]
+   },
+   "properties": {
+    "name": "Jack’s Fish and Chips",
+    "blurb": "Owner Jack Mathers' 40 years in the fish business has given him plenty of experience on what makes pristine seafood, which you'll be sure to get at Jack's Fish and Chips.",
+    "cats": "Eateries, Where To Eat, Takeout, Independent Shops",
+    "address": "1514 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/jacks-fish-and-chips/",
+    "site": "https://JacksFishSpot.com/Seafood-Bar",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340792,
+     47.60918
+    ]
+   },
+   "properties": {
+    "name": "Jack’s Fish Spot",
+    "blurb": "At Jack’s Fish Spot, they pride themselves on serving Seattle’s freshest, finest fish at a fair price. Owner Jack Mathers is a Seattle native who has spent the last 40 years in the fish business.",
+    "cats": "Fish Market, Specialty Foods, Independent Shops",
+    "address": "1514 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/jacks-fish-spot/",
+    "site": "https://JacksFishSpot.com/",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341069,
+     47.60947
+    ]
+   },
+   "properties": {
+    "name": "Jasmine Thai Restaurant LLC",
+    "blurb": "Welcome to Jasmine Thai Restaurant, your number one source of Thai food at Pike Place Market.",
+    "cats": "Eateries, International Cuisine, Where To Eat, Takeout",
+    "address": "1530 Post Alley",
+    "link": "https://www.pikeplacemarket.org/vendor/jasmine-thai-restaurant-llc/",
+    "site": "http://jasminethaiseattle.com/",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341926,
+     47.60902
+    ]
+   },
+   "properties": {
+    "name": "Kubode",
+    "blurb": "Kubode aims to provide a personalized browsing experience that perfectly mirrors in-store plant shopping.",
+    "cats": "Home, Bath & Kitchen, Shopping, Home & Kitchen, Independent Shops",
+    "address": "1529 Western Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/kubode/",
+    "site": "https://TheKubode.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340792,
+     47.60918
+    ]
+   },
+   "properties": {
+    "name": "Kitchen Basics",
+    "blurb": "Welcome to Kitchen Basics, a Fiesta® dinnerware store! Kitchen Basics is a family-owned business and they are open seven days a week, all year-round. Kitchen Basics was established in 1984 in the historic Pike Place Mark",
+    "cats": "Home, Bath & Kitchen, Shopping, Home & Kitchen, Independent Shops",
+    "address": "1514 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/kitchen-basics/",
+    "site": "https://MyKitchenBasics.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340792,
+     47.60918
+    ]
+   },
+   "properties": {
+    "name": "Lamplight Books",
+    "blurb": "Lamplight Books features a curated selection of literature, philosophy, poetry, and children's books. They specialize in vintage, classic, and out-of-print books. Browse their shelves any day of the week in the Sanitary ",
+    "cats": "Antiques & Collectibles, Shopping, Books, Music & Toys, Independent Shops",
+    "address": "1514 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/lamplight-books/",
+    "site": null,
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "La Vaca",
+    "blurb": "Hungry? Head to La Vaca. This tiny restaurant in Pike Place Market delivers tasty, inexpensive burritos, tacos, and tamales.",
+    "cats": "Eateries, International Cuisine, Where To Eat, Takeout",
+    "address": "1429 1st Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/la-vaca-burrito-express/",
+    "site": null,
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342335,
+     47.609944
+    ]
+   },
+   "properties": {
+    "name": "Le Panier",
+    "blurb": "It began in 1983, when Le Panier opened its bakery doors onto Pike Place to bring a taste of France to Seattle for all to share.",
+    "cats": "Bakery & Café, Eateries, Specialty Foods, Where To Eat",
+    "address": "1902 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/le-panier/",
+    "site": "https://lepanier.com/le-shop",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342649,
+     47.610776
+    ]
+   },
+   "properties": {
+    "name": "Le Pichet",
+    "blurb": "Le Pichet owners Jim Drohman and Joanne Herron opened Le Pichet in 2000 with the hope of recreating the personal, neighborhood-style restaurants they had come to love in France.",
+    "cats": "Restaurants & Eateries, Dine-In, International Cuisine, Where To Eat",
+    "address": "1933 1st Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/le-pichet/",
+    "site": "https://LePichetSeattle.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "DeLaurenti Food & Wine",
+    "blurb": "Since 1946, DeLaurenti Food & Wine has been Seattle’s most complete source of hard-to-find ingredients from around the world.",
+    "cats": "Restaurants & Eateries, Specialty Foods, Coffee, Tea & Spices, Shopping",
+    "address": "1435 1st Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/delaurenti-food-wine/",
+    "site": "https://DeLaurenti.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340815,
+     47.608328
+    ]
+   },
+   "properties": {
+    "name": "Don & Joe’s Pike Quality Meats",
+    "blurb": "Don & Joe’s Meats began in 1969 with a commitment to offer the finest quality meats to their customers in a friendly and personalized manner.",
+    "cats": "Fresh Goods, Specialty Foods, Meat & Dairy, Independent Shops",
+    "address": "85 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/don-joes-meats/",
+    "site": "https://bsky.app/profile/donandjoesmeats.bsky.social",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Double Dorjee Tibet Shop",
+    "blurb": "Double Dorjee is your one-stop shop to find unique Tibetan handicrafts. They also sell ritual items, fine jewelry, healing incense, prayer flags, and much more.",
+    "cats": "Shopping, Healthy & Beauty, Jewelry, Independent Shops",
+    "address": "1505 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/double-dorjee-tibet-shop/",
+    "site": "http://DoubleDorjee.weebly.com/",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "Ed Newbold Wildlife Artist",
+    "blurb": "Ed Newbold is a Wildlife Artist who lives in Seattle, WA and has a store at the entrance of the Pike Place Market in downtown Seattle.",
+    "cats": "Art & Décor, Art & Photography, Shopping, Independent Shops",
+    "address": "93 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/ed-newbold-wildlife-artist/",
+    "site": "https://EdNewbold.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Eclipse Hat Shop",
+    "blurb": "Love hats? Look no further than Eclipse Hat Shop. Owner Sharon Hagerty is an authorized Stetson hat seller. Find fedoras, custom fur felt and straw, millinery, and vintage hats.",
+    "cats": "Shopping, Apparel, Independent Shops",
+    "address": "1518 Western Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/eclipse-hat-shop/",
+    "site": "https://EclipseHatShop.com/",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340792,
+     47.60918
+    ]
+   },
+   "properties": {
+    "name": "El Borracho",
+    "blurb": "El Borracho is one of the best places in Seattle to get your Mexican food fix and they're now serving 100% plant-based Mexican food.",
+    "cats": "Restaurants & Eateries, Dine-In, International Cuisine, Where To Eat",
+    "address": "1521 1st Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/el-borracho/",
+    "site": "https://elborrachoseattle.hrpos.heartland.us/menu",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340792,
+     47.60918
+    ]
+   },
+   "properties": {
+    "name": "El Mercado Latino",
+    "blurb": "El Mercado Latino is a family-owned and operated Latin grocery located in Post Alley to the left of Choice Produce. Every time you walk into this shop, you'll discover something new, from their wall of hot sauce to uniqu",
+    "cats": "Coffee, Tea & Spices, Eateries, Specialty Foods, Where To Eat",
+    "address": "1514 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/el-mercado-latino/",
+    "site": "https://TheLatinMerchant.com/",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "F & J Great Western Trading Co",
+    "blurb": "F & J Great Western Trading Co. sells some unique, one-of-a-kind gifts from all over the world. You can get stuff for your desk, plaques for the wall, cups for your coffee, steins for your beer, or framed insects for... ",
+    "cats": "Antiques & Collectibles, Shopping, Independent Shops",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/f-j-great-western-trading-co/",
+    "site": null,
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340523,
+     47.608955
+    ]
+   },
+   "properties": {
+    "name": "Falafel King",
+    "blurb": "Yacob at Falafel King is one of the most kind and generous kings.",
+    "cats": "Eateries, International Cuisine, Where To Eat, Takeout",
+    "address": "1509 1st Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/falafel-king/",
+    "site": "https://FalafelKingPikePlace.com/",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341069,
+     47.60947
+    ]
+   },
+   "properties": {
+    "name": "Farvahar Persian Cafe",
+    "blurb": "Farvahar Persian Cafe specializes in authentic Persian cuisine. Their dishes include kebobs, lentil soup, hummus, sandwiches and salads. Pull up a seat to their counter or order takeout from this Persian lunch spot.",
+    "cats": "Eateries, Dine-In, International Cuisine, Where To Eat",
+    "address": "1530 Post Alley",
+    "link": "https://www.pikeplacemarket.org/vendor/farvahar-persian-cafe/",
+    "site": "https://food.google.com/chooseprovider?restaurantId=/g/1262r0tfm&hl=en-US&gl=us&ssta=1&fo_m=MfohQo559jFvMWwP9igWZeWQMczq7voErUdXMU_hT8vrWuwRMUOzJVpjPL1YMfaXTPp5KXh-&gei=S9wnYZaBO9rA0PEPhe-HgA4&fo_s=OA,AH&orderType=1&sei=CTkdm2E7aJSqEWQrCI3uaf4e&utm_campaign&utm_source=search",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "Folio: The Seattle Athenaeum",
+    "blurb": "Folio is a non-profit member supported library and cultural center offering cultural and civic conversations, book and art discussions, intimate concerts, a circulating collection of donated books, and accessible work sp",
+    "cats": "Library, Entertainment & Attractions, Services",
+    "address": "93 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/folio-the-seattle-athenaeum/",
+    "site": "http://FolioSeattle.org",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Gradient Art Gallery",
+    "blurb": "Gradient Art Gallery is a group of artists and friends who have opened the gallery to share their work with the world.",
+    "cats": "Shopping, Art & Décor, Art & Photography, Shopping",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/gradient-art-gallery/",
+    "site": "https://GradientArtGallery.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Gem Heaven",
+    "blurb": "Gem Heaven offers a vast collection of high-quality minerals, crystals, fossils, and jewelry fit for any treasure hunter with an eye for sparkle and a curiosity to discover pieces forged thousands, or even millions of ye",
+    "cats": "Shopping, Independent Shops",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/gem-heaven/",
+    "site": "http://Gemheaven.net",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34059,
+     47.608542
+    ]
+   },
+   "properties": {
+    "name": "Ghost Alley Espresso",
+    "blurb": "Ghost Alley Espresso is one unique coffee shop with an equally unique history.",
+    "cats": "Bakery & Café, Shopping, Eateries, Where To Eat",
+    "address": "1499 Post Alley",
+    "link": "https://www.pikeplacemarket.org/vendor/ghost-alley-espresso/",
+    "site": "http://GhostAlleyEspresso.co",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Glass Eye Studio",
+    "blurb": "Founded in 1978 in Seattle’s famed Pike Place Market, Glass Eye Studio is one of the oldest and largest privately-owned hot shops in the country and served as a training ground for some of the most famed glass artists of",
+    "cats": "Art & Décor, Art & Photography, Shopping, Independent Shops",
+    "address": "76 Pike St #2",
+    "link": "https://www.pikeplacemarket.org/vendor/glass-eye-studio/",
+    "site": "https://GlassEye.com/",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Chin Music Press",
+    "blurb": "Chin Music Press is a curiously bibliophilic indie publisher located on the 3rd level of the DownUnder of Seattle’s historic Pike Place Market.",
+    "cats": "Shopping, Shopping, Books, Music & Toys, Independent Shops",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/chin-music-press/",
+    "site": "http://ChinMusicPress.com/",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.342638,
+     47.610286
+    ]
+   },
+   "properties": {
+    "name": "Chocolate & Ice Cream Delight",
+    "blurb": "Chocolate & Ice Cream delight offers a medley of sweet small bite treats ranging from truffles to scoops and blended drinks. Stop in to try one or more of over a dozen rotating flavors they keep in-house, or pick from th",
+    "cats": "Specialty Foods, Eateries, Specialty Foods, Where To Eat",
+    "address": "1918 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/chocolate-ice-cream-delight/",
+    "site": "https://www.doordash.com/store/chocolate-&-ice-cream-delight-seattle-663494/",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340792,
+     47.60918
+    ]
+   },
+   "properties": {
+    "name": "Choice Produce",
+    "blurb": "Choice Produce sits on the corner of Post Alley and Pike Place, a family-owned business providing our city with a splash of color and an affordable alternative to the large impersonal supermarkets.",
+    "cats": "Fresh Produce, Specialty Foods, Independent Shops",
+    "address": "1514 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/choice-produce/",
+    "site": null,
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Christopher’s Lamp",
+    "blurb": "Christopher’s Lamp is the formulation of the empathic clairvoyant and Spiritual Counselor, Darleen Christopher.",
+    "cats": "Experiences, Services, Independent Shops, Market Gift Card",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/christophers-lamp/",
+    "site": "https://ChristophersLamp.com/",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Chukar Cherries",
+    "blurb": "In 1988, Chukar Cherries was launched on the family farm with one goal – to be your go-to source for extraordinary Pacific Northwest foods & gifts.",
+    "cats": "Specialty Foods, Specialty Foods, Organic, Sweets",
+    "address": "1529b Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/chukar-cherries/",
+    "site": "https://Chukar.com",
+    "licence": false,
+    "placed": "nearest",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34135,
+     47.609325
+    ]
+   },
+   "properties": {
+    "name": "Cinnamon Works",
+    "blurb": "Located in Pike Place Market, Cinnamon Works is one of the few scratch bakeries left in Seattle. Owner Michael Ruegamer opened the bakery’s doors over 37 years ago when he bought a small storefront and turned his baking ",
+    "cats": "Bakery & Café, Specialty Foods, Where To Eat, Sweets",
+    "address": "1536 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/cinnamon-works/",
+    "site": "https://CinnamonWorks.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "City Fish Co.",
+    "blurb": "City Fish is one of the oldest seafood stands at the Market. Located in the heart of the main arcade, City Fish Co. is a must-see when at the Market.",
+    "cats": "Fresh Goods, Fish Market, Shopping, Specialty Foods",
+    "address": "1535 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/city-fish/",
+    "site": "https://CityFish.com",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Cobb’s Popcorn",
+    "blurb": "Cobb’s Pike Place Popcorn is THE gourmet popcorn shop in Seattle. Some of their staple flavors include caramel, cheddar, and chocolate popcorn alongside many seasonal favorites. They also sell delicious mushroom and butt",
+    "cats": "Eateries, Specialty Foods, Where To Eat, Sweets",
+    "address": "1500 Western Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/cobbs-popcorn/",
+    "site": "https://CobbsPopcorn.com/",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Conscious Wear",
+    "blurb": "Conscious Wear is an eco-friendly shop that focuses on clothing, accessories, and home décor made from hemp, wool, and khaki cotton.",
+    "cats": "Shopping, Apparel, Independent Shops",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/conscious-wear/",
+    "site": null,
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Copacabana Restaurant",
+    "blurb": "Don\" Ramon and Hortensia Pelàez opened the doors of Copacabana in the Pike Place Market in June of 1964. Named for “Our Lady of Copacabana” shrine in La Paz, Bolivia, the restaurant stood as a symbol of hope and courage ",
+    "cats": "Restaurants & Eateries, Dine-In, International Cuisine, Where To Eat",
+    "address": "1511 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/copacabana-restaurant/",
+    "site": "https://PikePlaceCopa.com/",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "Crêpe de France",
+    "blurb": "Crepe de France has been operating within Pike Place Market since 1991 as Seattle’s favorite restaurant creperié.",
+    "cats": "Restaurants & Eateries, Eateries, Dine-In, International Cuisine",
+    "address": "93 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/crepe-de-france/",
+    "site": null,
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340523,
+     47.608955
+    ]
+   },
+   "properties": {
+    "name": "The Crumpet Shop",
+    "blurb": "The Crumpet Shop is Seattle’s first and original crumpet baking company. Founded in 1976 by Gary Lasater, he called it The United Metropolitan Improved Crumpet Baking & Punctual Delivery Company. Customers just nodded an",
+    "cats": "Restaurants & Eateries, Fresh Goods, Bakery & Café, Coffee, Tea & Spices",
+    "address": "1503 1st Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/the-crumpet-shop/",
+    "site": "https://thecrumpetshop.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "Daily Dozen Doughnut Company",
+    "blurb": "Daily Dozen Doughnut Company's famous mini-donuts have been crowd pleasers for years. You know they’re fresh when you can watch them come off the machine.",
+    "cats": "Restaurants & Eateries, Bakery & Café, Eateries, Specialty Foods",
+    "address": "93 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/daily-dozen-doughnut-company/",
+    "site": null,
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "3D Wood Puzzles",
+    "blurb": "Are you looking for a unique gift? Since 2001, 3D Wood Puzzles has been selling one-of-a-kind, three-dimensional wood puzzles at Pike Place Market.",
+    "cats": "Antiques & Collectibles, Shopping, Books, Music & Toys, Independent Shops",
+    "address": "76 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/3d-wood-puzzles/",
+    "site": "https://www.3DWoodPuzzles.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "6H Consulting",
+    "blurb": "6h Consulting is a marketing and brand strategy consultancy formed by Paul Neal. 6h has more than 25 years of experience collaborating with executives across a broad range of industries on the customer-facing aspects of ",
+    "cats": "Services, Independent Shops",
+    "address": "93 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/6h-consulting/",
+    "site": "https://SixHConsulting.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340792,
+     47.60918
+    ]
+   },
+   "properties": {
+    "name": "Ageless Acupuncture",
+    "blurb": "Our goal at Ageless Acupuncture is to help our patients, to extend Chinese medicine beyond our office, and to educate!",
+    "cats": "Services, Independent Shops",
+    "address": "1515 1st Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/ageless-acupuncture/",
+    "site": "https://acusimple.com/access/9515/#/appointments/",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340815,
+     47.608328
+    ]
+   },
+   "properties": {
+    "name": "Alibi Room",
+    "blurb": "The Alibi Room across from the world-famous Gum Wall in Post Alley is a cozy speakeasy-style restaurant serving up brick-oven pizza, salads and cocktails. It has long been a favorite bar for Northwest authors, writers, a",
+    "cats": "Dine-In, Restaurants, Takeout, Independent Shops",
+    "address": "85 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/alibi-room/",
+    "site": "https://TheAlibiRoom.com",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Animal Gifts & Collectibles",
+    "blurb": "Animal Gifts & Collectibles is a treasure trove of unique animal figurines. This shop is one of those unique places you will only find in Pike Place Market.",
+    "cats": "Antiques & Collectibles, Shopping, Independent Shops",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/animal-gifts-collectibles/",
+    "site": null,
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Antique Touch",
+    "blurb": "Antique Touch is a collector's dream, from antique teacups and saucers to salt & pepper shakers and figurines. Find Antique Touch on Level 3 of Pike Place Market.",
+    "cats": "Antiques & Collectibles, Shopping, Independent Shops",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/antique-touch/",
+    "site": null,
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "Art Stall Gallery",
+    "blurb": "The Art Stall is a cooperative women-run gallery selling original paintings and prints ranging from landscapes to portraits and animals.",
+    "cats": "Art & Photography, Shopping, Independent Shops",
+    "address": "97 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/art-stall-gallery/",
+    "site": "http://ArtStallGallery.com",
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Gallery ERGO",
+    "blurb": "Gallery ERGO is an artist-owned gallery located in Seattle's historic Pike Place Market. They sell fine art originals, prints, apparel and puzzles.",
+    "cats": "Shopping, Art & Décor, Art & Photography, Shopping",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/gallery-ergo/",
+    "site": "https://www.GalleryERGO.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "Atrium Kitchen at Pike Place Market",
+    "blurb": "The Atrium Kitchen provides tours of Pike Place Market with Cooking Classes and specializes in private events and corporate culinary team building. Owned and operated by Chef Traci Calderon, Atrium Kitchen is also home t",
+    "cats": "Services, Takeout, Independent Shops, Market Gift Card",
+    "address": "93 Pike St",
+    "link": "https://www.pikeplacemarket.org/vendor/atrium-kitchen-at-pike-place-market/",
+    "site": "https://AtriumKitchenPikePlace.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "BLMF Literary Saloon",
+    "blurb": "BLMF Literary Saloon is proof that there are endless treasures to be found in the lower levels of Pike Place Market. For 26 years, J.B. Johnson has owned this cozy, lovingly curated store—ever since a guest at his book-f",
+    "cats": "Shopping, Books, Music & Toys, Independent Shops",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/blmf-literary-saloon/",
+    "site": null,
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340172,
+     47.608495
+    ]
+   },
+   "properties": {
+    "name": "Bottega Gelato",
+    "blurb": "Bottega Gelato opened in 2003 with one simple goal: to make the highest-quality gelato. Using Italian techniques, it is clear from the first bite that this is an authentic artisanal product.",
+    "cats": "Eateries, Specialty Foods, Where To Eat, Sweets",
+    "address": "1425 1st Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/bottega-italiana/",
+    "site": null,
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Brooke Westlund Studio & Gallery",
+    "blurb": "Brooke Westlund, a native Seattleite, has always loved art. She studied Photography, Art History, and Business at Western Washington University.",
+    "cats": "Art & Photography, Shopping, Independent Shops",
+    "address": "1514 Western Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/brooke-westlund-studio-gallery/",
+    "site": "https://BrookeWestlund.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341069,
+     47.60947
+    ]
+   },
+   "properties": {
+    "name": "Can Can Culinary Cabaret",
+    "blurb": "The Can Can Culinary Cabaret is an intimate 120 seat dinner theatre and production house. The venue's entertainment, food, and drink experience are unlike any other in the world.",
+    "cats": "Restaurants & Eateries, Bars & Breweries, Where To Eat, Entertainment & Attractions",
+    "address": "95 Pine St",
+    "link": "https://www.pikeplacemarket.org/vendor/can-can-culinary-cabaret/",
+    "site": "https://TheCanCan.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341188,
+     47.608808
+    ]
+   },
+   "properties": {
+    "name": "Old Fashioned Candy Store",
+    "blurb": "The Old Fashioned Candy Store offers one of the largest assortments of sweet treats in the Market. From recent additions to retro candies that date as far back as the 1950s.",
+    "cats": "Shopping, Specialty Foods, Sweets, Independent Shops",
+    "address": "1501 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/old-fashioned-candy-store/",
+    "site": null,
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.341069,
+     47.60947
+    ]
+   },
+   "properties": {
+    "name": "Robot vs Sloth",
+    "blurb": "Robot vs Sloth is a small shop dedicated to bringing Seattle the very best animal art and curated handmade animal-themed gifts for all ages. Owner La Ru (Lauren Rudeck) started her Pike Place Market story in 2012 when sh",
+    "cats": "Apparel & Accessories, Art & Décor, Art & Photography, Shopping",
+    "address": "1535 1st Ave",
+    "link": "https://www.pikeplacemarket.org/vendor/robot-vs-sloth/",
+    "site": "https://RobotVSloth.com",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340792,
+     47.60918
+    ]
+   },
+   "properties": {
+    "name": "Pike Place Market Creamery",
+    "blurb": "The Pike Place Market Creamery has been the Market's go-to spot for dairy, dairy alternatives, eggs and cow gifts since 1978.",
+    "cats": "Specialty Foods, Meat & Dairy, Independent Shops",
+    "address": "1514 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/pike-market-creamery/",
+    "site": null,
+    "licence": true,
+    "placed": "exact",
+    "source": "roster"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.340523,
+     47.608955
+    ]
+   },
+   "properties": {
+    "name": "Bonnie B’s Peppers & Hot Dogs",
+    "blurb": "Bonnie B's Peppers pays homage to owner Dylan's mother. Using her recipes and bearing her name, they offers pickled peppers, sauces, pickled vegetables and pickles!",
+    "cats": "Specialty Foods, Eateries, Specialty Foods, Where To Eat",
+    "address": "1500 Pike Pl",
+    "link": "https://www.pikeplacemarket.org/vendor/bonnie-bs-peppers/",
+    "site": "https://BonnieBsPeppers.com/",
+    "licence": false,
+    "placed": "exact",
+    "source": "roster"
+   }
+  }
+ ],
+ "note": "the Market's own vendor roster, placed on the city's Master Address File"
+}

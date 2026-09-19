@@ -94,10 +94,25 @@ def rest() -> None:
     print("pda    %d vendors · %d categories · %d tags" % (len(rows), len(cats), len(tags)))
 
 
-ADDR = re.compile(r"((?:\d[\dA-Za-z\-/ ]{0,12})?\s*"
-                  r"(?:Pike Pl(?:ace)?|Pike St(?:reet)?|Post Alley|Western Ave(?:nue)?|"
+# A street number, then one of the market's streets. Without the number this matches
+# prose — "Pike Place Market has a range of vintage" arrived as an address on four pages.
+ADDR = re.compile(r"\b(\d{1,4}[A-Za-z]?(?:\s+1/2)?\s+"
+                  r"(?:Pike Pl(?:ace)?|Pike St(?:reet)?|Post Al(?:ley)?|Western Ave(?:nue)?|"
                   r"1st Ave(?:nue)?|First Ave(?:nue)?|Stewart St|Virginia St|Pine St)"
-                  r"[^<>|]{0,40}?)\s*(?:Seattle|,|<)", re.I)
+                  r"(?:\s*(?:#|Ste\.?|Suite|Unit)\s*[A-Za-z0-9-]+)?)\b", re.I)
+
+
+# Every vendor page carries the same furniture: an icon stylesheet, the Market's own
+# custom Google map, a walking-directions link to the Market itself, and the Foundation.
+# None of it is the vendor's.
+BOILER = re.compile(r"(gmpg\.org|fonts\.googleapis|fonts\.gstatic|use\.fontawesome|"
+                    r"gravatar|w\.org|schema\.org|wp\.me|pikeplacemarketfoundation|"
+                    r"google\.com/maps|goo\.gl/maps|maps\.app\.goo\.gl)")
+
+# A handful of pages put a coordinate in their directions link. It is the Market's own
+# point for that vendor, and for the daystall rows it is one shared point for a whole
+# row of tables, so it is recorded and never drawn as a dot of its own.
+DEST = re.compile(r"destination=(-?\d+\.\d+)(?:%2C|,)(-?\d+\.\d+)")
 
 
 def one_page(slug: str, link: str) -> dict:
@@ -123,25 +138,27 @@ def one_page(slug: str, link: str) -> dict:
     addr = ADDR.search(where or txt)
     sites = [u for u in re.findall(r'href="(https?://[^"]+)"', body)
              if "pikeplacemarket.org" not in u
-             and not re.search(r"(gmpg\.org|fonts\.googleapis|fonts\.gstatic|gravatar|w\.org|schema\.org|wp\.me)", u)
+             and not BOILER.search(u)
              and not re.search(r"(facebook|instagram|twitter|x\.com|tiktok|youtube|pinterest|linkedin|yelp)\.", u)]
     social = [u for u in re.findall(r'href="(https?://[^"]+)"', body)
               if re.search(r"(facebook|instagram|twitter|x\.com|tiktok|youtube)\.", u)]
+    dest = DEST.search(h)
     return {"address": clean(addr.group(1)) if addr else "",
             "where": where,
+            "pda_point": [float(dest.group(2)), float(dest.group(1))] if dest else None,
             "text": txt[:1400],
             "sites": sorted(set(sites))[:4],
             "social": sorted(set(social))[:4]}
 
 
-def pages(limit: int) -> None:
+def pages(limit: int, reparse: bool = False) -> None:
     d = jload(HARVEST / "pda-vendors.json")
     if not d:
         raise SystemExit("run --rest first")
     rows = d["rows"]
     done = 0
     for i, v in enumerate(rows):
-        if v.get("_page"):
+        if v.get("_page") and not reparse:
             continue
         try:
             v["_page"] = one_page(v["slug"], v["link"])
@@ -218,14 +235,16 @@ def main() -> None:
     ap.add_argument("--rest", action="store_true")
     ap.add_argument("--pages", action="store_true")
     ap.add_argument("--limit", type=int, default=0)
+    ap.add_argument("--reparse", action="store_true",
+                    help="re-read the cached pages without fetching anything")
     a = ap.parse_args()
     if a.visit:
         visit()
     if a.rest:
         rest()
-    if a.pages:
-        pages(a.limit)
-    if not (a.rest or a.pages or a.visit):
+    if a.pages or a.reparse:
+        pages(a.limit, a.reparse)
+    if not (a.rest or a.pages or a.visit or a.reparse):
         ap.print_help()
 
 

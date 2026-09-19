@@ -153,7 +153,8 @@ def home() -> str:
         (n(C["city_licences"]), "hold a city business licence inside the line",
          "the only dated, address-level record of who trades here", "directory/"),
         (n(C["market_roster"]), "are on the Market's own vendor roster",
-         "including the daystall craftspeople and farmers, who hold no separate city licence",
+         "including the daystall craftspeople and farmers, who hold no separate city "
+         "licence; %s of them print an address and reach the map" % n(A["pda"]["on_the_map"]),
          "directory/#roster"),
         (n(C["openstreetmap"]), "are named in OpenStreetMap",
          "a volunteer survey of the same twelve acres, and a third answer", "map/"),
@@ -352,6 +353,7 @@ def map_page() -> str:
 <div class="ctl">
  <input type="search" id="q" placeholder="Find a business" aria-label="Find a business">
  <label>Trade <select id="sector"><option value="">all</option>%s</select></label>
+ <button data-layer="roster-dot" aria-pressed="false">The Market's roster</button>
  <button data-layer="near-dot" aria-pressed="false">Just outside</button>
  <button data-layer="osm-dot" aria-pressed="false">OpenStreetMap</button>
  <button data-layer="extra-dot" aria-pressed="false">Art, trees, crossings</button>
@@ -368,9 +370,14 @@ def map_page() -> str:
  <span><i style="background:#efc75c"></i>ten years</span>
  <span><i style="background:#e07a2c"></i>twenty-five</span>
  <span><i style="background:#d8352a"></i>forty-five and over</span>
+ <span><i style="background:#5fb3a1"></i>on the roster, no city licence</span>
+ <span><i style="background:#8f7bb5"></i>on the roster and licensed</span>
  <span><i style="background:#6a8fb5"></i>licensed, outside the line</span>
  <span><i style="background:#f0bf4c"></i>named in OpenStreetMap</span>
 </div>
+<p class="small">The Market's roster layer holds the %s of its %s vendors whose own page
+ prints a street number, placed the same way — which is how the daystall craftspeople and
+ farmers, who hold no city licence, reach the map at all.</p>
 <p class="small">Dots are licensed businesses, placed on the city's Master Address File
  and coloured by how long the licence has run. %s of the %s sit on an exact address
  match; %s were placed on the nearest number on the same street, within six doors.
@@ -378,6 +385,7 @@ def map_page() -> str:
  zoning overlay layer.</p>
 </div></div></main>
 """ % (opts,
+       n(A["pda"]["on_the_map"]), n(A["pda"]["vendors"]),
        viz.fence_plan(jload(DATA / "geo" / "fence.geojson")["geometry"], B,
                       "The district and its buildings, drawn flat — what a device "
                       "without WebGL gets instead of the map above."),
@@ -443,6 +451,9 @@ def directory() -> str:
  other %s are the daystall system: craftspeople and farmers who rent a table by the day
  under the Market's own rules and appear in no city licence file. A name absent from the
  licence data is a statement about the licence data.</p>
+<p>%s of the %s vendor pages print a street number of their own, and %s of those fall
+ inside the boundary — which is how the unlicensed side of the market reaches
+ <a href="../map/">the map</a>. %s carry a link to a site of their own.</p>
 %s
 <h2>Every category</h2>
 <ul class="yahoo">%s</ul>
@@ -453,6 +464,8 @@ def directory() -> str:
        yahoo_a,
        n(A["pda"]["vendors"]), n(A["pda"]["categories"]),
        n(A["pda"]["matched_to_licence"]), n(A["pda"]["unmatched"]),
+       n(A["pda"]["with_address"]), n(A["pda"]["vendors"]), n(A["pda"]["on_the_map"]),
+       n(A["pda"]["with_own_link"]),
        viz.bars([(c["name"], c["count"]) for c in A["pda"]["top_categories"][:18]],
                 "Vendors per category on the Market's own roster. A vendor carries "
                 "several categories at once, so the columns sum to more than %s."
@@ -596,11 +609,15 @@ def _one_vendor(name: str, r: dict, v: dict) -> int:
         if v.get("cats"):
             bits.append('<p>%s</p>' % "".join(
                 '<span class="pill">%s</span>' % E(c) for c in v["cats"]))
+        if v.get("address") and not r:
+            bits.append('<p>%s%s</p>'
+                        % (E(v["address"]),
+                           ", inside the district" if v.get("inside") else ""))
         pg = v.get("_page") or {}
         links = [u for u in (pg.get("sites") or []) if u.startswith("http")]
         row = ['<a href="%s">The Market\'s page</a>' % E(v["link"])]
         row += ['<a href="%s" rel="nofollow">%s</a>' % (E(u), E(re.sub(r"^https?://(www\.)?", "", u)[:40]))
-                for u in links[:2]]
+                for u in links[:3]]
         bits.append("<p>%s</p>" % " · ".join(row))
     if r and not v:
         bits.append('<p class="small">Not on the Market\'s published vendor roster on '

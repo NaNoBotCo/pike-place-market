@@ -100,6 +100,22 @@ def main() -> None:
                          "placed": r["placed"], "source": "licence"}})
     jdump(OUT / "vendors.geojson", fc(vend, note="City of Seattle business licences, placed on the city's Master Address File"))
 
+    # ---- the Market's own roster, where its pages print a street number
+    roster = []
+    for v in direc.get("vendors", []):
+        if not v.get("lon") or not v.get("inside"):
+            continue
+        roster.append({"type": "Feature",
+                       "geometry": {"type": "Point", "coordinates": [v["lon"], v["lat"]]},
+                       "properties": {
+                           "name": v["name"], "blurb": (v.get("blurb") or "")[:220],
+                           "cats": ", ".join(v.get("cats", [])[:4]),
+                           "address": v.get("address"), "link": v.get("link"),
+                           "site": v.get("site"), "licence": bool(v.get("licence")),
+                           "placed": v.get("placed"), "source": "roster"}})
+    jdump(OUT / "roster.geojson", fc(roster,
+          note="the Market's own vendor roster, placed on the city's Master Address File"))
+
     near = []
     for r in direc.get("near_misses", []):
         near.append({"type": "Feature",
@@ -147,8 +163,8 @@ def main() -> None:
                            "properties": {"kind": label, "name": str(title)[:90]}})
     jdump(OUT / "extras.geojson", fc(extras, note="City of Seattle open data"))
 
-    print("map    fence + %d ground · %d buildings · %d in the directory · %d near misses"
-          % (len(ground), len(bfeat), len(vend), len(near)))
+    print("map    fence + %d ground · %d buildings · %d licences · %d roster · %d near"
+          % (len(ground), len(bfeat), len(vend), len(roster), len(near)))
     print("       %d named in OpenStreetMap · %d pieces of city furniture"
           % (len(osmf), len(extras)))
 

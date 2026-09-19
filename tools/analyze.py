@@ -18,7 +18,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from common import (DATA, HARVEST, centroid, dist_to_fence_m, fence, haversine,   # noqa: E402
-                    jdump, jload, pt_in_ring, slugify, today)
+                    jdump, jload, pt_in_poly, pt_in_ring, slugify, today)
 
 TODAY = dt.date.today()
 
@@ -115,8 +115,9 @@ def in_building(lon, lat, blds):
 # ---------------------------------------------------------------- the work
 
 def main() -> None:
-    fen = fence()
-    fp = fen["properties"]
+    fen_f = fence()
+    fen = fen_f["geometry"]
+    fp = fen_f["properties"]
     blds = buildings()
     global BY_ID_NAME
     BY_ID_NAME = {b["id"]: b["name"] for b in blds}
@@ -145,6 +146,35 @@ def main() -> None:
 
     pda = (jload(HARVEST / "pda-vendors.json") or {"rows": []})["rows"]
     cats = (jload(HARVEST / "pda-categories.json") or {"rows": []})["rows"]
+
+    # -------- the roster's own addresses, placed the same way the licences were
+    # 206 of the 473 vendor pages print a street number. That is the only way the
+    # daystall craftspeople and farmers — who hold no city licence — reach the map.
+    import harvest_licences as HL
+    idx = HL.maf_index()
+    placed = 0
+    for v in pda:
+        pg = v.get("_page") or {}
+        v["address"] = pg.get("address") or ""
+        v["site"] = (pg.get("sites") or [None])[0]
+        v["social"] = pg.get("social") or []
+        v["pda_point"] = pg.get("pda_point")
+        v["lon"] = v["lat"] = None
+        v["placed"] = None
+        v["inside"] = False
+        if not v["address"]:
+            continue
+        num, street, unit, letter = HL.split_addr(v["address"])
+        pt, how, maf = HL.place(num, street, letter, idx)
+        if not pt:
+            continue
+        v["lon"], v["lat"] = round(pt[0], 6), round(pt[1], 6)
+        v["placed"], v["maf"] = how, maf
+        v["unit"] = unit
+        v["number"], v["street"] = num, street
+        v["inside"] = pt_in_poly(pt, fen)
+        if v["inside"]:
+            placed += 1
 
     # -------- the two rosters, matched by name
     by_norm = {}
@@ -290,6 +320,9 @@ def main() -> None:
         },
         "pda": {
             "vendors": len(pda), "categories": len(cats),
+            "with_address": sum(1 for v in pda if v.get("address")),
+            "on_the_map": placed,
+            "with_own_link": sum(1 for v in pda if v.get("site")),
             "matched_to_licence": matched,
             "unmatched": len(pda) - matched,
             "top_categories": sorted(
