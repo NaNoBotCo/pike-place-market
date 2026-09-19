@@ -236,6 +236,9 @@ h2{font-size:clamp(24px,3.4vw,40px);margin:1.6em 0 .5em}
 h3{font-size:clamp(18px,2.2vw,24px);margin:1.4em 0 .4em}
 p{margin:0 0 1em;max-width:68ch}
 .lede{font-size:clamp(18px,2.1vw,23px);color:var(--ink)}
+blockquote{margin:0 0 .5em;padding-left:clamp(14px,1.8vw,22px);
+ border-left:3px solid var(--red);color:var(--ink)}
+blockquote+.small{margin-top:-.2em}
 small,.small{font-size:clamp(13px,1.2vw,15px);color:var(--dim)}
 .num{font-family:var(--mono);font-variant-numeric:tabular-nums}
 

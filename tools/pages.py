@@ -136,7 +136,7 @@ def home() -> str:
          "including the daystall craftspeople and farmers, who hold no separate city licence",
          "directory/#roster"),
         (n(C["openstreetmap"]), "are named in OpenStreetMap",
-         "volunteer survey, which is a fourth answer again", "map/"),
+         "a volunteer survey of the same twelve acres, and a third answer", "map/"),
         (n(C["city_addresses"]), "addresses inside the boundary",
          "from the city's Master Address File", "fence/"),
         ("%s" % ac["district"], "acres, as the city draws the district",
@@ -166,7 +166,8 @@ def home() -> str:
     dan = plate("""
 <h2 class="kick">One stall, in three records</h2>
 <h3 style="margin-top:0">%s</h3>
-<p class="lede">%s</p>
+<blockquote class="lede">%s</blockquote>
+<p class="small">The Market's own description, quoted as published.</p>
 <p>The city licensed <b>%s</b> to <b>%s</b> on <b>%s</b> — %s years ago. The Market's
  own roster says the business has sold here since %s. In May 2024 he put it at
  eighteen years. Three sources, two dates, one stall.</p>
@@ -174,7 +175,7 @@ def home() -> str:
  <a class="btn" href="https://isellpictures.com/">isellpictures.com</a></p>
 """ % (E(d["pda_name"] or "Isellpictures.com"), E(d["pda_blurb"] or ""),
        E(d["trade_name"]), E(d["licence_name"]),
-       E(_pretty(d["licence_start"])), d["licence_years"], d["pda_says_since"]))
+       E(_pretty(d["licence_start"])), int(d["licence_years"]), d["pda_says_since"]))
 
     doors = plate("""
 <h2 class="kick">Every door</h2>
