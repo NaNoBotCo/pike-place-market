@@ -1,5 +1,5 @@
 {
- "built": "2026-09-20",
+ "built": "2026-09-23",
  "fence": {
   "acres": 12.827,
   "m2": 51908.6,
@@ -319,7 +319,7 @@
    {
     "name": "THE ART STALL GALLERY",
     "start": "19650219",
-    "years": 61.58,
+    "years": 61.59,
     "trade": "Art Dealers",
     "address": "97 PIKE ST",
     "building": null
@@ -327,7 +327,7 @@
    {
     "name": "ATHENIAN INN",
     "start": "19660906",
-    "years": 60.04,
+    "years": 60.05,
     "trade": "Limited-Service Restaurants",
     "address": "1517 PIKE PL",
     "building": "main-arcade"
@@ -343,7 +343,7 @@
    {
     "name": "DE LAURENTI ITALIAN & INTL FOODS INC",
     "start": "19730401",
-    "years": 53.47,
+    "years": 53.48,
     "trade": "Supermarkets and Other Grocery Retailers (except Convenience Retailers)",
     "address": "1435 1ST AVE",
     "building": null
@@ -359,7 +359,7 @@
    {
     "name": "PIKE & WESTERN CO",
     "start": "19750716",
-    "years": 51.18,
+    "years": 51.19,
     "trade": "Beer, Wine, and Liquor Retailers",
     "address": "1934 PIKE PL",
     "building": "pike-virginia-building"
@@ -375,7 +375,7 @@
    {
     "name": "ARTAS USUWIL",
     "start": "19771106",
-    "years": 48.87,
+    "years": 48.88,
     "trade": "All Other Miscellaneous Retailers",
     "address": "85 PIKE ST",
     "building": null
@@ -383,7 +383,7 @@
    {
     "name": "PIKE PLACE FISH MARKET INC",
     "start": "19780601",
-    "years": 48.3,
+    "years": 48.31,
     "trade": "Fish and Seafood Retailers",
     "address": "86 PIKE ST",
     "building": "corner-market"
@@ -391,7 +391,7 @@
    {
     "name": "MATHERS JACK S",
     "start": "19790806",
-    "years": 47.12,
+    "years": 47.13,
     "trade": "Fish and Seafood Merchant Wholesalers",
     "address": "1514 PIKE PL # 2",
     "building": "sanitary-public-market"
@@ -399,7 +399,7 @@
    {
     "name": "HOUSE OF JADE",
     "start": "19800101",
-    "years": 46.72,
+    "years": 46.73,
     "trade": "All Other Miscellaneous Retailers",
     "address": "1501 PIKE PL # 433",
     "building": "main-arcade"
@@ -407,7 +407,7 @@
    {
     "name": "PIKE PL MARKET CREAMERY",
     "start": "19800401",
-    "years": 46.47,
+    "years": 46.48,
     "trade": "All Other Specialty Food Retailers",
     "address": "1514 PIKE PL # 3",
     "building": "sanitary-public-market"
@@ -415,7 +415,7 @@
    {
     "name": "TOTEM SMOKEHOUSE INC",
     "start": "19801015",
-    "years": 45.93,
+    "years": 45.94,
     "trade": "Supermarkets and Other Grocery Retailers (except Convenience Retailers)",
     "address": "1906 PIKE PL",
     "building": "stewart-house"
@@ -423,7 +423,7 @@
    {
     "name": "NATURES CORNER",
     "start": "19810711",
-    "years": 45.19,
+    "years": 45.2,
     "trade": "All Other Miscellaneous Retailers",
     "address": "85 PIKE ST",
     "building": null
@@ -431,7 +431,7 @@
    {
     "name": "MARKET COINS",
     "start": "19810901",
-    "years": 45.05,
+    "years": 45.06,
     "trade": "All Other Miscellaneous Retailers",
     "address": "1501 PIKE PL # 422",
     "building": "main-arcade"
@@ -439,7 +439,7 @@
    {
     "name": "RUBYS SEATTLE GIFT GALLERY",
     "start": "19810904",
-    "years": 45.04,
+    "years": 45.05,
     "trade": "Gift, Novelty, and Souvenir Retailers",
     "address": "1501 PIKE PL # 505",
     "building": "main-arcade"
@@ -1451,7 +1451,7 @@
   "licence_name": "FLEMING DANIEL T",
   "trade_name": "FODOUGHGRAFIKS",
   "licence_start": "20060310",
-  "licence_years": 20.53,
+  "licence_years": 20.54,
   "licence_address": "85 PIKE ST # 125",
   "licence_trade": "All Other Professional, Scientific, and Technical Services",
   "building": null,
