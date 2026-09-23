@@ -91,7 +91,7 @@ def head(title: str, desc: str, depth: int, canon: str, extra: str = "",
                   % (r, E(h), ' class="on"' if canon == h else "", E(t))
                   for h, t in NAV)
     return """<!doctype html>
-<html lang="en" class="%s">
+<html lang="en" class="%s" translate="no">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>%s</title>
@@ -103,9 +103,12 @@ def head(title: str, desc: str, depth: int, canon: str, extra: str = "",
 <meta name="theme-color" content="#14100d">
 <link rel="stylesheet" href="%ssite.css">
 %s
+<meta name="google" content="notranslate">
+<meta name="robots" content="notranslate">
+<script>if(/[.]translate[.]goog$/.test(location.hostname))location.replace("https://"+location.hostname.slice(0,-15).replace(/--/g,"~").replace(/-/g,".").replace(/~/g,"-")+location.pathname+location.search.replace(/([?&])_x_tr_[^&]*/g,"$1").replace(/[?&]+$/,"").replace(/[?]&+/,"?")+location.hash)</script>
 <a class="skip" href="#main">Skip to the page</a>
 <header class="top"><nav class="bar">%s</nav></header>
-""" % (E(cls), E(title), E(desc), SITE, E(canon), E(title), E(desc), r, extra, nav)
+""" % (E((cls + " notranslate").strip()), E(title), E(desc), SITE, E(canon), E(title), E(desc), r, extra, nav)
 
 
 def foot(depth: int, keys: list = None) -> str:

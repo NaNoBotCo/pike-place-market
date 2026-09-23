@@ -1,5 +1,5 @@
 {
- "built": "2026-09-20",
+ "built": "2026-09-23",
  "licences": [
   {
    "account": "0000046700006876",
@@ -23,7 +23,7 @@
    "building_how": null,
    "place_kind": "address",
    "place": "97-pike-st",
-   "years": 61.58,
+   "years": 61.59,
    "sector": "Retail"
   },
   {
@@ -48,7 +48,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 60.04,
+   "years": 60.05,
    "sector": "Food and lodging"
   },
   {
@@ -98,7 +98,7 @@
    "building_how": null,
    "place_kind": "address",
    "place": "1435-1st-ave",
-   "years": 53.47,
+   "years": 53.48,
    "sector": "Retail"
   },
   {
@@ -148,7 +148,7 @@
    "building_how": "within",
    "place": "pike-virginia-building",
    "place_kind": "building",
-   "years": 51.18,
+   "years": 51.19,
    "sector": "Retail"
   },
   {
@@ -198,7 +198,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "85-pike-st",
-   "years": 48.87,
+   "years": 48.88,
    "sector": "Retail"
   },
   {
@@ -223,7 +223,7 @@
    "building_how": "within",
    "place": "corner-market",
    "place_kind": "building",
-   "years": 48.3,
+   "years": 48.31,
    "sector": "Retail"
   },
   {
@@ -248,7 +248,7 @@
    "building_how": "within",
    "place": "sanitary-public-market",
    "place_kind": "building",
-   "years": 47.12,
+   "years": 47.13,
    "sector": "Wholesale"
   },
   {
@@ -273,7 +273,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 46.72,
+   "years": 46.73,
    "sector": "Retail"
   },
   {
@@ -298,7 +298,7 @@
    "building_how": "within",
    "place": "sanitary-public-market",
    "place_kind": "building",
-   "years": 46.47,
+   "years": 46.48,
    "sector": "Retail"
   },
   {
@@ -323,7 +323,7 @@
    "building_how": "within",
    "place": "stewart-house",
    "place_kind": "building",
-   "years": 45.93,
+   "years": 45.94,
    "sector": "Retail"
   },
   {
@@ -348,7 +348,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "85-pike-st",
-   "years": 45.19,
+   "years": 45.2,
    "sector": "Retail"
   },
   {
@@ -373,7 +373,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 45.05,
+   "years": 45.06,
    "sector": "Retail"
   },
   {
@@ -398,7 +398,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 45.04,
+   "years": 45.05,
    "sector": "Retail"
   },
   {
@@ -423,7 +423,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "85-pike-st",
-   "years": 44.97,
+   "years": 44.98,
    "sector": "Retail"
   },
   {
@@ -448,7 +448,7 @@
    "building_how": "within",
    "place": "alaska-trade-building",
    "place_kind": "building",
-   "years": 44.72,
+   "years": 44.73,
    "sector": "Professional services"
   },
   {
@@ -498,7 +498,7 @@
    "building_how": "within",
    "place": "corner-market",
    "place_kind": "building",
-   "years": 44.22,
+   "years": 44.23,
    "sector": "Retail"
   },
   {
@@ -523,7 +523,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 43.97,
+   "years": 43.98,
    "sector": "Health and care"
   },
   {
@@ -548,7 +548,7 @@
    "building_how": "within",
    "place": "stewart-house",
    "place_kind": "building",
-   "years": 43.23,
+   "years": 43.24,
    "sector": "Making"
   },
   {
@@ -573,7 +573,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 42.72,
+   "years": 42.73,
    "sector": "Food and lodging"
   },
   {
@@ -598,7 +598,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 42.72,
+   "years": 42.73,
    "sector": "Retail"
   },
   {
@@ -648,7 +648,7 @@
    "building_how": "within",
    "place": "stewart-house",
    "place_kind": "building",
-   "years": 42.64,
+   "years": 42.65,
    "sector": "Retail"
   },
   {
@@ -673,7 +673,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "1919-post-alley",
-   "years": 42.47,
+   "years": 42.48,
    "sector": "Food and lodging"
   },
   {
@@ -723,7 +723,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 41.72,
+   "years": 41.73,
    "sector": "Retail"
   },
   {
@@ -748,7 +748,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "1916-pike-pl",
-   "years": 41.72,
+   "years": 41.73,
    "sector": "Retail"
   },
   {
@@ -773,7 +773,7 @@
    "building_how": "within",
    "place": "sanitary-public-market",
    "place_kind": "building",
-   "years": 41.46,
+   "years": 41.47,
    "sector": "Retail"
   },
   {
@@ -798,7 +798,7 @@
    "building_how": "within",
    "place": "inn-at-the-market-building",
    "place_kind": "building",
-   "years": 41.28,
+   "years": 41.29,
    "sector": "Food and lodging"
   },
   {
@@ -823,7 +823,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "85-pike-st",
-   "years": 41.22,
+   "years": 41.23,
    "sector": "Retail"
   },
   {
@@ -848,7 +848,7 @@
    "building_how": "within",
    "place": "pike-virginia-building",
    "place_kind": "building",
-   "years": 40.58,
+   "years": 40.59,
    "sector": "Making"
   },
   {
@@ -898,7 +898,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 38.97,
+   "years": 38.98,
    "sector": "Public bodies"
   },
   {
@@ -923,7 +923,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 38.37,
+   "years": 38.38,
    "sector": "Retail"
   },
   {
@@ -948,7 +948,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "1916-post-alley",
-   "years": 38.3,
+   "years": 38.31,
    "sector": "Food and lodging"
   },
   {
@@ -998,7 +998,7 @@
    "building_how": null,
    "place_kind": "address",
    "place": "93-pike-st",
-   "years": 38.22,
+   "years": 38.23,
    "sector": "Retail"
   },
   {
@@ -1048,7 +1048,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 37.72,
+   "years": 37.73,
    "sector": "Retail"
   },
   {
@@ -1073,7 +1073,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "1912-pike-pl",
-   "years": 37.72,
+   "years": 37.73,
    "sector": "Food and lodging"
   },
   {
@@ -1123,7 +1123,7 @@
    "building_how": "within",
    "place": "triangle-building",
    "place_kind": "building",
-   "years": 36.39,
+   "years": 36.4,
    "sector": "Making"
   },
   {
@@ -1148,7 +1148,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 36.22,
+   "years": 36.23,
    "sector": "Food and lodging"
   },
   {
@@ -1173,7 +1173,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 32.72,
+   "years": 32.73,
    "sector": "Retail"
   },
   {
@@ -1198,7 +1198,7 @@
    "building_how": "within",
    "place": "corner-market",
    "place_kind": "building",
-   "years": 32.69,
+   "years": 32.7,
    "sector": "Retail"
   },
   {
@@ -1223,7 +1223,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "1918-pike-pl",
-   "years": 32.44,
+   "years": 32.45,
    "sector": "Food and lodging"
   },
   {
@@ -1248,7 +1248,7 @@
    "building_how": null,
    "place_kind": "address",
    "place": "93-pike-st",
-   "years": 32.14,
+   "years": 32.15,
    "sector": "Retail"
   },
   {
@@ -1273,7 +1273,7 @@
    "building_how": null,
    "place_kind": "address",
    "place": "93-pike-st",
-   "years": 31.8,
+   "years": 31.81,
    "sector": "Food and lodging"
   },
   {
@@ -1298,7 +1298,7 @@
    "building_how": null,
    "place_kind": "address",
    "place": "97-pike-st",
-   "years": 31.72,
+   "years": 31.73,
    "sector": "Making"
   },
   {
@@ -1323,7 +1323,7 @@
    "building_how": "within",
    "place": "first-pine-building",
    "place_kind": "building",
-   "years": 31.71,
+   "years": 31.72,
    "sector": "Professional services"
   },
   {
@@ -1348,7 +1348,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 31.47,
+   "years": 31.48,
    "sector": "Retail"
   },
   {
@@ -1373,7 +1373,7 @@
    "building_how": "within",
    "place": "inn-at-the-market-building",
    "place_kind": "building",
-   "years": 31.05,
+   "years": 31.06,
    "sector": "Wholesale"
   },
   {
@@ -1398,7 +1398,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 30.47,
+   "years": 30.48,
    "sector": "Food and lodging"
   },
   {
@@ -1448,7 +1448,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "1916-pike-pl",
-   "years": 29.97,
+   "years": 29.98,
    "sector": "Making"
   },
   {
@@ -1473,7 +1473,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 29.95,
+   "years": 29.96,
    "sector": "Retail"
   },
   {
@@ -1498,7 +1498,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "81-pike-st",
-   "years": 29.1,
+   "years": 29.11,
    "sector": "Food and lodging"
   },
   {
@@ -1523,7 +1523,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "85-pike-st",
-   "years": 29.05,
+   "years": 29.06,
    "sector": "Wholesale"
   },
   {
@@ -1548,7 +1548,7 @@
    "building_how": null,
    "place_kind": "address",
    "place": "93-pike-st",
-   "years": 28.85,
+   "years": 28.86,
    "sector": "Teaching"
   },
   {
@@ -1573,7 +1573,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 28.72,
+   "years": 28.73,
    "sector": "Retail"
   },
   {
@@ -1623,7 +1623,7 @@
    "building_how": "within",
    "place": "corner-market",
    "place_kind": "building",
-   "years": 27.72,
+   "years": 27.73,
    "sector": "Retail"
   },
   {
@@ -1648,7 +1648,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "1927-1st-ave",
-   "years": 27.72,
+   "years": 27.73,
    "sector": "Retail"
   },
   {
@@ -1673,7 +1673,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 27.56,
+   "years": 27.57,
    "sector": "Retail"
   },
   {
@@ -1698,7 +1698,7 @@
    "building_how": null,
    "place_kind": "address",
    "place": "93-pike-st",
-   "years": 27.14,
+   "years": 27.15,
    "sector": "Health and care"
   },
   {
@@ -1723,7 +1723,7 @@
    "building_how": "within",
    "place": "sanitary-public-market",
    "place_kind": "building",
-   "years": 27.14,
+   "years": 27.15,
    "sector": "Publishing and broadcast"
   },
   {
@@ -1748,7 +1748,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "1916-pike-pl",
-   "years": 26.47,
+   "years": 26.48,
    "sector": "Professional services"
   },
   {
@@ -1773,7 +1773,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 26.03,
+   "years": 26.04,
    "sector": "Retail"
   },
   {
@@ -1798,7 +1798,7 @@
    "building_how": "within",
    "place": "inn-at-the-market-building",
    "place_kind": "building",
-   "years": 25.83,
+   "years": 25.84,
    "sector": "Food and lodging"
   },
   {
@@ -1848,7 +1848,7 @@
    "building_how": "within",
    "place": "corner-market",
    "place_kind": "building",
-   "years": 25.36,
+   "years": 25.37,
    "sector": "Making"
   },
   {
@@ -1873,7 +1873,7 @@
    "building_how": "within",
    "place": "stewart-house",
    "place_kind": "building",
-   "years": 25.05,
+   "years": 25.06,
    "sector": "Retail"
   },
   {
@@ -1948,7 +1948,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "85-pike-st",
-   "years": 24.65,
+   "years": 24.66,
    "sector": "Retail"
   },
   {
@@ -1973,7 +1973,7 @@
    "building_how": "within",
    "place": "corner-market",
    "place_kind": "building",
-   "years": 24.27,
+   "years": 24.28,
    "sector": "Retail"
   },
   {
@@ -1998,7 +1998,7 @@
    "building_how": "within",
    "place": "inn-at-the-market-building",
    "place_kind": "building",
-   "years": 24.22,
+   "years": 24.23,
    "sector": "Other services"
   },
   {
@@ -2023,7 +2023,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "1924-post-alley",
-   "years": 23.88,
+   "years": 23.89,
    "sector": "Food and lodging"
   },
   {
@@ -2048,7 +2048,7 @@
    "building_how": "within",
    "place": "inn-at-the-market-building",
    "place_kind": "building",
-   "years": 23.8,
+   "years": 23.81,
    "sector": "Other services"
   },
   {
@@ -2073,7 +2073,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 23.72,
+   "years": 23.73,
    "sector": "Retail"
   },
   {
@@ -2148,7 +2148,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 23.22,
+   "years": 23.23,
    "sector": "Making"
   },
   {
@@ -2173,7 +2173,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 22.92,
+   "years": 22.93,
    "sector": "Wholesale"
   },
   {
@@ -2198,7 +2198,7 @@
    "building_how": "within",
    "place": "garden-center-building",
    "place_kind": "building",
-   "years": 22.84,
+   "years": 22.85,
    "sector": "Retail"
   },
   {
@@ -2223,7 +2223,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 22.72,
+   "years": 22.73,
    "sector": "Retail"
   },
   {
@@ -2248,7 +2248,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 21.63,
+   "years": 21.64,
    "sector": "Retail"
   },
   {
@@ -2273,7 +2273,7 @@
    "building_how": null,
    "place_kind": "address",
    "place": "1429-1st-ave",
-   "years": 21.47,
+   "years": 21.48,
    "sector": "Food and lodging"
   },
   {
@@ -2298,7 +2298,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 21.21,
+   "years": 21.22,
    "sector": "Retail"
   },
   {
@@ -2323,7 +2323,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "85-pike-st",
-   "years": 20.97,
+   "years": 20.98,
    "sector": "Other services"
   },
   {
@@ -2348,7 +2348,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "85-pike-st",
-   "years": 20.94,
+   "years": 20.95,
    "sector": "Retail"
   },
   {
@@ -2373,7 +2373,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "1916-pike-pl",
-   "years": 20.85,
+   "years": 20.86,
    "sector": "Admin and support"
   },
   {
@@ -2398,7 +2398,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 20.72,
+   "years": 20.73,
    "sector": "Retail"
   },
   {
@@ -2423,7 +2423,7 @@
    "building_how": "within",
    "place": "stewart-house",
    "place_kind": "building",
-   "years": 20.72,
+   "years": 20.73,
    "sector": "Other services"
   },
   {
@@ -2448,7 +2448,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 20.72,
+   "years": 20.73,
    "sector": "Professional services"
   },
   {
@@ -2473,7 +2473,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "1916-pike-pl",
-   "years": 20.56,
+   "years": 20.57,
    "sector": "Other services"
   },
   {
@@ -2548,7 +2548,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "85-pike-st",
-   "years": 20.53,
+   "years": 20.54,
    "sector": "Professional services"
   },
   {
@@ -2573,7 +2573,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 20.47,
+   "years": 20.48,
    "sector": "Other services"
   },
   {
@@ -2598,7 +2598,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 20.29,
+   "years": 20.3,
    "sector": "Retail"
   },
   {
@@ -2623,7 +2623,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 19.85,
+   "years": 19.86,
    "sector": "Food and lodging"
   },
   {
@@ -2648,7 +2648,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 19.72,
+   "years": 19.73,
    "sector": "Retail"
   },
   {
@@ -2673,7 +2673,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "81-pike-st",
-   "years": 19.47,
+   "years": 19.48,
    "sector": "Food and lodging"
   },
   {
@@ -2698,7 +2698,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "85-pike-st",
-   "years": 19.33,
+   "years": 19.34,
    "sector": "Retail"
   },
   {
@@ -2723,7 +2723,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "85-pike-st",
-   "years": 19.3,
+   "years": 19.31,
    "sector": "Food and lodging"
   },
   {
@@ -2748,7 +2748,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 18.97,
+   "years": 18.98,
    "sector": "Retail"
   },
   {
@@ -2773,7 +2773,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "1916-pike-pl",
-   "years": 18.22,
+   "years": 18.23,
    "sector": "Food and lodging"
   },
   {
@@ -2823,7 +2823,7 @@
    "building_how": "within",
    "place": "sanitary-public-market",
    "place_kind": "building",
-   "years": 17.97,
+   "years": 17.98,
    "sector": "Health and care"
   },
   {
@@ -2848,7 +2848,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "85-pike-st",
-   "years": 17.76,
+   "years": 17.77,
    "sector": "Retail"
   },
   {
@@ -2873,7 +2873,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "1908-post-alley",
-   "years": 17.7,
+   "years": 17.71,
    "sector": "Food and lodging"
   },
   {
@@ -2898,7 +2898,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "85-pike-st",
-   "years": 17.47,
+   "years": 17.48,
    "sector": "Retail"
   },
   {
@@ -2923,7 +2923,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "1916-pike-pl",
-   "years": 17.24,
+   "years": 17.25,
    "sector": "Property and rental"
   },
   {
@@ -2973,7 +2973,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "1916-pike-pl",
-   "years": 16.97,
+   "years": 16.98,
    "sector": "Professional services"
   },
   {
@@ -3048,7 +3048,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 16.47,
+   "years": 16.48,
    "sector": "Retail"
   },
   {
@@ -3073,7 +3073,7 @@
    "building_how": "within",
    "place": "pike-place-market-parking",
    "place_kind": "building",
-   "years": 15.43,
+   "years": 15.44,
    "sector": "Farming"
   },
   {
@@ -3098,7 +3098,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 15.21,
+   "years": 15.22,
    "sector": "Professional services"
   },
   {
@@ -3123,7 +3123,7 @@
    "building_how": "within",
    "place": "marketfront",
    "place_kind": "building",
-   "years": 14.63,
+   "years": 14.64,
    "sector": "Making"
   },
   {
@@ -3148,7 +3148,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "1925-1st-ave",
-   "years": 14.43,
+   "years": 14.44,
    "sector": "Making"
   },
   {
@@ -3173,7 +3173,7 @@
    "building_how": "within",
    "place": "corner-market",
    "place_kind": "building",
-   "years": 14.35,
+   "years": 14.36,
    "sector": "Food and lodging"
   },
   {
@@ -3248,7 +3248,7 @@
    "building_how": null,
    "place_kind": "address",
    "place": "93-pike-st",
-   "years": 13.07,
+   "years": 13.08,
    "sector": "Food and lodging"
   },
   {
@@ -3273,7 +3273,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 12.72,
+   "years": 12.73,
    "sector": "Making"
   },
   {
@@ -3298,7 +3298,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 11.72,
+   "years": 11.73,
    "sector": "Making"
   },
   {
@@ -3323,7 +3323,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 11.1,
+   "years": 11.11,
    "sector": "Farming"
   },
   {
@@ -3373,7 +3373,7 @@
    "building_how": "within",
    "place": "inn-at-the-market-building",
    "place_kind": "building",
-   "years": 9.46,
+   "years": 9.47,
    "sector": "Retail"
   },
   {
@@ -3398,7 +3398,7 @@
    "building_how": "within",
    "place": "corner-market",
    "place_kind": "building",
-   "years": 8.72,
+   "years": 8.73,
    "sector": "Retail"
   },
   {
@@ -3423,7 +3423,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 8.72,
+   "years": 8.73,
    "sector": "Retail"
   },
   {
@@ -3448,7 +3448,7 @@
    "building_how": "within",
    "place": "triangle-building",
    "place_kind": "building",
-   "years": 8.72,
+   "years": 8.73,
    "sector": "Food and lodging"
   },
   {
@@ -3473,7 +3473,7 @@
    "building_how": "within",
    "place": "first-pine-building",
    "place_kind": "building",
-   "years": 8.63,
+   "years": 8.64,
    "sector": "Food and lodging"
   },
   {
@@ -3498,7 +3498,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "85-pike-st",
-   "years": 8.01,
+   "years": 8.02,
    "sector": "Wholesale"
   },
   {
@@ -3548,7 +3548,7 @@
    "building_how": "within",
    "place": "inn-at-the-market-building",
    "place_kind": "building",
-   "years": 7.39,
+   "years": 7.4,
    "sector": "Other services"
   },
   {
@@ -3573,7 +3573,7 @@
    "building_how": "within",
    "place": "stewart-house",
    "place_kind": "building",
-   "years": 7.25,
+   "years": 7.26,
    "sector": "Wholesale"
   },
   {
@@ -3623,7 +3623,7 @@
    "building_how": null,
    "place_kind": "address",
    "place": "93-pike-st",
-   "years": 5.5,
+   "years": 5.51,
    "sector": "Food and lodging"
   },
   {
@@ -3698,7 +3698,7 @@
    "building_how": "within",
    "place": "inn-at-the-market-building",
    "place_kind": "building",
-   "years": 4.12,
+   "years": 4.13,
    "sector": "Food and lodging"
   },
   {
@@ -3723,7 +3723,7 @@
    "building_how": "within",
    "place": "main-arcade",
    "place_kind": "building",
-   "years": 3.63,
+   "years": 3.64,
    "sector": "Retail"
   },
   {
@@ -3773,7 +3773,7 @@
    "building_how": null,
    "place_kind": "address",
    "place": "1427-1st-ave",
-   "years": 2.47,
+   "years": 2.48,
    "sector": "Retail"
   },
   {
@@ -3798,7 +3798,7 @@
    "building_how": "within",
    "place": "fairmount-apartments",
    "place_kind": "building",
-   "years": 0.72,
+   "years": 0.73,
    "sector": "Retail"
   },
   {
@@ -3823,7 +3823,7 @@
    "building_how": "nearest",
    "place_kind": "address",
    "place": "85-pike-st",
-   "years": 0.47,
+   "years": 0.48,
    "sector": "Retail"
   }
  ],
@@ -3846,7 +3846,7 @@
    "maf": "1418 WESTERN AVE",
    "inside": false,
    "edge_m": 11.7,
-   "years": 30.97
+   "years": 30.98
   },
   {
    "account": "0005396950543166",
@@ -3906,7 +3906,7 @@
    "maf": "1507 WESTERN AVE",
    "inside": false,
    "edge_m": 14.9,
-   "years": 19.01
+   "years": 19.02
   },
   {
    "account": "0000509430059183",
@@ -3926,7 +3926,7 @@
    "maf": "1932 1ST AVE",
    "inside": false,
    "edge_m": 19.3,
-   "years": 41.14
+   "years": 41.15
   },
   {
    "account": "0001895850192174",
@@ -3966,7 +3966,7 @@
    "maf": "1932 1ST AVE",
    "inside": false,
    "edge_m": 19.3,
-   "years": 27.56
+   "years": 27.57
   },
   {
    "account": "0005330840536132",
@@ -3986,7 +3986,7 @@
    "maf": "1932 1ST AVE",
    "inside": false,
    "edge_m": 19.3,
-   "years": 26.72
+   "years": 26.73
   },
   {
    "account": "0005502030554450",
@@ -4006,7 +4006,7 @@
    "maf": "1932 1ST AVE",
    "inside": false,
    "edge_m": 19.3,
-   "years": 25.47
+   "years": 25.48
   },
   {
    "account": "0005497650553973",
@@ -4026,7 +4026,7 @@
    "maf": "1932 1ST AVE",
    "inside": false,
    "edge_m": 19.3,
-   "years": 24.72
+   "years": 24.73
   },
   {
    "account": "0007244520633463",
@@ -4046,7 +4046,7 @@
    "maf": "1936 1ST AVE",
    "inside": false,
    "edge_m": 19.3,
-   "years": 16.72
+   "years": 16.73
   },
   {
    "account": "0007579330669040",
@@ -4066,7 +4066,7 @@
    "maf": "113 VIRGINIA ST",
    "inside": false,
    "edge_m": 19.3,
-   "years": 13.22
+   "years": 13.23
   },
   {
    "account": "0007858300698192",
@@ -4086,7 +4086,7 @@
    "maf": "1932 1ST AVE",
    "inside": false,
    "edge_m": 19.3,
-   "years": 11.3
+   "years": 11.31
   },
   {
    "account": "0005661060750162",
@@ -4106,7 +4106,7 @@
    "maf": "1430 1ST AVE",
    "inside": false,
    "edge_m": 28.2,
-   "years": 7.39
+   "years": 7.4
   },
   {
    "account": "0005545210559058",
@@ -4146,7 +4146,7 @@
    "maf": "1505 WESTERN AVE",
    "inside": false,
    "edge_m": 28.4,
-   "years": 20.72
+   "years": 20.73
   },
   {
    "account": "0007552260666184",
@@ -4166,7 +4166,7 @@
    "maf": "1501 WESTERN AVE",
    "inside": false,
    "edge_m": 28.4,
-   "years": 18.04
+   "years": 18.05
   },
   {
    "account": "0007944120707137",
@@ -4186,7 +4186,7 @@
    "maf": "1501 WESTERN AVE",
    "inside": false,
    "edge_m": 28.4,
-   "years": 10.72
+   "years": 10.73
   },
   {
    "account": "0001572900159427",
@@ -4206,7 +4206,7 @@
    "maf": "111 PINE ST",
    "inside": false,
    "edge_m": 29.7,
-   "years": 37.39
+   "years": 37.4
   },
   {
    "account": "0005098710510712",
@@ -4226,7 +4226,7 @@
    "maf": "107 PINE ST",
    "inside": false,
    "edge_m": 29.7,
-   "years": 28.95
+   "years": 28.96
   },
   {
    "account": "0007825790694821",
@@ -4246,7 +4246,7 @@
    "maf": "101 PINE ST",
    "inside": false,
    "edge_m": 29.7,
-   "years": 12.75
+   "years": 12.76
   },
   {
    "account": "0007586790669858",
@@ -4286,7 +4286,7 @@
    "maf": "101 STEWART ST",
    "inside": false,
    "edge_m": 30.0,
-   "years": 4.72
+   "years": 4.73
   },
   {
    "account": "0008798270800584",
@@ -4306,7 +4306,7 @@
    "maf": "101 STEWART ST",
    "inside": false,
    "edge_m": 30.0,
-   "years": 3.63
+   "years": 3.64
   },
   {
    "account": "0008617510777659",
@@ -4326,7 +4326,7 @@
    "maf": "1900 1ST AVE",
    "inside": false,
    "edge_m": 31.1,
-   "years": 4.28
+   "years": 4.29
   },
   {
    "account": "0001026960103426",
@@ -4346,7 +4346,7 @@
    "maf": "1510 1ST AVE",
    "inside": false,
    "edge_m": 32.5,
-   "years": 33.53
+   "years": 33.54
   },
   {
    "account": "0001920950194728",
@@ -4366,7 +4366,7 @@
    "maf": "105 PIKE ST",
    "inside": false,
    "edge_m": 32.5,
-   "years": 30.22
+   "years": 30.23
   },
   {
    "account": "0005066120507286",
@@ -4406,7 +4406,7 @@
    "maf": "103 PIKE ST",
    "inside": false,
    "edge_m": 32.5,
-   "years": 24.72
+   "years": 24.73
   },
   {
    "account": "0007224160631309",
@@ -4446,7 +4446,7 @@
    "maf": "1510 1ST AVE",
    "inside": false,
    "edge_m": 32.5,
-   "years": 11.26
+   "years": 11.27
   },
   {
    "account": "0008944560812248",
@@ -4486,7 +4486,7 @@
    "maf": "110 PIKE ST",
    "inside": false,
    "edge_m": 32.8,
-   "years": 28.97
+   "years": 28.98
   },
   {
    "account": "0001054440623004",
@@ -4506,7 +4506,7 @@
    "maf": "102 PIKE ST",
    "inside": false,
    "edge_m": 32.8,
-   "years": 17.62
+   "years": 17.63
   },
   {
    "account": "0005452570611497",
@@ -4526,7 +4526,7 @@
    "maf": "1426 1ST AVE",
    "inside": false,
    "edge_m": 33.3,
-   "years": 18.72
+   "years": 18.73
   },
   {
    "account": "0007365410646415",
@@ -4546,7 +4546,7 @@
    "maf": "1407 1ST AVE",
    "inside": false,
    "edge_m": 35.9,
-   "years": 16.22
+   "years": 16.23
   },
   {
    "account": "0005660860784637",
@@ -4586,7 +4586,7 @@
    "maf": "1415 WESTERN AVE",
    "inside": false,
    "edge_m": 41.1,
-   "years": 30.72
+   "years": 30.73
   },
   {
    "account": "0008372000751786",
@@ -4606,7 +4606,7 @@
    "maf": "1415 WESTERN AVE",
    "inside": false,
    "edge_m": 41.1,
-   "years": 7.3
+   "years": 7.31
   },
   {
    "account": "0008575710773270",
@@ -4626,7 +4626,7 @@
    "maf": "1415 WESTERN AVE",
    "inside": false,
    "edge_m": 41.1,
-   "years": 4.88
+   "years": 4.89
   }
  ],
  "vendors": [
