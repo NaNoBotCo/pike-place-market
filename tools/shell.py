@@ -22,6 +22,8 @@ from common import DATA, jload   # noqa: E402
 SITE = "https://nanobotco.github.io/pike-place-market/"
 NAME = "Pike Place Market"
 TAG = "the twelve acres, counted"
+CARD = SITE + "images/card.jpg"
+CARD_ALT = "The red neon Public Market Center sign and clock at Pike Place Market, Seattle"
 
 IMG = jload(DATA / "images" / "index.json") or {"images": {}}
 IMAGES = IMG.get("images", {})
@@ -100,6 +102,15 @@ def head(title: str, desc: str, depth: int, canon: str, extra: str = "",
 <meta property="og:title" content="%s">
 <meta property="og:description" content="%s">
 <meta property="og:type" content="website">
+<meta property="og:site_name" content="%s">
+<meta property="og:url" content="%s%s">
+<meta property="og:image" content="%s">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="%s">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="%s">
 <meta name="theme-color" content="#14100d">
 <link rel="stylesheet" href="%ssite.css">
 %s
@@ -108,7 +119,7 @@ def head(title: str, desc: str, depth: int, canon: str, extra: str = "",
 <script>if(/[.]translate[.]goog$/.test(location.hostname))location.replace("https://"+location.hostname.slice(0,-15).replace(/--/g,"~").replace(/-/g,".").replace(/~/g,"-")+location.pathname+location.search.replace(/([?&])_x_tr_[^&]*/g,"$1").replace(/[?&]+$/,"").replace(/[?]&+/,"?")+location.hash)</script>
 <a class="skip" href="#main">Skip to the page</a>
 <header class="top"><nav class="bar">%s</nav></header>
-""" % (E((cls + " notranslate").strip()), E(title), E(desc), SITE, E(canon), E(title), E(desc), r, extra, nav)
+""" % (E((cls + " notranslate").strip()), E(title), E(desc), SITE, E(canon), E(title), E(desc), E(NAME), SITE, E(canon), E(CARD), E(CARD_ALT), E(CARD), r, extra, nav)
 
 
 def foot(depth: int, keys: list = None) -> str:
