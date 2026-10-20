@@ -105,6 +105,9 @@ figures CC BY 4.0.
         + pages.foot(0), encoding="utf-8")
     (DOCS / ".nojekyll").write_text("", encoding="utf-8")
 
+    import card                                                  # noqa: E402
+    card.page_cards(pages.CARDS)
+
     html = len(list(DOCS.rglob("*.html")))
     mb = sum(p.stat().st_size for p in DOCS.rglob("*") if p.is_file()) / 1e6
     print("build  %d pages — %d places · %d trades · %d categories · %d vendors"

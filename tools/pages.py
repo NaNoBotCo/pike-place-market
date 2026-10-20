@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import collections
 import datetime as dt
+from html import unescape
 import re
 import sys
 from pathlib import Path
@@ -15,7 +16,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import viz                                                       # noqa: E402
 from common import DATA, DOCS, HARVEST, jload, slugify, today    # noqa: E402
-from shell import (CSS, E, MAP_JS, NAME, SCENE_JS, SITE, backdrop,   # noqa: E402
+from shell import (CARD, CARD_ALT, CSS, E, MAP_JS, NAME, SCENE_JS, SITE, backdrop,   # noqa: E402
                    counters, foot, head, jsonld, plate, shot, table)
 
 A = jload(DATA / "analysis.json") or {}
@@ -39,7 +40,32 @@ def n(x) -> str:
         return str(x)
 
 
+# The section pages each serve their own link card, docs/images/cards/<section>.jpg, drawn by card.py
+# from the page's title and description beside one of the site's photographs (data/images/<key>.jpg).
+# Places, trades, categories and vendors keep the site card.
+CARD_PAGES = {
+    "map/index.html": ("map", "a window onto the Seattle waterfront"),
+    "directory/index.html": ("directory", "the Market's interior in 1976"),
+    "trades/index.html": ("now", "flower stalls in the Market arcade"),
+    "age/index.html": ("tenure", "a crowd and horse-drawn wagons at the Market in the early 1900s"),
+    "fence/index.html": ("near", "day stalls in the North Arcade"),
+    "daniel-fleming/index.html": ("daniel", "the Public Market sign at dusk over Elliott Bay"),
+    "sources/index.html": ("signage", "neon signs inside the Market at night"),
+    "api/index.html": ("arcade", "the Market arcade at night"),
+}
+CARDS = []
+
+
 def write(path: str, html: str) -> Path:
+    if path in CARD_PAGES:
+        key, what = CARD_PAGES[path]
+        slug = path.split("/")[0]
+        m = re.search(r'<meta property="og:title" content="([^"]*)"', html)
+        d = re.search(r'<meta property="og:description" content="([^"]*)"', html)
+        title = unescape(m.group(1)).split(" — ")[0] if m else slug
+        CARDS.append((slug, title, unescape(d.group(1)) if d else "", key))
+        html = (html.replace(E(CARD), "%simages/cards/%s.jpg" % (SITE, slug))
+                    .replace(E(CARD_ALT), E("Card: %s, %s, beside a photograph of %s" % (title, NAME, what))))
     p = DOCS / path
     p.parent.mkdir(parents=True, exist_ok=True)
     p.write_text(html, encoding="utf-8")
